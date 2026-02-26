@@ -284,7 +284,7 @@ def main():
     
     print(f"\nFound {len(states)} state precinct files")
     
-    for i, state_code in enumerate(sorted(states)[:5], 1):  # Start with first 5 states
+    for i, state_code in enumerate(sorted(states)[:7], 1):  # Start with first 5 states
         print(f"\n[{i}/{min(5, len(states))}] Processing {state_code}...")
         joined = spatial_join_state(state_code, districts)
         if joined is not None:
