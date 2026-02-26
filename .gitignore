@@ -1,0 +1,3 @@
+# Large data files - keep local only
+data/precincts-with-results.topojson
+data/precincts-with-results.topojson.gz
