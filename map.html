@@ -110,8 +110,6 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <!-- TopoJSON library -->
     <script src="https://unpkg.com/topojson@3"></script>
-    <!-- Pako for gzip decompression -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
 
     <script>
         // Initialize map centered on US
@@ -231,16 +229,24 @@
                 if (!response.ok) {
                     throw new Error('Failed to load TopoJSON');
                 }
-                return response.arrayBuffer();
+                return response.blob();
             })
-            .then(buffer => {
-                console.log('Downloaded, decompressing...');
+            .then(blob => {
+                console.log('Downloaded blob, decompressing...');
                 document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Decompressing data...</p>';
+                    '<div class="spinner"></div><p>Decompressing data (this may take 30-60 seconds)...</p>';
                 
-                // Decompress gzipped data
-                const decompressed = pako.inflate(new Uint8Array(buffer), { to: 'string' });
-                const topology = JSON.parse(decompressed);
+                // Use DecompressionStream API (modern browsers)
+                const ds = new DecompressionStream('gzip');
+                const decompressedStream = blob.stream().pipeThrough(ds);
+                return new Response(decompressedStream).text();
+            })
+            .then(jsonText => {
+                console.log('Parsing JSON...');
+                document.getElementById('loading').innerHTML = 
+                    '<div class="spinner"></div><p>Parsing topology data...</p>';
+                
+                const topology = JSON.parse(jsonText);
                 
                 console.log('Loaded TopoJSON');
                 document.getElementById('loading').innerHTML = 
@@ -281,9 +287,8 @@
             .catch(error => {
                 document.getElementById('loading').innerHTML = 
                     '<p style="color: red;">Error loading precinct boundaries: ' + error.message + 
-                    '<br/><br/><b>Note:</b> The precinct boundary file is 185MB compressed. ' +
-                    'GitHub Pages may have issues serving files this large. ' +
-                    'For best results, run locally with: <code>python3 -m http.server 8080</code></p>';
+                    '<br/><br/><b>Note:</b> This requires a modern browser with DecompressionStream support (Chrome 80+, Safari 16.4+, Firefox 102+). ' +
+                    'If you see "Invalid string length" error, your browser may not have enough memory for the 610MB uncompressed file.</p>';
                 console.error('Error:', error);
             });
     </script>
