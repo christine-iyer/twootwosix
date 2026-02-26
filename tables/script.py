@@ -104,8 +104,8 @@ def favicon():
     return '', 204
 
 if __name__ == '__main__':
-    print(f"Loaded {len(df_house)} House records")
-    print(f"Loaded {len(df_county_pres)} County Presidential records")
+    #print(f"Loaded {len(df_house)} House records")
+    #print(f"Loaded {len(df_county_pres)} County Presidential records")
     print(f"Loaded {len(df_precinct)} Precinct records")
     print("\nStarting server at http://127.0.0.1:5000")
     app.run(debug=True, port=5000)
