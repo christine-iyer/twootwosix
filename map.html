@@ -3,17 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2024 Precinct Map - US Election Data</title>
+    <title>2024 Precinct Data - US Election Data</title>
     
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css">
+    
+    <!-- Leaflet CSS (commented out) -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" /> -->
     
     <style>
         body {
             margin: 0;
-            padding: 0;
+            padding: 20px;
             font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
         }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 10px 15px;
+            background: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .back-link:hover {
+            background: #45a049;
+        }
+        /* Map styles (commented out) */
+        /*
         #map {
             height: 100vh;
             width: 100%;
@@ -53,6 +87,8 @@
             margin-right: 8px;
             opacity: 0.7;
         }
+        */
+        
         .loading {
             position: absolute;
             top: 50%;
@@ -78,6 +114,8 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        /* Back link and state selector (commented out for map) */
+        /*
         .back-link {
             position: absolute;
             top: 10px;
@@ -117,9 +155,38 @@
             font-weight: bold;
             color: #333;
         }
+        */
     </style>
 </head>
 <body>
+    <div class="container">
+        <a href="index.html" class="back-link">← Back to Tables</a>
+        
+        <h1>2024 Precinct Election Results</h1>
+        
+        <div id="loading" class="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Loading precinct data...</p>
+        </div>
+        
+        <table id="precinctTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>State</th>
+                    <th>GEOID</th>
+                    <th>Votes Dem</th>
+                    <th>Votes Rep</th>
+                    <th>Total Votes</th>
+                    <th>Dem %</th>
+                    <th>Rep %</th>
+                    <th>Dem Lead %</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+    
+    <!-- Map HTML (commented out) -->
+    <!--
     <a href="index.html" class="back-link">← Back to Tables</a>
     
     <div class="state-selector">
@@ -136,15 +203,28 @@
     </div>
     
     <div id="map"></div>
+    -->
 
-    <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <!-- TopoJSON library -->
-    <script src="https://unpkg.com/topojson@3"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.print.min.js"></script>
+    
     <!-- PapaParse for CSV -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
+    <!-- Leaflet and Map JS (commented out) -->
+    <!--
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+
     <script>
+        // Map code commented out
+        /*
         // Initialize map centered on US
         var map = L.map('map').setView([39.8283, -98.5795], 4);
 
@@ -292,13 +372,12 @@
             // Show loading
             document.getElementById('loading').style.display = 'block';
             document.getElementById('loading').innerHTML = 
-                '<div class="spinner"></div><p>Loading ' + selectedState + ' precincts...</p>' +
-                '<p style="font-size: 12px; color: #666;">This may take 30-60 seconds</p>';
+                '<div class="spinner"></div><p>Loading ' + selectedState + ' precincts...</p>';
             
             console.log('Loading precincts for:', selectedState);
             
-            // Load TopoJSON
-            fetch('data/precincts-with-results.topojson')
+            // Load state-specific TopoJSON file (much smaller!)
+            fetch('data/precincts-by-state/' + selectedState + '.topojson')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Failed to load TopoJSON (HTTP ' + response.status + ')');
@@ -306,7 +385,7 @@
                     return response.json();
                 })
                 .then(topology => {
-                    console.log('Loaded TopoJSON, converting to GeoJSON...');
+                    console.log('Loaded state TopoJSON, converting to GeoJSON...');
                     
                     document.getElementById('loading').innerHTML = 
                         '<div class="spinner"></div><p>Processing ' + selectedState + ' precincts...</p>';
@@ -315,31 +394,18 @@
                     const objectKey = Object.keys(topology.objects)[0];
                     const geojson = topojson.feature(topology, topology.objects[objectKey]);
                     
-                    console.log('Total precincts:', geojson.features.length);
+                    console.log('Rendering', geojson.features.length, 'precincts for', selectedState);
                     
                     // Remove existing layer
                     if (currentLayer) {
                         map.removeLayer(currentLayer);
                     }
                     
-                    // Filter features for selected state
-                    const stateFeatures = geojson.features.filter(f => 
-                        f.properties.state === selectedState
-                    );
-                    
-                    console.log('Rendering', stateFeatures.length, 'precincts for', selectedState);
-                    
                     document.getElementById('loading').innerHTML = 
-                        '<div class="spinner"></div><p>Rendering ' + stateFeatures.length + ' precincts...</p>';
+                        '<div class="spinner"></div><p>Rendering ' + geojson.features.length + ' precincts...</p>';
                     
-                    // Create filtered GeoJSON
-                    const filteredGeoJSON = {
-                        type: 'FeatureCollection',
-                        features: stateFeatures
-                    };
-                    
-                    // Add to map
-                    currentLayer = L.geoJson(filteredGeoJSON, {
+                    // Add to map (no filtering needed - file already has only this state)
+                    currentLayer = L.geoJson(geojson, {
                         style: function(feature) {
                             const props = feature.properties;
                             const total = props.votes_total || 0;
@@ -360,21 +426,75 @@
                     document.getElementById('loading').style.display = 'none';
                     
                     // Zoom to bounds
-                    if (stateFeatures.length > 0) {
+                    if (geojson.features.length > 0) {
                         map.fitBounds(currentLayer.getBounds());
                     }
                 })
                 .catch(error => {
                     document.getElementById('loading').innerHTML = 
                         '<p style="color: red;"><b>Error:</b> ' + error.message + 
-                        '<br/><br/>Unable to load precinct boundaries. The 610MB file may be too large for your browser.' +
-                        '<br/><br/>Try:<ul style="text-align: left;">' +
-                        '<li>Using Chrome or Edge</li>' +
-                        '<li>Closing other tabs</li>' +
-                        '<li>Selecting a smaller state</li></ul>' +
-                        '<button onclick="document.getElementById(\'loading\').style.display=\'none\'">Close</button></p>';
+                        '<br/><br/>Unable to load precinct boundaries for ' + selectedState + '.' +
+                        '<br/><br/>Make sure the precincts-by-state folder exists with state-specific TopoJSON files.' +
+                        '<br/><button onclick="document.getElementById(\'loading\').style.display=\'none\'">Close</button></p>';
                     console.error('Error:', error);
                 });
+        });
+        */
+    </script>
+    -->
+
+    <script>
+        // Load and display precinct data in table
+        document.getElementById('loading').style.display = 'block';
+        
+        Papa.parse('data/precincts-with-results.csv', {
+            download: true,
+            header: true,
+            complete: function(results) {
+                document.getElementById('loading').style.display = 'none';
+                
+                const data = results.data
+                    .filter(row => row.state && row.votes_total) // Filter out empty rows
+                    .map(row => {
+                        const total = parseFloat(row.votes_total) || 0;
+                        const dem = parseFloat(row.votes_dem) || 0;
+                        const rep = parseFloat(row.votes_rep) || 0;
+                        const demPct = total > 0 ? (dem / total * 100) : 0;
+                        const repPct = total > 0 ? (rep / total * 100) : 0;
+                        const demLead = demPct - repPct;
+                        
+                        return [
+                            row.state,
+                            row.GEOID,
+                            dem.toLocaleString(),
+                            rep.toLocaleString(),
+                            total.toLocaleString(),
+                            demPct.toFixed(1) + '%',
+                            repPct.toFixed(1) + '%',
+                            demLead.toFixed(1) + '%'
+                        ];
+                    });
+                
+                $('#precinctTable').DataTable({
+                    data: data,
+                    pageLength: 25,
+                    order: [[0, 'asc'], [4, 'desc']], // Sort by state, then total votes
+                    dom: 'Bfrtip',
+                    buttons: [
+                        'copy', 'csv', 'excel', 'print'
+                    ],
+                    language: {
+                        info: 'Showing _START_ to _END_ of _TOTAL_ precincts',
+                        infoFiltered: '(filtered from _MAX_ total precincts)'
+                    }
+                });
+                
+                console.log('Loaded', data.length, 'precincts');
+            },
+            error: function(error) {
+                document.getElementById('loading').innerHTML = 
+                    '<p style="color: red;">Error loading data: ' + error.message + '</p>';
+            }
         });
     </script>
 </body>

@@ -1,3 +1,16 @@
 # Large data files - keep local only
 data/precincts-with-results.topojson
 data/precincts-with-results.topojson.gz
+data/precincts-by-state/
+data/*.topojson
+
+# Downloaded shapefiles - can be re-downloaded
+data/cdistricts-by-state/
+data/congressional_districts_*/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
