@@ -222,35 +222,20 @@
 
         // Load precinct TopoJSON with boundaries
         document.getElementById('loading').innerHTML = 
-            '<div class="spinner"></div><p>Loading precinct boundaries (185MB compressed, this will take a moment)...</p>';
+            '<div class="spinner"></div><p>Loading precinct boundaries (610MB uncompressed - this will take 1-2 minutes)...</p>';
 
-        fetch('data/precincts-with-results.topojson.gz')
+        fetch('data/precincts-with-results.topojson')
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('Failed to load TopoJSON');
+                    throw new Error('Failed to load TopoJSON (HTTP ' + response.status + ')');
                 }
-                return response.blob();
+                console.log('Downloading...');
+                return response.json();
             })
-            .then(blob => {
-                console.log('Downloaded blob, decompressing...');
-                document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Decompressing data (this may take 30-60 seconds)...</p>';
-                
-                // Use DecompressionStream API (modern browsers)
-                const ds = new DecompressionStream('gzip');
-                const decompressedStream = blob.stream().pipeThrough(ds);
-                return new Response(decompressedStream).text();
-            })
-            .then(jsonText => {
-                console.log('Parsing JSON...');
-                document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Parsing topology data...</p>';
-                
-                const topology = JSON.parse(jsonText);
-                
+            .then(topology => {
                 console.log('Loaded TopoJSON');
                 document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Rendering map...</p>';
+                    '<div class="spinner"></div><p>Converting topology to map features...</p>';
 
                 // Convert TopoJSON to GeoJSON
                 const objectKey = Object.keys(topology.objects)[0];
@@ -258,7 +243,8 @@
                 
                 console.log('Converted to GeoJSON, features:', geojson.features.length);
 
-                document.getElementById('loading').style.display = 'none';
+                document.getElementById('loading').innerHTML = 
+                    '<div class="spinner"></div><p>Rendering ' + geojson.features.length + ' precincts on map...</p>';
 
                 // Add GeoJSON layer to map
                 geojsonLayer = L.geoJson(geojson, {
@@ -279,16 +265,25 @@
                     onEachFeature: onEachFeature
                 }).addTo(map);
 
+                document.getElementById('loading').style.display = 'none';
+
                 // Fit map to bounds
                 if (geojson.features.length > 0) {
                     map.fitBounds(geojsonLayer.getBounds());
                 }
+                
+                console.log('Map fully loaded!');
             })
             .catch(error => {
                 document.getElementById('loading').innerHTML = 
-                    '<p style="color: red;">Error loading precinct boundaries: ' + error.message + 
-                    '<br/><br/><b>Note:</b> This requires a modern browser with DecompressionStream support (Chrome 80+, Safari 16.4+, Firefox 102+). ' +
-                    'If you see "Invalid string length" error, your browser may not have enough memory for the 610MB uncompressed file.</p>';
+                    '<p style="color: red;"><b>Error loading precinct boundaries:</b> ' + error.message + 
+                    '<br/><br/><b>Note:</b> The precinct boundary file is 610MB uncompressed. ' +
+                    'Your browser needs sufficient memory to load and render ~164,000 precinct polygons. ' +
+                    '<br/><br/>Try:<ul style="text-align: left;">' +
+                    '<li>Using Chrome or Edge (best performance)</li>' +
+                    '<li>Closing other browser tabs</li>' +
+                    '<li>Increasing available system memory</li>' +
+                    '<li>Waiting longer - initial load takes 1-2 minutes</li></ul></p>';
                 console.error('Error:', error);
             });
     </script>
