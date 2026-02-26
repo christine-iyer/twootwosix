@@ -94,14 +94,45 @@
         .back-link:hover {
             background: #f0f0f0;
         }
+        .state-selector {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .state-selector select {
+            padding: 8px 12px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        .state-selector label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #333;
+        }
     </style>
 </head>
 <body>
     <a href="index.html" class="back-link">← Back to Tables</a>
     
-    <div id="loading" class="loading">
+    <div class="state-selector">
+        <label for="stateSelect">Select State:</label>
+        <select id="stateSelect">
+            <option value="">Choose a state...</option>
+        </select>
+    </div>
+    
+    <div id="loading" class="loading" style="display: none;">
         <div class="spinner"></div>
-        <p>Loading precinct data...</p>
+        <p>Loading precinct boundaries...</p>
+        <p style="font-size: 12px; color: #666;">This file is 610MB. If loading fails, we'll show the county-level map instead.</p>
     </div>
     
     <div id="map"></div>
@@ -110,6 +141,8 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <!-- TopoJSON library -->
     <script src="https://unpkg.com/topojson@3"></script>
+    <!-- PapaParse for CSV -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
     <script>
         // Initialize map centered on US
@@ -220,72 +253,183 @@
 
         legend.addTo(map);
 
-        // Load precinct TopoJSON with boundaries
+        var allPrecincts = null;
+        var currentLayer = null;
+
+        // Populate state selector from CSV data
+        Papa.parse('data/precincts-with-results.csv', {
+            download: true,
+            header: true,
+            complete: function(results) {
+                const states = [...new Set(results.data.map(r => r.state).filter(s => s))].sort();
+                const select = document.getElementById('stateSelect');
+                states.forEach(state => {
+                    const option = document.createElement('option');
+                    option.value = state;
+                    option.textContent = state;
+                    select.appendChild(option);
+                });
+            }
+        });
+
+        // Load TopoJSON once
+        document.getElementById('loading').style.display = 'block';
         document.getElementById('loading').innerHTML = 
-            '<div class="spinner"></div><p>Loading precinct boundaries (610MB uncompressed - this will take 1-2 minutes)...</p>';
+            '<div class="spinner"></div><p>Loading precinct boundaries (one time, ~1 minute)...</p>';
 
         fetch('data/precincts-with-results.topojson')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Failed to load TopoJSON (HTTP ' + response.status + ')');
                 }
-                console.log('Downloading...');
+                console.log('Downloading TopoJSON...');
                 return response.json();
             })
             .then(topology => {
-                console.log('Loaded TopoJSON');
-                document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Converting topology to map features...</p>';
-
+                console.log('Loaded TopoJSON, converting to GeoJSON...');
+                
                 // Convert TopoJSON to GeoJSON
                 const objectKey = Object.keys(topology.objects)[0];
                 const geojson = topojson.feature(topology, topology.objects[objectKey]);
                 
-                console.log('Converted to GeoJSON, features:', geojson.features.length);
-
-                document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Rendering ' + geojson.features.length + ' precincts on map...</p>';
-
-                // Add GeoJSON layer to map
-                geojsonLayer = L.geoJson(geojson, {
-                    style: function(feature) {
-                        const props = feature.properties;
-                        const total = props.votes_total || 0;
-                        const dem = props.votes_dem || 0;
-                        const dem_pct = total > 0 ? (dem / total * 100) : 50;
-                        
-                        return {
-                            fillColor: getColor(dem_pct),
-                            weight: 0.5,
-                            opacity: 1,
-                            color: 'white',
-                            fillOpacity: 0.7
-                        };
-                    },
-                    onEachFeature: onEachFeature
-                }).addTo(map);
-
-                document.getElementById('loading').style.display = 'none';
-
-                // Fit map to bounds
-                if (geojson.features.length > 0) {
-                    map.fitBounds(geojsonLayer.getBounds());
-                }
+                allPrecincts = geojson;
+                console.log('Loaded', geojson.features.length, 'precincts');
                 
-                console.log('Map fully loaded!');
+                document.getElementById('loading').style.display = 'none';
+                
+                // Enable the selector
+                document.getElementById('stateSelect').disabled = false;
+                alert('Precincts loaded! Select a state from the dropdown to view.');
             })
             .catch(error => {
                 document.getElementById('loading').innerHTML = 
-                    '<p style="color: red;"><b>Error loading precinct boundaries:</b> ' + error.message + 
-                    '<br/><br/><b>Note:</b> The precinct boundary file is 610MB uncompressed. ' +
-                    'Your browser needs sufficient memory to load and render ~164,000 precinct polygons. ' +
-                    '<br/><br/>Try:<ul style="text-align: left;">' +
-                    '<li>Using Chrome or Edge (best performance)</li>' +
-                    '<li>Closing other browser tabs</li>' +
-                    '<li>Increasing available system memory</li>' +
-                    '<li>Waiting longer - initial load takes 1-2 minutes</li></ul></p>';
+                    '<p style="color: red;"><b>Error:</b> ' + error.message + 
+                    '<br/><br/>The 610MB file is too large for the browser. ' +
+                    '<br/>Using county-level view instead...</p>';
                 console.error('Error:', error);
+                
+                // Fall back to county map
+                setTimeout(() => {
+                    loadCountyMap();
+                }, 2000);
             });
+
+        // Handle state selection
+        document.getElementById('stateSelect').addEventListener('change', function(e) {
+            const selectedState = e.target.value;
+            if (!selectedState || !allPrecincts) return;
+            
+            console.log('Filtering to state:', selectedState);
+            
+            // Remove existing layer
+            if (currentLayer) {
+                map.removeLayer(currentLayer);
+            }
+            
+            // Filter features for selected state
+            const stateFeatures = allPrecincts.features.filter(f => 
+                f.properties.state === selectedState
+            );
+            
+            console.log('Rendering', stateFeatures.length, 'precincts for', selectedState);
+            
+            // Create filtered GeoJSON
+            const filteredGeoJSON = {
+                type: 'FeatureCollection',
+                features: stateFeatures
+            };
+            
+            // Add to map
+            currentLayer = L.geoJson(filteredGeoJSON, {
+                style: function(feature) {
+                    const props = feature.properties;
+                    const total = props.votes_total || 0;
+                    const dem = props.votes_dem || 0;
+                    const dem_pct = total > 0 ? (dem / total * 100) : 50;
+                    
+                    return {
+                        fillColor: getColor(dem_pct),
+                        weight: 0.5,
+                        opacity: 1,
+                        color: 'white',
+                        fillOpacity: 0.7
+                    };
+                },
+                onEachFeature: onEachFeature
+            }).addTo(map);
+            
+            // Zoom to bounds
+            if (stateFeatures.length > 0) {
+                map.fitBounds(currentLayer.getBounds());
+            }
+        });
+
+        // Fallback: Load county-level map
+        function loadCountyMap() {
+            document.getElementById('loading').innerHTML = 
+                '<div class="spinner"></div><p>Loading county-level map...</p>';
+            document.getElementById('loading').style.display = 'block';
+            
+            fetch('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
+                .then(response => response.json())
+                .then(countiesGeoJSON => {
+                    // Load county election data
+                    Papa.parse('data/countypres.csv', {
+                        download: true,
+                        header: true,
+                        dynamicTyping: true,
+                        complete: function(results) {
+                            document.getElementById('loading').style.display = 'none';
+                            
+                            var countyData = {};
+                            results.data.forEach(function(row) {
+                                if (row.year !== 2024) return;
+                                var fips = row.county_fips;
+                                if (!countyData[fips]) {
+                                    countyData[fips] = {
+                                        county: row.county_name,
+                                        state: row.state_po,
+                                        votes_dem: 0,
+                                        votes_rep: 0,
+                                        total_votes: 0
+                                    };
+                                }
+                                if (row.party === 'DEMOCRAT') {
+                                    countyData[fips].votes_dem += row.candidatevotes || 0;
+                                } else if (row.party === 'REPUBLICAN') {
+                                    countyData[fips].votes_rep += row.candidatevotes || 0;
+                                }
+                                countyData[fips].total_votes += row.candidatevotes || 0;
+                            });
+                            
+                            countiesGeoJSON.features.forEach(function(feature) {
+                                var fips = feature.id;
+                                if (countyData[fips]) {
+                                    var data = countyData[fips];
+                                    data.dem_pct = data.total_votes > 0 ? 
+                                        (data.votes_dem / data.total_votes * 100) : 50;
+                                    feature.properties = data;
+                                } else {
+                                    feature.properties = { dem_pct: 50, votes_dem: 0, votes_rep: 0, total_votes: 0 };
+                                }
+                            });
+                            
+                            geojsonLayer = L.geoJson(countiesGeoJSON, {
+                                style: function(feature) {
+                                    return {
+                                        fillColor: getColor(feature.properties.dem_pct || 50),
+                                        weight: 1,
+                                        opacity: 1,
+                                        color: 'white',
+                                        fillOpacity: 0.7
+                                    };
+                                },
+                                onEachFeature: onEachFeature
+                            }).addTo(map);
+                        }
+                    });
+                });
+        }
     </script>
 </body>
 </html>
