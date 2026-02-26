@@ -19,6 +19,21 @@ import geopandas as gpd
 from shapely.geometry import shape
 from pathlib import Path
 
+# FIPS code to state abbreviation mapping
+FIPS_TO_STATE = {
+    '01': 'AL', '02': 'AK', '04': 'AZ', '05': 'AR', '06': 'CA',
+    '08': 'CO', '09': 'CT', '10': 'DE', '11': 'DC', '12': 'FL',
+    '13': 'GA', '15': 'HI', '16': 'ID', '17': 'IL', '18': 'IN',
+    '19': 'IA', '20': 'KS', '21': 'KY', '22': 'LA', '23': 'ME',
+    '24': 'MD', '25': 'MA', '26': 'MI', '27': 'MN', '28': 'MS',
+    '29': 'MO', '30': 'MT', '31': 'NE', '32': 'NV', '33': 'NH',
+    '34': 'NJ', '35': 'NM', '36': 'NY', '37': 'NC', '38': 'ND',
+    '39': 'OH', '40': 'OK', '41': 'OR', '42': 'PA', '44': 'RI',
+    '45': 'SC', '46': 'SD', '47': 'TN', '48': 'TX', '49': 'UT',
+    '50': 'VT', '51': 'VA', '53': 'WA', '54': 'WV', '55': 'WI',
+    '56': 'WY', '60': 'AS', '66': 'GU', '69': 'MP', '72': 'PR', '78': 'VI'
+}
+
 def extract_all_district_shapefiles(districts_dir='cdistricts-by-state'):
     """Extract all congressional district zip files."""
     print("Extracting congressional district shapefiles...")
@@ -278,14 +293,25 @@ def main():
     
     all_joined = []
     
-    # Get list of available state TopoJSON files
+    # Get list of states that have BOTH precinct data AND district shapefiles
     state_files = glob.glob('precincts-by-state/*.topojson')
-    states = [Path(f).stem for f in state_files]
+    precinct_states = set([Path(f).stem for f in state_files])
     
-    print(f"\nFound {len(states)} state precinct files")
+    district_files = glob.glob('cdistricts-by-state/tl_2024_*_cd119.shp')
+    district_fips_codes = set([Path(f).stem.split('_')[2] for f in district_files])
     
-    for i, state_code in enumerate(sorted(states)[:7], 1):  # Start with first 5 states
-        print(f"\n[{i}/{min(5, len(states))}] Processing {state_code}...")
+    # Convert FIPS codes to state abbreviations
+    district_states = set([FIPS_TO_STATE.get(fips) for fips in district_fips_codes if FIPS_TO_STATE.get(fips)])
+    
+    # Only process states with both datasets
+    states_to_process = sorted(precinct_states.intersection(district_states))
+    
+    print(f"\nFound {len(precinct_states)} state precinct files")
+    print(f"Found {len(district_states)} state district files")
+    print(f"Processing {len(states_to_process)} states with both datasets: {', '.join(states_to_process)}")
+    
+    for i, state_code in enumerate(states_to_process, 1):
+        print(f"\n[{i}/{len(states_to_process)}] Processing {state_code}...")
         joined = spatial_join_state(state_code, districts)
         if joined is not None:
             all_joined.append(joined)
