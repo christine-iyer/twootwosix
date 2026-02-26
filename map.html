@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2024 County Election Map - US Election Data</title>
+    <title>2024 Precinct Map - US Election Data</title>
     
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -108,8 +108,10 @@
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <!-- PapaParse for CSV -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <!-- TopoJSON library -->
+    <script src="https://unpkg.com/topojson@3"></script>
+    <!-- Pako for gzip decompression -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
 
     <script>
         // Initialize map centered on US
@@ -185,15 +187,16 @@
         };
 
         info.update = function (props) {
-            this._div.innerHTML = '<h4>2024 County Results</h4>' +
+            this._div.innerHTML = '<h4>2024 Precinct Results</h4>' +
                 (props ?
-                    '<b>' + props.county + ', ' + props.state + '</b><br/>' +
+                    '<b>' + props.GEOID + '</b><br/>' +
+                    '<b>State:</b> ' + props.state + '<br/>' +
                     '<b>Democratic:</b> ' + (props.votes_dem || 0).toLocaleString() + ' (' + 
-                    (props.dem_pct || 0).toFixed(1) + '%)<br/>' +
+                    ((props.votes_dem / props.votes_total * 100) || 0).toFixed(1) + '%)<br/>' +
                     '<b>Republican:</b> ' + (props.votes_rep || 0).toLocaleString() + ' (' + 
-                    (props.rep_pct || 0).toFixed(1) + '%)<br/>' +
-                    '<b>Total votes:</b> ' + (props.total_votes || 0).toLocaleString()
-                    : 'Hover over a county');
+                    ((props.votes_rep / props.votes_total * 100) || 0).toFixed(1) + '%)<br/>' +
+                    '<b>Total votes:</b> ' + (props.votes_total || 0).toLocaleString()
+                    : 'Hover over a precinct');
         };
 
         info.addTo(map);
@@ -219,90 +222,68 @@
 
         legend.addTo(map);
 
-        // Load US counties GeoJSON from public source
+        // Load precinct TopoJSON with boundaries
         document.getElementById('loading').innerHTML = 
-            '<div class="spinner"></div><p>Loading county boundaries...</p>';
+            '<div class="spinner"></div><p>Loading precinct boundaries (185MB compressed, this will take a moment)...</p>';
 
-        fetch('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
-            .then(response => response.json())
-            .then(countiesGeoJSON => {
-                console.log('Loaded county boundaries');
-                
+        fetch('data/precincts-with-results.topojson.gz')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load TopoJSON');
+                }
+                return response.arrayBuffer();
+            })
+            .then(buffer => {
+                console.log('Downloaded, decompressing...');
                 document.getElementById('loading').innerHTML = 
-                    '<div class="spinner"></div><p>Loading election data...</p>';
+                    '<div class="spinner"></div><p>Decompressing data...</p>';
+                
+                // Decompress gzipped data
+                const decompressed = pako.inflate(new Uint8Array(buffer), { to: 'string' });
+                const topology = JSON.parse(decompressed);
+                
+                console.log('Loaded TopoJSON');
+                document.getElementById('loading').innerHTML = 
+                    '<div class="spinner"></div><p>Rendering map...</p>';
 
-                // Load county election data
-                Papa.parse('data/countypres.csv', {
-                    download: true,
-                    header: true,
-                    dynamicTyping: true,
-                    complete: function(results) {
-                        console.log('Loaded election data');
-                        document.getElementById('loading').style.display = 'none';
+                // Convert TopoJSON to GeoJSON
+                const objectKey = Object.keys(topology.objects)[0];
+                const geojson = topojson.feature(topology, topology.objects[objectKey]);
+                
+                console.log('Converted to GeoJSON, features:', geojson.features.length);
 
-                        // Create lookup for 2024 county data
-                        var countyData = {};
-                        results.data.forEach(function(row) {
-                            if (row.year !== 2024) return;
-                            
-                            var fips = row.county_fips;
-                            if (!countyData[fips]) {
-                                countyData[fips] = {
-                                    county: row.county_name,
-                                    state: row.state_po,
-                                    votes_dem: 0,
-                                    votes_rep: 0,
-                                    total_votes: 0
-                                };
-                            }
-                            
-                            if (row.party === 'DEMOCRAT') {
-                                countyData[fips].votes_dem += row.candidatevotes || 0;
-                            } else if (row.party === 'REPUBLICAN') {
-                                countyData[fips].votes_rep += row.candidatevotes || 0;
-                            }
-                            countyData[fips].total_votes += row.candidatevotes || 0;
-                        });
+                document.getElementById('loading').style.display = 'none';
 
-                        // Add election data to GeoJSON features
-                        countiesGeoJSON.features.forEach(function(feature) {
-                            var fips = feature.id;
-                            if (countyData[fips]) {
-                                var data = countyData[fips];
-                                data.dem_pct = data.total_votes > 0 ? 
-                                    (data.votes_dem / data.total_votes * 100) : 50;
-                                data.rep_pct = data.total_votes > 0 ? 
-                                    (data.votes_rep / data.total_votes * 100) : 50;
-                                feature.properties = data;
-                            } else {
-                                feature.properties = {
-                                    county: 'Unknown',
-                                    state: '',
-                                    votes_dem: 0,
-                                    votes_rep: 0,
-                                    total_votes: 0,
-                                    dem_pct: 50,
-                                    rep_pct: 50
-                                };
-                            }
-                        });
-
-                        // Add GeoJSON layer to map
-                        geojsonLayer = L.geoJson(countiesGeoJSON, {
-                            style: style,
-                            onEachFeature: onEachFeature
-                        }).addTo(map);
+                // Add GeoJSON layer to map
+                geojsonLayer = L.geoJson(geojson, {
+                    style: function(feature) {
+                        const props = feature.properties;
+                        const total = props.votes_total || 0;
+                        const dem = props.votes_dem || 0;
+                        const dem_pct = total > 0 ? (dem / total * 100) : 50;
+                        
+                        return {
+                            fillColor: getColor(dem_pct),
+                            weight: 0.5,
+                            opacity: 1,
+                            color: 'white',
+                            fillOpacity: 0.7
+                        };
                     },
-                    error: function(error) {
-                        document.getElementById('loading').innerHTML = 
-                            '<p style="color: red;">Error loading election data: ' + error.message + '</p>';
-                        console.error('Error:', error);
-                    }
-                });
+                    onEachFeature: onEachFeature
+                }).addTo(map);
+
+                // Fit map to bounds
+                if (geojson.features.length > 0) {
+                    map.fitBounds(geojsonLayer.getBounds());
+                }
             })
             .catch(error => {
                 document.getElementById('loading').innerHTML = 
-                    '<p style="color: red;">Error loading county boundaries: ' + error.message + '</p>';
+                    '<p style="color: red;">Error loading precinct boundaries: ' + error.message + 
+                    '<br/><br/><b>Note:</b> The precinct boundary file is 185MB compressed. ' +
+                    'GitHub Pages may have issues serving files this large. ' +
+                    'For best results, run locally with: <code>python3 -m http.server 8080</code></p>';
                 console.error('Error:', error);
             });
     </script>
