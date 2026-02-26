@@ -5,7 +5,14 @@ data/precincts-by-state/
 data/*.topojson
 
 # Downloaded shapefiles - can be re-downloaded
-data/cdistricts-by-state/
+# But keep GeoJSON files for web display
+data/cdistricts-by-state/*.shp
+data/cdistricts-by-state/*.shx
+data/cdistricts-by-state/*.dbf
+data/cdistricts-by-state/*.prj
+data/cdistricts-by-state/*.cpg
+data/cdistricts-by-state/*.xml
+data/cdistricts-by-state/*.zip
 data/congressional_districts_*/
 
 # macOS
