@@ -8,8 +8,9 @@ View the live app at: https://christine-iyer.github.io/twootwosix/
 
 ## Features
 
-- **Two Interactive Tables:**
+- **Three Interactive Tables:**
   - County Presidential Election Data (94,000+ records)
+  - 2024 Precinct-Level Results (163,000+ records)
   - US House Election Data (33,000+ records)
   
 - **Functionality:**
@@ -42,6 +43,7 @@ Simply open `index.html` in a web browser. The data files are loaded directly fr
 ## Data Sources
 
 - `data/countypres.csv` - County-level presidential election results
+- `data/precincts-with-results.csv` - 2024 precinct-level presidential results (from NY Times)
 - `data/house.tab` - US House election results
 
 ## Technologies Used

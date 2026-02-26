@@ -93,6 +93,19 @@
             </thead>
         </table>
         
+        <!-- Precinct Data Table -->
+        <h2>2024 Precinct-Level Results</h2>
+        <div id="loadingPrecinct" class="loading">
+            <div class="spinner"></div>
+            <p>Loading precinct data...</p>
+        </div>
+        
+        <table id="precinctTable" class="display" style="display:none;">
+            <thead>
+                <tr id="precinctHeaders"></tr>
+            </thead>
+        </table>
+        
         <!-- House Data Table -->
         <h2>US House Election Data</h2>
         <div id="loadingHouse" class="loading">
@@ -165,6 +178,54 @@
                 },
                 error: function(error) {
                     $('#loadingCountyPres').html('<p style="color: red;">Error loading county presidential data: ' + error.message + '</p>');
+                    console.error('Error:', error);
+                }
+            });
+            
+            // Load Precinct data
+            Papa.parse('data/precincts-with-results.csv', {
+                download: true,
+                header: true,
+                dynamicTyping: true,
+                complete: function(results) {
+                    console.log('Precinct data loaded:', results.data.length, 'records');
+                    
+                    if (results.data.length > 0) {
+                        // Get columns from first row
+                        const columns = Object.keys(results.data[0]);
+                        
+                        // Add headers
+                        columns.forEach(col => {
+                            $('#precinctHeaders').append('<th>' + col + '</th>');
+                        });
+                        
+                        $('#loadingPrecinct').hide();
+                        $('#precinctTable').show();
+                        
+                        // Initialize DataTable
+                        $('#precinctTable').DataTable({
+                            data: results.data,
+                            columns: columns.map(col => ({ data: col, title: col })),
+                            pageLength: 25,
+                            lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
+                            dom: 'Bfrtip',
+                            buttons: [
+                                'copy', 'csv', 'excel'
+                            ],
+                            order: [[0, 'asc']], // Sort by state
+                            scrollX: true,
+                            processing: true,
+                            language: {
+                                search: "Filter records:",
+                                lengthMenu: "Show _MENU_ records per page",
+                                info: "Showing _START_ to _END_ of _TOTAL_ records",
+                                infoFiltered: "(filtered from _MAX_ total records)"
+                            }
+                        });
+                    }
+                },
+                error: function(error) {
+                    $('#loadingPrecinct').html('<p style="color: red;">Error loading precinct data: ' + error.message + '</p>');
                     console.error('Error:', error);
                 }
             });

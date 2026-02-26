@@ -7,6 +7,7 @@ app = Flask(__name__)
 # Load the data
 DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'house.tab')
 COUNTY_PRES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'countypres.csv')
+PRECINCT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'precincts-with-results.csv')
 
 # Load House data
 try:
@@ -24,14 +25,24 @@ except Exception as e:
     print(f"Error loading County Presidential data: {e}")
     df_county_pres = pd.DataFrame()
 
+# Load Precinct data
+try:
+    df_precinct = pd.read_csv(PRECINCT_PATH, low_memory=False)
+    print(f"Successfully loaded Precinct data with {len(df_precinct)} rows and {len(df_precinct.columns)} columns")
+except Exception as e:
+    print(f"Error loading Precinct data: {e}")
+    df_precinct = pd.DataFrame()
+
 @app.route('/')
 def index():
     """Render the main page with the filterable table"""
     house_columns = df_house.columns.tolist()
     county_pres_columns = df_county_pres.columns.tolist()
+    precinct_columns = df_precinct.columns.tolist()
     return render_template('index.html', 
                          house_columns=house_columns, 
-                         county_pres_columns=county_pres_columns)
+                         county_pres_columns=county_pres_columns,
+                         precinct_columns=precinct_columns)
 
 @app.route('/api/house')
 def get_house_data():
@@ -65,6 +76,22 @@ def get_county_pres_data():
         print(f"Error in /api/countypres: {e}")
         return jsonify({'error': str(e)}), 500
 
+@app.route('/api/precinct')
+def get_precinct_data():
+    """API endpoint to get the Precinct data as JSON"""
+    try:
+        if df_precinct.empty:
+            return jsonify({'error': 'No Precinct data loaded'}), 500
+        data = df_precinct.fillna('').to_dict('records')
+        return jsonify({
+            'data': data,
+            'recordsTotal': len(data),
+            'recordsFiltered': len(data)
+        })
+    except Exception as e:
+        print(f"Error in /api/precinct: {e}")
+        return jsonify({'error': str(e)}), 500
+
 @app.route('/api/columns')
 def get_columns():
     """API endpoint to get column information"""
@@ -79,5 +106,6 @@ def favicon():
 if __name__ == '__main__':
     print(f"Loaded {len(df_house)} House records")
     print(f"Loaded {len(df_county_pres)} County Presidential records")
+    print(f"Loaded {len(df_precinct)} Precinct records")
     print("\nStarting server at http://127.0.0.1:5000")
     app.run(debug=True, port=5000)
