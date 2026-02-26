@@ -231,6 +231,7 @@
         };
 
         info.addTo(map);
+        info._container.style.display = 'none'; // Hide initially
 
         // Legend
         var legend = L.control({position: 'bottomright'});
@@ -272,164 +273,109 @@
             }
         });
 
-        // Load TopoJSON once
-        document.getElementById('loading').style.display = 'block';
-        document.getElementById('loading').innerHTML = 
-            '<div class="spinner"></div><p>Loading precinct boundaries (one time, ~1 minute)...</p>';
-
-        fetch('data/precincts-with-results.topojson')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Failed to load TopoJSON (HTTP ' + response.status + ')');
-                }
-                console.log('Downloading TopoJSON...');
-                return response.json();
-            })
-            .then(topology => {
-                console.log('Loaded TopoJSON, converting to GeoJSON...');
-                
-                // Convert TopoJSON to GeoJSON
-                const objectKey = Object.keys(topology.objects)[0];
-                const geojson = topojson.feature(topology, topology.objects[objectKey]);
-                
-                allPrecincts = geojson;
-                console.log('Loaded', geojson.features.length, 'precincts');
-                
-                document.getElementById('loading').style.display = 'none';
-                
-                // Enable the selector
-                document.getElementById('stateSelect').disabled = false;
-                alert('Precincts loaded! Select a state from the dropdown to view.');
-            })
-            .catch(error => {
-                document.getElementById('loading').innerHTML = 
-                    '<p style="color: red;"><b>Error:</b> ' + error.message + 
-                    '<br/><br/>The 610MB file is too large for the browser. ' +
-                    '<br/>Using county-level view instead...</p>';
-                console.error('Error:', error);
-                
-                // Fall back to county map
-                setTimeout(() => {
-                    loadCountyMap();
-                }, 2000);
-            });
-
-        // Handle state selection
+        // Handle state selection - load precincts on demand
         document.getElementById('stateSelect').addEventListener('change', function(e) {
             const selectedState = e.target.value;
-            if (!selectedState || !allPrecincts) return;
-            
-            console.log('Filtering to state:', selectedState);
-            
-            // Remove existing layer
-            if (currentLayer) {
-                map.removeLayer(currentLayer);
+            if (!selectedState) {
+                // Clear map if no state selected
+                if (currentLayer) {
+                    map.removeLayer(currentLayer);
+                    currentLayer = null;
+                }
+                info._container.style.display = 'none';
+                return;
             }
             
-            // Filter features for selected state
-            const stateFeatures = allPrecincts.features.filter(f => 
-                f.properties.state === selectedState
-            );
+            // Show info box
+            info._container.style.display = 'block';
             
-            console.log('Rendering', stateFeatures.length, 'precincts for', selectedState);
-            
-            // Create filtered GeoJSON
-            const filteredGeoJSON = {
-                type: 'FeatureCollection',
-                features: stateFeatures
-            };
-            
-            // Add to map
-            currentLayer = L.geoJson(filteredGeoJSON, {
-                style: function(feature) {
-                    const props = feature.properties;
-                    const total = props.votes_total || 0;
-                    const dem = props.votes_dem || 0;
-                    const dem_pct = total > 0 ? (dem / total * 100) : 50;
-                    
-                    return {
-                        fillColor: getColor(dem_pct),
-                        weight: 0.5,
-                        opacity: 1,
-                        color: 'white',
-                        fillOpacity: 0.7
-                    };
-                },
-                onEachFeature: onEachFeature
-            }).addTo(map);
-            
-            // Zoom to bounds
-            if (stateFeatures.length > 0) {
-                map.fitBounds(currentLayer.getBounds());
-            }
-        });
-
-        // Fallback: Load county-level map
-        function loadCountyMap() {
-            document.getElementById('loading').innerHTML = 
-                '<div class="spinner"></div><p>Loading county-level map...</p>';
+            // Show loading
             document.getElementById('loading').style.display = 'block';
+            document.getElementById('loading').innerHTML = 
+                '<div class="spinner"></div><p>Loading ' + selectedState + ' precincts...</p>' +
+                '<p style="font-size: 12px; color: #666;">This may take 30-60 seconds</p>';
             
-            fetch('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json')
-                .then(response => response.json())
-                .then(countiesGeoJSON => {
-                    // Load county election data
-                    Papa.parse('data/countypres.csv', {
-                        download: true,
-                        header: true,
-                        dynamicTyping: true,
-                        complete: function(results) {
-                            document.getElementById('loading').style.display = 'none';
+            console.log('Loading precincts for:', selectedState);
+            
+            // Load TopoJSON
+            fetch('data/precincts-with-results.topojson')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load TopoJSON (HTTP ' + response.status + ')');
+                    }
+                    return response.json();
+                })
+                .then(topology => {
+                    console.log('Loaded TopoJSON, converting to GeoJSON...');
+                    
+                    document.getElementById('loading').innerHTML = 
+                        '<div class="spinner"></div><p>Processing ' + selectedState + ' precincts...</p>';
+                    
+                    // Convert TopoJSON to GeoJSON
+                    const objectKey = Object.keys(topology.objects)[0];
+                    const geojson = topojson.feature(topology, topology.objects[objectKey]);
+                    
+                    console.log('Total precincts:', geojson.features.length);
+                    
+                    // Remove existing layer
+                    if (currentLayer) {
+                        map.removeLayer(currentLayer);
+                    }
+                    
+                    // Filter features for selected state
+                    const stateFeatures = geojson.features.filter(f => 
+                        f.properties.state === selectedState
+                    );
+                    
+                    console.log('Rendering', stateFeatures.length, 'precincts for', selectedState);
+                    
+                    document.getElementById('loading').innerHTML = 
+                        '<div class="spinner"></div><p>Rendering ' + stateFeatures.length + ' precincts...</p>';
+                    
+                    // Create filtered GeoJSON
+                    const filteredGeoJSON = {
+                        type: 'FeatureCollection',
+                        features: stateFeatures
+                    };
+                    
+                    // Add to map
+                    currentLayer = L.geoJson(filteredGeoJSON, {
+                        style: function(feature) {
+                            const props = feature.properties;
+                            const total = props.votes_total || 0;
+                            const dem = props.votes_dem || 0;
+                            const dem_pct = total > 0 ? (dem / total * 100) : 50;
                             
-                            var countyData = {};
-                            results.data.forEach(function(row) {
-                                if (row.year !== 2024) return;
-                                var fips = row.county_fips;
-                                if (!countyData[fips]) {
-                                    countyData[fips] = {
-                                        county: row.county_name,
-                                        state: row.state_po,
-                                        votes_dem: 0,
-                                        votes_rep: 0,
-                                        total_votes: 0
-                                    };
-                                }
-                                if (row.party === 'DEMOCRAT') {
-                                    countyData[fips].votes_dem += row.candidatevotes || 0;
-                                } else if (row.party === 'REPUBLICAN') {
-                                    countyData[fips].votes_rep += row.candidatevotes || 0;
-                                }
-                                countyData[fips].total_votes += row.candidatevotes || 0;
-                            });
-                            
-                            countiesGeoJSON.features.forEach(function(feature) {
-                                var fips = feature.id;
-                                if (countyData[fips]) {
-                                    var data = countyData[fips];
-                                    data.dem_pct = data.total_votes > 0 ? 
-                                        (data.votes_dem / data.total_votes * 100) : 50;
-                                    feature.properties = data;
-                                } else {
-                                    feature.properties = { dem_pct: 50, votes_dem: 0, votes_rep: 0, total_votes: 0 };
-                                }
-                            });
-                            
-                            geojsonLayer = L.geoJson(countiesGeoJSON, {
-                                style: function(feature) {
-                                    return {
-                                        fillColor: getColor(feature.properties.dem_pct || 50),
-                                        weight: 1,
-                                        opacity: 1,
-                                        color: 'white',
-                                        fillOpacity: 0.7
-                                    };
-                                },
-                                onEachFeature: onEachFeature
-                            }).addTo(map);
-                        }
-                    });
+                            return {
+                                fillColor: getColor(dem_pct),
+                                weight: 0.5,
+                                opacity: 1,
+                                color: 'white',
+                                fillOpacity: 0.7
+                            };
+                        },
+                        onEachFeature: onEachFeature
+                    }).addTo(map);
+                    
+                    document.getElementById('loading').style.display = 'none';
+                    
+                    // Zoom to bounds
+                    if (stateFeatures.length > 0) {
+                        map.fitBounds(currentLayer.getBounds());
+                    }
+                })
+                .catch(error => {
+                    document.getElementById('loading').innerHTML = 
+                        '<p style="color: red;"><b>Error:</b> ' + error.message + 
+                        '<br/><br/>Unable to load precinct boundaries. The 610MB file may be too large for your browser.' +
+                        '<br/><br/>Try:<ul style="text-align: left;">' +
+                        '<li>Using Chrome or Edge</li>' +
+                        '<li>Closing other tabs</li>' +
+                        '<li>Selecting a smaller state</li></ul>' +
+                        '<button onclick="document.getElementById(\'loading\').style.display=\'none\'">Close</button></p>';
+                    console.error('Error:', error);
                 });
-        }
+        });
     </script>
 </body>
 </html>
