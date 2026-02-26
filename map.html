@@ -160,26 +160,31 @@
 </head>
 <body>
     <div class="container">
-        <a href="index.html" class="back-link">← Back to Tables</a>
+        <a href="./" class="back-link">← Back to Home</a>
         
-        <h1>2024 Precinct Election Results</h1>
+        <h1>2024 Congressional District Results</h1>
+        <p style="color: #666; margin-bottom: 20px;">
+            Precinct-level votes aggregated by congressional district (119th Congress)
+        </p>
         
         <div id="loading" class="loading" style="display: none;">
             <div class="spinner"></div>
-            <p>Loading precinct data...</p>
+            <p>Loading district data...</p>
         </div>
         
         <table id="precinctTable" class="display" style="width:100%">
             <thead>
                 <tr>
+                    <th>District</th>
                     <th>State</th>
-                    <th>GEOID</th>
+                    <th>District Name</th>
                     <th>Votes Dem</th>
                     <th>Votes Rep</th>
                     <th>Total Votes</th>
                     <th>Dem %</th>
                     <th>Rep %</th>
-                    <th>Dem Lead %</th>
+                    <th>Margin</th>
+                    <th>Winner</th>
                 </tr>
             </thead>
         </table>
@@ -444,56 +449,94 @@
     -->
 
     <script>
-        // Load and display precinct data in table
+        // Load and display congressional district results
         document.getElementById('loading').style.display = 'block';
         
-        Papa.parse('data/precincts-with-results.csv', {
+        // Try to load from data folder, handle both local and GitHub Pages
+        const csvPath = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+            ? 'data/congressional_district_results.csv'
+            : './data/congressional_district_results.csv';
+        
+        Papa.parse(csvPath, {
             download: true,
             header: true,
             complete: function(results) {
                 document.getElementById('loading').style.display = 'none';
                 
                 const data = results.data
-                    .filter(row => row.state && row.votes_total) // Filter out empty rows
+                    .filter(row => row.district_geoid && row.votes_total) // Filter out empty rows
                     .map(row => {
                         const total = parseFloat(row.votes_total) || 0;
                         const dem = parseFloat(row.votes_dem) || 0;
                         const rep = parseFloat(row.votes_rep) || 0;
-                        const demPct = total > 0 ? (dem / total * 100) : 0;
-                        const repPct = total > 0 ? (rep / total * 100) : 0;
-                        const demLead = demPct - repPct;
+                        const demPct = parseFloat(row.dem_pct) || 0;
+                        const repPct = parseFloat(row.rep_pct) || 0;
+                        const margin = parseFloat(row.dem_lead_pct) || 0;
+                        
+                        // Extract state from district GEOID (first 2 digits)
+                        const stateCode = row.district_geoid.substring(0, 2);
                         
                         return [
-                            row.state,
-                            row.GEOID,
+                            row.district_geoid,
+                            row.state || stateCode,
+                            row.district_name,
                             dem.toLocaleString(),
                             rep.toLocaleString(),
                             total.toLocaleString(),
                             demPct.toFixed(1) + '%',
                             repPct.toFixed(1) + '%',
-                            demLead.toFixed(1) + '%'
+                            (margin >= 0 ? '+' : '') + margin.toFixed(1) + '%',
+                            row.winner
                         ];
                     });
                 
                 $('#precinctTable').DataTable({
                     data: data,
                     pageLength: 25,
-                    order: [[0, 'asc'], [4, 'desc']], // Sort by state, then total votes
+                    order: [[5, 'desc']], // Sort by total votes
                     dom: 'Bfrtip',
                     buttons: [
                         'copy', 'csv', 'excel', 'print'
                     ],
                     language: {
-                        info: 'Showing _START_ to _END_ of _TOTAL_ precincts',
-                        infoFiltered: '(filtered from _MAX_ total precincts)'
-                    }
+                        info: 'Showing _START_ to _END_ of _TOTAL_ districts',
+                        infoFiltered: '(filtered from _MAX_ total districts)'
+                    },
+                    columnDefs: [
+                        {
+                            targets: 9, // Winner column
+                            createdCell: function (td, cellData, rowData, row, col) {
+                                if (cellData === 'DEM') {
+                                    $(td).css('background-color', '#e3f2fd');
+                                    $(td).css('color', '#1976d2');
+                                    $(td).css('font-weight', 'bold');
+                                } else if (cellData === 'REP') {
+                                    $(td).css('background-color', '#ffebee');
+                                    $(td).css('color', '#c62828');
+                                    $(td).css('font-weight', 'bold');
+                                }
+                            }
+                        },
+                        {
+                            targets: 8, // Margin column
+                            createdCell: function (td, cellData, rowData, row, col) {
+                                const margin = parseFloat(cellData);
+                                if (margin > 0) {
+                                    $(td).css('color', '#1976d2');
+                                } else if (margin < 0) {
+                                    $(td).css('color', '#c62828');
+                                }
+                            }
+                        }
+                    ]
                 });
                 
-                console.log('Loaded', data.length, 'precincts');
+                console.log('Loaded', data.length, 'congressional districts');
             },
             error: function(error) {
                 document.getElementById('loading').innerHTML = 
-                    '<p style="color: red;">Error loading data: ' + error.message + '</p>';
+                    '<p style="color: red;">Error loading data: ' + error.message + '</p>' +
+                    '<p>Make sure congressional_district_results.csv exists in the data/ folder.</p>';
             }
         });
     </script>
