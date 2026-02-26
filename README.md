@@ -12,6 +12,12 @@ View the live app at: https://christine-iyer.github.io/twootwosix/
   - County Presidential Election Data (94,000+ records)
   - 2024 Precinct-Level Results (163,000+ records)
   - US House Election Data (33,000+ records)
+
+- **Interactive Map Visualization:**
+  - Color-coded precincts by partisan lean
+  - Blue for Democratic-leaning precincts
+  - Red for Republican-leaning precincts
+  - Hover for detailed results
   
 - **Functionality:**
   - Search and filter across all columns

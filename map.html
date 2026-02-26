@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2024 Precinct Map - US Election Data</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+        .info {
+            padding: 10px 14px;
+            background: white;
+            background: rgba(255,255,255,0.95);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+            max-width: 300px;
+        }
+        .info h4 {
+            margin: 0 0 10px;
+            color: #333;
+        }
+        .info b {
+            color: #555;
+        }
+        .legend {
+            padding: 10px;
+            background: white;
+            background: rgba(255,255,255,0.95);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+            line-height: 24px;
+            color: #555;
+        }
+        .legend h4 {
+            margin: 0 0 10px;
+            color: #333;
+        }
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+        }
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            z-index: 1000;
+            text-align: center;
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #4CAF50;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .back-link {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        .back-link:hover {
+            background: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-link">← Back to Tables</a>
+    
+    <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Loading precinct data...</p>
+    </div>
+    
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- PapaParse for CSV -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+    <script>
+        // Initialize map centered on US
+        var map = L.map('map').setView([39.8283, -98.5795], 4);
+
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 18
+        }).addTo(map);
+
+        // Function to get color based on Democratic lead percentage
+        function getColor(pct_dem_lead) {
+            // pct_dem_lead ranges from -1 (100% Rep) to 1 (100% Dem)
+            if (pct_dem_lead > 0.6) return '#0015BC';  // Strong Dem - Deep blue
+            if (pct_dem_lead > 0.3) return '#3366FF';  // Moderate Dem - Blue
+            if (pct_dem_lead > 0.1) return '#6699FF';  // Lean Dem - Light blue
+            if (pct_dem_lead > -0.1) return '#CCCCCC'; // Competitive - Gray
+            if (pct_dem_lead > -0.3) return '#FF9999'; // Lean Rep - Light red
+            if (pct_dem_lead > -0.6) return '#FF3333'; // Moderate Rep - Red
+            return '#CC0000';                           // Strong Rep - Deep red
+        }
+
+        // Info control
+        var info = L.control();
+
+        info.onAdd = function (map) {
+            this._div = L.DomUtil.create('div', 'info');
+            this.update();
+            return this._div;
+        };
+
+        info.update = function (props) {
+            this._div.innerHTML = '<h4>2024 Precinct Results</h4>' +
+                (props ?
+                    '<b>State:</b> ' + props.state + '<br/>' +
+                    '<b>Precinct:</b> ' + props.GEOID.split('-')[1] + '<br/>' +
+                    '<b>Democratic:</b> ' + props.votes_dem.toLocaleString() + ' (' + 
+                    ((props.votes_dem / props.votes_total * 100).toFixed(1)) + '%)<br/>' +
+                    '<b>Republican:</b> ' + props.votes_rep.toLocaleString() + ' (' + 
+                    ((props.votes_rep / props.votes_total * 100).toFixed(1)) + '%)<br/>' +
+                    '<b>Total votes:</b> ' + props.votes_total.toLocaleString()
+                    : 'Hover over a precinct');
+        };
+
+        info.addTo(map);
+
+        // Legend
+        var legend = L.control({position: 'bottomright'});
+
+        legend.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'legend'),
+                grades = [0.6, 0.3, 0.1, -0.1, -0.3, -0.6, -1],
+                labels = ['D+60', 'D+30', 'D+10', 'Even', 'R+10', 'R+30', 'R+60'];
+
+            div.innerHTML = '<h4>Partisan Lean</h4>';
+
+            for (var i = 0; i < grades.length; i++) {
+                div.innerHTML +=
+                    '<i style="background:' + getColor(grades[i] + 0.01) + '"></i> ' +
+                    labels[i] + '<br>';
+            }
+
+            return div;
+        };
+
+        legend.addTo(map);
+
+        // US State boundaries for approximate geocoding
+        const stateCenters = {
+            'AL': [32.806671, -86.791130], 'AK': [61.370716, -152.404419],
+            'AZ': [33.729759, -111.431221], 'AR': [34.969704, -92.373123],
+            'CA': [36.116203, -119.681564], 'CO': [39.059811, -105.311104],
+            'CT': [41.597782, -72.755371], 'DE': [39.318523, -75.507141],
+            'FL': [27.766279, -81.686783], 'GA': [33.040619, -83.643074],
+            'HI': [21.094318, -157.498337], 'ID': [44.240459, -114.478828],
+            'IL': [40.349457, -88.986137], 'IN': [39.849426, -86.258278],
+            'IA': [42.011539, -93.210526], 'KS': [38.526600, -96.726486],
+            'KY': [37.668140, -84.670067], 'LA': [31.169546, -91.867805],
+            'ME': [44.693947, -69.381927], 'MD': [39.063946, -76.802101],
+            'MA': [42.230171, -71.530106], 'MI': [43.326618, -84.536095],
+            'MN': [45.694454, -93.900192], 'MS': [32.741646, -89.678696],
+            'MO': [38.456085, -92.288368], 'MT': [46.921925, -110.454353],
+            'NE': [41.125370, -98.268082], 'NV': [38.313515, -117.055374],
+            'NH': [43.452492, -71.563896], 'NJ': [40.298904, -74.521011],
+            'NM': [34.840515, -106.248482], 'NY': [42.165726, -74.948051],
+            'NC': [35.630066, -79.806419], 'ND': [47.528912, -99.784012],
+            'OH': [40.388783, -82.764915], 'OK': [35.565342, -96.928917],
+            'OR': [44.572021, -122.070938], 'PA': [40.590752, -77.209755],
+            'RI': [41.680893, -71.511780], 'SC': [33.856892, -80.945007],
+            'SD': [44.299782, -99.438828], 'TN': [35.747845, -86.692345],
+            'TX': [31.054487, -97.563461], 'UT': [40.150032, -111.862434],
+            'VT': [44.045876, -72.710686], 'VA': [37.769337, -78.169968],
+            'WA': [47.400902, -121.490494], 'WV': [38.491226, -80.954453],
+            'WI': [44.268543, -89.616508], 'WY': [42.755966, -107.302490]
+        };
+
+        // Load and display precinct data
+        Papa.parse('data/precincts-with-results.csv', {
+            download: true,
+            header: true,
+            dynamicTyping: true,
+            complete: function(results) {
+                console.log('Loaded', results.data.length, 'precincts');
+                document.getElementById('loading').style.display = 'none';
+
+                // Group by state to create approximate markers
+                // Note: Real implementation would need actual precinct geometries
+                var stateAggregates = {};
+                
+                results.data.forEach(function(row) {
+                    if (!row.state || row.votes_total === 0) return;
+                    
+                    if (!stateAggregates[row.state]) {
+                        stateAggregates[row.state] = [];
+                    }
+                    stateAggregates[row.state].push(row);
+                });
+
+                // Create circle markers for each precinct (simplified visualization)
+                // In reality, you'd need GeoJSON data with actual precinct boundaries
+                Object.keys(stateAggregates).forEach(function(state) {
+                    var precincts = stateAggregates[state];
+                    var center = stateCenters[state];
+                    
+                    if (!center) return;
+                    
+                    // Create markers in a grid around state center
+                    var gridSize = Math.ceil(Math.sqrt(precincts.length));
+                    var offset = 0.5; // degrees
+                    
+                    precincts.forEach(function(precinct, idx) {
+                        if (!precinct.pct_dem_lead && precinct.pct_dem_lead !== 0) return;
+                        
+                        // Simple grid distribution
+                        var row = Math.floor(idx / gridSize);
+                        var col = idx % gridSize;
+                        var lat = center[0] + (row - gridSize/2) * offset / gridSize;
+                        var lng = center[1] + (col - gridSize/2) * offset / gridSize;
+                        
+                        var color = getColor(precinct.pct_dem_lead);
+                        
+                        var circle = L.circleMarker([lat, lng], {
+                            radius: 3,
+                            fillColor: color,
+                            color: color,
+                            weight: 1,
+                            opacity: 0.8,
+                            fillOpacity: 0.6
+                        });
+                        
+                        circle.on({
+                            mouseover: function(e) {
+                                this.setStyle({
+                                    weight: 3,
+                                    radius: 5
+                                });
+                                info.update(precinct);
+                            },
+                            mouseout: function(e) {
+                                this.setStyle({
+                                    weight: 1,
+                                    radius: 3
+                                });
+                                info.update();
+                            }
+                        });
+                        
+                        circle.addTo(map);
+                    });
+                });
+            },
+            error: function(error) {
+                document.getElementById('loading').innerHTML = 
+                    '<p style="color: red;">Error loading data: ' + error.message + '</p>';
+                console.error('Error:', error);
+            }
+        });
+    </script>
+</body>
+</html>
