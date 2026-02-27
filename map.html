@@ -453,9 +453,11 @@
         document.getElementById('loading').style.display = 'block';
         
         // Try to load from data folder, handle both local and GitHub Pages
+        // Add timestamp to prevent caching
+        const timestamp = new Date().getTime();
         const csvPath = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
-            ? 'data/congressional_district_results.csv'
-            : './data/congressional_district_results.csv';
+            ? `data/congressional_district_results.csv?v=${timestamp}`
+            : `./data/congressional_district_results.csv?v=${timestamp}`;
         
         Papa.parse(csvPath, {
             download: true,
