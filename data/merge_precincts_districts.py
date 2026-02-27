@@ -234,9 +234,11 @@ def aggregate_by_district(joined_gdf):
         'district_name': 'first',
         'votes_dem': 'sum',
         'votes_rep': 'sum',
-        'votes_total': 'sum',
-        'state': 'first'
+        'votes_total': 'sum'
     }).reset_index()
+    
+    # Derive state from district GEOID (first 2 digits = FIPS code)
+    district_results['state'] = district_results['district_geoid'].str[:2].map(FIPS_TO_STATE)
     
     # Calculate percentages
     district_results['dem_pct'] = (
