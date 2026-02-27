@@ -144,10 +144,21 @@
             const props = feature.properties;
             return {
                 fillColor: getColor(props.winner, props.dem_lead_pct),
-                weight: 2,
-                opacity: 1,
+                weight: 1,
+                opacity: 0.8,
                 color: 'white',
                 fillOpacity: 0.7
+            };
+        }
+        
+        // Style function for state boundaries
+        function stateStyle() {
+            return {
+                fillColor: 'none',
+                weight: 2,
+                opacity: 1,
+                color: '#000000',
+                fillOpacity: 0
             };
         }
 
@@ -263,6 +274,25 @@
             }
         });
 
+        function loadStateBoundaries() {
+            // Load US state boundaries from Census Bureau
+            const statesGeoJsonUrl = 'https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json';
+            
+            fetch(statesGeoJsonUrl)
+                .then(response => response.json())
+                .then(geojson => {
+                    // Add state boundaries as a separate layer on top
+                    L.geoJson(geojson, {
+                        style: stateStyle,
+                        interactive: false // Don't capture mouse events
+                    }).addTo(map);
+                    console.log('State boundaries loaded');
+                })
+                .catch(error => {
+                    console.warn('Could not load state boundaries:', error);
+                });
+        }
+
         function loadDistrictShapefiles(resultsMap) {
             // All 51 state FIPS codes we have shapefiles for
             const states = [
@@ -327,6 +357,9 @@
                     style: style,
                     onEachFeature: onEachFeature
                 }).addTo(map);
+                
+                // Add state boundaries on top
+                loadStateBoundaries();
                 
                 // Zoom to fit all districts
                 if (combinedGeoJSON.features.length > 0) {
