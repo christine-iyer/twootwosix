@@ -71,6 +71,14 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 0650,Congressional District 50,219962,119879,351618,CA,62.56,34.09,28.47,DEM
 0651,Congressional District 51,214065,127164,352206,CA,60.78,36.11,24.67,DEM
 0652,Congressional District 52,159170,101497,267767,CA,59.44,37.9,21.54,DEM
+0801,Congressional District 1,264670,69341,344024,CO,76.93,20.16,56.77,DEM
+0802,Congressional District 2,290161,118781,420886,CO,68.94,28.22,40.72,DEM
+0803,Congressional District 3,180684,220740,411760,CO,43.88,53.61,-9.73,REP
+0804,Congressional District 4,183882,270521,466032,CO,39.46,58.05,-18.59,REP
+0805,Congressional District 5,164691,198180,373135,CO,44.14,53.11,-8.97,REP
+0806,Congressional District 6,216966,145172,373039,CO,58.16,38.92,19.24,DEM
+0807,Congressional District 7,254164,183030,449957,CO,56.49,40.68,15.81,DEM
+0808,Congressional District 8,171042,169636,350273,CO,48.83,48.43,0.4,DEM
 0901,Congressional District 1,214972,141435,362586,CT,59.29,39.01,20.28,DEM
 0902,Congressional District 2,160036,136468,301644,CT,53.05,45.24,7.81,DEM
 0903,Congressional District 3,142270,97458,244903,CT,58.09,39.79,18.3,DEM
@@ -117,9 +125,11 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 1309,Congressional District 9,126748,259571,389257,GA,32.56,66.68,-34.12,REP
 1310,Congressional District 10,169875,250317,422864,GA,40.17,59.2,-19.03,REP
 1311,Congressional District 11,171720,266017,441858,GA,38.86,60.2,-21.34,REP
-1312,Congressional District 12,151514,200760,354015,GA,42.8,56.71,-13.91,REP
+1312,Congressional District 12,152575,202284,356633,GA,42.78,56.72,-13.94,REP
 1313,Congressional District 13,249103,104486,356797,GA,69.82,29.28,40.54,DEM
 1314,Congressional District 14,115881,256314,374569,GA,30.94,68.43,-37.49,REP
+1601,Congressional District 1,120231,323537,455005,ID,26.42,71.11,-44.69,REP
+1602,Congressional District 2,150392,265558,429029,ID,35.05,61.9,-26.85,REP
 1701,Congressional District 1,215273,107877,328470,IL,65.54,32.84,32.7,DEM
 1702,Congressional District 2,186182,93036,283682,IL,65.63,32.8,32.83,DEM
 1703,Congressional District 3,174941,88810,268510,IL,65.15,33.08,32.07,DEM
@@ -216,14 +226,14 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 2903,Congressional District 3,136175,242978,384708,MO,35.4,63.16,-27.76,REP
 2904,Congressional District 4,110608,271614,387117,KS,28.57,70.16,-41.59,REP
 2905,Congressional District 5,198602,121511,325644,KS,60.99,37.31,23.68,DEM
-2906,Congressional District 6,114760,261679,381044,IL,30.12,68.67,-38.55,REP
+2906,Congressional District 6,114873,262064,381552,ID,30.11,68.68,-38.57,REP
 2907,Congressional District 7,106528,270737,381939,MO,27.89,70.88,-42.99,REP
 2908,Congressional District 8,78072,264164,345630,IL,22.59,76.43,-53.84,REP
-3001,Congressional District 1,135920,173558,319454,MT,42.55,54.33,-11.78,REP
+3001,Congressional District 1,136540,175402,321990,ID,42.41,54.47,-12.06,REP
 3002,Congressional District 2,95605,176808,281361,MT,33.98,62.84,-28.86,REP
 3101,Congressional District 1,134408,175320,314552,NE,42.73,55.74,-13.01,REP
 3102,Congressional District 2,162351,149218,315922,IA,51.39,47.23,4.16,DEM
-3103,Congressional District 3,68271,234125,305994,IA,22.31,76.51,-54.2,REP
+3103,Congressional District 3,68424,234721,306760,CO,22.31,76.52,-54.21,REP
 3201,Congressional District 1,170783,164877,341706,NV,49.98,48.25,1.73,DEM
 3202,Congressional District 2,175896,235018,420734,NV,41.81,55.86,-14.05,REP
 3203,Congressional District 3,178585,180522,365163,NV,48.91,49.44,-0.53,REP
@@ -244,7 +254,7 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 3412,Congressional District 12,197347,122125,329687,NJ,59.86,37.04,22.82,DEM
 3501,Congressional District 1,190597,147553,346726,NM,54.97,42.56,12.41,DEM
 3502,Congressional District 2,131585,137620,275032,NM,47.84,50.04,-2.2,REP
-3503,Congressional District 3,155184,136271,298165,NM,52.05,45.7,6.35,DEM
+3503,Congressional District 3,155592,136792,299112,CO,52.02,45.73,6.29,DEM
 3601,Congressional District 1,193224,234414,433762,NY,44.55,54.04,-9.49,REP
 3602,Congressional District 2,150931,202440,357188,NY,42.26,56.68,-14.42,REP
 3603,Congressional District 3,175437,192225,373563,NY,46.96,51.46,-4.5,REP
@@ -277,14 +287,14 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 3704,Congressional District 4,291554,105734,405512,NC,71.9,26.07,45.83,DEM
 3705,Congressional District 5,153522,225274,383739,NC,40.01,58.71,-18.7,REP
 3706,Congressional District 6,163724,230301,400209,NC,40.91,57.55,-16.64,REP
-3707,Congressional District 7,193145,250507,448971,NC,43.02,55.8,-12.78,REP
-3708,Congressional District 8,169037,244695,419781,NC,40.27,58.29,-18.02,REP
+3707,Congressional District 7,193592,251684,450608,NC,42.96,55.85,-12.89,REP
+3708,Congressional District 8,170842,247294,424248,NC,40.27,58.29,-18.02,REP
 3709,Congressional District 9,173093,228438,407021,NC,42.53,56.12,-13.59,REP
 3710,Congressional District 10,160624,233588,399495,NC,40.21,58.47,-18.26,REP
 3711,Congressional District 11,200534,242493,450173,GA,44.55,53.87,-9.32,REP
 3712,Congressional District 12,240492,90191,339050,NC,70.93,26.6,44.33,DEM
 3713,Congressional District 13,177888,231591,415605,NC,42.8,55.72,-12.92,REP
-3714,Congressional District 14,174629,230988,411325,NC,42.46,56.16,-13.7,REP
+3714,Congressional District 14,177495,235329,418651,NC,42.4,56.21,-13.81,REP
 3800,Congressional District (at Large),111578,243994,364814,MN,30.58,66.88,-36.3,REP
 3901,Congressional District 1,217168,194172,416884,KY,52.09,46.58,5.51,DEM
 3902,Congressional District 2,98658,279978,381546,KY,25.86,73.38,-47.52,REP
@@ -307,7 +317,7 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 4004,Congressional District 4,83009,181361,269392,OK,30.81,67.32,-36.51,REP
 4005,Congressional District 5,30913,84861,118131,OK,26.17,71.84,-45.67,REP
 4101,Congressional District 1,242719,106099,363662,OR,66.74,29.18,37.56,DEM
-4102,Congressional District 2,127950,220032,359307,OR,35.61,61.24,-25.63,REP
+4102,Congressional District 2,128103,221024,360478,ID,35.54,61.31,-25.77,REP
 4103,Congressional District 3,244030,89345,347715,OR,70.18,25.69,44.49,DEM
 4104,Congressional District 4,213026,168169,395143,OR,53.91,42.56,11.35,DEM
 4105,Congressional District 5,220056,185682,421404,OR,52.22,44.06,8.16,DEM
@@ -331,6 +341,13 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 4217,Congressional District 17,237897,213782,457725,PA,51.97,46.71,5.26,DEM
 4401,Congressional District 1,98795,64893,167402,MA,59.02,38.76,20.26,DEM
 4402,Congressional District 2,165191,133860,305589,CT,54.06,43.8,10.26,DEM
+4501,Congressional District 1,167161,220093,393239,SC,42.51,55.97,-13.46,REP
+4502,Congressional District 2,160728,202934,369173,GA,43.54,54.97,-11.43,REP
+4503,Congressional District 3,100055,252603,357143,GA,28.02,70.73,-42.71,REP
+4504,Congressional District 4,130735,218058,354510,SC,36.88,61.51,-24.63,REP
+4505,Congressional District 5,144623,224368,374126,NC,38.66,59.97,-21.31,REP
+4506,Congressional District 6,190770,130140,325993,GA,58.52,39.92,18.6,DEM
+4507,Congressional District 7,137237,236910,378103,NC,36.3,62.66,-26.36,REP
 4600,Congressional District (at Large),122607,227686,358557,MN,34.19,63.5,-29.31,REP
 4701,Congressional District 1,72240,275177,351019,NC,20.58,78.39,-57.81,REP
 4702,Congressional District 2,117804,243802,366574,KY,32.14,66.51,-34.37,REP
@@ -379,7 +396,7 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 4836,Congressional District 36,92432,208351,304122,LA,30.39,68.51,-38.12,REP
 4837,Congressional District 37,252130,88747,349794,TX,72.08,25.37,46.71,DEM
 4838,Congressional District 38,136945,199585,342871,TX,39.94,58.21,-18.27,REP
-4901,Congressional District 1,155415,225520,393072,UT,39.54,57.37,-17.83,REP
+4901,Congressional District 1,155511,226352,394045,ID,39.47,57.44,-17.97,REP
 4902,Congressional District 2,140239,214916,364590,NV,38.46,58.95,-20.49,REP
 4903,Congressional District 3,139158,213513,362940,UT,38.34,58.83,-20.49,REP
 4904,Congressional District 4,127294,229393,367345,UT,34.65,62.45,-27.8,REP
@@ -399,7 +416,7 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 5302,Congressional District 2,253521,153116,422852,WA,59.96,36.21,23.75,DEM
 5303,Congressional District 3,203705,213492,431838,OR,47.17,49.44,-2.27,REP
 5304,Congressional District 4,119107,183138,312361,OR,38.13,58.63,-20.5,REP
-5305,Congressional District 5,173420,215705,403607,OR,42.97,53.44,-10.47,REP
+5305,Congressional District 5,176018,224316,415105,ID,42.4,54.04,-11.64,REP
 5306,Congressional District 6,261284,173183,451361,WA,57.89,38.37,19.52,DEM
 5307,Congressional District 7,367106,45706,429550,WA,85.46,10.64,74.82,DEM
 5308,Congressional District 8,222481,191295,430526,WA,51.68,44.43,7.25,DEM
@@ -415,4 +432,4 @@ district_geoid,district_name,votes_dem,votes_rep,votes_total,state,dem_pct,rep_p
 5506,Congressional District 6,176782,246743,429279,WI,41.18,57.48,-16.3,REP
 5507,Congressional District 7,173540,273130,453554,MN,38.26,60.22,-21.96,REP
 5508,Congressional District 8,176293,245017,426810,WI,41.3,57.41,-16.11,REP
-5600,Congressional District (at Large),69628,192740,269262,MT,25.86,71.58,-45.72,REP
+5600,Congressional District (at Large),71973,196740,275810,CO,26.1,71.33,-45.23,REP
