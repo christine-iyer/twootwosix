@@ -207,6 +207,11 @@
                 (props ?
                     '<b>' + props.district_name + '</b><br/>' +
                     '<b>State:</b> ' + props.state + '<br/>' +
+                    (props.representative ? 
+                        '<b>Representative:</b> ' + props.representative + '<br/>' +
+                        '<b>Next Election:</b> ' + props.reelection_year + '<br/>' +
+                        '<b>Served Since:</b> ' + props.served_since + '<br/><br/>'
+                        : '') +
                     '<b>Democratic:</b> ' + parseInt(props.votes_dem).toLocaleString() + ' (' + 
                     props.dem_pct + '%)<br/>' +
                     '<b>Republican:</b> ' + parseInt(props.votes_rep).toLocaleString() + ' (' + 

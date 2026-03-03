@@ -178,6 +178,8 @@
                     <th>District</th>
                     <th>State</th>
                     <th>District Name</th>
+                    <th>Representative</th>
+                    <th>Next Election</th>
                     <th>Votes Dem</th>
                     <th>Votes Rep</th>
                     <th>Total Votes</th>
@@ -482,6 +484,8 @@
                             row.district_geoid,
                             row.state || stateCode,
                             row.district_name,
+                            row.representative || '',
+                            row.reelection_year || '',
                             dem.toLocaleString(),
                             rep.toLocaleString(),
                             total.toLocaleString(),
@@ -495,7 +499,7 @@
                 $('#precinctTable').DataTable({
                     data: data,
                     pageLength: 25,
-                    order: [[5, 'desc']], // Sort by total votes
+                    order: [[7, 'desc']], // Sort by total votes (column index changed)
                     dom: 'Bfrtip',
                     buttons: [
                         'copy', 'csv', 'excel', 'print'
@@ -506,7 +510,7 @@
                     },
                     columnDefs: [
                         {
-                            targets: 9, // Winner column
+                            targets: 11, // Winner column (now index 11)
                             createdCell: function (td, cellData, rowData, row, col) {
                                 if (cellData === 'DEM') {
                                     $(td).css('background-color', '#e3f2fd');
@@ -520,7 +524,7 @@
                             }
                         },
                         {
-                            targets: 8, // Margin column
+                            targets: 10, // Margin column (now index 10)
                             createdCell: function (td, cellData, rowData, row, col) {
                                 const margin = parseFloat(cellData);
                                 if (margin > 0) {
