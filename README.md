@@ -66,7 +66,44 @@ Simply open `index.html` in a web browser. The data files are loaded directly fr
 - `data/precincts-with-results.csv` - 2024 precinct-level presidential results (from NY Times)
 - `data/precincts-by-state/` - State-specific TopoJSON boundary files (generated from original 610MB file)
 - `data/house.tab` - US House election results
+- Mississippi 2024 primary results 
+House [NPR](https://apps.npr.org/primary-election-results-2024/states/MS.html#date=3%2F12%2F2024&office=H)
+    - U.S. House District 1 
+Democratic Primary: Cliff Johnson, a University of Mississippi law school professor, is running against former Marshall County state Rep. Kelvin Buck.
 
+Republican Primary: Incumbent Trent Kelly is running unopposed in the Republican primary 
+
+- U.S. House District 2 
+Democratic Primary: Incumbent Bennie Thompson is running against Evan Turnage, a former aide to Senate Minority Leader Chuck Schumer of New York and Senate Conference Vice Chair Elizabeth Warren of Massachusetts. Thompson is also attempting to stave off a challenge from Pertis Williams III, who has focused on agricultural issues. 
+
+Thompson has represented the 2nd Congressional District, which covers Jackson and the Delta, since 1993. Thompson, a civil rights leader and former chair of the House Select Committee investigating the Jan. 6th Capitol attack, is a towering figure in state and national politics. 
+
+Republican Primary: Adams County Supervisor Kevin Wilson is squaring off against Ron Eller, a physician’s assistant and military veteran who is running again for the GOP nomination after losing to Thompson by nearly 25 points in 2024. 
+
+U.S. House District 3 
+Democratic Primary: Michael Chiaradio, a former baseball player turned regenerative farmer from New Jersey, is running unopposed for the Democratic nomination. Chiaradio told Mississippi Today he believes a localized message built around economic frustration can unite both disaffected conservatives and a fractured Democratic Party.
+
+Republican Primary: Incumbent Michael Guest is running unopposed for the Republican nomination. Guest has sailed to general election victories three times since he was first elected in 2018. In 2024, he survived a primary challenge from the right that went to a runoff but ran unopposed in the general election.
+
+U.S. House District 4 
+Democratic Primary: Three candidates are competing for the Democratic nomination. They are Jeffrey Hulum III, a state representative from Gulfport, D. Ryan Grover, a business consultant who was the Democratic nominee for lieutenant governor in 2023 and Paul Blackman, a Navy veteran.
+
+Republican Primary: Incumbent Republican Mike Ezell, first elected in 2022, is running against Sawyer Walters, who works for the Department of Marine Resources and serves as a lieutenant in the Mississippi Army National Guard.
+
+## House
+
+| Name | Party | District | Votes | Percent |
+|------|-------|----------|-------|---------|
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
+|      |       |          |       |         |
 ### Preprocessing Large Files
 
 The original `precincts-with-results.topojson` (610MB) was split into 50 state-specific files using:
@@ -86,3 +123,21 @@ This creates individual state files ranging from 0.4 MB (Rhode Island) to 50 MB 
 - **CSV Parsing:** PapaParse (static version)
 - **Backend:** Flask + Pandas (local version only)
 - **Data Processing:** Python for TopoJSON splitting
+
+## Mississippi 2024 House Primary Results
+
+| Name | Party | District | Votes | Percent |
+|------|-------|----------|-------|---------|
+| Dianne Black     |Dem | 1      |  11,987        |     84.9%         |
+|Bronco Williams  | Dem |1 |2,126      |     15.1%     
+| Trent Kelly     |  Rep       |1          |-       |      -   |
+|  Bennie Thompson    |    Dem    |    2      |    -   |    -     |
+| Ron Eller |Rep|	2|14,734     |     46.5%     |	
+|  Andrew Smith    |  Rep        | 2         |  11,374     |    35.9%     
+
+Andrew Smith - runoff	35.9%	11,374
+Taylor Turcotte     |   REP     |  2        |    5,570   |   17.6&      |
+|  Craig Raybon    | Dem      |  4        |       |         |
+|  Mike Ezell   |   Rep    |      4    |    51,237   |    73.3%	     |
+|  Carl Boyanton   |   Rep    |   4       |    13,273   |   19%      |
+|Michael McGill| REP|4|5,362|7.7%
