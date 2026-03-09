@@ -68,42 +68,54 @@ Simply open `index.html` in a web browser. The data files are loaded directly fr
 - `data/house.tab` - US House election results
 - Mississippi 2024 primary results 
 House [NPR](https://apps.npr.org/primary-election-results-2024/states/MS.html#date=3%2F12%2F2024&office=H)
-    - U.S. House District 1 
-Democratic Primary: Cliff Johnson, a University of Mississippi law school professor, is running against former Marshall County state Rep. Kelvin Buck.
 
-Republican Primary: Incumbent Trent Kelly is running unopposed in the Republican primary 
+    - U.S. House District 1 
+Democratic Primary: *Cliff Johnson*, a University of Mississippi law school professor, is running against former Marshall County state *Rep. Kelvin Buck*.
+
+Republican Primary: Incumbent *Trent Kelly* is running unopposed in the Republican primary 
 
 - U.S. House District 2 
-Democratic Primary: Incumbent Bennie Thompson is running against Evan Turnage, a former aide to Senate Minority Leader Chuck Schumer of New York and Senate Conference Vice Chair Elizabeth Warren of Massachusetts. Thompson is also attempting to stave off a challenge from Pertis Williams III, who has focused on agricultural issues. 
+Democratic Primary: Incumbent *Bennie Thompson* is running against *Evan Turnage*, a former aide to Senate Minority Leader Chuck Schumer of New York and Senate Conference Vice Chair Elizabeth Warren of Massachusetts. Thompson is also attempting to stave off a challenge from *Pertis Williams III*, who has focused on agricultural issues. 
 
 Thompson has represented the 2nd Congressional District, which covers Jackson and the Delta, since 1993. Thompson, a civil rights leader and former chair of the House Select Committee investigating the Jan. 6th Capitol attack, is a towering figure in state and national politics. 
 
-Republican Primary: Adams County Supervisor Kevin Wilson is squaring off against Ron Eller, a physician’s assistant and military veteran who is running again for the GOP nomination after losing to Thompson by nearly 25 points in 2024. 
+Republican Primary: Adams County Supervisor *Kevin Wilson* is squaring off against *Ron Eller*, a physician’s assistant and military veteran who is running again for the GOP nomination after losing to Thompson by nearly 25 points in 2024. 
 
 U.S. House District 3 
-Democratic Primary: Michael Chiaradio, a former baseball player turned regenerative farmer from New Jersey, is running unopposed for the Democratic nomination. Chiaradio told Mississippi Today he believes a localized message built around economic frustration can unite both disaffected conservatives and a fractured Democratic Party.
+Democratic Primary: *Michael Chiaradio*, a former baseball player turned regenerative farmer from New Jersey, is running unopposed for the Democratic nomination. Chiaradio told Mississippi Today he believes a localized message built around economic frustration can unite both disaffected conservatives and a fractured Democratic Party.
 
-Republican Primary: Incumbent Michael Guest is running unopposed for the Republican nomination. Guest has sailed to general election victories three times since he was first elected in 2018. In 2024, he survived a primary challenge from the right that went to a runoff but ran unopposed in the general election.
+Republican Primary: Incumbent *Michael Guest* is running unopposed for the Republican nomination. Guest has sailed to general election victories three times since he was first elected in 2018. In 2024, he survived a primary challenge from the right that went to a runoff but ran unopposed in the general election.
 
 U.S. House District 4 
-Democratic Primary: Three candidates are competing for the Democratic nomination. They are Jeffrey Hulum III, a state representative from Gulfport, D. Ryan Grover, a business consultant who was the Democratic nominee for lieutenant governor in 2023 and Paul Blackman, a Navy veteran.
+Democratic Primary: Three candidates are competing for the Democratic nomination. They are *Jeffrey Hulum III*, a state representative from Gulfport, *D. Ryan Grover*, a business consultant who was the Democratic nominee for lieutenant governor in 2023 and *Paul Blackman*, a Navy veteran.
 
-Republican Primary: Incumbent Republican Mike Ezell, first elected in 2022, is running against Sawyer Walters, who works for the Department of Marine Resources and serves as a lieutenant in the Mississippi Army National Guard.
+Republican Primary: Incumbent Republican *Mike Ezell*, first elected in 2022, is running against *Sawyer Walters*, who works for the Department of Marine Resources and serves as a lieutenant in the Mississippi Army National Guard.
+### Senate
+| Name | Party | Votes | Percent |
+|------|-------|-------|---------|
+|Scott Colom|Dem|-|-|-|
+|Albert Littell|Dem|-|-|-|
+|Priscilla Till|Dem|-|-|-|
+|Cindy Hyde-Smith (incumbent)|Rep|-|-|-|
+Sarah Adlakha|Rep|-|-|-|
 
-## House
+### House
 
 | Name | Party | District | Votes | Percent |
 |------|-------|----------|-------|---------|
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
-|      |       |          |       |         |
+| Cliff Johnson     |  Dem     |  1        |       |         |
+|  Bennie Thompson    |    Dem   |    2      |       |         
+|   Evan Turnage  |    Dem    |   2       |       |         |
+|Pertis Williams III| Dem|2|||
+|Kevin Wilson|Rep|2|||
+|Ron Eller|Rep|2|||
+|   Michael Gues   |     Rep |      3    |       |         |
+| Michael Chiaradio     |     Dem  |     3     |       |         |
+|  Jeffrey Hulum III    |  Dem     | 4        |       
+|  D. Ryan Grover       |Dem|4|
+ |      Paul Blackman |   Dem       |    4   |         |
+| Sawyer Walters     |   Rep    |  4        |       |         |
+|  Mike Ezell    |     Rep  |    4      |       |         |
 ### Preprocessing Large Files
 
 The original `precincts-with-results.topojson` (610MB) was split into 50 state-specific files using:
