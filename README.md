@@ -133,11 +133,9 @@ This creates individual state files ranging from 0.4 MB (Rhode Island) to 50 MB 
 | Trent Kelly     |  Rep       |1          |-       |      -   |
 |  Bennie Thompson    |    Dem    |    2      |    -   |    -     |
 | Ron Eller |Rep|	2|14,734     |     46.5%     |	
-|  Andrew Smith    |  Rep        | 2         |  11,374     |    35.9%     
-
-Andrew Smith - runoff	35.9%	11,374
+|  Andrew Smith    |  Rep        | 2         |  11,374     |    35.9%     |
 Taylor Turcotte     |   REP     |  2        |    5,570   |   17.6&      |
-|  Craig Raybon    | Dem      |  4        |       |         |
+|  Craig Raybon    | Dem      |  4        |    -   |     -    |
 |  Mike Ezell   |   Rep    |      4    |    51,237   |    73.3%	     |
 |  Carl Boyanton   |   Rep    |   4       |    13,273   |   19%      |
-|Michael McGill| REP|4|5,362|7.7%
+|Michael McGill| R|4|5,362|7.7%|
