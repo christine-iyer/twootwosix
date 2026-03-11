@@ -91,31 +91,33 @@ Democratic Primary: Three candidates are competing for the Democratic nomination
 
 Republican Primary: Incumbent Republican *Mike Ezell*, first elected in 2022, is running against *Sawyer Walters*, who works for the Department of Marine Resources and serves as a lieutenant in the Mississippi Army National Guard.
 ### Senate
-| Name | Party | Votes | Percent |
-|------|-------|-------|---------|
-|Scott Colom|Dem|-|-|-|
-|Albert Littell|Dem|-|-|-|
-|Priscilla Till|Dem|-|-|-|
-|Cindy Hyde-Smith (incumbent)|Rep|-|-|-|
-Sarah Adlakha|Rep|-|-|-|
+| Name                         | Party | Votes   | Percent |
+| ---------------------------- | ----- | ------- | ------- |
+| Scott Colom                  | Dem   | 105,716 | 73.1%   |
+| Albert Littell               | Dem   | 12,266  | 8.5%    |
+| Priscilla Till               | Dem   | 26,642  | 18.4%   |
+| Cindy Hyde-Smith (incumbent) | Rep   | 125,557 | 80.8%   |
+| Sarah Adlakha                | Rep   | 29,806  | 19.2%   |
 
 ### House
 
-| Name | Party | District | Votes | Percent |
-|------|-------|----------|-------|---------|
-| Cliff Johnson     |  Dem     |  1        |       |         |
-|  Bennie Thompson    |    Dem   |    2      |       |         
-|   Evan Turnage  |    Dem    |   2       |       |         |
-|Pertis Williams III| Dem|2|||
-|Kevin Wilson|Rep|2|||
-|Ron Eller|Rep|2|||
-|   Michael Gues   |     Rep |      3    |       |         |
-| Michael Chiaradio     |     Dem  |     3     |       |         |
-|  Jeffrey Hulum III    |  Dem     | 4        |       
-|  D. Ryan Grover       |Dem|4|
- |      Paul Blackman |   Dem       |    4   |         |
-| Sawyer Walters     |   Rep    |  4        |       |         |
-|  Mike Ezell    |     Rep  |    4      |       |         |
+| Name                | Party | District | Votes  | Percent |
+| ------------------- | ----- | -------- | ------ | ------- |
+| Cliff Johnson       | Dem   | 1        | 17,879 | 63.6%   |
+| Buck                | Dem   | 1        | 10,234 | 36.4%   |
+| Kelly               | Rep   | 1        | -      | -       |
+| Bennie Thompson     | Dem   | 2        | 61,013 | 86.2%   |
+| Evan Turnage        | Dem   | 2        | 8,914  | 12.6%   |
+| Pertis Williams III | Dem   | 2        | 893    | 1.3%    |
+| Kevin Wilson        | Rep   | 2        | 12,120 | 49.1%   |
+| Ron Eller           | Rep   | 2        | 12,554 | 50.9%   |
+| Michael Guest       | Rep   | 3        | -      | -       |
+| Michael Chiaradio   | Dem   | 3        | -      | -       |
+| Jeffrey Hulum III   | Dem   | 4        | 10,928 | 57.6%   |
+| D. Ryan Grover      | Dem   | 4        | 2,776  | 14.6%   |
+| Paul Blackman       | Dem   | 4        | 5,234  | 27.2%   |
+| Sawyer Walters      | Rep   | 4        | 7,443  | 15.9%   |
+| Mike Ezell          | Rep   | 4        | 39,345 | 84.1%   |
 ### Preprocessing Large Files
 
 The original `precincts-with-results.topojson` (610MB) was split into 50 state-specific files using:
@@ -138,16 +140,16 @@ This creates individual state files ranging from 0.4 MB (Rhode Island) to 50 MB 
 
 ## Mississippi 2024 House Primary Results
 
-| Name | Party | District | Votes | Percent |
-|------|-------|----------|-------|---------|
-| Dianne Black     |Dem | 1      |  11,987        |     84.9%         |
-|Bronco Williams  | Dem |1 |2,126      |     15.1%     
-| Trent Kelly     |  Rep       |1          |-       |      -   |
-|  Bennie Thompson    |    Dem    |    2      |    -   |    -     |
-| Ron Eller |Rep|	2|14,734     |     46.5%     |	
-|  Andrew Smith    |  Rep        | 2         |  11,374     |    35.9%     |
-Taylor Turcotte     |   REP     |  2        |    5,570   |   17.6&      |
-|  Craig Raybon    | Dem      |  4        |    -   |     -    |
-|  Mike Ezell   |   Rep    |      4    |    51,237   |    73.3%	     |
-|  Carl Boyanton   |   Rep    |   4       |    13,273   |   19%      |
-|Michael McGill| R|4|5,362|7.7%|
+| Name            | Party | District | Votes  | Percent |
+| --------------- | ----- | -------- | ------ | ------- |
+| Dianne Black    | Dem   | 1        | 11,987 | 84.9%   |
+| Bronco Williams | Dem   | 1        | 2,126  | 15.1%   |
+| Trent Kelly     | Rep   | 1        | -      | -       |
+| Bennie Thompson | Dem   | 2        | -      | -       |
+| Ron Eller       | Rep   | 2        | 14,734 | 46.5%   |
+| Andrew Smith    | Rep   | 2        | 11,374 | 35.9%   |
+| Taylor Turcotte | REP   | 2        | 5,570  | 17.6&   |
+| Craig Raybon    | Dem   | 4        | -      | -       |
+| Mike Ezell      | Rep   | 4        | 51,237 | 73.3%   |
+| Carl Boyanton   | Rep   | 4        | 13,273 | 19%     |
+| Michael McGill  | R     | 4        | 5,362  | 7.7%    |
