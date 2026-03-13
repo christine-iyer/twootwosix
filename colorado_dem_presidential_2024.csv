@@ -1,0 +1,257 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Adams,08001,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T14:14:50.000Z,37611,79,79.0,29725
+100004,Uncommitted,PD,Adams,08001,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T14:14:50.000Z,37611,10,9.6,3626
+20072905,Marianne Williamson,PD,Adams,08001,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T14:14:50.000Z,37611,4,3.6,1336
+20286,Dean Phillips,PD,Adams,08001,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T14:14:50.000Z,37611,3,3.3,1255
+1036,Joe Biden,PD,Alamosa,08003,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:52:58.000Z,1330,81,80.8,1074
+100004,Uncommitted,PD,Alamosa,08003,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:52:58.000Z,1330,8,8.3,110
+20072905,Marianne Williamson,PD,Alamosa,08003,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:52:58.000Z,1330,4,3.5,47
+20286,Dean Phillips,PD,Alamosa,08003,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:52:58.000Z,1330,2,2.4,32
+1036,Joe Biden,PD,Arapahoe,08005,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-25T17:52:36.000Z,62076,83,83.0,51523
+100004,Uncommitted,PD,Arapahoe,08005,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-25T17:52:36.000Z,62076,9,8.8,5466
+20286,Dean Phillips,PD,Arapahoe,08005,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-25T17:52:36.000Z,62076,3,3.0,1837
+20072905,Marianne Williamson,PD,Arapahoe,08005,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-25T17:52:36.000Z,62076,3,2.5,1573
+1036,Joe Biden,PD,Archuleta,08007,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:57.000Z,1461,87,86.7,1266
+100004,Uncommitted,PD,Archuleta,08007,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:57.000Z,1461,6,6.0,88
+20072905,Marianne Williamson,PD,Archuleta,08007,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:57.000Z,1461,3,3.0,44
+20286,Dean Phillips,PD,Archuleta,08007,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:57.000Z,1461,3,2.8,41
+1036,Joe Biden,PD,Baca,08009,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:41.000Z,153,65,64.7,99
+100004,Uncommitted,PD,Baca,08009,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:41.000Z,153,18,17.6,27
+20072905,Marianne Williamson,PD,Baca,08009,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:41.000Z,153,6,6.5,10
+20286,Dean Phillips,PD,Baca,08009,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:41.000Z,153,5,5.2,8
+1036,Joe Biden,PD,Bent,08011,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:48.000Z,303,75,74.9,227
+100004,Uncommitted,PD,Bent,08011,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:48.000Z,303,15,14.9,45
+20286,Dean Phillips,PD,Bent,08011,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:48.000Z,303,2,2.3,7
+20072905,Marianne Williamson,PD,Bent,08011,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:48.000Z,303,2,2.3,7
+1036,Joe Biden,PD,Boulder,08013,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:08.000Z,58019,84,83.7,48565
+100004,Uncommitted,PD,Boulder,08013,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:08.000Z,58019,9,9.2,5315
+20072905,Marianne Williamson,PD,Boulder,08013,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:08.000Z,58019,3,2.8,1613
+20286,Dean Phillips,PD,Boulder,08013,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:08.000Z,58019,3,2.8,1608
+1036,Joe Biden,PD,Broomfield,08014,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-15T19:07:54.000Z,10078,84,83.7,8440
+100004,Uncommitted,PD,Broomfield,08014,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-15T19:07:54.000Z,10078,8,8.5,853
+20286,Dean Phillips,PD,Broomfield,08014,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-15T19:07:54.000Z,10078,3,3.1,317
+20072905,Marianne Williamson,PD,Broomfield,08014,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-15T19:07:54.000Z,10078,3,2.8,281
+1036,Joe Biden,PD,Chaffee,08015,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,3060,83,83.0,2540
+100004,Uncommitted,PD,Chaffee,08015,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,3060,9,8.9,272
+20072905,Marianne Williamson,PD,Chaffee,08015,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,3060,3,3.5,106
+20286,Dean Phillips,PD,Chaffee,08015,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,3060,3,3.0,93
+1036,Joe Biden,PD,Cheyenne,08017,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:47.000Z,60,58,58.3,35
+100004,Uncommitted,PD,Cheyenne,08017,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:47.000Z,60,23,23.3,14
+20286,Dean Phillips,PD,Cheyenne,08017,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:47.000Z,60,7,6.7,4
+20072905,Marianne Williamson,PD,Cheyenne,08017,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:47.000Z,60,2,1.7,1
+1036,Joe Biden,PD,Clear Creek,08019,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-12T21:59:45.000Z,1271,82,81.9,1041
+100004,Uncommitted,PD,Clear Creek,08019,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-12T21:59:45.000Z,1271,8,7.9,101
+20072905,Marianne Williamson,PD,Clear Creek,08019,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-12T21:59:45.000Z,1271,5,4.7,60
+20286,Dean Phillips,PD,Clear Creek,08019,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-12T21:59:45.000Z,1271,3,3.0,38
+1036,Joe Biden,PD,Conejos,08021,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:24.000Z,933,80,80.3,749
+100004,Uncommitted,PD,Conejos,08021,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:24.000Z,933,6,6.4,60
+20072905,Marianne Williamson,PD,Conejos,08021,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:24.000Z,933,3,2.7,25
+20286,Dean Phillips,PD,Conejos,08021,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:24.000Z,933,2,2.1,20
+1036,Joe Biden,PD,Costilla,08023,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-15T13:36:48.000Z,619,79,79.2,490
+100004,Uncommitted,PD,Costilla,08023,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-15T13:36:48.000Z,619,11,11.1,69
+20072905,Marianne Williamson,PD,Costilla,08023,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-15T13:36:48.000Z,619,2,1.9,12
+20286,Dean Phillips,PD,Costilla,08023,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-15T13:36:48.000Z,619,1,1.0,6
+1036,Joe Biden,PD,Crowley,08025,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:05.000Z,199,81,80.9,161
+100004,Uncommitted,PD,Crowley,08025,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:05.000Z,199,6,6.0,12
+20072905,Marianne Williamson,PD,Crowley,08025,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:05.000Z,199,6,5.5,11
+20286,Dean Phillips,PD,Crowley,08025,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:05.000Z,199,4,4.0,8
+1036,Joe Biden,PD,Custer,08027,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-04-04T21:19:31.000Z,480,90,90.2,433
+100004,Uncommitted,PD,Custer,08027,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-04-04T21:19:31.000Z,480,4,4.2,20
+20072905,Marianne Williamson,PD,Custer,08027,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-04-04T21:19:31.000Z,480,3,3.1,15
+20286,Dean Phillips,PD,Custer,08027,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-04-04T21:19:31.000Z,480,1,1.5,7
+1036,Joe Biden,PD,Delta,08029,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T16:24:53.000Z,2443,82,81.6,1994
+100004,Uncommitted,PD,Delta,08029,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T16:24:53.000Z,2443,8,8.2,201
+20072905,Marianne Williamson,PD,Delta,08029,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T16:24:53.000Z,2443,4,4.4,107
+20286,Dean Phillips,PD,Delta,08029,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T16:24:53.000Z,2443,2,2.4,58
+1036,Joe Biden,PD,Denver,08031,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:19.000Z,92380,81,80.9,74724
+100004,Uncommitted,PD,Denver,08031,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:19.000Z,92380,11,11.3,10403
+20286,Dean Phillips,PD,Denver,08031,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:19.000Z,92380,3,2.9,2648
+20072905,Marianne Williamson,PD,Denver,08031,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:19.000Z,92380,3,2.6,2419
+1036,Joe Biden,PD,Dolores,08033,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:15.000Z,109,75,75.2,82
+100004,Uncommitted,PD,Dolores,08033,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:15.000Z,109,7,7.3,8
+20072905,Marianne Williamson,PD,Dolores,08033,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:15.000Z,109,4,4.6,5
+20286,Dean Phillips,PD,Dolores,08033,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:15.000Z,109,3,2.8,3
+1036,Joe Biden,PD,Douglas,08035,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-15T21:33:52.000Z,32282,85,84.5,27301
+100004,Uncommitted,PD,Douglas,08035,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-15T21:33:52.000Z,32282,7,7.2,2315
+20286,Dean Phillips,PD,Douglas,08035,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-15T21:33:52.000Z,32282,4,3.8,1229
+20072905,Marianne Williamson,PD,Douglas,08035,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-15T21:33:52.000Z,32282,2,2.5,805
+1036,Joe Biden,PD,Eagle,08037,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,4605,85,85.0,3916
+100004,Uncommitted,PD,Eagle,08037,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,4605,7,6.9,316
+20286,Dean Phillips,PD,Eagle,08037,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,4605,4,3.5,164
+20072905,Marianne Williamson,PD,Eagle,08037,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,4605,3,2.7,123
+1036,Joe Biden,PD,El Paso,08041,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-25T17:32:36.000Z,51206,83,82.6,42314
+100004,Uncommitted,PD,El Paso,08041,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-25T17:32:36.000Z,51206,8,7.8,3993
+20286,Dean Phillips,PD,El Paso,08041,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-25T17:32:36.000Z,51206,3,3.4,1730
+20072905,Marianne Williamson,PD,El Paso,08041,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-25T17:32:36.000Z,51206,3,3.3,1673
+1036,Joe Biden,PD,Elbert,08039,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:24.000Z,1588,82,82.0,1302
+100004,Uncommitted,PD,Elbert,08039,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:24.000Z,1588,8,7.7,123
+20072905,Marianne Williamson,PD,Elbert,08039,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:24.000Z,1588,4,3.5,56
+20286,Dean Phillips,PD,Elbert,08039,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:24.000Z,1588,3,3.4,54
+1036,Joe Biden,PD,Fremont,08043,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:33.000Z,3182,84,83.9,2671
+100004,Uncommitted,PD,Fremont,08043,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:33.000Z,3182,8,7.6,242
+20072905,Marianne Williamson,PD,Fremont,08043,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:33.000Z,3182,3,3.1,98
+20286,Dean Phillips,PD,Fremont,08043,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:33.000Z,3182,3,2.8,88
+1036,Joe Biden,PD,Garfield,08045,Joe,True,Biden,DEM,Democratic,86,P,Colorado,2024-06-15T21:53:31.000Z,4856,83,83.0,4032
+100004,Uncommitted,PD,Garfield,08045,,False,Uncommitted,DEM,Democratic,86,P,Colorado,2024-06-15T21:53:31.000Z,4856,9,8.7,422
+20072905,Marianne Williamson,PD,Garfield,08045,Marianne,False,Williamson,DEM,Democratic,86,P,Colorado,2024-06-15T21:53:31.000Z,4856,3,3.2,154
+20286,Dean Phillips,PD,Garfield,08045,Dean,False,Phillips,DEM,Democratic,86,P,Colorado,2024-06-15T21:53:31.000Z,4856,3,2.8,137
+1036,Joe Biden,PD,Gilpin,08047,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-13T18:33:53.000Z,828,81,80.8,669
+100004,Uncommitted,PD,Gilpin,08047,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-13T18:33:53.000Z,828,10,9.8,81
+20072905,Marianne Williamson,PD,Gilpin,08047,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-13T18:33:53.000Z,828,4,4.3,36
+20286,Dean Phillips,PD,Gilpin,08047,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-13T18:33:53.000Z,828,3,2.8,23
+1036,Joe Biden,PD,Grand,08049,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:51.000Z,1493,84,83.8,1251
+100004,Uncommitted,PD,Grand,08049,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:51.000Z,1493,7,7.4,110
+20286,Dean Phillips,PD,Grand,08049,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:51.000Z,1493,4,3.6,54
+20072905,Marianne Williamson,PD,Grand,08049,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:51.000Z,1493,3,3.2,48
+1036,Joe Biden,PD,Gunnison,08051,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:44.000Z,2016,83,82.5,1664
+100004,Uncommitted,PD,Gunnison,08051,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:44.000Z,2016,10,9.6,194
+20286,Dean Phillips,PD,Gunnison,08051,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:44.000Z,2016,3,3.2,65
+20072905,Marianne Williamson,PD,Gunnison,08051,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:44.000Z,2016,2,2.4,49
+1036,Joe Biden,PD,Hinsdale,08053,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-06T03:35:50.000Z,66,86,86.4,57
+100004,Uncommitted,PD,Hinsdale,08053,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-06T03:35:50.000Z,66,5,4.5,3
+20286,Dean Phillips,PD,Hinsdale,08053,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-06T03:35:50.000Z,66,3,3.0,2
+20072905,Marianne Williamson,PD,Hinsdale,08053,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-06T03:35:50.000Z,66,3,3.0,2
+1036,Joe Biden,PD,Huerfano,08055,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:43.000Z,1042,82,82.4,859
+100004,Uncommitted,PD,Huerfano,08055,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:43.000Z,1042,8,8.0,83
+20286,Dean Phillips,PD,Huerfano,08055,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:43.000Z,1042,2,2.4,25
+20072905,Marianne Williamson,PD,Huerfano,08055,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:56:43.000Z,1042,2,2.3,24
+1036,Joe Biden,PD,Jackson,08057,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:59.000Z,41,93,92.7,38
+20286,Dean Phillips,PD,Jackson,08057,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:59.000Z,41,5,4.9,2
+20072905,Marianne Williamson,PD,Jackson,08057,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:59.000Z,41,2,2.4,1
+100004,Uncommitted,PD,Jackson,08057,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:53:59.000Z,41,0,0.0,0
+1036,Joe Biden,PD,Jefferson,08059,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-04-16T22:34:18.000Z,75345,83,82.5,62174
+100004,Uncommitted,PD,Jefferson,08059,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-04-16T22:34:18.000Z,75345,9,9.1,6902
+20286,Dean Phillips,PD,Jefferson,08059,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-04-16T22:34:18.000Z,75345,3,3.3,2470
+20072905,Marianne Williamson,PD,Jefferson,08059,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-04-16T22:34:18.000Z,75345,3,2.9,2160
+1036,Joe Biden,PD,Kiowa,08061,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:37.000Z,40,65,65.0,26
+100004,Uncommitted,PD,Kiowa,08061,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:37.000Z,40,22,22.5,9
+20286,Dean Phillips,PD,Kiowa,08061,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:37.000Z,40,5,5.0,2
+20072905,Marianne Williamson,PD,Kiowa,08061,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:37.000Z,40,2,2.5,1
+1036,Joe Biden,PD,Kit Carson,08063,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:09.000Z,226,71,71.2,161
+100004,Uncommitted,PD,Kit Carson,08063,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:09.000Z,226,18,17.7,40
+20072905,Marianne Williamson,PD,Kit Carson,08063,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:09.000Z,226,4,4.4,10
+20286,Dean Phillips,PD,Kit Carson,08063,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:09.000Z,226,4,3.5,8
+1036,Joe Biden,PD,La Plata,08067,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T22:02:38.000Z,7234,84,84.0,6080
+100004,Uncommitted,PD,La Plata,08067,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T22:02:38.000Z,7234,8,8.5,612
+20072905,Marianne Williamson,PD,La Plata,08067,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T22:02:38.000Z,7234,3,3.0,218
+20286,Dean Phillips,PD,La Plata,08067,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T22:02:38.000Z,7234,3,2.7,194
+1036,Joe Biden,PD,Lake,08065,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:57.000Z,728,79,79.3,577
+100004,Uncommitted,PD,Lake,08065,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:57.000Z,728,11,10.6,77
+20072905,Marianne Williamson,PD,Lake,08065,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:57.000Z,728,3,3.4,25
+20286,Dean Phillips,PD,Lake,08065,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:57.000Z,728,3,2.9,21
+1036,Joe Biden,PD,Larimer,08069,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:05.000Z,43284,83,83.3,36046
+100004,Uncommitted,PD,Larimer,08069,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:05.000Z,43284,9,8.7,3768
+20072905,Marianne Williamson,PD,Larimer,08069,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:05.000Z,43284,3,3.0,1324
+20286,Dean Phillips,PD,Larimer,08069,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:05.000Z,43284,3,2.9,1252
+1036,Joe Biden,PD,Las Animas,08071,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-13T22:17:52.000Z,1829,79,78.8,1442
+100004,Uncommitted,PD,Las Animas,08071,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-13T22:17:52.000Z,1829,12,12.2,223
+20072905,Marianne Williamson,PD,Las Animas,08071,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-13T22:17:52.000Z,1829,3,2.7,50
+20286,Dean Phillips,PD,Las Animas,08071,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-13T22:17:52.000Z,1829,2,2.5,45
+1036,Joe Biden,PD,Lincoln,08073,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:14.000Z,169,71,71.0,120
+100004,Uncommitted,PD,Lincoln,08073,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:14.000Z,169,14,13.6,23
+20286,Dean Phillips,PD,Lincoln,08073,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:14.000Z,169,3,3.5,6
+20072905,Marianne Williamson,PD,Lincoln,08073,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:14.000Z,169,3,3.5,6
+1036,Joe Biden,PD,Logan,08075,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:25.000Z,896,78,78.0,699
+100004,Uncommitted,PD,Logan,08075,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:25.000Z,896,11,11.0,99
+20286,Dean Phillips,PD,Logan,08075,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:25.000Z,896,3,3.2,29
+20072905,Marianne Williamson,PD,Logan,08075,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:25.000Z,896,3,2.9,26
+1036,Joe Biden,PD,Mesa,08077,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T17:23:44.000Z,11549,84,84.2,9719
+100004,Uncommitted,PD,Mesa,08077,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T17:23:44.000Z,11549,7,7.0,807
+20286,Dean Phillips,PD,Mesa,08077,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T17:23:44.000Z,11549,3,3.3,383
+20072905,Marianne Williamson,PD,Mesa,08077,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T17:23:44.000Z,11549,3,2.9,339
+1036,Joe Biden,PD,Mineral,08079,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T14:51:59.000Z,164,77,77.4,127
+100004,Uncommitted,PD,Mineral,08079,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T14:51:59.000Z,164,8,7.9,13
+20072905,Marianne Williamson,PD,Mineral,08079,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T14:51:59.000Z,164,6,6.1,10
+20286,Dean Phillips,PD,Mineral,08079,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T14:51:59.000Z,164,5,4.9,8
+1036,Joe Biden,PD,Moffat,08081,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:34.000Z,371,78,78.2,290
+100004,Uncommitted,PD,Moffat,08081,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:34.000Z,371,9,8.6,32
+20286,Dean Phillips,PD,Moffat,08081,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:34.000Z,371,5,5.1,19
+20072905,Marianne Williamson,PD,Moffat,08081,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:34.000Z,371,4,4.0,15
+1036,Joe Biden,PD,Montezuma,08083,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:43.000Z,2241,85,84.7,1898
+100004,Uncommitted,PD,Montezuma,08083,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:43.000Z,2241,8,7.9,178
+20072905,Marianne Williamson,PD,Montezuma,08083,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:43.000Z,2241,3,3.0,68
+20286,Dean Phillips,PD,Montezuma,08083,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:43.000Z,2241,3,2.6,58
+1036,Joe Biden,PD,Montrose,08085,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:52.000Z,3076,86,86.4,2658
+100004,Uncommitted,PD,Montrose,08085,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:52.000Z,3076,6,6.2,191
+20286,Dean Phillips,PD,Montrose,08085,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:52.000Z,3076,3,2.7,84
+20072905,Marianne Williamson,PD,Montrose,08085,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:57:52.000Z,3076,3,2.7,82
+1036,Joe Biden,PD,Morgan,08087,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:01.000Z,1156,73,73.0,844
+100004,Uncommitted,PD,Morgan,08087,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:01.000Z,1156,12,12.1,140
+20072905,Marianne Williamson,PD,Morgan,08087,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:01.000Z,1156,4,4.5,52
+20286,Dean Phillips,PD,Morgan,08087,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:01.000Z,1156,4,3.8,44
+1036,Joe Biden,PD,Otero,08089,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:09.000Z,1408,81,80.8,1137
+100004,Uncommitted,PD,Otero,08089,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:09.000Z,1408,7,7.3,103
+20072905,Marianne Williamson,PD,Otero,08089,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:09.000Z,1408,3,2.8,40
+20286,Dean Phillips,PD,Otero,08089,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:09.000Z,1408,3,2.6,37
+1036,Joe Biden,PD,Ouray,08091,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:16.000Z,906,89,89.2,808
+100004,Uncommitted,PD,Ouray,08091,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:16.000Z,906,5,4.5,41
+20072905,Marianne Williamson,PD,Ouray,08091,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:16.000Z,906,3,2.9,26
+20286,Dean Phillips,PD,Ouray,08091,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:16.000Z,906,2,2.3,21
+1036,Joe Biden,PD,Park,08093,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:24.000Z,1644,85,84.8,1394
+100004,Uncommitted,PD,Park,08093,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:24.000Z,1644,7,7.1,116
+20072905,Marianne Williamson,PD,Park,08093,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:24.000Z,1644,3,3.2,53
+20286,Dean Phillips,PD,Park,08093,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:24.000Z,1644,3,2.7,44
+1036,Joe Biden,PD,Phillips,08095,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-15T20:31:43.000Z,161,71,71.4,115
+100004,Uncommitted,PD,Phillips,08095,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-15T20:31:43.000Z,161,11,11.2,18
+20286,Dean Phillips,PD,Phillips,08095,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-15T20:31:43.000Z,161,9,9.3,15
+20072905,Marianne Williamson,PD,Phillips,08095,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-15T20:31:43.000Z,161,4,3.7,6
+1036,Joe Biden,PD,Pitkin,08097,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:24.000Z,2388,87,87.3,2085
+100004,Uncommitted,PD,Pitkin,08097,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:24.000Z,2388,6,5.8,138
+20286,Dean Phillips,PD,Pitkin,08097,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:24.000Z,2388,3,3.1,74
+20072905,Marianne Williamson,PD,Pitkin,08097,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:24.000Z,2388,3,2.7,64
+1036,Joe Biden,PD,Prowers,08099,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:33.000Z,498,75,74.7,372
+100004,Uncommitted,PD,Prowers,08099,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:33.000Z,498,11,11.0,55
+20286,Dean Phillips,PD,Prowers,08099,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:33.000Z,498,5,4.6,23
+20072905,Marianne Williamson,PD,Prowers,08099,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:33.000Z,498,3,3.2,16
+1036,Joe Biden,PD,Pueblo,08101,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:40.000Z,16998,82,82.0,13937
+100004,Uncommitted,PD,Pueblo,08101,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:40.000Z,16998,9,8.7,1473
+20072905,Marianne Williamson,PD,Pueblo,08101,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:40.000Z,16998,3,3.0,505
+20286,Dean Phillips,PD,Pueblo,08101,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:40.000Z,16998,3,2.7,453
+1036,Joe Biden,PD,Rio Blanco,08103,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:48.000Z,184,81,81.5,150
+100004,Uncommitted,PD,Rio Blanco,08103,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:48.000Z,184,6,6.0,11
+20286,Dean Phillips,PD,Rio Blanco,08103,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:48.000Z,184,5,4.9,9
+20072905,Marianne Williamson,PD,Rio Blanco,08103,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:58:48.000Z,184,5,4.9,9
+1036,Joe Biden,PD,Rio Grande,08105,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:53.000Z,928,81,81.2,754
+100004,Uncommitted,PD,Rio Grande,08105,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:53.000Z,928,8,7.9,73
+20072905,Marianne Williamson,PD,Rio Grande,08105,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:53.000Z,928,4,3.9,36
+20286,Dean Phillips,PD,Rio Grande,08105,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T22:00:53.000Z,928,2,2.0,19
+1036,Joe Biden,PD,Routt,08107,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:11.000Z,2987,87,86.6,2588
+100004,Uncommitted,PD,Routt,08107,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:11.000Z,2987,7,6.6,196
+20286,Dean Phillips,PD,Routt,08107,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:11.000Z,2987,4,3.6,109
+20072905,Marianne Williamson,PD,Routt,08107,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:11.000Z,2987,2,2.1,62
+1036,Joe Biden,PD,Saguache,08109,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-15T15:43:43.000Z,787,79,79.3,624
+100004,Uncommitted,PD,Saguache,08109,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-15T15:43:43.000Z,787,10,10.2,80
+20072905,Marianne Williamson,PD,Saguache,08109,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-15T15:43:43.000Z,787,4,4.4,35
+20286,Dean Phillips,PD,Saguache,08109,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-15T15:43:43.000Z,787,4,3.6,28
+1036,Joe Biden,PD,San Juan,08111,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T17:42:44.000Z,112,81,81.2,91
+20072905,Marianne Williamson,PD,San Juan,08111,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T17:42:44.000Z,112,7,7.1,8
+100004,Uncommitted,PD,San Juan,08111,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T17:42:44.000Z,112,5,5.4,6
+20286,Dean Phillips,PD,San Juan,08111,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T17:42:44.000Z,112,2,1.8,2
+1036,Joe Biden,PD,San Miguel,08113,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:01.000Z,1076,86,85.8,923
+100004,Uncommitted,PD,San Miguel,08113,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:01.000Z,1076,8,8.0,86
+20286,Dean Phillips,PD,San Miguel,08113,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:01.000Z,1076,3,3.0,33
+20072905,Marianne Williamson,PD,San Miguel,08113,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:55:01.000Z,1076,2,2.1,23
+1036,Joe Biden,PD,Sedgwick,08115,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:10.000Z,131,84,84.0,110
+100004,Uncommitted,PD,Sedgwick,08115,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:10.000Z,131,11,10.7,14
+20072905,Marianne Williamson,PD,Sedgwick,08115,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:10.000Z,131,3,3.0,4
+20286,Dean Phillips,PD,Sedgwick,08115,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T22:01:10.000Z,131,1,1.5,2
+1036,Joe Biden,PD,Summit,08117,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:44.000Z,3138,84,84.4,2649
+100004,Uncommitted,PD,Summit,08117,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:44.000Z,3138,8,8.1,255
+20286,Dean Phillips,PD,Summit,08117,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:44.000Z,3138,4,3.9,121
+20072905,Marianne Williamson,PD,Summit,08117,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:44.000Z,3138,2,1.9,59
+1036,Joe Biden,PD,Teller,08119,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:44.000Z,1934,85,84.8,1640
+100004,Uncommitted,PD,Teller,08119,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:44.000Z,1934,7,7.3,142
+20072905,Marianne Williamson,PD,Teller,08119,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:44.000Z,1934,3,3.1,60
+20286,Dean Phillips,PD,Teller,08119,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-18T15:51:44.000Z,1934,3,2.8,54
+1036,Joe Biden,PD,Washington,08121,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:34.000Z,123,77,77.2,95
+20072905,Marianne Williamson,PD,Washington,08121,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:34.000Z,123,8,8.1,10
+100004,Uncommitted,PD,Washington,08121,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:34.000Z,123,6,5.7,7
+20286,Dean Phillips,PD,Washington,08121,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:54:34.000Z,123,3,3.3,4
+1036,Joe Biden,PD,Weld,08123,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,19131,81,81.4,15568
+100004,Uncommitted,PD,Weld,08123,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,19131,8,8.2,1578
+20286,Dean Phillips,PD,Weld,08123,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,19131,4,3.6,688
+20072905,Marianne Williamson,PD,Weld,08123,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-03-14T21:41:49.000Z,19131,3,3.1,598
+1036,Joe Biden,PD,Yuma,08125,Joe,True,Biden,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:13.000Z,325,68,68.3,222
+100004,Uncommitted,PD,Yuma,08125,,False,Uncommitted,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:13.000Z,325,14,13.5,44
+20072905,Marianne Williamson,PD,Yuma,08125,Marianne,False,Williamson,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:13.000Z,325,6,6.2,20
+20286,Dean Phillips,PD,Yuma,08125,Dean,False,Phillips,DEM,Democratic,100,P,Colorado,2024-06-15T21:59:13.000Z,325,4,4.3,14

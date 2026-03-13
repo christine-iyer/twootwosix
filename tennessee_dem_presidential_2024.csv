@@ -1,0 +1,191 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Anderson,47001,Joe,True,Biden,DEM,Democratic,91,P,Tennessee,2024-03-06T03:02:49.000Z,1341,93,93.1,1249
+100004,Uncommitted,PD,Anderson,47001,,False,Uncommitted,DEM,Democratic,91,P,Tennessee,2024-03-06T03:02:49.000Z,1341,7,6.9,92
+1036,Joe Biden,PD,Bedford,47003,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:26:11.000Z,363,93,92.8,337
+100004,Uncommitted,PD,Bedford,47003,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:26:11.000Z,363,7,7.2,26
+1036,Joe Biden,PD,Benton,47005,Joe,True,Biden,DEM,Democratic,47,P,Tennessee,2024-04-01T19:05:51.000Z,149,93,93.3,139
+100004,Uncommitted,PD,Benton,47005,,False,Uncommitted,DEM,Democratic,47,P,Tennessee,2024-04-01T19:05:51.000Z,149,7,6.7,10
+1036,Joe Biden,PD,Bledsoe,47007,Joe,True,Biden,DEM,Democratic,70,P,Tennessee,2024-03-06T02:44:53.000Z,156,90,90.4,141
+100004,Uncommitted,PD,Bledsoe,47007,,False,Uncommitted,DEM,Democratic,70,P,Tennessee,2024-03-06T02:44:53.000Z,156,10,9.6,15
+1036,Joe Biden,PD,Blount,47009,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:53.000Z,1739,93,93.2,1620
+100004,Uncommitted,PD,Blount,47009,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:53.000Z,1739,7,6.8,119
+1036,Joe Biden,PD,Bradley,47011,Joe,True,Biden,DEM,Democratic,46,P,Tennessee,2024-03-08T20:29:37.000Z,738,91,90.8,670
+100004,Uncommitted,PD,Bradley,47011,,False,Uncommitted,DEM,Democratic,46,P,Tennessee,2024-03-08T20:29:37.000Z,738,9,9.2,68
+1036,Joe Biden,PD,Campbell,47013,Joe,True,Biden,DEM,Democratic,43,P,Tennessee,2024-03-06T03:21:37.000Z,188,89,89.4,168
+100004,Uncommitted,PD,Campbell,47013,,False,Uncommitted,DEM,Democratic,43,P,Tennessee,2024-03-06T03:21:37.000Z,188,11,10.6,20
+1036,Joe Biden,PD,Cannon,47015,Joe,True,Biden,DEM,Democratic,51,P,Tennessee,2024-03-06T02:26:11.000Z,133,83,82.7,110
+100004,Uncommitted,PD,Cannon,47015,,False,Uncommitted,DEM,Democratic,51,P,Tennessee,2024-03-06T02:26:11.000Z,133,17,17.3,23
+1036,Joe Biden,PD,Carroll,47017,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-06-17T11:22:26.000Z,263,94,94.3,248
+100004,Uncommitted,PD,Carroll,47017,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-06-17T11:22:26.000Z,263,6,5.7,15
+1036,Joe Biden,PD,Carter,47019,Joe,True,Biden,DEM,Democratic,78,P,Tennessee,2024-03-06T02:44:51.000Z,337,83,82.8,279
+100004,Uncommitted,PD,Carter,47019,,False,Uncommitted,DEM,Democratic,78,P,Tennessee,2024-03-06T02:44:51.000Z,337,17,17.2,58
+1036,Joe Biden,PD,Cheatham,47021,Joe,True,Biden,DEM,Democratic,92,P,Tennessee,2024-03-06T02:53:06.000Z,600,91,91.2,547
+100004,Uncommitted,PD,Cheatham,47021,,False,Uncommitted,DEM,Democratic,92,P,Tennessee,2024-03-06T02:53:06.000Z,600,9,8.8,53
+1036,Joe Biden,PD,Chester,47023,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:24:52.000Z,132,93,93.2,123
+100004,Uncommitted,PD,Chester,47023,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:24:52.000Z,132,7,6.8,9
+1036,Joe Biden,PD,Claiborne,47025,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-03-06T03:01:20.000Z,367,86,85.6,314
+100004,Uncommitted,PD,Claiborne,47025,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-03-06T03:01:20.000Z,367,14,14.4,53
+1036,Joe Biden,PD,Clay,47027,Joe,True,Biden,DEM,Democratic,84,P,Tennessee,2024-03-08T20:15:00.000Z,53,94,94.3,50
+100004,Uncommitted,PD,Clay,47027,,False,Uncommitted,DEM,Democratic,84,P,Tennessee,2024-03-08T20:15:00.000Z,53,6,5.7,3
+1036,Joe Biden,PD,Cocke,47029,Joe,True,Biden,DEM,Democratic,44,P,Tennessee,2024-06-17T11:25:48.000Z,196,92,91.8,180
+100004,Uncommitted,PD,Cocke,47029,,False,Uncommitted,DEM,Democratic,44,P,Tennessee,2024-06-17T11:25:48.000Z,196,8,8.2,16
+1036,Joe Biden,PD,Coffee,47031,Joe,True,Biden,DEM,Democratic,71,P,Tennessee,2024-06-17T11:21:54.000Z,476,93,93.3,444
+100004,Uncommitted,PD,Coffee,47031,,False,Uncommitted,DEM,Democratic,71,P,Tennessee,2024-06-17T11:21:54.000Z,476,7,6.7,32
+1036,Joe Biden,PD,Crockett,47033,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-03-06T02:35:15.000Z,102,92,92.2,94
+100004,Uncommitted,PD,Crockett,47033,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-03-06T02:35:15.000Z,102,8,7.8,8
+1036,Joe Biden,PD,Cumberland,47035,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-03-06T02:53:06.000Z,702,95,94.9,666
+100004,Uncommitted,PD,Cumberland,47035,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-03-06T02:53:06.000Z,702,5,5.1,36
+1036,Joe Biden,PD,Davidson,47037,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-04-01T19:08:38.000Z,36784,91,90.6,33313
+100004,Uncommitted,PD,Davidson,47037,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-04-01T19:08:38.000Z,36784,9,9.4,3471
+1036,Joe Biden,PD,Decatur,47039,Joe,True,Biden,DEM,Democratic,68,P,Tennessee,2024-06-17T11:24:30.000Z,124,94,94.4,117
+100004,Uncommitted,PD,Decatur,47039,,False,Uncommitted,DEM,Democratic,68,P,Tennessee,2024-06-17T11:24:30.000Z,124,6,5.6,7
+1036,Joe Biden,PD,DeKalb,47041,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-06-17T11:24:06.000Z,208,89,88.9,185
+100004,Uncommitted,PD,DeKalb,47041,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-06-17T11:24:06.000Z,208,11,11.1,23
+1036,Joe Biden,PD,Dickson,47043,Joe,True,Biden,DEM,Democratic,98,P,Tennessee,2024-06-17T11:22:53.000Z,516,93,93.4,482
+100004,Uncommitted,PD,Dickson,47043,,False,Uncommitted,DEM,Democratic,98,P,Tennessee,2024-06-17T11:22:53.000Z,516,7,6.6,34
+1036,Joe Biden,PD,Dyer,47045,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-06-17T11:23:22.000Z,241,96,96.3,232
+100004,Uncommitted,PD,Dyer,47045,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-06-17T11:23:22.000Z,241,4,3.7,9
+1036,Joe Biden,PD,Fayette,47047,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T03:32:59.000Z,758,98,97.6,740
+100004,Uncommitted,PD,Fayette,47047,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T03:32:59.000Z,758,2,2.4,18
+1036,Joe Biden,PD,Fentress,47049,Joe,True,Biden,DEM,Democratic,59,P,Tennessee,2024-03-06T02:33:14.000Z,129,88,87.6,113
+100004,Uncommitted,PD,Fentress,47049,,False,Uncommitted,DEM,Democratic,59,P,Tennessee,2024-03-06T02:33:14.000Z,129,12,12.4,16
+1036,Joe Biden,PD,Franklin,47051,Joe,True,Biden,DEM,Democratic,98,P,Tennessee,2024-06-17T11:22:36.000Z,522,91,90.6,473
+100004,Uncommitted,PD,Franklin,47051,,False,Uncommitted,DEM,Democratic,98,P,Tennessee,2024-06-17T11:22:36.000Z,522,9,9.4,49
+1036,Joe Biden,PD,Gibson,47053,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:29:18.000Z,490,96,96.3,472
+100004,Uncommitted,PD,Gibson,47053,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:29:18.000Z,490,4,3.7,18
+1036,Joe Biden,PD,Giles,47055,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T04:40:54.000Z,322,94,93.8,302
+100004,Uncommitted,PD,Giles,47055,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T04:40:54.000Z,322,6,6.2,20
+1036,Joe Biden,PD,Grainger,47057,Joe,True,Biden,DEM,Democratic,52,P,Tennessee,2024-03-06T02:37:15.000Z,131,89,89.3,117
+100004,Uncommitted,PD,Grainger,47057,,False,Uncommitted,DEM,Democratic,52,P,Tennessee,2024-03-06T02:37:15.000Z,131,11,10.7,14
+1036,Joe Biden,PD,Greene,47059,Joe,True,Biden,DEM,Democratic,96,P,Tennessee,2024-06-17T11:23:02.000Z,411,91,91.0,374
+100004,Uncommitted,PD,Greene,47059,,False,Uncommitted,DEM,Democratic,96,P,Tennessee,2024-06-17T11:23:02.000Z,411,9,9.0,37
+1036,Joe Biden,PD,Grundy,47061,Joe,True,Biden,DEM,Democratic,57,P,Tennessee,2024-03-06T02:42:38.000Z,142,86,85.9,122
+100004,Uncommitted,PD,Grundy,47061,,False,Uncommitted,DEM,Democratic,57,P,Tennessee,2024-03-06T02:42:38.000Z,142,14,14.1,20
+1036,Joe Biden,PD,Hamblen,47063,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:33:14.000Z,494,92,92.3,456
+100004,Uncommitted,PD,Hamblen,47063,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:33:14.000Z,494,8,7.7,38
+1036,Joe Biden,PD,Hamilton,47065,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:25.000Z,8479,92,91.8,7787
+100004,Uncommitted,PD,Hamilton,47065,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:25.000Z,8479,8,8.2,692
+1036,Joe Biden,PD,Hancock,47067,Joe,True,Biden,DEM,Democratic,56,P,Tennessee,2024-03-06T02:33:17.000Z,32,81,81.2,26
+100004,Uncommitted,PD,Hancock,47067,,False,Uncommitted,DEM,Democratic,56,P,Tennessee,2024-03-06T02:33:17.000Z,32,19,18.7,6
+1036,Joe Biden,PD,Hardeman,47069,Joe,True,Biden,DEM,Democratic,86,P,Tennessee,2024-06-17T11:28:42.000Z,591,97,97.1,574
+100004,Uncommitted,PD,Hardeman,47069,,False,Uncommitted,DEM,Democratic,86,P,Tennessee,2024-06-17T11:28:42.000Z,591,3,2.9,17
+1036,Joe Biden,PD,Hardin,47071,Joe,True,Biden,DEM,Democratic,28,P,Tennessee,2024-06-17T11:24:19.000Z,96,91,90.6,87
+100004,Uncommitted,PD,Hardin,47071,,False,Uncommitted,DEM,Democratic,28,P,Tennessee,2024-06-17T11:24:19.000Z,96,9,9.4,9
+1036,Joe Biden,PD,Hawkins,47073,Joe,True,Biden,DEM,Democratic,42,P,Tennessee,2024-06-17T11:22:15.000Z,306,92,92.5,283
+100004,Uncommitted,PD,Hawkins,47073,,False,Uncommitted,DEM,Democratic,42,P,Tennessee,2024-06-17T11:22:15.000Z,306,8,7.5,23
+1036,Joe Biden,PD,Haywood,47075,Joe,True,Biden,DEM,Democratic,85,P,Tennessee,2024-03-06T02:35:15.000Z,477,97,97.5,465
+100004,Uncommitted,PD,Haywood,47075,,False,Uncommitted,DEM,Democratic,85,P,Tennessee,2024-03-06T02:35:15.000Z,477,3,2.5,12
+1036,Joe Biden,PD,Henderson,47077,Joe,True,Biden,DEM,Democratic,33,P,Tennessee,2024-03-06T03:01:20.000Z,89,92,92.1,82
+100004,Uncommitted,PD,Henderson,47077,,False,Uncommitted,DEM,Democratic,33,P,Tennessee,2024-03-06T03:01:20.000Z,89,8,7.9,7
+1036,Joe Biden,PD,Henry,47079,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-06-17T11:26:29.000Z,413,96,95.9,396
+100004,Uncommitted,PD,Henry,47079,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-06-17T11:26:29.000Z,413,4,4.1,17
+1036,Joe Biden,PD,Hickman,47081,Joe,True,Biden,DEM,Democratic,52,P,Tennessee,2024-03-06T02:49:19.000Z,206,94,94.2,194
+100004,Uncommitted,PD,Hickman,47081,,False,Uncommitted,DEM,Democratic,52,P,Tennessee,2024-03-06T02:49:19.000Z,206,6,5.8,12
+1036,Joe Biden,PD,Houston,47083,Joe,True,Biden,DEM,Democratic,72,P,Tennessee,2024-03-06T02:26:11.000Z,113,90,90.3,102
+100004,Uncommitted,PD,Houston,47083,,False,Uncommitted,DEM,Democratic,72,P,Tennessee,2024-03-06T02:26:11.000Z,113,10,9.7,11
+1036,Joe Biden,PD,Humphreys,47085,Joe,True,Biden,DEM,Democratic,53,P,Tennessee,2024-04-01T19:11:01.000Z,217,93,93.1,202
+100004,Uncommitted,PD,Humphreys,47085,,False,Uncommitted,DEM,Democratic,53,P,Tennessee,2024-04-01T19:11:01.000Z,217,7,6.9,15
+1036,Joe Biden,PD,Jackson,47087,Joe,True,Biden,DEM,Democratic,84,P,Tennessee,2024-03-06T02:33:52.000Z,174,90,89.7,156
+100004,Uncommitted,PD,Jackson,47087,,False,Uncommitted,DEM,Democratic,84,P,Tennessee,2024-03-06T02:33:52.000Z,174,10,10.3,18
+1036,Joe Biden,PD,Jefferson,47089,Joe,True,Biden,DEM,Democratic,93,P,Tennessee,2024-03-06T02:35:15.000Z,360,92,92.2,332
+100004,Uncommitted,PD,Jefferson,47089,,False,Uncommitted,DEM,Democratic,93,P,Tennessee,2024-03-06T02:35:15.000Z,360,8,7.8,28
+1036,Joe Biden,PD,Johnson,47091,Joe,True,Biden,DEM,Democratic,55,P,Tennessee,2024-03-06T02:42:39.000Z,131,92,92.4,121
+100004,Uncommitted,PD,Johnson,47091,,False,Uncommitted,DEM,Democratic,55,P,Tennessee,2024-03-06T02:42:39.000Z,131,8,7.6,10
+1036,Joe Biden,PD,Knox,47093,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-04-01T19:11:20.000Z,12116,89,88.5,10727
+100004,Uncommitted,PD,Knox,47093,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-04-01T19:11:20.000Z,12116,11,11.5,1389
+1036,Joe Biden,PD,Lake,47095,Joe,True,Biden,DEM,Democratic,86,P,Tennessee,2024-03-08T20:28:12.000Z,83,95,95.2,79
+100004,Uncommitted,PD,Lake,47095,,False,Uncommitted,DEM,Democratic,86,P,Tennessee,2024-03-08T20:28:12.000Z,83,5,4.8,4
+1036,Joe Biden,PD,Lauderdale,47097,Joe,True,Biden,DEM,Democratic,70,P,Tennessee,2024-06-17T11:25:01.000Z,355,97,96.6,343
+100004,Uncommitted,PD,Lauderdale,47097,,False,Uncommitted,DEM,Democratic,70,P,Tennessee,2024-06-17T11:25:01.000Z,355,3,3.4,12
+1036,Joe Biden,PD,Lawrence,47099,Joe,True,Biden,DEM,Democratic,38,P,Tennessee,2024-03-06T02:22:41.000Z,243,88,88.5,215
+100004,Uncommitted,PD,Lawrence,47099,,False,Uncommitted,DEM,Democratic,38,P,Tennessee,2024-03-06T02:22:41.000Z,243,12,11.5,28
+1036,Joe Biden,PD,Lewis,47101,Joe,True,Biden,DEM,Democratic,62,P,Tennessee,2024-03-06T02:53:22.000Z,127,92,92.1,117
+100004,Uncommitted,PD,Lewis,47101,,False,Uncommitted,DEM,Democratic,62,P,Tennessee,2024-03-06T02:53:22.000Z,127,8,7.9,10
+1036,Joe Biden,PD,Lincoln,47103,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:44:53.000Z,297,94,94.3,280
+100004,Uncommitted,PD,Lincoln,47103,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:44:53.000Z,297,6,5.7,17
+1036,Joe Biden,PD,Loudon,47105,Joe,True,Biden,DEM,Democratic,87,P,Tennessee,2024-06-17T11:25:59.000Z,705,94,94.5,666
+100004,Uncommitted,PD,Loudon,47105,,False,Uncommitted,DEM,Democratic,87,P,Tennessee,2024-06-17T11:25:59.000Z,705,6,5.5,39
+1036,Joe Biden,PD,Macon,47111,Joe,True,Biden,DEM,Democratic,48,P,Tennessee,2024-03-06T02:39:15.000Z,106,92,92.5,98
+100004,Uncommitted,PD,Macon,47111,,False,Uncommitted,DEM,Democratic,48,P,Tennessee,2024-03-06T02:39:15.000Z,106,8,7.5,8
+1036,Joe Biden,PD,Madison,47113,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:43.000Z,1938,97,97.1,1882
+100004,Uncommitted,PD,Madison,47113,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:43.000Z,1938,3,2.9,56
+1036,Joe Biden,PD,Marion,47115,Joe,True,Biden,DEM,Democratic,55,P,Tennessee,2024-03-06T03:27:09.000Z,517,85,84.7,438
+100004,Uncommitted,PD,Marion,47115,,False,Uncommitted,DEM,Democratic,55,P,Tennessee,2024-03-06T03:27:09.000Z,517,15,15.3,79
+1036,Joe Biden,PD,Marshall,47117,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:33:15.000Z,333,97,97.3,324
+100004,Uncommitted,PD,Marshall,47117,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:33:15.000Z,333,3,2.7,9
+1036,Joe Biden,PD,Maury,47119,Joe,True,Biden,DEM,Democratic,75,P,Tennessee,2024-04-01T19:15:51.000Z,1047,94,94.1,985
+100004,Uncommitted,PD,Maury,47119,,False,Uncommitted,DEM,Democratic,75,P,Tennessee,2024-04-01T19:15:51.000Z,1047,6,5.9,62
+1036,Joe Biden,PD,McMinn,47107,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-06-17T11:26:11.000Z,399,91,91.5,365
+100004,Uncommitted,PD,McMinn,47107,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-06-17T11:26:11.000Z,399,9,8.5,34
+1036,Joe Biden,PD,McNairy,47109,Joe,True,Biden,DEM,Democratic,45,P,Tennessee,2024-04-01T19:13:31.000Z,166,94,94.0,156
+100004,Uncommitted,PD,McNairy,47109,,False,Uncommitted,DEM,Democratic,45,P,Tennessee,2024-04-01T19:13:31.000Z,166,6,6.0,10
+1036,Joe Biden,PD,Meigs,47121,Joe,True,Biden,DEM,Democratic,71,P,Tennessee,2024-03-06T02:25:20.000Z,149,91,90.6,135
+100004,Uncommitted,PD,Meigs,47121,,False,Uncommitted,DEM,Democratic,71,P,Tennessee,2024-03-06T02:25:20.000Z,149,9,9.4,14
+1036,Joe Biden,PD,Monroe,47123,Joe,True,Biden,DEM,Democratic,43,P,Tennessee,2024-03-06T03:18:25.000Z,318,92,91.5,291
+100004,Uncommitted,PD,Monroe,47123,,False,Uncommitted,DEM,Democratic,43,P,Tennessee,2024-03-06T03:18:25.000Z,318,8,8.5,27
+1036,Joe Biden,PD,Montgomery,47125,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-04-01T19:16:19.000Z,2347,93,93.4,2192
+100004,Uncommitted,PD,Montgomery,47125,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-04-01T19:16:19.000Z,2347,7,6.6,155
+1036,Joe Biden,PD,Moore,47127,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:29:53.000Z,87,95,95.4,83
+100004,Uncommitted,PD,Moore,47127,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:29:53.000Z,87,5,4.6,4
+1036,Joe Biden,PD,Morgan,47129,Joe,True,Biden,DEM,Democratic,58,P,Tennessee,2024-04-01T19:16:39.000Z,145,92,91.7,133
+100004,Uncommitted,PD,Morgan,47129,,False,Uncommitted,DEM,Democratic,58,P,Tennessee,2024-04-01T19:16:39.000Z,145,8,8.3,12
+1036,Joe Biden,PD,Obion,47131,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-03-06T02:27:45.000Z,212,94,94.3,200
+100004,Uncommitted,PD,Obion,47131,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-03-06T02:27:45.000Z,212,6,5.7,12
+1036,Joe Biden,PD,Overton,47133,Joe,True,Biden,DEM,Democratic,64,P,Tennessee,2024-03-06T03:19:38.000Z,302,87,86.8,262
+100004,Uncommitted,PD,Overton,47133,,False,Uncommitted,DEM,Democratic,64,P,Tennessee,2024-03-06T03:19:38.000Z,302,13,13.2,40
+1036,Joe Biden,PD,Perry,47135,Joe,True,Biden,DEM,Democratic,51,P,Tennessee,2024-03-06T02:26:12.000Z,61,95,95.1,58
+100004,Uncommitted,PD,Perry,47135,,False,Uncommitted,DEM,Democratic,51,P,Tennessee,2024-03-06T02:26:12.000Z,61,5,4.9,3
+1036,Joe Biden,PD,Pickett,47137,Joe,True,Biden,DEM,Democratic,53,P,Tennessee,2024-03-06T02:26:12.000Z,58,100,100.0,58
+100004,Uncommitted,PD,Pickett,47137,,False,Uncommitted,DEM,Democratic,53,P,Tennessee,2024-03-06T02:26:12.000Z,58,0,0.0,0
+1036,Joe Biden,PD,Polk,47139,Joe,True,Biden,DEM,Democratic,58,P,Tennessee,2024-03-06T04:13:30.000Z,236,89,88.6,209
+100004,Uncommitted,PD,Polk,47139,,False,Uncommitted,DEM,Democratic,58,P,Tennessee,2024-03-06T04:13:30.000Z,236,11,11.4,27
+1036,Joe Biden,PD,Putnam,47141,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:22:06.000Z,1057,93,93.4,987
+100004,Uncommitted,PD,Putnam,47141,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:22:06.000Z,1057,7,6.6,70
+1036,Joe Biden,PD,Rhea,47143,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-03-06T02:33:15.000Z,226,90,89.8,203
+100004,Uncommitted,PD,Rhea,47143,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-03-06T02:33:15.000Z,226,10,10.2,23
+1036,Joe Biden,PD,Roane,47145,Joe,True,Biden,DEM,Democratic,98,P,Tennessee,2024-06-17T11:21:46.000Z,705,93,93.2,657
+100004,Uncommitted,PD,Roane,47145,,False,Uncommitted,DEM,Democratic,98,P,Tennessee,2024-06-17T11:21:46.000Z,705,7,6.8,48
+1036,Joe Biden,PD,Robertson,47147,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-06-17T11:22:44.000Z,750,92,91.9,689
+100004,Uncommitted,PD,Robertson,47147,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-06-17T11:22:44.000Z,750,8,8.1,61
+1036,Joe Biden,PD,Rutherford,47149,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-04-01T19:17:42.000Z,4783,92,92.2,4409
+100004,Uncommitted,PD,Rutherford,47149,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-04-01T19:17:42.000Z,4783,8,7.8,374
+1036,Joe Biden,PD,Scott,47151,Joe,True,Biden,DEM,Democratic,46,P,Tennessee,2024-03-06T02:22:41.000Z,73,93,93.2,68
+100004,Uncommitted,PD,Scott,47151,,False,Uncommitted,DEM,Democratic,46,P,Tennessee,2024-03-06T02:22:41.000Z,73,7,6.8,5
+1036,Joe Biden,PD,Sequatchie,47153,Joe,True,Biden,DEM,Democratic,81,P,Tennessee,2024-03-06T02:35:15.000Z,101,92,92.1,93
+100004,Uncommitted,PD,Sequatchie,47153,,False,Uncommitted,DEM,Democratic,81,P,Tennessee,2024-03-06T02:35:15.000Z,101,8,7.9,8
+1036,Joe Biden,PD,Sevier,47155,Joe,True,Biden,DEM,Democratic,97,P,Tennessee,2024-06-17T11:27:42.000Z,570,92,92.1,525
+100004,Uncommitted,PD,Sevier,47155,,False,Uncommitted,DEM,Democratic,97,P,Tennessee,2024-06-17T11:27:42.000Z,570,8,7.9,45
+1036,Joe Biden,PD,Shelby,47157,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:18.000Z,28780,95,94.8,27289
+100004,Uncommitted,PD,Shelby,47157,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:20:18.000Z,28780,5,5.2,1491
+1036,Joe Biden,PD,Smith,47159,Joe,True,Biden,DEM,Democratic,38,P,Tennessee,2024-03-06T02:44:51.000Z,164,90,90.2,148
+100004,Uncommitted,PD,Smith,47159,,False,Uncommitted,DEM,Democratic,38,P,Tennessee,2024-03-06T02:44:51.000Z,164,10,9.8,16
+1036,Joe Biden,PD,Stewart,47161,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T03:04:37.000Z,142,92,92.3,131
+100004,Uncommitted,PD,Stewart,47161,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T03:04:37.000Z,142,8,7.7,11
+1036,Joe Biden,PD,Sullivan,47163,Joe,True,Biden,DEM,Democratic,54,P,Tennessee,2024-03-06T03:35:49.000Z,1001,92,92.0,921
+100004,Uncommitted,PD,Sullivan,47163,,False,Uncommitted,DEM,Democratic,54,P,Tennessee,2024-03-06T03:35:49.000Z,1001,8,8.0,80
+1036,Joe Biden,PD,Sumner,47165,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-04-01T19:19:30.000Z,2533,91,91.3,2313
+100004,Uncommitted,PD,Sumner,47165,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-04-01T19:19:30.000Z,2533,9,8.7,220
+1036,Joe Biden,PD,Tipton,47167,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-08T20:03:31.000Z,463,95,95.5,442
+100004,Uncommitted,PD,Tipton,47167,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-08T20:03:31.000Z,463,5,4.5,21
+1036,Joe Biden,PD,Trousdale,47169,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:25:21.000Z,90,94,94.4,85
+100004,Uncommitted,PD,Trousdale,47169,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:25:21.000Z,90,6,5.6,5
+1036,Joe Biden,PD,Unicoi,47171,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-03-06T02:26:12.000Z,140,91,90.7,127
+100004,Uncommitted,PD,Unicoi,47171,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-03-06T02:26:12.000Z,140,9,9.3,13
+1036,Joe Biden,PD,Union,47173,Joe,True,Biden,DEM,Democratic,51,P,Tennessee,2024-04-01T19:20:25.000Z,122,87,86.9,106
+100004,Uncommitted,PD,Union,47173,,False,Uncommitted,DEM,Democratic,51,P,Tennessee,2024-04-01T19:20:25.000Z,122,13,13.1,16
+1036,Joe Biden,PD,Van Buren,47175,Joe,True,Biden,DEM,Democratic,42,P,Tennessee,2024-03-06T02:26:12.000Z,51,82,82.4,42
+100004,Uncommitted,PD,Van Buren,47175,,False,Uncommitted,DEM,Democratic,42,P,Tennessee,2024-03-06T02:26:12.000Z,51,18,17.6,9
+1036,Joe Biden,PD,Warren,47177,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-04-01T19:20:40.000Z,401,93,93.0,373
+100004,Uncommitted,PD,Warren,47177,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-04-01T19:20:40.000Z,401,7,7.0,28
+1036,Joe Biden,PD,Washington,47179,Joe,True,Biden,DEM,Democratic,64,P,Tennessee,2024-06-17T11:20:34.000Z,1331,90,90.3,1202
+100004,Uncommitted,PD,Washington,47179,,False,Uncommitted,DEM,Democratic,64,P,Tennessee,2024-06-17T11:20:34.000Z,1331,10,9.7,129
+1036,Joe Biden,PD,Wayne,47181,Joe,True,Biden,DEM,Democratic,56,P,Tennessee,2024-03-06T02:26:12.000Z,72,92,91.7,66
+100004,Uncommitted,PD,Wayne,47181,,False,Uncommitted,DEM,Democratic,56,P,Tennessee,2024-03-06T02:26:12.000Z,72,8,8.3,6
+1036,Joe Biden,PD,Weakley,47183,Joe,True,Biden,DEM,Democratic,74,P,Tennessee,2024-06-17T11:25:17.000Z,254,91,90.6,230
+100004,Uncommitted,PD,Weakley,47183,,False,Uncommitted,DEM,Democratic,74,P,Tennessee,2024-06-17T11:25:17.000Z,254,9,9.4,24
+1036,Joe Biden,PD,White,47185,Joe,True,Biden,DEM,Democratic,47,P,Tennessee,2024-03-06T02:50:55.000Z,208,95,94.7,197
+100004,Uncommitted,PD,White,47185,,False,Uncommitted,DEM,Democratic,47,P,Tennessee,2024-03-06T02:50:55.000Z,208,5,5.3,11
+1036,Joe Biden,PD,Williamson,47187,Joe,True,Biden,DEM,Democratic,99,P,Tennessee,2024-06-17T11:23:54.000Z,3787,93,93.3,3532
+100004,Uncommitted,PD,Williamson,47187,,False,Uncommitted,DEM,Democratic,99,P,Tennessee,2024-06-17T11:23:54.000Z,3787,7,6.7,255
+1036,Joe Biden,PD,Wilson,47189,Joe,True,Biden,DEM,Democratic,95,P,Tennessee,2024-04-01T19:27:46.000Z,2136,93,93.1,1988
+100004,Uncommitted,PD,Wilson,47189,,False,Uncommitted,DEM,Democratic,95,P,Tennessee,2024-04-01T19:27:46.000Z,2136,7,6.9,148

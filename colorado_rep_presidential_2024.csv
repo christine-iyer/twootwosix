@@ -1,0 +1,129 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+8639,Donald Trump,PR,Adams,08001,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-10T14:28:10.000Z,50882,70,70.1,35645
+60420,Nikki Haley,PR,Adams,08001,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-10T14:28:10.000Z,50882,27,26.8,13633
+8639,Donald Trump,PR,Alamosa,08003,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:52:58.000Z,2260,75,75.0,1694
+60420,Nikki Haley,PR,Alamosa,08003,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:52:58.000Z,2260,21,21.3,482
+8639,Donald Trump,PR,Arapahoe,08005,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-10T14:28:21.000Z,76485,59,59.3,45366
+60420,Nikki Haley,PR,Arapahoe,08005,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-10T14:28:21.000Z,76485,37,37.3,28550
+8639,Donald Trump,PR,Archuleta,08007,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T22:03:27.000Z,3788,67,67.3,2551
+60420,Nikki Haley,PR,Archuleta,08007,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T22:03:27.000Z,3788,29,29.4,1113
+8639,Donald Trump,PR,Baca,08009,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:55:41.000Z,1129,88,87.9,993
+60420,Nikki Haley,PR,Baca,08009,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:55:41.000Z,1129,10,10.1,114
+8639,Donald Trump,PR,Bent,08011,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:55:48.000Z,966,82,82.3,795
+60420,Nikki Haley,PR,Bent,08011,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:55:48.000Z,966,15,14.9,144
+60420,Nikki Haley,PR,Boulder,08013,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:53:08.000Z,35489,54,54.4,19322
+8639,Donald Trump,PR,Boulder,08013,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:53:08.000Z,35489,42,41.7,14809
+8639,Donald Trump,PR,Broomfield,08014,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-15T19:07:52.000Z,11939,52,52.3,6240
+60420,Nikki Haley,PR,Broomfield,08014,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-15T19:07:52.000Z,11939,44,44.0,5258
+8639,Donald Trump,PR,Chaffee,08015,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T21:41:48.000Z,4818,60,60.2,2899
+60420,Nikki Haley,PR,Chaffee,08015,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T21:41:48.000Z,4818,37,36.8,1774
+8639,Donald Trump,PR,Cheyenne,08017,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T21:41:44.000Z,621,88,87.6,544
+60420,Nikki Haley,PR,Cheyenne,08017,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T21:41:44.000Z,621,10,10.3,64
+8639,Donald Trump,PR,Clear Creek,08019,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-13T20:34:43.000Z,1645,61,61.2,1007
+60420,Nikki Haley,PR,Clear Creek,08019,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-13T20:34:43.000Z,1645,36,35.6,585
+8639,Donald Trump,PR,Conejos,08021,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T22:03:14.000Z,1304,81,80.7,1052
+60420,Nikki Haley,PR,Conejos,08021,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T22:03:14.000Z,1304,17,16.7,218
+8639,Donald Trump,PR,Costilla,08023,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-15T13:36:45.000Z,413,77,77.0,318
+60420,Nikki Haley,PR,Costilla,08023,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-15T13:36:45.000Z,413,20,20.1,83
+8639,Donald Trump,PR,Crowley,08025,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:56:05.000Z,869,84,84.3,733
+60420,Nikki Haley,PR,Crowley,08025,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:56:05.000Z,869,12,12.1,105
+8639,Donald Trump,PR,Custer,08027,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-15T22:28:26.000Z,1994,73,73.4,1464
+60420,Nikki Haley,PR,Custer,08027,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-15T22:28:26.000Z,1994,24,24.1,481
+8639,Donald Trump,PR,Delta,08029,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T22:35:44.000Z,8822,76,76.1,6716
+60420,Nikki Haley,PR,Delta,08029,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T22:35:44.000Z,8822,21,20.9,1847
+60420,Nikki Haley,PR,Denver,08031,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:53:19.000Z,45826,53,53.1,24315
+8639,Donald Trump,PR,Denver,08031,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:53:19.000Z,45826,43,43.3,19863
+8639,Donald Trump,PR,Dolores,08033,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:56:15.000Z,710,89,88.7,630
+60420,Nikki Haley,PR,Dolores,08033,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:56:15.000Z,710,10,9.9,70
+8639,Donald Trump,PR,Douglas,08035,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-10T14:28:56.000Z,83631,61,61.0,50975
+60420,Nikki Haley,PR,Douglas,08035,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-10T14:28:56.000Z,83631,36,35.7,29888
+8639,Donald Trump,PR,Eagle,08037,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T21:41:49.000Z,6557,50,49.8,3267
+60420,Nikki Haley,PR,Eagle,08037,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T21:41:49.000Z,6557,47,47.4,3106
+8639,Donald Trump,PR,El Paso,08041,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-10T14:29:13.000Z,128632,67,67.2,86479
+60420,Nikki Haley,PR,El Paso,08041,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-10T14:29:13.000Z,128632,30,29.7,38148
+8639,Donald Trump,PR,Elbert,08039,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:56:24.000Z,9736,79,78.7,7664
+60420,Nikki Haley,PR,Elbert,08039,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:56:24.000Z,9736,18,18.4,1789
+8639,Donald Trump,PR,Fremont,08043,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:56:33.000Z,11133,78,78.5,8739
+60420,Nikki Haley,PR,Fremont,08043,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:56:33.000Z,11133,19,19.1,2121
+8639,Donald Trump,PR,Garfield,08045,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:53:31.000Z,9332,65,65.3,6093
+60420,Nikki Haley,PR,Garfield,08045,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:53:31.000Z,9332,32,31.5,2940
+8639,Donald Trump,PR,Gilpin,08047,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-13T18:33:53.000Z,1182,66,65.6,776
+60420,Nikki Haley,PR,Gilpin,08047,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-13T18:33:53.000Z,1182,31,31.4,371
+8639,Donald Trump,PR,Grand,08049,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-18T15:51:49.000Z,3327,62,62.1,2065
+60420,Nikki Haley,PR,Grand,08049,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-18T15:51:49.000Z,3327,34,34.2,1138
+8639,Donald Trump,PR,Gunnison,08051,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:53:44.000Z,2794,52,52.0,1452
+60420,Nikki Haley,PR,Gunnison,08051,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:53:44.000Z,2794,45,44.6,1246
+8639,Donald Trump,PR,Hinsdale,08053,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T17:42:44.000Z,269,64,64.3,173
+60420,Nikki Haley,PR,Hinsdale,08053,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T17:42:44.000Z,269,32,31.6,85
+8639,Donald Trump,PR,Huerfano,08055,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:56:43.000Z,1516,77,76.6,1162
+60420,Nikki Haley,PR,Huerfano,08055,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:56:43.000Z,1516,21,21.4,325
+8639,Donald Trump,PR,Jackson,08057,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:53:59.000Z,477,76,76.3,364
+60420,Nikki Haley,PR,Jackson,08057,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:53:59.000Z,477,21,21.4,102
+8639,Donald Trump,PR,Jefferson,08059,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-16T22:34:18.000Z,99502,58,57.9,57599
+60420,Nikki Haley,PR,Jefferson,08059,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-16T22:34:18.000Z,99502,39,38.5,38373
+8639,Donald Trump,PR,Kiowa,08061,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T22:02:58.000Z,491,86,85.7,421
+60420,Nikki Haley,PR,Kiowa,08061,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T22:02:58.000Z,491,12,12.2,60
+8639,Donald Trump,PR,Kit Carson,08063,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:54:09.000Z,2031,86,86.2,1751
+60420,Nikki Haley,PR,Kit Carson,08063,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:54:09.000Z,2031,11,11.4,232
+8639,Donald Trump,PR,La Plata,08067,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T22:02:38.000Z,10543,59,58.8,6203
+60420,Nikki Haley,PR,La Plata,08067,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T22:02:38.000Z,10543,38,38.0,4010
+8639,Donald Trump,PR,Lake,08065,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T22:01:57.000Z,731,66,66.5,486
+60420,Nikki Haley,PR,Lake,08065,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T22:01:57.000Z,731,31,30.6,224
+8639,Donald Trump,PR,Larimer,08069,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:57:05.000Z,60271,59,58.8,35466
+60420,Nikki Haley,PR,Larimer,08069,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:57:05.000Z,60271,37,37.6,22640
+8639,Donald Trump,PR,Las Animas,08071,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-13T22:17:52.000Z,2436,81,81.1,1976
+60420,Nikki Haley,PR,Las Animas,08071,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-13T22:17:52.000Z,2436,16,16.4,399
+8639,Donald Trump,PR,Lincoln,08073,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:57:14.000Z,1363,84,84.3,1149
+60420,Nikki Haley,PR,Lincoln,08073,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:57:14.000Z,1363,13,13.5,184
+8639,Donald Trump,PR,Logan,08075,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:57:25.000Z,5122,82,81.5,4176
+60420,Nikki Haley,PR,Logan,08075,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:57:25.000Z,5122,15,15.3,785
+8639,Donald Trump,PR,Mesa,08077,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-10T14:29:44.000Z,37670,70,69.8,26311
+60420,Nikki Haley,PR,Mesa,08077,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-10T14:29:44.000Z,37670,27,27.0,10157
+8639,Donald Trump,PR,Mineral,08079,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T14:51:59.000Z,336,74,73.8,248
+60420,Nikki Haley,PR,Mineral,08079,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T14:51:59.000Z,336,23,22.9,77
+8639,Donald Trump,PR,Moffat,08081,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:57:34.000Z,3165,85,85.2,2696
+60420,Nikki Haley,PR,Moffat,08081,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:57:34.000Z,3165,13,12.8,405
+8639,Donald Trump,PR,Montezuma,08083,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:57:43.000Z,6331,75,75.4,4775
+60420,Nikki Haley,PR,Montezuma,08083,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:57:43.000Z,6331,22,21.7,1374
+8639,Donald Trump,PR,Montrose,08085,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:57:53.000Z,11454,74,73.5,8422
+60420,Nikki Haley,PR,Montrose,08085,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:57:53.000Z,11454,23,23.4,2676
+8639,Donald Trump,PR,Morgan,08087,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:01.000Z,5588,81,81.4,4548
+60420,Nikki Haley,PR,Morgan,08087,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:01.000Z,5588,16,15.6,873
+8639,Donald Trump,PR,Otero,08089,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:09.000Z,3427,82,82.0,2810
+60420,Nikki Haley,PR,Otero,08089,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:09.000Z,3427,15,15.3,526
+8639,Donald Trump,PR,Ouray,08091,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:16.000Z,1424,55,54.6,778
+60420,Nikki Haley,PR,Ouray,08091,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:16.000Z,1424,43,42.6,607
+8639,Donald Trump,PR,Park,08093,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:24.000Z,4556,71,71.5,3259
+60420,Nikki Haley,PR,Park,08093,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:24.000Z,4556,26,25.7,1169
+8639,Donald Trump,PR,Phillips,08095,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-15T20:31:44.000Z,1284,81,80.7,1037
+60420,Nikki Haley,PR,Phillips,08095,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-15T20:31:44.000Z,1284,16,15.9,204
+60420,Nikki Haley,PR,Pitkin,08097,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:54:24.000Z,1873,58,58.3,1092
+8639,Donald Trump,PR,Pitkin,08097,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:54:24.000Z,1873,38,38.5,721
+8639,Donald Trump,PR,Prowers,08099,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:33.000Z,2462,86,86.0,2118
+60420,Nikki Haley,PR,Prowers,08099,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:33.000Z,2462,12,11.7,287
+8639,Donald Trump,PR,Pueblo,08101,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:40.000Z,23279,77,76.9,17897
+60420,Nikki Haley,PR,Pueblo,08101,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:40.000Z,23279,21,20.7,4811
+8639,Donald Trump,PR,Rio Blanco,08103,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:48.000Z,1985,81,80.8,1603
+60420,Nikki Haley,PR,Rio Blanco,08103,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:48.000Z,1985,16,15.8,314
+8639,Donald Trump,PR,Rio Grande,08105,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:58:56.000Z,2348,76,75.9,1783
+60420,Nikki Haley,PR,Rio Grande,08105,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:58:56.000Z,2348,21,21.0,494
+60420,Nikki Haley,PR,Routt,08107,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:55:10.000Z,4043,49,48.8,1974
+8639,Donald Trump,PR,Routt,08107,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:55:10.000Z,4043,48,47.9,1937
+8639,Donald Trump,PR,Saguache,08109,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-04-04T21:27:52.000Z,950,73,73.1,694
+60420,Nikki Haley,PR,Saguache,08109,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-04-04T21:27:52.000Z,950,23,23.1,219
+60420,Nikki Haley,PR,San Juan,08111,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T17:42:44.000Z,126,49,49.2,62
+8639,Donald Trump,PR,San Juan,08111,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T17:42:44.000Z,126,48,47.6,60
+60420,Nikki Haley,PR,San Miguel,08113,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:55:01.000Z,944,52,51.7,488
+8639,Donald Trump,PR,San Miguel,08113,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:55:01.000Z,944,44,43.9,414
+8639,Donald Trump,PR,Sedgwick,08115,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:54:53.000Z,684,82,81.9,560
+60420,Nikki Haley,PR,Sedgwick,08115,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:54:53.000Z,684,16,16.1,110
+60420,Nikki Haley,PR,Summit,08117,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:54:44.000Z,3826,55,55.5,2123
+8639,Donald Trump,PR,Summit,08117,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:54:44.000Z,3826,41,41.3,1579
+8639,Donald Trump,PR,Teller,08119,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-18T15:51:44.000Z,7288,76,75.7,5515
+60420,Nikki Haley,PR,Teller,08119,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-18T15:51:44.000Z,7288,22,22.0,1607
+8639,Donald Trump,PR,Washington,08121,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:54:34.000Z,1753,85,85.3,1496
+60420,Nikki Haley,PR,Washington,08121,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:54:34.000Z,1753,12,12.2,214
+8639,Donald Trump,PR,Weld,08123,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-03-14T21:41:48.000Z,55619,73,73.3,40763
+60420,Nikki Haley,PR,Weld,08123,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-03-14T21:41:48.000Z,55619,23,23.5,13058
+8639,Donald Trump,PR,Yuma,08125,Donald,False,Trump,REP,Republican,100,P,Colorado,2024-06-15T21:59:13.000Z,2510,83,83.0,2084
+60420,Nikki Haley,PR,Yuma,08125,Nikki,False,Haley,REP,Republican,100,P,Colorado,2024-06-15T21:59:13.000Z,2510,15,14.7,370

@@ -1,0 +1,349 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Aitkin,27001,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:53.000Z,797,80,80.3,640
+20286,Dean Phillips,PD,Aitkin,27001,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:53.000Z,797,12,12.2,97
+100004,Uncommitted,PD,Aitkin,27001,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:53.000Z,797,5,4.8,38
+20072905,Marianne Williamson,PD,Aitkin,27001,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:53.000Z,797,1,0.9,7
+1036,Joe Biden,PD,Anoka,27003,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T19:45:47.000Z,11987,67,66.6,7981
+100004,Uncommitted,PD,Anoka,27003,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T19:45:47.000Z,11987,20,20.0,2397
+20286,Dean Phillips,PD,Anoka,27003,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T19:45:47.000Z,11987,10,10.0,1202
+20072905,Marianne Williamson,PD,Anoka,27003,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T19:45:47.000Z,11987,1,1.5,175
+1036,Joe Biden,PD,Becker,27005,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:04.000Z,810,81,81.5,660
+100004,Uncommitted,PD,Becker,27005,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:04.000Z,810,10,9.6,78
+20286,Dean Phillips,PD,Becker,27005,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:04.000Z,810,4,3.6,29
+20072905,Marianne Williamson,PD,Becker,27005,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:04.000Z,810,2,2.5,20
+1036,Joe Biden,PD,Beltrami,27007,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:30.000Z,1266,78,78.2,990
+100004,Uncommitted,PD,Beltrami,27007,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:30.000Z,1266,10,10.2,129
+20286,Dean Phillips,PD,Beltrami,27007,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:30.000Z,1266,7,6.7,85
+20072905,Marianne Williamson,PD,Beltrami,27007,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:30.000Z,1266,2,2.0,25
+1036,Joe Biden,PD,Benton,27009,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:03:23.000Z,752,74,73.7,554
+100004,Uncommitted,PD,Benton,27009,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:03:23.000Z,752,12,12.1,91
+20286,Dean Phillips,PD,Benton,27009,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:03:23.000Z,752,9,9.2,69
+20072905,Marianne Williamson,PD,Benton,27009,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:03:23.000Z,752,2,2.3,17
+1036,Joe Biden,PD,Big Stone,27011,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:10:20.000Z,222,79,79.3,176
+20286,Dean Phillips,PD,Big Stone,27011,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:10:20.000Z,222,10,9.9,22
+100004,Uncommitted,PD,Big Stone,27011,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:10:20.000Z,222,8,7.7,17
+20072905,Marianne Williamson,PD,Big Stone,27011,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:10:20.000Z,222,1,1.4,3
+1036,Joe Biden,PD,Blue Earth,27013,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:13:28.000Z,2302,75,75.3,1733
+100004,Uncommitted,PD,Blue Earth,27013,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:13:28.000Z,2302,13,12.7,292
+20286,Dean Phillips,PD,Blue Earth,27013,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:13:28.000Z,2302,7,6.8,157
+20072905,Marianne Williamson,PD,Blue Earth,27013,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:13:28.000Z,2302,2,2.3,54
+1036,Joe Biden,PD,Brown,27015,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:37:39.000Z,625,80,80.3,502
+100004,Uncommitted,PD,Brown,27015,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:37:39.000Z,625,9,9.1,57
+20286,Dean Phillips,PD,Brown,27015,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:37:39.000Z,625,8,7.5,47
+20072905,Marianne Williamson,PD,Brown,27015,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:37:39.000Z,625,1,0.8,5
+1036,Joe Biden,PD,Carlton,27017,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:44:32.000Z,1636,84,83.7,1370
+100004,Uncommitted,PD,Carlton,27017,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:44:32.000Z,1636,9,9.4,153
+20286,Dean Phillips,PD,Carlton,27017,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:44:32.000Z,1636,4,3.7,61
+20072905,Marianne Williamson,PD,Carlton,27017,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:44:32.000Z,1636,1,1.2,20
+1036,Joe Biden,PD,Carver,27019,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:15:37.000Z,2975,71,70.9,2109
+20286,Dean Phillips,PD,Carver,27019,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:15:37.000Z,2975,15,14.7,436
+100004,Uncommitted,PD,Carver,27019,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:15:37.000Z,2975,11,11.3,336
+20072905,Marianne Williamson,PD,Carver,27019,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:15:37.000Z,2975,1,1.2,36
+1036,Joe Biden,PD,Cass,27021,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:15.000Z,1058,79,78.9,835
+20286,Dean Phillips,PD,Cass,27021,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:15.000Z,1058,11,10.8,114
+100004,Uncommitted,PD,Cass,27021,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:15.000Z,1058,6,6.3,67
+20072905,Marianne Williamson,PD,Cass,27021,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:15.000Z,1058,2,1.9,20
+1036,Joe Biden,PD,Chippewa,27023,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:12.000Z,334,72,71.8,240
+20286,Dean Phillips,PD,Chippewa,27023,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:12.000Z,334,16,15.6,52
+100004,Uncommitted,PD,Chippewa,27023,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:12.000Z,334,8,8.4,28
+20072905,Marianne Williamson,PD,Chippewa,27023,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:12.000Z,334,2,1.8,6
+1036,Joe Biden,PD,Chisago,27025,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T05:27:57.000Z,1414,76,75.9,1073
+20286,Dean Phillips,PD,Chisago,27025,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T05:27:57.000Z,1414,10,9.9,140
+100004,Uncommitted,PD,Chisago,27025,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T05:27:57.000Z,1414,10,9.8,139
+20072905,Marianne Williamson,PD,Chisago,27025,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T05:27:57.000Z,1414,2,1.6,23
+1036,Joe Biden,PD,Clay,27027,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:42.000Z,1326,79,79.3,1052
+100004,Uncommitted,PD,Clay,27027,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:42.000Z,1326,14,14.1,187
+20286,Dean Phillips,PD,Clay,27027,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:42.000Z,1326,3,2.6,35
+20072905,Marianne Williamson,PD,Clay,27027,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:42.000Z,1326,2,1.7,22
+1036,Joe Biden,PD,Clearwater,27029,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:49.000Z,151,86,86.1,130
+100004,Uncommitted,PD,Clearwater,27029,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:49.000Z,151,6,6.6,10
+20286,Dean Phillips,PD,Clearwater,27029,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:49.000Z,151,3,2.6,4
+20072905,Marianne Williamson,PD,Clearwater,27029,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:49.000Z,151,1,0.7,1
+1036,Joe Biden,PD,Cook,27031,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-14T23:11:16.000Z,862,87,86.9,749
+100004,Uncommitted,PD,Cook,27031,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-14T23:11:16.000Z,862,7,7.3,63
+20286,Dean Phillips,PD,Cook,27031,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-14T23:11:16.000Z,862,3,3.0,26
+20072905,Marianne Williamson,PD,Cook,27031,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-14T23:11:16.000Z,862,1,0.9,8
+1036,Joe Biden,PD,Cottonwood,27033,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:08:47.000Z,202,72,71.8,145
+100004,Uncommitted,PD,Cottonwood,27033,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:08:47.000Z,202,14,13.8,28
+20286,Dean Phillips,PD,Cottonwood,27033,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:08:47.000Z,202,12,11.9,24
+20072905,Marianne Williamson,PD,Cottonwood,27033,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:08:47.000Z,202,1,1.0,2
+1036,Joe Biden,PD,Crow Wing,27035,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:43:21.000Z,1780,80,79.8,1420
+20286,Dean Phillips,PD,Crow Wing,27035,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:43:21.000Z,1780,8,8.5,151
+100004,Uncommitted,PD,Crow Wing,27035,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:43:21.000Z,1780,8,8.3,147
+20072905,Marianne Williamson,PD,Crow Wing,27035,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:43:21.000Z,1780,2,1.7,30
+1036,Joe Biden,PD,Dakota,27037,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:47.000Z,17874,72,72.4,12949
+100004,Uncommitted,PD,Dakota,27037,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:47.000Z,17874,16,15.9,2841
+20286,Dean Phillips,PD,Dakota,27037,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:47.000Z,17874,8,8.1,1449
+20072905,Marianne Williamson,PD,Dakota,27037,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:47.000Z,17874,1,1.4,253
+1036,Joe Biden,PD,Dodge,27039,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:43:22.000Z,412,81,80.8,333
+100004,Uncommitted,PD,Dodge,27039,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:43:22.000Z,412,8,8.5,35
+20286,Dean Phillips,PD,Dodge,27039,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:43:22.000Z,412,6,6.3,26
+20072905,Marianne Williamson,PD,Dodge,27039,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:43:22.000Z,412,1,1.2,5
+1036,Joe Biden,PD,Douglas,27041,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:32.000Z,939,79,79.3,745
+20286,Dean Phillips,PD,Douglas,27041,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:32.000Z,939,10,9.7,91
+100004,Uncommitted,PD,Douglas,27041,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:32.000Z,939,7,6.8,64
+20072905,Marianne Williamson,PD,Douglas,27041,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:32.000Z,939,2,2.2,21
+1036,Joe Biden,PD,Faribault,27043,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:46:22.000Z,333,76,75.7,252
+20286,Dean Phillips,PD,Faribault,27043,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:46:22.000Z,333,9,9.3,31
+100004,Uncommitted,PD,Faribault,27043,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:46:22.000Z,333,8,8.4,28
+20072905,Marianne Williamson,PD,Faribault,27043,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:46:22.000Z,333,4,3.6,12
+1036,Joe Biden,PD,Fillmore,27045,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:47:54.000Z,647,82,82.2,532
+100004,Uncommitted,PD,Fillmore,27045,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:47:54.000Z,647,9,9.4,61
+20286,Dean Phillips,PD,Fillmore,27045,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:47:54.000Z,647,4,4.2,27
+20072905,Marianne Williamson,PD,Fillmore,27045,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:47:54.000Z,647,2,2.5,16
+1036,Joe Biden,PD,Freeborn,27047,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:15.000Z,841,83,83.2,700
+100004,Uncommitted,PD,Freeborn,27047,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:15.000Z,841,7,7.1,60
+20286,Dean Phillips,PD,Freeborn,27047,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:15.000Z,841,5,5.5,46
+20072905,Marianne Williamson,PD,Freeborn,27047,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:15.000Z,841,2,1.8,15
+1036,Joe Biden,PD,Goodhue,27049,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T20:51:24.000Z,1738,79,79.1,1375
+100004,Uncommitted,PD,Goodhue,27049,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T20:51:24.000Z,1738,9,9.3,162
+20286,Dean Phillips,PD,Goodhue,27049,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T20:51:24.000Z,1738,8,8.2,142
+20072905,Marianne Williamson,PD,Goodhue,27049,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T20:51:24.000Z,1738,2,1.7,30
+1036,Joe Biden,PD,Grant,27051,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T02:48:51.000Z,304,83,82.6,251
+20286,Dean Phillips,PD,Grant,27051,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T02:48:51.000Z,304,11,11.2,34
+100004,Uncommitted,PD,Grant,27051,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T02:48:51.000Z,304,4,3.9,12
+20072905,Marianne Williamson,PD,Grant,27051,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T02:48:51.000Z,304,2,2.0,6
+1036,Joe Biden,PD,Hennepin,27053,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:06.000Z,85655,63,63.1,54021
+100004,Uncommitted,PD,Hennepin,27053,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:06.000Z,85655,25,25.3,21721
+20286,Dean Phillips,PD,Hennepin,27053,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:06.000Z,85655,9,8.9,7589
+20072905,Marianne Williamson,PD,Hennepin,27053,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:06.000Z,85655,1,1.2,1007
+1036,Joe Biden,PD,Houston,27055,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:45.000Z,575,83,83.0,477
+100004,Uncommitted,PD,Houston,27055,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:45.000Z,575,10,9.6,55
+20286,Dean Phillips,PD,Houston,27055,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:45.000Z,575,3,3.0,17
+20072905,Marianne Williamson,PD,Houston,27055,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:45.000Z,575,3,2.8,16
+1036,Joe Biden,PD,Hubbard,27057,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:19.000Z,692,85,84.8,587
+20286,Dean Phillips,PD,Hubbard,27057,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:19.000Z,692,7,6.5,45
+100004,Uncommitted,PD,Hubbard,27057,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:19.000Z,692,6,6.1,42
+20072905,Marianne Williamson,PD,Hubbard,27057,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:19.000Z,692,1,1.4,10
+1036,Joe Biden,PD,Isanti,27059,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:19:50.000Z,870,78,77.7,676
+20286,Dean Phillips,PD,Isanti,27059,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:19:50.000Z,870,10,9.8,85
+100004,Uncommitted,PD,Isanti,27059,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:19:50.000Z,870,9,8.7,76
+20072905,Marianne Williamson,PD,Isanti,27059,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:19:50.000Z,870,1,1.4,12
+1036,Joe Biden,PD,Itasca,27061,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:52.000Z,2176,85,85.3,1857
+20286,Dean Phillips,PD,Itasca,27061,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:52.000Z,2176,6,5.7,124
+100004,Uncommitted,PD,Itasca,27061,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:52.000Z,2176,6,5.7,123
+20072905,Marianne Williamson,PD,Itasca,27061,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:52.000Z,2176,1,1.4,30
+1036,Joe Biden,PD,Jackson,27063,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:28:41.000Z,248,84,83.9,208
+20286,Dean Phillips,PD,Jackson,27063,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:28:41.000Z,248,6,6.4,16
+100004,Uncommitted,PD,Jackson,27063,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:28:41.000Z,248,6,6.4,16
+20072905,Marianne Williamson,PD,Jackson,27063,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:28:41.000Z,248,1,1.2,3
+1036,Joe Biden,PD,Kanabec,27065,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:32:24.000Z,341,79,79.2,270
+20286,Dean Phillips,PD,Kanabec,27065,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:32:24.000Z,341,10,9.9,34
+100004,Uncommitted,PD,Kanabec,27065,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:32:24.000Z,341,8,7.9,27
+20072905,Marianne Williamson,PD,Kanabec,27065,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:32:24.000Z,341,1,1.2,4
+1036,Joe Biden,PD,Kandiyohi,27067,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:34:10.000Z,981,77,77.4,759
+20286,Dean Phillips,PD,Kandiyohi,27067,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:34:10.000Z,981,10,10.5,103
+100004,Uncommitted,PD,Kandiyohi,27067,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:34:10.000Z,981,8,8.5,83
+20072905,Marianne Williamson,PD,Kandiyohi,27067,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:34:10.000Z,981,2,1.7,17
+1036,Joe Biden,PD,Kittson,27069,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:46.000Z,232,84,84.5,196
+20286,Dean Phillips,PD,Kittson,27069,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:46.000Z,232,7,6.9,16
+100004,Uncommitted,PD,Kittson,27069,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:46.000Z,232,5,4.7,11
+20072905,Marianne Williamson,PD,Kittson,27069,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T05:58:46.000Z,232,2,1.7,4
+1036,Joe Biden,PD,Koochiching,27071,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:23:23.000Z,504,86,86.3,435
+100004,Uncommitted,PD,Koochiching,27071,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:23:23.000Z,504,7,7.3,37
+20286,Dean Phillips,PD,Koochiching,27071,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:23:23.000Z,504,3,3.4,17
+20072905,Marianne Williamson,PD,Koochiching,27071,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:23:23.000Z,504,1,1.2,6
+1036,Joe Biden,PD,Lac Qui Parle,27073,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:38:15.000Z,298,79,79.2,236
+20286,Dean Phillips,PD,Lac Qui Parle,27073,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:38:15.000Z,298,9,9.4,28
+100004,Uncommitted,PD,Lac Qui Parle,27073,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:38:15.000Z,298,6,6.4,19
+20072905,Marianne Williamson,PD,Lac Qui Parle,27073,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:38:15.000Z,298,1,1.3,4
+1036,Joe Biden,PD,Lake,27075,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:39:50.000Z,781,80,79.6,622
+100004,Uncommitted,PD,Lake,27075,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:39:50.000Z,781,13,12.9,101
+20286,Dean Phillips,PD,Lake,27075,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:39:50.000Z,781,4,3.6,28
+20072905,Marianne Williamson,PD,Lake,27075,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:39:50.000Z,781,2,1.8,14
+1036,Joe Biden,PD,Lake of the Woods,27077,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:41:15.000Z,162,87,87.0,141
+100004,Uncommitted,PD,Lake of the Woods,27077,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:41:15.000Z,162,5,4.9,8
+20286,Dean Phillips,PD,Lake of the Woods,27077,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:41:15.000Z,162,4,3.7,6
+20072905,Marianne Williamson,PD,Lake of the Woods,27077,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:41:15.000Z,162,2,1.9,3
+1036,Joe Biden,PD,Le Sueur,27079,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:42:52.000Z,861,75,75.0,646
+20286,Dean Phillips,PD,Le Sueur,27079,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:42:52.000Z,861,11,11.5,99
+100004,Uncommitted,PD,Le Sueur,27079,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:42:52.000Z,861,8,8.4,72
+20072905,Marianne Williamson,PD,Le Sueur,27079,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:42:52.000Z,861,2,2.1,18
+1036,Joe Biden,PD,Lincoln,27081,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T21:44:41.000Z,131,76,75.6,99
+100004,Uncommitted,PD,Lincoln,27081,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T21:44:41.000Z,131,9,9.2,12
+20286,Dean Phillips,PD,Lincoln,27081,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T21:44:41.000Z,131,7,6.9,9
+20072905,Marianne Williamson,PD,Lincoln,27081,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T21:44:41.000Z,131,3,3.0,4
+1036,Joe Biden,PD,Lyon,27083,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:37.000Z,496,80,80.2,398
+100004,Uncommitted,PD,Lyon,27083,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:37.000Z,496,7,7.5,37
+20286,Dean Phillips,PD,Lyon,27083,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:37.000Z,496,5,5.0,25
+20072905,Marianne Williamson,PD,Lyon,27083,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:59:37.000Z,496,3,3.2,16
+1036,Joe Biden,PD,Mahnomen,27087,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:28:54.000Z,189,80,79.9,151
+100004,Uncommitted,PD,Mahnomen,27087,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:28:54.000Z,189,11,10.6,20
+20286,Dean Phillips,PD,Mahnomen,27087,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:28:54.000Z,189,4,4.2,8
+20072905,Marianne Williamson,PD,Mahnomen,27087,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:28:54.000Z,189,3,3.2,6
+1036,Joe Biden,PD,Marshall,27089,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T05:18:46.000Z,257,84,84.4,217
+100004,Uncommitted,PD,Marshall,27089,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T05:18:46.000Z,257,8,7.8,20
+20286,Dean Phillips,PD,Marshall,27089,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T05:18:46.000Z,257,4,4.3,11
+20072905,Marianne Williamson,PD,Marshall,27089,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T05:18:46.000Z,257,2,1.5,4
+1036,Joe Biden,PD,Martin,27091,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T05:38:45.000Z,357,84,84.3,301
+100004,Uncommitted,PD,Martin,27091,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T05:38:45.000Z,357,9,9.2,33
+20286,Dean Phillips,PD,Martin,27091,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T05:38:45.000Z,357,4,4.2,15
+20072905,Marianne Williamson,PD,Martin,27091,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T05:38:45.000Z,357,1,1.1,4
+1036,Joe Biden,PD,McLeod,27085,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:29.000Z,591,75,75.3,445
+20286,Dean Phillips,PD,McLeod,27085,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:29.000Z,591,12,11.7,69
+100004,Uncommitted,PD,McLeod,27085,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:29.000Z,591,8,8.3,49
+20072905,Marianne Williamson,PD,McLeod,27085,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:29.000Z,591,2,2.2,13
+1036,Joe Biden,PD,Meeker,27093,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:03:01.000Z,536,75,74.6,400
+20286,Dean Phillips,PD,Meeker,27093,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:03:01.000Z,536,18,17.5,94
+100004,Uncommitted,PD,Meeker,27093,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:03:01.000Z,536,4,3.5,19
+20072905,Marianne Williamson,PD,Meeker,27093,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:03:01.000Z,536,2,1.9,10
+1036,Joe Biden,PD,Mille Lacs,27095,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:04:46.000Z,536,76,76.1,408
+100004,Uncommitted,PD,Mille Lacs,27095,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:04:46.000Z,536,11,11.0,59
+20286,Dean Phillips,PD,Mille Lacs,27095,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:04:46.000Z,536,8,8.0,43
+20072905,Marianne Williamson,PD,Mille Lacs,27095,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:04:46.000Z,536,2,2.2,12
+1036,Joe Biden,PD,Morrison,27097,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:06:36.000Z,560,75,74.8,419
+20286,Dean Phillips,PD,Morrison,27097,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:06:36.000Z,560,12,12.0,67
+100004,Uncommitted,PD,Morrison,27097,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:06:36.000Z,560,9,8.7,49
+20072905,Marianne Williamson,PD,Morrison,27097,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:06:36.000Z,560,2,2.0,11
+1036,Joe Biden,PD,Mower,27099,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:53.000Z,1068,84,84.5,902
+100004,Uncommitted,PD,Mower,27099,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:53.000Z,1068,7,6.6,71
+20286,Dean Phillips,PD,Mower,27099,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:53.000Z,1068,5,4.9,52
+20072905,Marianne Williamson,PD,Mower,27099,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:53.000Z,1068,2,1.6,17
+1036,Joe Biden,PD,Murray,27101,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:55.000Z,262,87,87.4,229
+20286,Dean Phillips,PD,Murray,27101,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:55.000Z,262,8,7.6,20
+100004,Uncommitted,PD,Murray,27101,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:55.000Z,262,3,3.4,9
+20072905,Marianne Williamson,PD,Murray,27101,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:55.000Z,262,1,0.8,2
+1036,Joe Biden,PD,Nicollet,27103,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:39.000Z,1356,74,73.9,1002
+100004,Uncommitted,PD,Nicollet,27103,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:39.000Z,1356,13,13.0,176
+20286,Dean Phillips,PD,Nicollet,27103,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:39.000Z,1356,8,8.2,111
+20072905,Marianne Williamson,PD,Nicollet,27103,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:39.000Z,1356,2,2.2,30
+1036,Joe Biden,PD,Nobles,27105,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:14:41.000Z,337,76,75.9,256
+100004,Uncommitted,PD,Nobles,27105,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:14:41.000Z,337,11,10.7,36
+20286,Dean Phillips,PD,Nobles,27105,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:14:41.000Z,337,7,6.8,23
+20072905,Marianne Williamson,PD,Nobles,27105,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:14:41.000Z,337,2,2.1,7
+1036,Joe Biden,PD,Norman,27107,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:16:07.000Z,244,87,86.9,212
+100004,Uncommitted,PD,Norman,27107,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:16:07.000Z,244,6,5.7,14
+20286,Dean Phillips,PD,Norman,27107,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:16:07.000Z,244,4,3.7,9
+20072905,Marianne Williamson,PD,Norman,27107,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:16:07.000Z,244,1,1.2,3
+1036,Joe Biden,PD,Olmsted,27109,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:17:53.000Z,5728,76,76.2,4367
+100004,Uncommitted,PD,Olmsted,27109,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:17:53.000Z,5728,16,16.1,925
+20286,Dean Phillips,PD,Olmsted,27109,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:17:53.000Z,5728,4,4.0,231
+20072905,Marianne Williamson,PD,Olmsted,27109,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:17:53.000Z,5728,1,1.4,80
+1036,Joe Biden,PD,Otter Tail,27111,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:04.000Z,1388,79,79.3,1101
+100004,Uncommitted,PD,Otter Tail,27111,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:04.000Z,1388,10,10.3,143
+20286,Dean Phillips,PD,Otter Tail,27111,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:04.000Z,1388,6,6.1,85
+20072905,Marianne Williamson,PD,Otter Tail,27111,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:54:04.000Z,1388,2,1.8,25
+1036,Joe Biden,PD,Pennington,27113,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:21:07.000Z,224,88,88.4,198
+100004,Uncommitted,PD,Pennington,27113,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:21:07.000Z,224,5,4.9,11
+20072905,Marianne Williamson,PD,Pennington,27113,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:21:07.000Z,224,2,2.2,5
+20286,Dean Phillips,PD,Pennington,27113,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:21:07.000Z,224,1,1.3,3
+1036,Joe Biden,PD,Pine,27115,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:29.000Z,779,76,75.6,589
+20286,Dean Phillips,PD,Pine,27115,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:29.000Z,779,13,13.2,103
+100004,Uncommitted,PD,Pine,27115,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:29.000Z,779,8,8.1,63
+20072905,Marianne Williamson,PD,Pine,27115,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:29.000Z,779,1,1.0,8
+1036,Joe Biden,PD,Pipestone,27117,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:26:52.000Z,172,84,84.3,145
+100004,Uncommitted,PD,Pipestone,27117,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:26:52.000Z,172,8,8.1,14
+20286,Dean Phillips,PD,Pipestone,27117,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:26:52.000Z,172,5,4.6,8
+20072905,Marianne Williamson,PD,Pipestone,27117,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:26:52.000Z,172,1,0.6,1
+1036,Joe Biden,PD,Polk,27119,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:31:55.000Z,689,82,82.3,567
+100004,Uncommitted,PD,Polk,27119,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:31:55.000Z,689,8,8.0,55
+20286,Dean Phillips,PD,Polk,27119,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:31:55.000Z,689,4,4.5,31
+20072905,Marianne Williamson,PD,Polk,27119,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:31:55.000Z,689,2,1.6,11
+1036,Joe Biden,PD,Pope,27121,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:30:05.000Z,458,85,84.9,389
+20286,Dean Phillips,PD,Pope,27121,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:30:05.000Z,458,8,8.3,38
+100004,Uncommitted,PD,Pope,27121,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:30:05.000Z,458,4,4.4,20
+20072905,Marianne Williamson,PD,Pope,27121,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:30:05.000Z,458,2,1.5,7
+1036,Joe Biden,PD,Ramsey,27123,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:33.000Z,35225,68,68.0,23947
+100004,Uncommitted,PD,Ramsey,27123,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:33.000Z,35225,23,23.3,8223
+20286,Dean Phillips,PD,Ramsey,27123,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:33.000Z,35225,5,5.5,1929
+20072905,Marianne Williamson,PD,Ramsey,27123,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:33.000Z,35225,1,1.3,441
+1036,Joe Biden,PD,Red Lake,27125,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:51.000Z,141,90,90.1,127
+100004,Uncommitted,PD,Red Lake,27125,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:51.000Z,141,6,5.7,8
+20286,Dean Phillips,PD,Red Lake,27125,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:51.000Z,141,3,3.5,5
+20072905,Marianne Williamson,PD,Red Lake,27125,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:58:51.000Z,141,1,0.7,1
+1036,Joe Biden,PD,Redwood,27127,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:41.000Z,218,72,71.6,156
+20286,Dean Phillips,PD,Redwood,27127,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:41.000Z,218,13,12.8,28
+100004,Uncommitted,PD,Redwood,27127,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:41.000Z,218,10,10.1,22
+20072905,Marianne Williamson,PD,Redwood,27127,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:55:41.000Z,218,2,2.3,5
+1036,Joe Biden,PD,Renville,27129,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T08:51:52.000Z,283,73,72.8,206
+20286,Dean Phillips,PD,Renville,27129,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T08:51:52.000Z,283,13,12.7,36
+100004,Uncommitted,PD,Renville,27129,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T08:51:52.000Z,283,8,8.5,24
+20072905,Marianne Williamson,PD,Renville,27129,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T08:51:52.000Z,283,1,1.4,4
+1036,Joe Biden,PD,Rice,27131,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:13.000Z,3087,66,65.9,2033
+100004,Uncommitted,PD,Rice,27131,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:13.000Z,3087,22,22.2,684
+20286,Dean Phillips,PD,Rice,27131,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:13.000Z,3087,7,7.4,229
+20072905,Marianne Williamson,PD,Rice,27131,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:13.000Z,3087,2,2.0,63
+1036,Joe Biden,PD,Rock,27133,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:58.000Z,241,85,84.6,204
+100004,Uncommitted,PD,Rock,27133,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:58.000Z,241,7,7.1,17
+20286,Dean Phillips,PD,Rock,27133,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:58.000Z,241,5,4.6,11
+20072905,Marianne Williamson,PD,Rock,27133,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:18:58.000Z,241,2,1.7,4
+1036,Joe Biden,PD,Roseau,27135,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-07T22:43:28.000Z,259,86,85.7,222
+100004,Uncommitted,PD,Roseau,27135,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-07T22:43:28.000Z,259,7,6.9,18
+20286,Dean Phillips,PD,Roseau,27135,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-07T22:43:28.000Z,259,4,3.9,10
+20072905,Marianne Williamson,PD,Roseau,27135,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-07T22:43:28.000Z,259,2,1.5,4
+1036,Joe Biden,PD,Scott,27139,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:11:19.000Z,3849,71,71.2,2739
+100004,Uncommitted,PD,Scott,27139,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:11:19.000Z,3849,15,15.2,586
+20286,Dean Phillips,PD,Scott,27139,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:11:19.000Z,3849,10,9.6,369
+20072905,Marianne Williamson,PD,Scott,27139,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:11:19.000Z,3849,2,1.8,68
+1036,Joe Biden,PD,Sherburne,27141,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:52.000Z,1699,73,72.9,1239
+100004,Uncommitted,PD,Sherburne,27141,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:52.000Z,1699,13,12.8,218
+20286,Dean Phillips,PD,Sherburne,27141,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:52.000Z,1699,10,10.0,170
+20072905,Marianne Williamson,PD,Sherburne,27141,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:52.000Z,1699,2,1.6,28
+1036,Joe Biden,PD,Sibley,27143,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T04:58:47.000Z,350,72,72.3,253
+20286,Dean Phillips,PD,Sibley,27143,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T04:58:47.000Z,350,15,14.6,51
+100004,Uncommitted,PD,Sibley,27143,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T04:58:47.000Z,350,7,6.8,24
+20072905,Marianne Williamson,PD,Sibley,27143,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T04:58:47.000Z,350,4,4.3,15
+1036,Joe Biden,PD,St. Louis,27137,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:21.000Z,11264,79,78.6,8855
+100004,Uncommitted,PD,St. Louis,27137,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:21.000Z,11264,15,15.1,1703
+20286,Dean Phillips,PD,St. Louis,27137,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:21.000Z,11264,3,2.8,311
+20072905,Marianne Williamson,PD,St. Louis,27137,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:53:21.000Z,11264,1,1.4,157
+1036,Joe Biden,PD,Stearns,27145,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:15:24.000Z,3689,75,74.9,2763
+100004,Uncommitted,PD,Stearns,27145,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:15:24.000Z,3689,12,11.9,439
+20286,Dean Phillips,PD,Stearns,27145,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:15:24.000Z,3689,9,8.7,322
+20072905,Marianne Williamson,PD,Stearns,27145,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:15:24.000Z,3689,2,2.2,80
+1036,Joe Biden,PD,Steele,27147,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:52.000Z,874,74,74.0,647
+100004,Uncommitted,PD,Steele,27147,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:52.000Z,874,12,12.1,106
+20286,Dean Phillips,PD,Steele,27147,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:52.000Z,874,9,8.7,76
+20072905,Marianne Williamson,PD,Steele,27147,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:57:52.000Z,874,3,2.5,22
+1036,Joe Biden,PD,Stevens,27149,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:03.000Z,375,72,71.7,269
+100004,Uncommitted,PD,Stevens,27149,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:03.000Z,375,14,14.4,54
+20286,Dean Phillips,PD,Stevens,27149,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:03.000Z,375,10,9.6,36
+20072905,Marianne Williamson,PD,Stevens,27149,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:03.000Z,375,3,2.7,10
+1036,Joe Biden,PD,Swift,27151,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:18:57.000Z,309,80,79.9,247
+20286,Dean Phillips,PD,Swift,27151,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:18:57.000Z,309,12,12.3,38
+100004,Uncommitted,PD,Swift,27151,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:18:57.000Z,309,6,5.5,17
+20072905,Marianne Williamson,PD,Swift,27151,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:18:57.000Z,309,2,1.6,5
+1036,Joe Biden,PD,Todd,27153,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:05.000Z,424,76,76.2,323
+20286,Dean Phillips,PD,Todd,27153,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:05.000Z,424,9,9.4,40
+100004,Uncommitted,PD,Todd,27153,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:05.000Z,424,8,7.5,32
+20072905,Marianne Williamson,PD,Todd,27153,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:56:05.000Z,424,3,3.3,14
+1036,Joe Biden,PD,Traverse,27155,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:21:30.000Z,119,81,81.5,97
+20286,Dean Phillips,PD,Traverse,27155,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:21:30.000Z,119,11,10.9,13
+100004,Uncommitted,PD,Traverse,27155,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:21:30.000Z,119,5,5.0,6
+20072905,Marianne Williamson,PD,Traverse,27155,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:21:30.000Z,119,1,0.8,1
+1036,Joe Biden,PD,Wabasha,27157,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:25:30.000Z,706,81,80.6,569
+100004,Uncommitted,PD,Wabasha,27157,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:25:30.000Z,706,9,8.9,63
+20286,Dean Phillips,PD,Wabasha,27157,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:25:30.000Z,706,7,6.5,46
+20072905,Marianne Williamson,PD,Wabasha,27157,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:25:30.000Z,706,1,1.0,7
+1036,Joe Biden,PD,Wadena,27159,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T20:00:02.000Z,229,83,82.5,189
+100004,Uncommitted,PD,Wadena,27159,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T20:00:02.000Z,229,8,7.9,18
+20286,Dean Phillips,PD,Wadena,27159,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T20:00:02.000Z,229,7,7.0,16
+20072905,Marianne Williamson,PD,Wadena,27159,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T20:00:02.000Z,229,2,1.7,4
+1036,Joe Biden,PD,Waseca,27161,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:26.000Z,403,78,78.4,316
+100004,Uncommitted,PD,Waseca,27161,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:26.000Z,403,9,9.2,37
+20286,Dean Phillips,PD,Waseca,27161,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:26.000Z,403,8,7.9,32
+20072905,Marianne Williamson,PD,Waseca,27161,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-04-23T19:58:26.000Z,403,2,1.7,7
+1036,Joe Biden,PD,Washington,27163,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:36:31.000Z,11101,77,77.3,8586
+100004,Uncommitted,PD,Washington,27163,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:36:31.000Z,11101,12,11.7,1302
+20286,Dean Phillips,PD,Washington,27163,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:36:31.000Z,11101,8,7.8,861
+20072905,Marianne Williamson,PD,Washington,27163,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:36:31.000Z,11101,1,1.5,163
+1036,Joe Biden,PD,Watonwan,27165,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:37:47.000Z,311,81,80.7,251
+20286,Dean Phillips,PD,Watonwan,27165,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:37:47.000Z,311,11,10.6,33
+100004,Uncommitted,PD,Watonwan,27165,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:37:47.000Z,311,5,5.1,16
+20072905,Marianne Williamson,PD,Watonwan,27165,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:37:47.000Z,311,1,1.3,4
+1036,Joe Biden,PD,Wilkin,27167,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T03:38:50.000Z,133,82,81.9,109
+100004,Uncommitted,PD,Wilkin,27167,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T03:38:50.000Z,133,9,9.0,12
+20286,Dean Phillips,PD,Wilkin,27167,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T03:38:50.000Z,133,5,5.3,7
+20072905,Marianne Williamson,PD,Wilkin,27167,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T03:38:50.000Z,133,2,1.5,2
+1036,Joe Biden,PD,Winona,27169,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:40:38.000Z,1587,78,78.3,1243
+100004,Uncommitted,PD,Winona,27169,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:40:38.000Z,1587,15,14.6,232
+20286,Dean Phillips,PD,Winona,27169,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:40:38.000Z,1587,3,3.3,53
+20072905,Marianne Williamson,PD,Winona,27169,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:40:38.000Z,1587,2,1.8,29
+1036,Joe Biden,PD,Wright,27171,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-06T05:02:50.000Z,2799,73,72.6,2033
+20286,Dean Phillips,PD,Wright,27171,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-06T05:02:50.000Z,2799,12,12.4,347
+100004,Uncommitted,PD,Wright,27171,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-06T05:02:50.000Z,2799,11,10.6,298
+20072905,Marianne Williamson,PD,Wright,27171,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-06T05:02:50.000Z,2799,2,2.2,62
+1036,Joe Biden,PD,Yellow Medicine,27173,Joe,True,Biden,DEM,Democratic,100,P,Minnesota,2024-03-08T00:42:55.000Z,285,82,81.8,233
+20286,Dean Phillips,PD,Yellow Medicine,27173,Dean,False,Phillips,DEM,Democratic,100,P,Minnesota,2024-03-08T00:42:55.000Z,285,11,11.2,32
+100004,Uncommitted,PD,Yellow Medicine,27173,,False,Uncommitted,DEM,Democratic,100,P,Minnesota,2024-03-08T00:42:55.000Z,285,3,3.2,9
+20072905,Marianne Williamson,PD,Yellow Medicine,27173,Marianne,False,Williamson,DEM,Democratic,100,P,Minnesota,2024-03-08T00:42:55.000Z,285,1,1.1,3

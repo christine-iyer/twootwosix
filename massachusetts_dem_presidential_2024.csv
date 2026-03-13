@@ -1,0 +1,1405 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Abington,92500001,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:38.000Z,1372,79,79.2,1087
+100005,No Preference,PD,Abington,92500001,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:38.000Z,1372,8,8.2,112
+20286,Dean Phillips,PD,Abington,92500001,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:38.000Z,1372,7,6.9,94
+20072905,Marianne Williamson,PD,Abington,92500001,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:38.000Z,1372,4,3.9,54
+1036,Joe Biden,PD,Acton,92500002,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:03.000Z,3301,87,86.7,2861
+100005,No Preference,PD,Acton,92500002,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:03.000Z,3301,6,6.6,217
+20286,Dean Phillips,PD,Acton,92500002,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:03.000Z,3301,4,3.7,124
+20072905,Marianne Williamson,PD,Acton,92500002,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:03.000Z,3301,2,2.2,73
+1036,Joe Biden,PD,Acushnet,92500003,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:35:51.000Z,700,76,75.6,529
+100005,No Preference,PD,Acushnet,92500003,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:35:51.000Z,700,9,9.1,64
+20072905,Marianne Williamson,PD,Acushnet,92500003,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:35:51.000Z,700,7,6.7,47
+20286,Dean Phillips,PD,Acushnet,92500003,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:35:51.000Z,700,6,6.3,44
+1036,Joe Biden,PD,Adams,92500004,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:46.000Z,893,85,85.0,759
+100005,No Preference,PD,Adams,92500004,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:46.000Z,893,7,7.0,63
+20286,Dean Phillips,PD,Adams,92500004,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:46.000Z,893,3,3.5,31
+20072905,Marianne Williamson,PD,Adams,92500004,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:46.000Z,893,3,3.4,30
+1036,Joe Biden,PD,Agawam,92500005,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:33.000Z,2055,79,79.0,1623
+100005,No Preference,PD,Agawam,92500005,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:33.000Z,2055,9,9.2,190
+20286,Dean Phillips,PD,Agawam,92500005,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:33.000Z,2055,5,4.6,94
+20072905,Marianne Williamson,PD,Agawam,92500005,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:33.000Z,2055,4,4.3,89
+1036,Joe Biden,PD,Alford,92500006,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,85,93,92.9,79
+100005,No Preference,PD,Alford,92500006,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,85,6,5.9,5
+20286,Dean Phillips,PD,Alford,92500006,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,85,1,1.2,1
+20072905,Marianne Williamson,PD,Alford,92500006,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,85,0,0.0,0
+1036,Joe Biden,PD,Amesbury,92500007,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:49:12.000Z,1900,84,83.7,1591
+100005,No Preference,PD,Amesbury,92500007,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:49:12.000Z,1900,7,6.9,132
+20286,Dean Phillips,PD,Amesbury,92500007,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:49:12.000Z,1900,5,4.6,87
+20072905,Marianne Williamson,PD,Amesbury,92500007,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:49:12.000Z,1900,2,2.6,49
+1036,Joe Biden,PD,Amherst,92500008,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:43:11.000Z,3355,82,81.8,2745
+100005,No Preference,PD,Amherst,92500008,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:43:11.000Z,3355,12,11.6,390
+20072905,Marianne Williamson,PD,Amherst,92500008,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:43:11.000Z,3355,3,2.8,95
+20286,Dean Phillips,PD,Amherst,92500008,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:43:11.000Z,3355,2,2.2,75
+1036,Joe Biden,PD,Andover,92500009,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:42:53.000Z,3618,84,84.4,3055
+100005,No Preference,PD,Andover,92500009,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:42:53.000Z,3618,7,7.4,268
+20286,Dean Phillips,PD,Andover,92500009,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:42:53.000Z,3618,4,4.5,162
+20072905,Marianne Williamson,PD,Andover,92500009,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:42:53.000Z,3618,2,2.5,89
+1036,Joe Biden,PD,Aquinnah,92500104,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:15:14.000Z,83,89,89.2,74
+100005,No Preference,PD,Aquinnah,92500104,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:15:14.000Z,83,7,7.2,6
+20286,Dean Phillips,PD,Aquinnah,92500104,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:15:14.000Z,83,2,2.4,2
+20072905,Marianne Williamson,PD,Aquinnah,92500104,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:15:14.000Z,83,1,1.2,1
+1036,Joe Biden,PD,Arlington,92500010,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:06.000Z,8654,82,82.3,7123
+100005,No Preference,PD,Arlington,92500010,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:06.000Z,8654,11,11.3,983
+20286,Dean Phillips,PD,Arlington,92500010,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:06.000Z,8654,3,3.4,295
+20072905,Marianne Williamson,PD,Arlington,92500010,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:06.000Z,8654,2,2.0,170
+1036,Joe Biden,PD,Ashburnham,92500011,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,606,83,83.3,505
+100005,No Preference,PD,Ashburnham,92500011,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,606,7,7.4,45
+20286,Dean Phillips,PD,Ashburnham,92500011,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,606,5,5.0,30
+20072905,Marianne Williamson,PD,Ashburnham,92500011,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,606,3,3.0,18
+1036,Joe Biden,PD,Ashby,92500012,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-03-13T21:52:35.000Z,277,86,86.3,239
+100005,No Preference,PD,Ashby,92500012,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-03-13T21:52:35.000Z,277,7,6.8,19
+20286,Dean Phillips,PD,Ashby,92500012,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-03-13T21:52:35.000Z,277,4,3.6,10
+20072905,Marianne Williamson,PD,Ashby,92500012,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-03-13T21:52:35.000Z,277,2,2.2,6
+1036,Joe Biden,PD,Ashfield,92500013,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:39:40.000Z,352,83,82.7,291
+100005,No Preference,PD,Ashfield,92500013,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:39:40.000Z,352,12,12.5,44
+20072905,Marianne Williamson,PD,Ashfield,92500013,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:39:40.000Z,352,3,2.8,10
+20286,Dean Phillips,PD,Ashfield,92500013,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:39:40.000Z,352,1,1.1,4
+1036,Joe Biden,PD,Ashland,92500014,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:52:55.000Z,2033,86,85.8,1745
+100005,No Preference,PD,Ashland,92500014,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:52:55.000Z,2033,7,7.0,142
+20286,Dean Phillips,PD,Ashland,92500014,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:52:55.000Z,2033,4,4.4,89
+20072905,Marianne Williamson,PD,Ashland,92500014,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:52:55.000Z,2033,3,2.6,52
+1036,Joe Biden,PD,Athol,92500015,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:25.000Z,755,81,81.2,613
+20286,Dean Phillips,PD,Athol,92500015,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:25.000Z,755,8,7.7,58
+100005,No Preference,PD,Athol,92500015,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:25.000Z,755,6,5.9,45
+20072905,Marianne Williamson,PD,Athol,92500015,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:25.000Z,755,3,3.6,27
+1036,Joe Biden,PD,Attleboro,92500016,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:21:52.000Z,3093,80,80.1,2477
+100005,No Preference,PD,Attleboro,92500016,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:21:52.000Z,3093,9,9.3,287
+20286,Dean Phillips,PD,Attleboro,92500016,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:21:52.000Z,3093,5,4.8,150
+20072905,Marianne Williamson,PD,Attleboro,92500016,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:21:52.000Z,3093,4,4.3,134
+1036,Joe Biden,PD,Auburn,92500017,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:06.000Z,1668,79,79.4,1325
+100005,No Preference,PD,Auburn,92500017,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:06.000Z,1668,9,8.6,143
+20286,Dean Phillips,PD,Auburn,92500017,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:06.000Z,1668,6,6.3,105
+20072905,Marianne Williamson,PD,Auburn,92500017,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:06.000Z,1668,5,4.8,80
+1036,Joe Biden,PD,Avon,92500018,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:23:22.000Z,368,81,81.2,299
+100005,No Preference,PD,Avon,92500018,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:23:22.000Z,368,7,7.3,27
+20286,Dean Phillips,PD,Avon,92500018,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:23:22.000Z,368,6,6.2,23
+20072905,Marianne Williamson,PD,Avon,92500018,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:23:22.000Z,368,4,4.3,16
+1036,Joe Biden,PD,Ayer,92500019,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-06-16T16:06:04.000Z,764,83,82.9,633
+100005,No Preference,PD,Ayer,92500019,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-06-16T16:06:04.000Z,764,7,7.6,58
+20286,Dean Phillips,PD,Ayer,92500019,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-06-16T16:06:04.000Z,764,6,5.6,43
+20072905,Marianne Williamson,PD,Ayer,92500019,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-06-16T16:06:04.000Z,764,4,3.9,30
+1036,Joe Biden,PD,Barnstable,92500020,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:38.000Z,4895,88,87.6,4290
+100005,No Preference,PD,Barnstable,92500020,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:38.000Z,4895,5,5.3,258
+20286,Dean Phillips,PD,Barnstable,92500020,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:38.000Z,4895,3,3.1,151
+20072905,Marianne Williamson,PD,Barnstable,92500020,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:38.000Z,4895,2,2.4,120
+1036,Joe Biden,PD,Barre,92500021,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:14.000Z,465,77,77.4,360
+20286,Dean Phillips,PD,Barre,92500021,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:14.000Z,465,8,8.4,39
+100005,No Preference,PD,Barre,92500021,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:14.000Z,465,7,6.7,31
+20072905,Marianne Williamson,PD,Barre,92500021,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:14.000Z,465,5,4.9,23
+1036,Joe Biden,PD,Becket,92500022,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,238,87,87.4,208
+20286,Dean Phillips,PD,Becket,92500022,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,238,4,4.2,10
+100005,No Preference,PD,Becket,92500022,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,238,4,4.2,10
+20072905,Marianne Williamson,PD,Becket,92500022,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,238,2,2.1,5
+1036,Joe Biden,PD,Bedford,92500023,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:31.000Z,1905,87,87.4,1666
+100005,No Preference,PD,Bedford,92500023,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:31.000Z,1905,5,5.5,104
+20286,Dean Phillips,PD,Bedford,92500023,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:31.000Z,1905,5,4.7,89
+20072905,Marianne Williamson,PD,Bedford,92500023,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:31.000Z,1905,2,1.7,32
+1036,Joe Biden,PD,Belchertown,92500024,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:39.000Z,1857,84,83.6,1552
+100005,No Preference,PD,Belchertown,92500024,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:39.000Z,1857,7,7.3,135
+20072905,Marianne Williamson,PD,Belchertown,92500024,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:39.000Z,1857,4,4.0,75
+20286,Dean Phillips,PD,Belchertown,92500024,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:39.000Z,1857,4,3.7,68
+1036,Joe Biden,PD,Bellingham,92500025,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:21.000Z,1420,82,81.7,1160
+100005,No Preference,PD,Bellingham,92500025,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:21.000Z,1420,8,7.9,112
+20286,Dean Phillips,PD,Bellingham,92500025,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:21.000Z,1420,6,5.7,81
+20072905,Marianne Williamson,PD,Bellingham,92500025,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:21.000Z,1420,3,3.3,47
+1036,Joe Biden,PD,Belmont,92500026,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:24:31.000Z,3800,84,83.7,3181
+100005,No Preference,PD,Belmont,92500026,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:24:31.000Z,3800,10,9.9,375
+20286,Dean Phillips,PD,Belmont,92500026,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:24:31.000Z,3800,3,3.3,124
+20072905,Marianne Williamson,PD,Belmont,92500026,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:24:31.000Z,3800,2,2.5,95
+1036,Joe Biden,PD,Berkley,92500027,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:25.000Z,425,79,79.3,337
+100005,No Preference,PD,Berkley,92500027,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:25.000Z,425,8,8.2,35
+20286,Dean Phillips,PD,Berkley,92500027,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:25.000Z,425,5,5.2,22
+20072905,Marianne Williamson,PD,Berkley,92500027,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:25.000Z,425,4,4.5,19
+1036,Joe Biden,PD,Berlin,92500028,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:24:46.000Z,406,84,84.0,341
+100005,No Preference,PD,Berlin,92500028,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:24:46.000Z,406,7,7.1,29
+20072905,Marianne Williamson,PD,Berlin,92500028,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:24:46.000Z,406,4,4.2,17
+20286,Dean Phillips,PD,Berlin,92500028,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:24:46.000Z,406,2,2.5,10
+1036,Joe Biden,PD,Bernardston,92500029,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,267,86,85.8,229
+100005,No Preference,PD,Bernardston,92500029,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,267,5,5.2,14
+20286,Dean Phillips,PD,Bernardston,92500029,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,267,4,3.7,10
+20072905,Marianne Williamson,PD,Bernardston,92500029,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,267,3,3.4,9
+1036,Joe Biden,PD,Beverly,92500030,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:52.000Z,5068,83,83.4,4226
+100005,No Preference,PD,Beverly,92500030,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:52.000Z,5068,9,8.6,437
+20286,Dean Phillips,PD,Beverly,92500030,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:52.000Z,5068,5,4.5,230
+20072905,Marianne Williamson,PD,Beverly,92500030,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:52.000Z,5068,3,3.5,175
+1036,Joe Biden,PD,Billerica,92500031,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:01.000Z,3692,77,77.2,2850
+100005,No Preference,PD,Billerica,92500031,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:01.000Z,3692,10,9.9,365
+20286,Dean Phillips,PD,Billerica,92500031,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:01.000Z,3692,7,6.7,249
+20072905,Marianne Williamson,PD,Billerica,92500031,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:01.000Z,3692,3,3.5,131
+1036,Joe Biden,PD,Blackstone,92500032,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:35.000Z,589,79,78.9,465
+100005,No Preference,PD,Blackstone,92500032,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:35.000Z,589,9,8.8,52
+20286,Dean Phillips,PD,Blackstone,92500032,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:35.000Z,589,7,6.6,39
+20072905,Marianne Williamson,PD,Blackstone,92500032,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:35.000Z,589,4,4.1,24
+1036,Joe Biden,PD,Blandford,92500033,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:25:14.000Z,91,87,86.8,79
+100005,No Preference,PD,Blandford,92500033,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:25:14.000Z,91,8,7.7,7
+20072905,Marianne Williamson,PD,Blandford,92500033,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:25:14.000Z,91,3,3.3,3
+20286,Dean Phillips,PD,Blandford,92500033,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:25:14.000Z,91,2,2.2,2
+1036,Joe Biden,PD,Bolton,92500034,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:43.000Z,733,87,87.6,642
+100005,No Preference,PD,Bolton,92500034,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:43.000Z,733,7,7.1,52
+20286,Dean Phillips,PD,Bolton,92500034,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:43.000Z,733,3,2.6,19
+20072905,Marianne Williamson,PD,Bolton,92500034,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:43.000Z,733,2,1.9,14
+1036,Joe Biden,PD,Boston,92500035,Joe,True,Biden,DEM,Democratic,76,P,Massachusetts,2024-06-16T15:36:07.000Z,54099,77,77.0,41657
+100005,No Preference,PD,Boston,92500035,,False,No Preference,DEM,Democratic,76,P,Massachusetts,2024-06-16T15:36:07.000Z,54099,14,14.0,7580
+20286,Dean Phillips,PD,Boston,92500035,Dean,False,Phillips,DEM,Democratic,76,P,Massachusetts,2024-06-16T15:36:07.000Z,54099,4,4.3,2319
+20072905,Marianne Williamson,PD,Boston,92500035,Marianne,False,Williamson,DEM,Democratic,76,P,Massachusetts,2024-06-16T15:36:07.000Z,54099,3,2.9,1550
+1036,Joe Biden,PD,Bourne,92500036,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:23.000Z,1980,88,88.0,1743
+100005,No Preference,PD,Bourne,92500036,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:23.000Z,1980,6,5.8,115
+20286,Dean Phillips,PD,Bourne,92500036,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:23.000Z,1980,3,3.3,66
+20072905,Marianne Williamson,PD,Bourne,92500036,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:23.000Z,1980,3,2.8,55
+1036,Joe Biden,PD,Boxborough,92500037,Joe,True,Biden,DEM,Democratic,78,P,Massachusetts,2024-03-13T22:03:15.000Z,611,86,85.8,524
+100005,No Preference,PD,Boxborough,92500037,,False,No Preference,DEM,Democratic,78,P,Massachusetts,2024-03-13T22:03:15.000Z,611,7,7.5,46
+20286,Dean Phillips,PD,Boxborough,92500037,Dean,False,Phillips,DEM,Democratic,78,P,Massachusetts,2024-03-13T22:03:15.000Z,611,3,2.9,18
+20072905,Marianne Williamson,PD,Boxborough,92500037,Marianne,False,Williamson,DEM,Democratic,78,P,Massachusetts,2024-03-13T22:03:15.000Z,611,2,1.6,10
+1036,Joe Biden,PD,Boxford,92500038,Joe,True,Biden,DEM,Democratic,84,P,Massachusetts,2024-06-16T16:01:45.000Z,788,88,87.8,692
+100005,No Preference,PD,Boxford,92500038,,False,No Preference,DEM,Democratic,84,P,Massachusetts,2024-06-16T16:01:45.000Z,788,5,5.5,43
+20286,Dean Phillips,PD,Boxford,92500038,Dean,False,Phillips,DEM,Democratic,84,P,Massachusetts,2024-06-16T16:01:45.000Z,788,3,2.8,22
+20072905,Marianne Williamson,PD,Boxford,92500038,Marianne,False,Williamson,DEM,Democratic,84,P,Massachusetts,2024-06-16T16:01:45.000Z,788,3,2.5,20
+1036,Joe Biden,PD,Boylston,92500039,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:39.000Z,547,82,82.1,449
+100005,No Preference,PD,Boylston,92500039,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:39.000Z,547,11,10.8,59
+20286,Dean Phillips,PD,Boylston,92500039,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:39.000Z,547,4,4.0,22
+20072905,Marianne Williamson,PD,Boylston,92500039,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:39.000Z,547,3,2.6,14
+1036,Joe Biden,PD,Braintree,92500040,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:42:03.000Z,3528,77,77.3,2727
+100005,No Preference,PD,Braintree,92500040,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:42:03.000Z,3528,10,10.1,357
+20286,Dean Phillips,PD,Braintree,92500040,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:42:03.000Z,3528,6,6.5,228
+20072905,Marianne Williamson,PD,Braintree,92500040,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:42:03.000Z,3528,4,3.9,139
+1036,Joe Biden,PD,Brewster,92500041,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:54.000Z,1804,89,88.6,1598
+100005,No Preference,PD,Brewster,92500041,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:54.000Z,1804,5,5.3,95
+20286,Dean Phillips,PD,Brewster,92500041,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:54.000Z,1804,3,3.5,63
+20072905,Marianne Williamson,PD,Brewster,92500041,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:54.000Z,1804,3,2.5,46
+1036,Joe Biden,PD,Bridgewater,92500042,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:33.000Z,2025,79,79.3,1606
+100005,No Preference,PD,Bridgewater,92500042,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:33.000Z,2025,9,8.6,175
+20286,Dean Phillips,PD,Bridgewater,92500042,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:33.000Z,2025,6,6.2,126
+20072905,Marianne Williamson,PD,Bridgewater,92500042,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:33.000Z,2025,4,4.0,81
+1036,Joe Biden,PD,Brimfield,92500043,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:36:31.000Z,251,79,78.9,198
+100005,No Preference,PD,Brimfield,92500043,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:36:31.000Z,251,9,8.7,22
+20286,Dean Phillips,PD,Brimfield,92500043,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:36:31.000Z,251,6,6.4,16
+20072905,Marianne Williamson,PD,Brimfield,92500043,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:36:31.000Z,251,5,5.2,13
+1036,Joe Biden,PD,Brockton,92500044,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:37:35.000Z,5289,83,82.6,4369
+100005,No Preference,PD,Brockton,92500044,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:37:35.000Z,5289,7,7.4,392
+20286,Dean Phillips,PD,Brockton,92500044,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:37:35.000Z,5289,5,5.1,272
+20072905,Marianne Williamson,PD,Brockton,92500044,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:37:35.000Z,5289,4,3.7,194
+1036,Joe Biden,PD,Brookfield,92500045,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:54:03.000Z,284,80,79.6,226
+20286,Dean Phillips,PD,Brookfield,92500045,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:54:03.000Z,284,7,7.0,20
+100005,No Preference,PD,Brookfield,92500045,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:54:03.000Z,284,7,7.0,20
+20072905,Marianne Williamson,PD,Brookfield,92500045,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:54:03.000Z,284,5,4.9,14
+1036,Joe Biden,PD,Brookline,92500046,Joe,True,Biden,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:39:33.000Z,7896,84,84.4,6667
+100005,No Preference,PD,Brookline,92500046,,False,No Preference,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:39:33.000Z,7896,10,10.0,789
+20286,Dean Phillips,PD,Brookline,92500046,Dean,False,Phillips,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:39:33.000Z,7896,3,2.5,198
+20072905,Marianne Williamson,PD,Brookline,92500046,Marianne,False,Williamson,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:39:33.000Z,7896,2,1.7,131
+1036,Joe Biden,PD,Buckland,92500047,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-03-13T21:52:40.000Z,273,84,84.2,230
+100005,No Preference,PD,Buckland,92500047,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-03-13T21:52:40.000Z,273,10,9.9,27
+20072905,Marianne Williamson,PD,Buckland,92500047,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-03-13T21:52:40.000Z,273,4,4.4,12
+20286,Dean Phillips,PD,Buckland,92500047,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-03-13T21:52:40.000Z,273,1,1.5,4
+1036,Joe Biden,PD,Burlington,92500048,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:47:42.000Z,2507,80,80.3,2014
+100005,No Preference,PD,Burlington,92500048,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:47:42.000Z,2507,9,8.7,218
+20286,Dean Phillips,PD,Burlington,92500048,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:47:42.000Z,2507,6,6.5,163
+20072905,Marianne Williamson,PD,Burlington,92500048,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:47:42.000Z,2507,4,3.6,90
+1036,Joe Biden,PD,Cambridge,92500049,Joe,True,Biden,DEM,Democratic,79,P,Massachusetts,2024-06-16T15:36:52.000Z,14663,77,76.8,11262
+100005,No Preference,PD,Cambridge,92500049,,False,No Preference,DEM,Democratic,79,P,Massachusetts,2024-06-16T15:36:52.000Z,14663,17,16.8,2460
+20286,Dean Phillips,PD,Cambridge,92500049,Dean,False,Phillips,DEM,Democratic,79,P,Massachusetts,2024-06-16T15:36:52.000Z,14663,3,2.8,412
+20072905,Marianne Williamson,PD,Cambridge,92500049,Marianne,False,Williamson,DEM,Democratic,79,P,Massachusetts,2024-06-16T15:36:52.000Z,14663,2,2.5,367
+1036,Joe Biden,PD,Canton,92500050,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:34.000Z,2747,83,83.4,2291
+100005,No Preference,PD,Canton,92500050,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:34.000Z,2747,8,7.9,217
+20286,Dean Phillips,PD,Canton,92500050,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:34.000Z,2747,5,4.9,134
+20072905,Marianne Williamson,PD,Canton,92500050,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:34.000Z,2747,3,2.7,75
+1036,Joe Biden,PD,Carlisle,92500051,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:40.000Z,826,87,86.6,715
+100005,No Preference,PD,Carlisle,92500051,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:40.000Z,826,7,7.4,61
+20286,Dean Phillips,PD,Carlisle,92500051,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:40.000Z,826,3,3.3,27
+20072905,Marianne Williamson,PD,Carlisle,92500051,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:40.000Z,826,2,2.0,17
+1036,Joe Biden,PD,Carver,92500052,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:03.000Z,931,83,83.0,773
+100005,No Preference,PD,Carver,92500052,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:03.000Z,931,6,6.4,60
+20286,Dean Phillips,PD,Carver,92500052,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:03.000Z,931,5,5.4,50
+20072905,Marianne Williamson,PD,Carver,92500052,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:03.000Z,931,3,3.0,28
+1036,Joe Biden,PD,Charlemont,92500053,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,154,79,79.2,122
+100005,No Preference,PD,Charlemont,92500053,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,154,15,15.6,24
+20286,Dean Phillips,PD,Charlemont,92500053,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,154,3,2.6,4
+20072905,Marianne Williamson,PD,Charlemont,92500053,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,154,3,2.6,4
+1036,Joe Biden,PD,Charlton,92500054,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:49.000Z,959,79,79.3,761
+20286,Dean Phillips,PD,Charlton,92500054,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:49.000Z,959,8,7.6,73
+100005,No Preference,PD,Charlton,92500054,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:49.000Z,959,7,6.8,65
+20072905,Marianne Williamson,PD,Charlton,92500054,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:49.000Z,959,4,4.4,42
+1036,Joe Biden,PD,Chatham,92500055,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:52:16.000Z,937,91,90.7,850
+100005,No Preference,PD,Chatham,92500055,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:52:16.000Z,937,4,4.6,43
+20286,Dean Phillips,PD,Chatham,92500055,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:52:16.000Z,937,3,2.8,26
+20072905,Marianne Williamson,PD,Chatham,92500055,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:52:16.000Z,937,2,1.6,15
+1036,Joe Biden,PD,Chelmsford,92500056,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:28.000Z,4316,82,82.5,3560
+100005,No Preference,PD,Chelmsford,92500056,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:28.000Z,4316,7,6.9,299
+20286,Dean Phillips,PD,Chelmsford,92500056,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:28.000Z,4316,6,6.0,257
+20072905,Marianne Williamson,PD,Chelmsford,92500056,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:28.000Z,4316,3,3.3,142
+1036,Joe Biden,PD,Chelsea,92500057,Joe,True,Biden,DEM,Democratic,71,P,Massachusetts,2024-03-26T21:26:50.000Z,1344,73,73.5,988
+100005,No Preference,PD,Chelsea,92500057,,False,No Preference,DEM,Democratic,71,P,Massachusetts,2024-03-26T21:26:50.000Z,1344,13,12.6,169
+20286,Dean Phillips,PD,Chelsea,92500057,Dean,False,Phillips,DEM,Democratic,71,P,Massachusetts,2024-03-26T21:26:50.000Z,1344,8,8.0,108
+20072905,Marianne Williamson,PD,Chelsea,92500057,Marianne,False,Williamson,DEM,Democratic,71,P,Massachusetts,2024-03-26T21:26:50.000Z,1344,6,5.9,79
+1036,Joe Biden,PD,Cheshire,92500058,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-03-13T21:52:40.000Z,289,87,86.9,251
+100005,No Preference,PD,Cheshire,92500058,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-03-13T21:52:40.000Z,289,5,5.2,15
+20072905,Marianne Williamson,PD,Cheshire,92500058,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-03-13T21:52:40.000Z,289,5,4.8,14
+20286,Dean Phillips,PD,Cheshire,92500058,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-03-13T21:52:40.000Z,289,3,2.8,8
+1036,Joe Biden,PD,Chester,92500059,Joe,True,Biden,DEM,Democratic,73,P,Massachusetts,2024-03-26T21:27:05.000Z,74,82,82.4,61
+20072905,Marianne Williamson,PD,Chester,92500059,Marianne,False,Williamson,DEM,Democratic,73,P,Massachusetts,2024-03-26T21:27:05.000Z,74,8,8.1,6
+20286,Dean Phillips,PD,Chester,92500059,Dean,False,Phillips,DEM,Democratic,73,P,Massachusetts,2024-03-26T21:27:05.000Z,74,7,6.8,5
+100005,No Preference,PD,Chester,92500059,,False,No Preference,DEM,Democratic,73,P,Massachusetts,2024-03-26T21:27:05.000Z,74,3,2.7,2
+1036,Joe Biden,PD,Chesterfield,92500060,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:27:30.000Z,139,76,76.3,106
+100005,No Preference,PD,Chesterfield,92500060,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:27:30.000Z,139,12,12.2,17
+20072905,Marianne Williamson,PD,Chesterfield,92500060,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:27:30.000Z,139,6,6.5,9
+20286,Dean Phillips,PD,Chesterfield,92500060,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-03-26T21:27:30.000Z,139,4,3.6,5
+1036,Joe Biden,PD,Chicopee,92500061,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:44.000Z,3789,80,80.3,3041
+100005,No Preference,PD,Chicopee,92500061,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:44.000Z,3789,8,8.5,321
+20286,Dean Phillips,PD,Chicopee,92500061,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:44.000Z,3789,4,4.3,163
+20072905,Marianne Williamson,PD,Chicopee,92500061,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:44.000Z,3789,4,4.2,161
+1036,Joe Biden,PD,Chilmark,92500062,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,275,87,86.5,238
+100005,No Preference,PD,Chilmark,92500062,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,275,6,6.2,17
+20286,Dean Phillips,PD,Chilmark,92500062,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,275,4,4.0,11
+20072905,Marianne Williamson,PD,Chilmark,92500062,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,275,3,2.9,8
+1036,Joe Biden,PD,Clarksburg,92500063,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:27:50.000Z,169,88,88.2,149
+100005,No Preference,PD,Clarksburg,92500063,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:27:50.000Z,169,6,6.5,11
+20286,Dean Phillips,PD,Clarksburg,92500063,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:27:50.000Z,169,4,4.1,7
+20072905,Marianne Williamson,PD,Clarksburg,92500063,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:27:50.000Z,169,1,0.6,1
+1036,Joe Biden,PD,Clinton,92500064,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:00.000Z,1257,77,77.1,969
+100005,No Preference,PD,Clinton,92500064,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:00.000Z,1257,10,9.7,122
+20286,Dean Phillips,PD,Clinton,92500064,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:00.000Z,1257,6,6.3,79
+20072905,Marianne Williamson,PD,Clinton,92500064,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:00.000Z,1257,5,5.2,66
+1036,Joe Biden,PD,Cohasset,92500065,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:06:38.000Z,970,89,88.5,859
+100005,No Preference,PD,Cohasset,92500065,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:06:38.000Z,970,5,5.4,52
+20286,Dean Phillips,PD,Cohasset,92500065,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:06:38.000Z,970,3,3.1,30
+20072905,Marianne Williamson,PD,Cohasset,92500065,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:06:38.000Z,970,2,2.2,21
+1036,Joe Biden,PD,Colrain,92500066,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:02.000Z,199,77,76.9,153
+100005,No Preference,PD,Colrain,92500066,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:02.000Z,199,15,15.1,30
+20072905,Marianne Williamson,PD,Colrain,92500066,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:02.000Z,199,5,5.0,10
+20286,Dean Phillips,PD,Colrain,92500066,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:02.000Z,199,3,3.0,6
+1036,Joe Biden,PD,Concord,92500067,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:16.000Z,3352,89,88.8,2977
+100005,No Preference,PD,Concord,92500067,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:16.000Z,3352,6,6.1,206
+20286,Dean Phillips,PD,Concord,92500067,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:16.000Z,3352,3,2.9,96
+20072905,Marianne Williamson,PD,Concord,92500067,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:16.000Z,3352,1,1.5,49
+1036,Joe Biden,PD,Conway,92500068,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:05:30.000Z,349,82,81.7,285
+100005,No Preference,PD,Conway,92500068,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:05:30.000Z,349,13,13.2,46
+20286,Dean Phillips,PD,Conway,92500068,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:05:30.000Z,349,2,2.0,7
+20072905,Marianne Williamson,PD,Conway,92500068,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:05:30.000Z,349,2,1.7,6
+1036,Joe Biden,PD,Cummington,92500069,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-03-06T03:50:11.000Z,134,72,72.4,97
+100005,No Preference,PD,Cummington,92500069,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-03-06T03:50:11.000Z,134,20,20.1,27
+20072905,Marianne Williamson,PD,Cummington,92500069,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-03-06T03:50:11.000Z,134,4,3.7,5
+20286,Dean Phillips,PD,Cummington,92500069,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-03-06T03:50:11.000Z,134,1,1.5,2
+1036,Joe Biden,PD,Dalton,92500070,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:48.000Z,734,85,85.0,624
+100005,No Preference,PD,Dalton,92500070,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:48.000Z,734,7,6.9,51
+20286,Dean Phillips,PD,Dalton,92500070,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:48.000Z,734,3,2.9,21
+20072905,Marianne Williamson,PD,Dalton,92500070,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:06:48.000Z,734,3,2.7,20
+1036,Joe Biden,PD,Danvers,92500071,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:45:41.000Z,2914,84,84.0,2449
+100005,No Preference,PD,Danvers,92500071,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:45:41.000Z,2914,7,6.5,190
+20286,Dean Phillips,PD,Danvers,92500071,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:45:41.000Z,2914,4,4.4,128
+20072905,Marianne Williamson,PD,Danvers,92500071,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:45:41.000Z,2914,4,3.6,106
+1036,Joe Biden,PD,Dartmouth,92500072,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:44:39.000Z,3046,82,81.7,2488
+100005,No Preference,PD,Dartmouth,92500072,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:44:39.000Z,3046,9,9.3,284
+20286,Dean Phillips,PD,Dartmouth,92500072,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:44:39.000Z,3046,5,4.6,140
+20072905,Marianne Williamson,PD,Dartmouth,92500072,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:44:39.000Z,3046,3,3.2,98
+1036,Joe Biden,PD,Dedham,92500073,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:47:52.000Z,3150,81,80.6,2539
+100005,No Preference,PD,Dedham,92500073,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:47:52.000Z,3150,9,9.5,301
+20286,Dean Phillips,PD,Dedham,92500073,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:47:52.000Z,3150,4,4.6,144
+20072905,Marianne Williamson,PD,Dedham,92500073,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:47:52.000Z,3150,3,2.6,82
+1036,Joe Biden,PD,Deerfield,92500074,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:00.000Z,821,84,83.8,688
+100005,No Preference,PD,Deerfield,92500074,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:00.000Z,821,7,7.4,61
+20286,Dean Phillips,PD,Deerfield,92500074,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:00.000Z,821,4,4.4,36
+20072905,Marianne Williamson,PD,Deerfield,92500074,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:00.000Z,821,3,2.9,24
+1036,Joe Biden,PD,Dennis,92500075,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:26.000Z,2161,88,87.6,1892
+100005,No Preference,PD,Dennis,92500075,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:26.000Z,2161,4,4.4,96
+20286,Dean Phillips,PD,Dennis,92500075,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:26.000Z,2161,4,4.3,92
+20072905,Marianne Williamson,PD,Dennis,92500075,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:53:26.000Z,2161,2,1.9,42
+1036,Joe Biden,PD,Dighton,92500076,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:19.000Z,520,80,80.4,418
+100005,No Preference,PD,Dighton,92500076,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:19.000Z,520,7,7.1,37
+20286,Dean Phillips,PD,Dighton,92500076,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:19.000Z,520,6,6.3,33
+20072905,Marianne Williamson,PD,Dighton,92500076,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:29:19.000Z,520,6,6.2,32
+1036,Joe Biden,PD,Douglas,92500077,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:13.000Z,566,82,82.3,466
+100005,No Preference,PD,Douglas,92500077,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:13.000Z,566,8,8.0,45
+20286,Dean Phillips,PD,Douglas,92500077,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:13.000Z,566,6,6.2,35
+20072905,Marianne Williamson,PD,Douglas,92500077,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:13.000Z,566,4,3.5,20
+1036,Joe Biden,PD,Dover,92500078,Joe,True,Biden,DEM,Democratic,69,P,Massachusetts,2024-03-13T21:52:38.000Z,590,84,83.6,493
+100005,No Preference,PD,Dover,92500078,,False,No Preference,DEM,Democratic,69,P,Massachusetts,2024-03-13T21:52:38.000Z,590,7,7.3,43
+20286,Dean Phillips,PD,Dover,92500078,Dean,False,Phillips,DEM,Democratic,69,P,Massachusetts,2024-03-13T21:52:38.000Z,590,5,5.2,31
+20072905,Marianne Williamson,PD,Dover,92500078,Marianne,False,Williamson,DEM,Democratic,69,P,Massachusetts,2024-03-13T21:52:38.000Z,590,2,2.0,12
+1036,Joe Biden,PD,Dracut,92500079,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:30:40.000Z,2664,76,75.9,2023
+100005,No Preference,PD,Dracut,92500079,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:30:40.000Z,2664,11,10.6,283
+20286,Dean Phillips,PD,Dracut,92500079,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:30:40.000Z,2664,8,8.5,227
+20072905,Marianne Williamson,PD,Dracut,92500079,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:30:40.000Z,2664,5,4.9,131
+1036,Joe Biden,PD,Dudley,92500080,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:31:04.000Z,709,82,82.5,585
+100005,No Preference,PD,Dudley,92500080,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:31:04.000Z,709,7,7.2,51
+20286,Dean Phillips,PD,Dudley,92500080,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:31:04.000Z,709,5,5.1,36
+20072905,Marianne Williamson,PD,Dudley,92500080,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:31:04.000Z,709,4,3.7,26
+1036,Joe Biden,PD,Dunstable,92500081,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-03-13T22:03:51.000Z,344,86,86.3,297
+100005,No Preference,PD,Dunstable,92500081,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-03-13T22:03:51.000Z,344,8,7.8,27
+20286,Dean Phillips,PD,Dunstable,92500081,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-03-13T22:03:51.000Z,344,3,2.9,10
+20072905,Marianne Williamson,PD,Dunstable,92500081,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-03-13T22:03:51.000Z,344,1,0.9,3
+1036,Joe Biden,PD,Duxbury,92500082,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:44.000Z,1875,88,87.8,1646
+100005,No Preference,PD,Duxbury,92500082,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:44.000Z,1875,5,5.1,95
+20286,Dean Phillips,PD,Duxbury,92500082,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:44.000Z,1875,4,3.9,74
+20072905,Marianne Williamson,PD,Duxbury,92500082,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:44.000Z,1875,2,1.9,36
+1036,Joe Biden,PD,East Bridgewater,92500083,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:31:23.000Z,1071,82,81.9,877
+100005,No Preference,PD,East Bridgewater,92500083,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:31:23.000Z,1071,8,8.5,91
+20286,Dean Phillips,PD,East Bridgewater,92500083,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:31:23.000Z,1071,6,5.8,62
+20072905,Marianne Williamson,PD,East Bridgewater,92500083,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:31:23.000Z,1071,4,3.8,41
+1036,Joe Biden,PD,East Brookfield,92500084,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:01:35.000Z,165,72,72.1,119
+20286,Dean Phillips,PD,East Brookfield,92500084,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:01:35.000Z,165,8,8.5,14
+100005,No Preference,PD,East Brookfield,92500084,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:01:35.000Z,165,8,8.5,14
+20072905,Marianne Williamson,PD,East Brookfield,92500084,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:01:35.000Z,165,7,7.3,12
+1036,Joe Biden,PD,East Longmeadow,92500087,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:01.000Z,1547,82,81.6,1262
+100005,No Preference,PD,East Longmeadow,92500087,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:01.000Z,1547,7,7.4,114
+20286,Dean Phillips,PD,East Longmeadow,92500087,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:01.000Z,1547,5,5.3,83
+20072905,Marianne Williamson,PD,East Longmeadow,92500087,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:01.000Z,1547,4,4.0,62
+1036,Joe Biden,PD,Eastham,92500085,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,1116,89,88.5,988
+100005,No Preference,PD,Eastham,92500085,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,1116,4,4.4,49
+20286,Dean Phillips,PD,Eastham,92500085,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,1116,4,4.0,45
+20072905,Marianne Williamson,PD,Eastham,92500085,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,1116,2,1.9,21
+1036,Joe Biden,PD,Easthampton,92500086,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:53:35.000Z,2741,78,78.2,2143
+100005,No Preference,PD,Easthampton,92500086,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:53:35.000Z,2741,13,13.3,365
+20072905,Marianne Williamson,PD,Easthampton,92500086,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:53:35.000Z,2741,4,3.5,96
+20286,Dean Phillips,PD,Easthampton,92500086,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:53:35.000Z,2741,3,3.3,91
+1036,Joe Biden,PD,Easton,92500088,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:56.000Z,2331,84,84.5,1969
+100005,No Preference,PD,Easton,92500088,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:56.000Z,2331,7,7.3,171
+20286,Dean Phillips,PD,Easton,92500088,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:56.000Z,2331,5,4.5,106
+20072905,Marianne Williamson,PD,Easton,92500088,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:49:56.000Z,2331,3,2.6,60
+1036,Joe Biden,PD,Edgartown,92500089,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:32:22.000Z,575,88,87.7,504
+100005,No Preference,PD,Edgartown,92500089,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:32:22.000Z,575,6,6.4,37
+20286,Dean Phillips,PD,Edgartown,92500089,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:32:22.000Z,575,2,2.4,14
+20072905,Marianne Williamson,PD,Edgartown,92500089,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-03-26T21:32:22.000Z,575,2,1.7,10
+1036,Joe Biden,PD,Egremont,92500090,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,256,86,86.3,221
+100005,No Preference,PD,Egremont,92500090,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,256,7,6.6,17
+20072905,Marianne Williamson,PD,Egremont,92500090,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,256,4,4.3,11
+20286,Dean Phillips,PD,Egremont,92500090,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:36.000Z,256,2,2.0,5
+1036,Joe Biden,PD,Erving,92500091,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:16:27.000Z,156,81,81.4,127
+100005,No Preference,PD,Erving,92500091,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:16:27.000Z,156,9,9.0,14
+20072905,Marianne Williamson,PD,Erving,92500091,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:16:27.000Z,156,5,5.1,8
+20286,Dean Phillips,PD,Erving,92500091,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:16:27.000Z,156,3,3.2,5
+1036,Joe Biden,PD,Essex,92500092,Joe,True,Biden,DEM,Democratic,73,P,Massachusetts,2024-03-13T22:03:21.000Z,392,83,83.4,327
+100005,No Preference,PD,Essex,92500092,,False,No Preference,DEM,Democratic,73,P,Massachusetts,2024-03-13T22:03:21.000Z,392,8,8.2,32
+20286,Dean Phillips,PD,Essex,92500092,Dean,False,Phillips,DEM,Democratic,73,P,Massachusetts,2024-03-13T22:03:21.000Z,392,4,3.6,14
+20072905,Marianne Williamson,PD,Essex,92500092,Marianne,False,Williamson,DEM,Democratic,73,P,Massachusetts,2024-03-13T22:03:21.000Z,392,2,1.8,7
+1036,Joe Biden,PD,Everett,92500093,Joe,True,Biden,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:42:14.000Z,2031,70,70.5,1431
+100005,No Preference,PD,Everett,92500093,,False,No Preference,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:42:14.000Z,2031,14,14.1,287
+20286,Dean Phillips,PD,Everett,92500093,Dean,False,Phillips,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:42:14.000Z,2031,8,7.6,154
+20072905,Marianne Williamson,PD,Everett,92500093,Marianne,False,Williamson,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:42:14.000Z,2031,5,4.7,95
+1036,Joe Biden,PD,Fairhaven,92500094,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:07.000Z,1596,79,79.3,1265
+100005,No Preference,PD,Fairhaven,92500094,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:07.000Z,1596,9,9.4,150
+20286,Dean Phillips,PD,Fairhaven,92500094,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:07.000Z,1596,5,5.3,85
+20072905,Marianne Williamson,PD,Fairhaven,92500094,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:07.000Z,1596,4,3.9,62
+1036,Joe Biden,PD,Fall River,92500095,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:51.000Z,5196,74,74.6,3875
+100005,No Preference,PD,Fall River,92500095,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:51.000Z,5196,11,10.6,551
+20286,Dean Phillips,PD,Fall River,92500095,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:51.000Z,5196,6,5.8,304
+20072905,Marianne Williamson,PD,Fall River,92500095,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:32:51.000Z,5196,5,5.3,275
+1036,Joe Biden,PD,Falmouth,92500096,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:47.000Z,4901,89,89.0,4360
+100005,No Preference,PD,Falmouth,92500096,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:47.000Z,4901,5,5.4,264
+20286,Dean Phillips,PD,Falmouth,92500096,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:47.000Z,4901,3,2.8,140
+20072905,Marianne Williamson,PD,Falmouth,92500096,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:47.000Z,4901,2,1.8,88
+1036,Joe Biden,PD,Fitchburg,92500097,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:34:57.000Z,2296,80,80.0,1836
+20286,Dean Phillips,PD,Fitchburg,92500097,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:34:57.000Z,2296,8,7.7,176
+100005,No Preference,PD,Fitchburg,92500097,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:34:57.000Z,2296,7,7.3,169
+20072905,Marianne Williamson,PD,Fitchburg,92500097,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-03-26T21:34:57.000Z,2296,4,4.4,101
+1036,Joe Biden,PD,Florida,92500098,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,56,87,87.5,49
+20072905,Marianne Williamson,PD,Florida,92500098,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,56,9,8.9,5
+20286,Dean Phillips,PD,Florida,92500098,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,56,4,3.6,2
+100005,No Preference,PD,Florida,92500098,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,56,0,0.0,0
+1036,Joe Biden,PD,Foxborough,92500099,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:53:44.000Z,1634,82,81.9,1338
+100005,No Preference,PD,Foxborough,92500099,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:53:44.000Z,1634,9,9.2,150
+20286,Dean Phillips,PD,Foxborough,92500099,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:53:44.000Z,1634,4,4.6,75
+20072905,Marianne Williamson,PD,Foxborough,92500099,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:53:44.000Z,1634,3,2.6,43
+1036,Joe Biden,PD,Framingham,92500100,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:39:03.000Z,7693,84,84.5,6497
+100005,No Preference,PD,Framingham,92500100,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:39:03.000Z,7693,7,7.2,558
+20286,Dean Phillips,PD,Framingham,92500100,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:39:03.000Z,7693,4,4.1,317
+20072905,Marianne Williamson,PD,Framingham,92500100,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:39:03.000Z,7693,3,2.6,200
+1036,Joe Biden,PD,Franklin,92500101,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:51.000Z,3315,84,83.6,2773
+100005,No Preference,PD,Franklin,92500101,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:51.000Z,3315,7,7.1,236
+20286,Dean Phillips,PD,Franklin,92500101,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:51.000Z,3315,4,4.5,149
+20072905,Marianne Williamson,PD,Franklin,92500101,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:51.000Z,3315,3,3.1,102
+1036,Joe Biden,PD,Freetown,92500102,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:23.000Z,708,78,78.5,556
+100005,No Preference,PD,Freetown,92500102,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:23.000Z,708,8,8.2,58
+20286,Dean Phillips,PD,Freetown,92500102,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:23.000Z,708,7,6.6,47
+20072905,Marianne Williamson,PD,Freetown,92500102,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:23.000Z,708,5,4.8,34
+1036,Joe Biden,PD,Gardner,92500103,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:24.000Z,1618,79,79.0,1279
+100005,No Preference,PD,Gardner,92500103,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:24.000Z,1618,9,8.8,142
+20286,Dean Phillips,PD,Gardner,92500103,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:24.000Z,1618,6,6.0,97
+20072905,Marianne Williamson,PD,Gardner,92500103,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:24.000Z,1618,4,4.4,72
+1036,Joe Biden,PD,Georgetown,92500105,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:33.000Z,881,85,85.0,749
+20286,Dean Phillips,PD,Georgetown,92500105,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:33.000Z,881,5,5.2,46
+100005,No Preference,PD,Georgetown,92500105,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:33.000Z,881,5,4.9,43
+20072905,Marianne Williamson,PD,Georgetown,92500105,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:02:33.000Z,881,3,2.8,25
+1036,Joe Biden,PD,Gill,92500106,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:43.000Z,235,83,83.0,195
+100005,No Preference,PD,Gill,92500106,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:43.000Z,235,11,10.6,25
+20072905,Marianne Williamson,PD,Gill,92500106,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:43.000Z,235,4,3.8,9
+20286,Dean Phillips,PD,Gill,92500106,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:43.000Z,235,1,1.3,3
+1036,Joe Biden,PD,Gloucester,92500107,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:33.000Z,3798,86,85.8,3257
+100005,No Preference,PD,Gloucester,92500107,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:33.000Z,3798,6,6.4,244
+20286,Dean Phillips,PD,Gloucester,92500107,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:33.000Z,3798,3,3.2,121
+20072905,Marianne Williamson,PD,Gloucester,92500107,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:33.000Z,3798,3,3.0,114
+1036,Joe Biden,PD,Goshen,92500108,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:24:00.000Z,146,93,93.1,136
+100005,No Preference,PD,Goshen,92500108,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:24:00.000Z,146,4,4.1,6
+20286,Dean Phillips,PD,Goshen,92500108,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:24:00.000Z,146,1,1.4,2
+20072905,Marianne Williamson,PD,Goshen,92500108,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:24:00.000Z,146,1,0.7,1
+1036,Joe Biden,PD,Gosnold,92500109,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:25:27.000Z,13,92,92.3,12
+20286,Dean Phillips,PD,Gosnold,92500109,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:25:27.000Z,13,8,7.7,1
+20072905,Marianne Williamson,PD,Gosnold,92500109,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:25:27.000Z,13,0,0.0,0
+100005,No Preference,PD,Gosnold,92500109,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:25:27.000Z,13,0,0.0,0
+1036,Joe Biden,PD,Grafton,92500110,Joe,True,Biden,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:53:53.000Z,1610,81,80.7,1300
+100005,No Preference,PD,Grafton,92500110,,False,No Preference,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:53:53.000Z,1610,8,8.2,132
+20286,Dean Phillips,PD,Grafton,92500110,Dean,False,Phillips,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:53:53.000Z,1610,6,6.0,96
+20072905,Marianne Williamson,PD,Grafton,92500110,Marianne,False,Williamson,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:53:53.000Z,1610,4,3.7,60
+1036,Joe Biden,PD,Granby,92500111,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T16:06:59.000Z,557,83,83.1,463
+100005,No Preference,PD,Granby,92500111,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T16:06:59.000Z,557,9,8.6,48
+20286,Dean Phillips,PD,Granby,92500111,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T16:06:59.000Z,557,4,4.5,25
+20072905,Marianne Williamson,PD,Granby,92500111,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T16:06:59.000Z,557,3,2.9,16
+1036,Joe Biden,PD,Granville,92500112,Joe,True,Biden,DEM,Democratic,71,P,Massachusetts,2024-03-06T02:05:27.000Z,90,87,86.7,78
+100005,No Preference,PD,Granville,92500112,,False,No Preference,DEM,Democratic,71,P,Massachusetts,2024-03-06T02:05:27.000Z,90,8,7.8,7
+20286,Dean Phillips,PD,Granville,92500112,Dean,False,Phillips,DEM,Democratic,71,P,Massachusetts,2024-03-06T02:05:27.000Z,90,3,3.3,3
+20072905,Marianne Williamson,PD,Granville,92500112,Marianne,False,Williamson,DEM,Democratic,71,P,Massachusetts,2024-03-06T02:05:27.000Z,90,2,2.2,2
+1036,Joe Biden,PD,Great Barrington,92500113,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:57:11.000Z,925,81,81.4,753
+100005,No Preference,PD,Great Barrington,92500113,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:57:11.000Z,925,10,9.7,90
+20072905,Marianne Williamson,PD,Great Barrington,92500113,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:57:11.000Z,925,4,4.4,41
+20286,Dean Phillips,PD,Great Barrington,92500113,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:57:11.000Z,925,2,1.8,17
+1036,Joe Biden,PD,Greenfield,92500114,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:57.000Z,2335,77,76.9,1796
+100005,No Preference,PD,Greenfield,92500114,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:57.000Z,2335,16,15.6,365
+20072905,Marianne Williamson,PD,Greenfield,92500114,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:57.000Z,2335,4,4.1,95
+20286,Dean Phillips,PD,Greenfield,92500114,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:57.000Z,2335,2,2.0,47
+1036,Joe Biden,PD,Groton,92500115,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-06-16T16:02:42.000Z,1313,87,86.7,1139
+100005,No Preference,PD,Groton,92500115,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-06-16T16:02:42.000Z,1313,6,6.2,82
+20286,Dean Phillips,PD,Groton,92500115,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-06-16T16:02:42.000Z,1313,4,3.7,49
+20072905,Marianne Williamson,PD,Groton,92500115,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-06-16T16:02:42.000Z,1313,3,2.7,36
+1036,Joe Biden,PD,Groveland,92500116,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:08.000Z,758,85,84.8,643
+100005,No Preference,PD,Groveland,92500116,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:08.000Z,758,5,5.7,43
+20286,Dean Phillips,PD,Groveland,92500116,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:08.000Z,758,5,4.7,36
+20072905,Marianne Williamson,PD,Groveland,92500116,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:08.000Z,758,4,3.7,28
+1036,Joe Biden,PD,Hadley,92500117,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:37:24.000Z,820,83,83.2,682
+100005,No Preference,PD,Hadley,92500117,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:37:24.000Z,820,11,11.1,91
+20286,Dean Phillips,PD,Hadley,92500117,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:37:24.000Z,820,3,2.5,21
+20072905,Marianne Williamson,PD,Hadley,92500117,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:37:24.000Z,820,2,2.1,17
+1036,Joe Biden,PD,Halifax,92500118,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:17.000Z,627,80,80.1,502
+100005,No Preference,PD,Halifax,92500118,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:17.000Z,627,8,8.0,50
+20286,Dean Phillips,PD,Halifax,92500118,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:17.000Z,627,7,6.8,43
+20072905,Marianne Williamson,PD,Halifax,92500118,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:17.000Z,627,3,3.2,20
+1036,Joe Biden,PD,Hamilton,92500119,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-03-26T21:37:42.000Z,867,86,86.0,746
+100005,No Preference,PD,Hamilton,92500119,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-03-26T21:37:42.000Z,867,8,7.7,67
+20286,Dean Phillips,PD,Hamilton,92500119,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-03-26T21:37:42.000Z,867,3,2.8,24
+20072905,Marianne Williamson,PD,Hamilton,92500119,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-03-26T21:37:42.000Z,867,2,2.4,21
+1036,Joe Biden,PD,Hampden,92500120,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,423,86,86.0,364
+100005,No Preference,PD,Hampden,92500120,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,423,8,7.8,33
+20286,Dean Phillips,PD,Hampden,92500120,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,423,3,3.1,13
+20072905,Marianne Williamson,PD,Hampden,92500120,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,423,2,2.4,10
+1036,Joe Biden,PD,Hancock,92500121,Joe,True,Biden,DEM,Democratic,97,P,Massachusetts,2024-03-13T22:03:28.000Z,70,84,84.3,59
+100005,No Preference,PD,Hancock,92500121,,False,No Preference,DEM,Democratic,97,P,Massachusetts,2024-03-13T22:03:28.000Z,70,10,10.0,7
+20072905,Marianne Williamson,PD,Hancock,92500121,Marianne,False,Williamson,DEM,Democratic,97,P,Massachusetts,2024-03-13T22:03:28.000Z,70,4,4.3,3
+20286,Dean Phillips,PD,Hancock,92500121,Dean,False,Phillips,DEM,Democratic,97,P,Massachusetts,2024-03-13T22:03:28.000Z,70,0,0.0,0
+1036,Joe Biden,PD,Hanover,92500122,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:57:20.000Z,1332,82,82.0,1092
+100005,No Preference,PD,Hanover,92500122,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:57:20.000Z,1332,9,8.8,117
+20286,Dean Phillips,PD,Hanover,92500122,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:57:20.000Z,1332,5,5.3,71
+20072905,Marianne Williamson,PD,Hanover,92500122,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:57:20.000Z,1332,3,2.6,34
+1036,Joe Biden,PD,Hanson,92500123,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:51.000Z,1009,81,80.8,815
+100005,No Preference,PD,Hanson,92500123,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:51.000Z,1009,7,7.2,73
+20286,Dean Phillips,PD,Hanson,92500123,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:51.000Z,1009,6,5.8,59
+20072905,Marianne Williamson,PD,Hanson,92500123,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:02:51.000Z,1009,4,4.5,45
+1036,Joe Biden,PD,Hardwick,92500124,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:38:06.000Z,249,78,78.3,195
+20286,Dean Phillips,PD,Hardwick,92500124,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:38:06.000Z,249,9,8.8,22
+100005,No Preference,PD,Hardwick,92500124,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:38:06.000Z,249,7,7.2,18
+20072905,Marianne Williamson,PD,Hardwick,92500124,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:38:06.000Z,249,3,2.8,7
+1036,Joe Biden,PD,Harvard,92500125,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:19:37.000Z,1001,85,85.2,853
+100005,No Preference,PD,Harvard,92500125,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:19:37.000Z,1001,6,5.9,59
+20072905,Marianne Williamson,PD,Harvard,92500125,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:19:37.000Z,1001,4,4.1,41
+20286,Dean Phillips,PD,Harvard,92500125,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T21:19:37.000Z,1001,3,2.6,26
+1036,Joe Biden,PD,Harwich,92500126,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:29.000Z,2109,89,89.0,1877
+100005,No Preference,PD,Harwich,92500126,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:29.000Z,2109,5,4.8,101
+20286,Dean Phillips,PD,Harwich,92500126,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:29.000Z,2109,3,3.5,73
+20072905,Marianne Williamson,PD,Harwich,92500126,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:29.000Z,2109,2,1.8,39
+1036,Joe Biden,PD,Hatfield,92500127,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,543,84,84.2,457
+100005,No Preference,PD,Hatfield,92500127,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,543,8,8.1,44
+20072905,Marianne Williamson,PD,Hatfield,92500127,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,543,3,3.1,17
+20286,Dean Phillips,PD,Hatfield,92500127,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,543,2,2.4,13
+1036,Joe Biden,PD,Haverhill,92500128,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:15.000Z,5149,80,80.2,4132
+100005,No Preference,PD,Haverhill,92500128,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:15.000Z,5149,8,8.6,445
+20286,Dean Phillips,PD,Haverhill,92500128,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:15.000Z,5149,6,5.7,292
+20072905,Marianne Williamson,PD,Haverhill,92500128,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:38:15.000Z,5149,4,3.7,191
+1036,Joe Biden,PD,Hawley,92500129,Joe,True,Biden,DEM,Democratic,70,P,Massachusetts,2024-03-06T03:22:50.000Z,38,79,78.9,30
+20072905,Marianne Williamson,PD,Hawley,92500129,Marianne,False,Williamson,DEM,Democratic,70,P,Massachusetts,2024-03-06T03:22:50.000Z,38,8,7.9,3
+100005,No Preference,PD,Hawley,92500129,,False,No Preference,DEM,Democratic,70,P,Massachusetts,2024-03-06T03:22:50.000Z,38,8,7.9,3
+20286,Dean Phillips,PD,Hawley,92500129,Dean,False,Phillips,DEM,Democratic,70,P,Massachusetts,2024-03-06T03:22:50.000Z,38,5,5.3,2
+1036,Joe Biden,PD,Heath,92500130,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:09:43.000Z,105,84,83.8,88
+100005,No Preference,PD,Heath,92500130,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:09:43.000Z,105,9,9.5,10
+20286,Dean Phillips,PD,Heath,92500130,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:09:43.000Z,105,4,3.8,4
+20072905,Marianne Williamson,PD,Heath,92500130,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:09:43.000Z,105,3,2.9,3
+1036,Joe Biden,PD,Hingham,92500131,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:48:01.000Z,3154,89,88.8,2803
+100005,No Preference,PD,Hingham,92500131,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:48:01.000Z,3154,5,5.5,173
+20286,Dean Phillips,PD,Hingham,92500131,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:48:01.000Z,3154,3,3.0,94
+20072905,Marianne Williamson,PD,Hingham,92500131,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:48:01.000Z,3154,1,1.5,47
+1036,Joe Biden,PD,Hinsdale,92500132,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:47:37.000Z,182,88,88.5,161
+100005,No Preference,PD,Hinsdale,92500132,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:47:37.000Z,182,7,6.6,12
+20286,Dean Phillips,PD,Hinsdale,92500132,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:47:37.000Z,182,3,2.7,5
+20072905,Marianne Williamson,PD,Hinsdale,92500132,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-03-06T02:47:37.000Z,182,2,2.2,4
+1036,Joe Biden,PD,Holbrook,92500133,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-06T17:54:59.000Z,1032,79,79.0,815
+100005,No Preference,PD,Holbrook,92500133,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-06T17:54:59.000Z,1032,9,9.1,94
+20286,Dean Phillips,PD,Holbrook,92500133,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-06T17:54:59.000Z,1032,6,5.7,59
+20072905,Marianne Williamson,PD,Holbrook,92500133,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-06T17:54:59.000Z,1032,4,4.0,41
+1036,Joe Biden,PD,Holden,92500134,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:54:02.000Z,2044,84,83.6,1709
+100005,No Preference,PD,Holden,92500134,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:54:02.000Z,2044,7,6.7,137
+20286,Dean Phillips,PD,Holden,92500134,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:54:02.000Z,2044,6,6.4,131
+20072905,Marianne Williamson,PD,Holden,92500134,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:54:02.000Z,2044,3,3.1,63
+1036,Joe Biden,PD,Holland,92500135,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:38.000Z,168,80,80.4,135
+100005,No Preference,PD,Holland,92500135,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:38.000Z,168,7,6.5,11
+20072905,Marianne Williamson,PD,Holland,92500135,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:38.000Z,168,6,5.9,10
+20286,Dean Phillips,PD,Holland,92500135,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:38.000Z,168,5,5.4,9
+1036,Joe Biden,PD,Holliston,92500136,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:39.000Z,1975,88,87.6,1730
+100005,No Preference,PD,Holliston,92500136,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:39.000Z,1975,5,4.9,98
+20286,Dean Phillips,PD,Holliston,92500136,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:39.000Z,1975,3,2.7,53
+20072905,Marianne Williamson,PD,Holliston,92500136,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:39.000Z,1975,2,2.6,51
+1036,Joe Biden,PD,Holyoke,92500137,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:40:32.000Z,2777,71,71.3,1979
+20072905,Marianne Williamson,PD,Holyoke,92500137,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:40:32.000Z,2777,11,11.3,315
+100005,No Preference,PD,Holyoke,92500137,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:40:32.000Z,2777,11,11.3,313
+20286,Dean Phillips,PD,Holyoke,92500137,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:40:32.000Z,2777,4,4.1,114
+1036,Joe Biden,PD,Hopedale,92500138,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:39.000Z,573,84,84.3,483
+100005,No Preference,PD,Hopedale,92500138,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:39.000Z,573,6,6.3,36
+20286,Dean Phillips,PD,Hopedale,92500138,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:39.000Z,573,5,5.2,30
+20072905,Marianne Williamson,PD,Hopedale,92500138,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-03-13T21:52:39.000Z,573,2,2.3,13
+1036,Joe Biden,PD,Hopkinton,92500139,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:57:48.000Z,1644,86,86.2,1417
+100005,No Preference,PD,Hopkinton,92500139,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:57:48.000Z,1644,6,5.6,92
+20286,Dean Phillips,PD,Hopkinton,92500139,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:57:48.000Z,1644,5,4.9,81
+20072905,Marianne Williamson,PD,Hopkinton,92500139,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:57:48.000Z,1644,2,2.1,34
+1036,Joe Biden,PD,Hubbardston,92500140,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-03-06T05:33:47.000Z,367,82,82.3,302
+100005,No Preference,PD,Hubbardston,92500140,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-03-06T05:33:47.000Z,367,8,7.6,28
+20286,Dean Phillips,PD,Hubbardston,92500140,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-03-06T05:33:47.000Z,367,5,4.9,18
+20072905,Marianne Williamson,PD,Hubbardston,92500140,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-03-06T05:33:47.000Z,367,3,3.5,13
+1036,Joe Biden,PD,Hudson,92500141,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:48:10.000Z,2128,83,83.4,1776
+100005,No Preference,PD,Hudson,92500141,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:48:10.000Z,2128,6,6.5,138
+20286,Dean Phillips,PD,Hudson,92500141,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:48:10.000Z,2128,6,5.7,121
+20072905,Marianne Williamson,PD,Hudson,92500141,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:48:10.000Z,2128,3,3.4,72
+1036,Joe Biden,PD,Hull,92500142,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:00.000Z,1532,88,87.9,1346
+100005,No Preference,PD,Hull,92500142,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:00.000Z,1532,5,5.0,77
+20286,Dean Phillips,PD,Hull,92500142,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:00.000Z,1532,3,3.3,51
+20072905,Marianne Williamson,PD,Hull,92500142,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:00.000Z,1532,2,2.2,34
+1036,Joe Biden,PD,Huntington,92500143,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:29.000Z,163,83,82.8,135
+100005,No Preference,PD,Huntington,92500143,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:29.000Z,163,6,6.1,10
+20072905,Marianne Williamson,PD,Huntington,92500143,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:29.000Z,163,6,5.5,9
+20286,Dean Phillips,PD,Huntington,92500143,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:29.000Z,163,1,1.2,2
+1036,Joe Biden,PD,Ipswich,92500144,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:58.000Z,1957,86,85.7,1677
+100005,No Preference,PD,Ipswich,92500144,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:58.000Z,1957,7,7.1,139
+20286,Dean Phillips,PD,Ipswich,92500144,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:58.000Z,1957,3,3.0,59
+20072905,Marianne Williamson,PD,Ipswich,92500144,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:57:58.000Z,1957,2,2.4,46
+1036,Joe Biden,PD,Kingston,92500145,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:58:08.000Z,1284,85,85.1,1093
+100005,No Preference,PD,Kingston,92500145,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:58:08.000Z,1284,6,6.1,78
+20286,Dean Phillips,PD,Kingston,92500145,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:58:08.000Z,1284,5,5.3,68
+20072905,Marianne Williamson,PD,Kingston,92500145,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:58:08.000Z,1284,2,2.3,29
+1036,Joe Biden,PD,Lakeville,92500146,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:08.000Z,948,82,82.3,780
+100005,No Preference,PD,Lakeville,92500146,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:08.000Z,948,6,6.4,61
+20286,Dean Phillips,PD,Lakeville,92500146,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:08.000Z,948,6,5.9,56
+20072905,Marianne Williamson,PD,Lakeville,92500146,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:08.000Z,948,4,4.4,42
+1036,Joe Biden,PD,Lancaster,92500147,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:27.000Z,676,84,84.4,571
+100005,No Preference,PD,Lancaster,92500147,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:27.000Z,676,7,7.4,50
+20286,Dean Phillips,PD,Lancaster,92500147,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:27.000Z,676,5,5.5,37
+20072905,Marianne Williamson,PD,Lancaster,92500147,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:27.000Z,676,2,1.8,12
+1036,Joe Biden,PD,Lanesborough,92500148,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:06.000Z,326,84,84.4,275
+100005,No Preference,PD,Lanesborough,92500148,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:06.000Z,326,6,6.1,20
+20072905,Marianne Williamson,PD,Lanesborough,92500148,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:06.000Z,326,4,3.7,12
+20286,Dean Phillips,PD,Lanesborough,92500148,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:06.000Z,326,3,3.4,11
+1036,Joe Biden,PD,Lawrence,92500149,Joe,True,Biden,DEM,Democratic,57,P,Massachusetts,2024-06-16T15:37:56.000Z,1935,72,72.0,1394
+100005,No Preference,PD,Lawrence,92500149,,False,No Preference,DEM,Democratic,57,P,Massachusetts,2024-06-16T15:37:56.000Z,1935,11,10.8,209
+20286,Dean Phillips,PD,Lawrence,92500149,Dean,False,Phillips,DEM,Democratic,57,P,Massachusetts,2024-06-16T15:37:56.000Z,1935,7,7.5,146
+20072905,Marianne Williamson,PD,Lawrence,92500149,Marianne,False,Williamson,DEM,Democratic,57,P,Massachusetts,2024-06-16T15:37:56.000Z,1935,7,6.8,131
+1036,Joe Biden,PD,Lee,92500150,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,687,82,82.4,566
+100005,No Preference,PD,Lee,92500150,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,687,9,9.3,64
+20286,Dean Phillips,PD,Lee,92500150,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,687,4,3.8,26
+20072905,Marianne Williamson,PD,Lee,92500150,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,687,3,3.2,22
+1036,Joe Biden,PD,Leicester,92500151,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:17.000Z,899,76,76.4,687
+100005,No Preference,PD,Leicester,92500151,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:17.000Z,899,9,9.0,81
+20286,Dean Phillips,PD,Leicester,92500151,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:17.000Z,899,9,8.8,79
+20072905,Marianne Williamson,PD,Leicester,92500151,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:17.000Z,899,4,4.4,40
+1036,Joe Biden,PD,Lenox,92500152,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:28.000Z,862,90,89.8,774
+100005,No Preference,PD,Lenox,92500152,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:28.000Z,862,5,5.5,47
+20286,Dean Phillips,PD,Lenox,92500152,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:28.000Z,862,2,1.7,15
+20072905,Marianne Williamson,PD,Lenox,92500152,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:40:28.000Z,862,2,1.6,14
+1036,Joe Biden,PD,Leominster,92500153,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:40:14.000Z,2771,83,82.5,2287
+100005,No Preference,PD,Leominster,92500153,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:40:14.000Z,2771,7,7.0,194
+20286,Dean Phillips,PD,Leominster,92500153,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:40:14.000Z,2771,6,6.4,177
+20072905,Marianne Williamson,PD,Leominster,92500153,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:40:14.000Z,2771,4,4.1,113
+1036,Joe Biden,PD,Leverett,92500154,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:41:16.000Z,377,79,79.3,299
+100005,No Preference,PD,Leverett,92500154,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:41:16.000Z,377,13,13.0,49
+20072905,Marianne Williamson,PD,Leverett,92500154,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:41:16.000Z,377,3,3.2,12
+20286,Dean Phillips,PD,Leverett,92500154,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-03-26T21:41:16.000Z,377,2,2.1,8
+1036,Joe Biden,PD,Lexington,92500155,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:07.000Z,5797,87,86.8,5031
+100005,No Preference,PD,Lexington,92500155,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:07.000Z,5797,7,7.2,417
+20286,Dean Phillips,PD,Lexington,92500155,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:07.000Z,5797,3,3.0,174
+20072905,Marianne Williamson,PD,Lexington,92500155,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:07.000Z,5797,2,1.8,107
+1036,Joe Biden,PD,Leyden,92500156,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-06T18:26:54.000Z,135,87,87.4,118
+100005,No Preference,PD,Leyden,92500156,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-06T18:26:54.000Z,135,9,8.9,12
+20072905,Marianne Williamson,PD,Leyden,92500156,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-06T18:26:54.000Z,135,3,3.0,4
+20286,Dean Phillips,PD,Leyden,92500156,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-06T18:26:54.000Z,135,1,0.7,1
+1036,Joe Biden,PD,Lincoln,92500157,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:37.000Z,1186,89,88.8,1053
+100005,No Preference,PD,Lincoln,92500157,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:37.000Z,1186,7,6.7,80
+20286,Dean Phillips,PD,Lincoln,92500157,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:37.000Z,1186,2,2.3,27
+20072905,Marianne Williamson,PD,Lincoln,92500157,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:07:37.000Z,1186,1,1.5,18
+1036,Joe Biden,PD,Littleton,92500158,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:03:17.000Z,1218,86,86.4,1052
+100005,No Preference,PD,Littleton,92500158,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:03:17.000Z,1218,7,7.1,87
+20286,Dean Phillips,PD,Littleton,92500158,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:03:17.000Z,1218,4,4.3,52
+20072905,Marianne Williamson,PD,Littleton,92500158,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:03:17.000Z,1218,2,2.2,27
+1036,Joe Biden,PD,Longmeadow,92500159,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:10.000Z,1825,86,86.1,1572
+100005,No Preference,PD,Longmeadow,92500159,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:10.000Z,1825,7,6.8,124
+20286,Dean Phillips,PD,Longmeadow,92500159,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:10.000Z,1825,4,3.7,67
+20072905,Marianne Williamson,PD,Longmeadow,92500159,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:10.000Z,1825,2,2.2,40
+1036,Joe Biden,PD,Lowell,92500160,Joe,True,Biden,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:37:04.000Z,5739,77,76.7,4404
+100005,No Preference,PD,Lowell,92500160,,False,No Preference,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:37:04.000Z,5739,9,9.2,526
+20286,Dean Phillips,PD,Lowell,92500160,Dean,False,Phillips,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:37:04.000Z,5739,7,7.3,417
+20072905,Marianne Williamson,PD,Lowell,92500160,Marianne,False,Williamson,DEM,Democratic,85,P,Massachusetts,2024-06-16T15:37:04.000Z,5739,4,4.4,255
+1036,Joe Biden,PD,Ludlow,92500161,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:15.000Z,1685,78,78.3,1319
+100005,No Preference,PD,Ludlow,92500161,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:15.000Z,1685,10,9.7,163
+20286,Dean Phillips,PD,Ludlow,92500161,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:15.000Z,1685,5,5.4,92
+20072905,Marianne Williamson,PD,Ludlow,92500161,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:15.000Z,1685,4,3.7,62
+1036,Joe Biden,PD,Lunenburg,92500162,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-03-26T21:41:42.000Z,1050,83,83.6,878
+100005,No Preference,PD,Lunenburg,92500162,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-03-26T21:41:42.000Z,1050,7,6.9,72
+20286,Dean Phillips,PD,Lunenburg,92500162,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-03-26T21:41:42.000Z,1050,6,5.9,62
+20072905,Marianne Williamson,PD,Lunenburg,92500162,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-03-26T21:41:42.000Z,1050,3,2.7,28
+1036,Joe Biden,PD,Lynn,92500163,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:37:45.000Z,4957,77,77.4,3836
+100005,No Preference,PD,Lynn,92500163,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:37:45.000Z,4957,10,9.6,474
+20286,Dean Phillips,PD,Lynn,92500163,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:37:45.000Z,4957,6,6.2,310
+20072905,Marianne Williamson,PD,Lynn,92500163,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:37:45.000Z,4957,4,4.1,203
+1036,Joe Biden,PD,Lynnfield,92500164,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:58:26.000Z,1080,82,81.9,884
+100005,No Preference,PD,Lynnfield,92500164,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:58:26.000Z,1080,9,8.9,96
+20286,Dean Phillips,PD,Lynnfield,92500164,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:58:26.000Z,1080,5,4.5,49
+20072905,Marianne Williamson,PD,Lynnfield,92500164,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:58:26.000Z,1080,2,2.3,25
+1036,Joe Biden,PD,Malden,92500165,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:39:44.000Z,4715,73,73.1,3448
+100005,No Preference,PD,Malden,92500165,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:39:44.000Z,4715,15,14.7,694
+20286,Dean Phillips,PD,Malden,92500165,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:39:44.000Z,4715,5,5.3,250
+20072905,Marianne Williamson,PD,Malden,92500165,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:39:44.000Z,4715,4,4.3,201
+1036,Joe Biden,PD,Manchester,92500166,Joe,True,Biden,DEM,Democratic,85,P,Massachusetts,2024-03-26T21:42:00.000Z,747,88,87.7,655
+100005,No Preference,PD,Manchester,92500166,,False,No Preference,DEM,Democratic,85,P,Massachusetts,2024-03-26T21:42:00.000Z,747,8,7.8,58
+20072905,Marianne Williamson,PD,Manchester,92500166,Marianne,False,Williamson,DEM,Democratic,85,P,Massachusetts,2024-03-26T21:42:00.000Z,747,2,2.1,16
+20286,Dean Phillips,PD,Manchester,92500166,Dean,False,Phillips,DEM,Democratic,85,P,Massachusetts,2024-03-26T21:42:00.000Z,747,2,2.0,15
+1036,Joe Biden,PD,Mansfield,92500167,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:50:30.000Z,2206,82,82.0,1809
+100005,No Preference,PD,Mansfield,92500167,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:50:30.000Z,2206,8,8.5,188
+20286,Dean Phillips,PD,Mansfield,92500167,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:50:30.000Z,2206,5,5.1,112
+20072905,Marianne Williamson,PD,Mansfield,92500167,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:50:30.000Z,2206,4,3.7,81
+1036,Joe Biden,PD,Marblehead,92500168,Joe,True,Biden,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:50:41.000Z,2736,89,88.8,2430
+100005,No Preference,PD,Marblehead,92500168,,False,No Preference,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:50:41.000Z,2736,5,5.1,139
+20286,Dean Phillips,PD,Marblehead,92500168,Dean,False,Phillips,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:50:41.000Z,2736,4,3.7,101
+20072905,Marianne Williamson,PD,Marblehead,92500168,Marianne,False,Williamson,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:50:41.000Z,2736,2,1.9,51
+1036,Joe Biden,PD,Marion,92500169,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,688,88,87.6,603
+100005,No Preference,PD,Marion,92500169,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,688,4,4.1,28
+20286,Dean Phillips,PD,Marion,92500169,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,688,4,3.9,27
+20072905,Marianne Williamson,PD,Marion,92500169,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,688,2,2.3,16
+1036,Joe Biden,PD,Marlborough,92500170,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:42.000Z,3468,82,81.9,2841
+100005,No Preference,PD,Marlborough,92500170,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:42.000Z,3468,8,7.8,271
+20286,Dean Phillips,PD,Marlborough,92500170,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:42.000Z,3468,6,5.6,194
+20072905,Marianne Williamson,PD,Marlborough,92500170,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:42.000Z,3468,3,3.2,110
+1036,Joe Biden,PD,Marshfield,92500171,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:18.000Z,2799,86,86.0,2408
+100005,No Preference,PD,Marshfield,92500171,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:18.000Z,2799,6,6.5,181
+20286,Dean Phillips,PD,Marshfield,92500171,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:18.000Z,2799,5,4.9,137
+20072905,Marianne Williamson,PD,Marshfield,92500171,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:18.000Z,2799,3,2.6,73
+1036,Joe Biden,PD,Mashpee,92500172,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:54:20.000Z,2022,89,89.1,1801
+100005,No Preference,PD,Mashpee,92500172,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:54:20.000Z,2022,5,4.6,94
+20286,Dean Phillips,PD,Mashpee,92500172,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:54:20.000Z,2022,3,3.6,72
+20072905,Marianne Williamson,PD,Mashpee,92500172,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:54:20.000Z,2022,2,1.7,34
+1036,Joe Biden,PD,Mattapoisett,92500173,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,886,84,83.6,741
+100005,No Preference,PD,Mattapoisett,92500173,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,886,7,6.8,60
+20286,Dean Phillips,PD,Mattapoisett,92500173,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,886,5,5.4,48
+20072905,Marianne Williamson,PD,Mattapoisett,92500173,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,886,3,2.6,23
+1036,Joe Biden,PD,Maynard,92500174,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:35.000Z,1688,83,82.7,1396
+100005,No Preference,PD,Maynard,92500174,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:35.000Z,1688,10,10.0,168
+20286,Dean Phillips,PD,Maynard,92500174,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:35.000Z,1688,3,3.7,62
+20072905,Marianne Williamson,PD,Maynard,92500174,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:58:35.000Z,1688,3,2.8,48
+1036,Joe Biden,PD,Medfield,92500175,Joe,True,Biden,DEM,Democratic,77,P,Massachusetts,2024-06-16T15:58:45.000Z,1354,84,84.5,1144
+100005,No Preference,PD,Medfield,92500175,,False,No Preference,DEM,Democratic,77,P,Massachusetts,2024-06-16T15:58:45.000Z,1354,7,7.2,97
+20286,Dean Phillips,PD,Medfield,92500175,Dean,False,Phillips,DEM,Democratic,77,P,Massachusetts,2024-06-16T15:58:45.000Z,1354,4,4.1,56
+20072905,Marianne Williamson,PD,Medfield,92500175,Marianne,False,Williamson,DEM,Democratic,77,P,Massachusetts,2024-06-16T15:58:45.000Z,1354,3,2.9,40
+1036,Joe Biden,PD,Medford,92500176,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:39:56.000Z,6921,75,75.5,5223
+100005,No Preference,PD,Medford,92500176,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:39:56.000Z,6921,15,14.5,1007
+20286,Dean Phillips,PD,Medford,92500176,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:39:56.000Z,6921,5,4.5,315
+20072905,Marianne Williamson,PD,Medford,92500176,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:39:56.000Z,6921,3,3.0,205
+1036,Joe Biden,PD,Medway,92500177,Joe,True,Biden,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:58:55.000Z,1457,86,85.9,1251
+100005,No Preference,PD,Medway,92500177,,False,No Preference,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:58:55.000Z,1457,6,6.2,90
+20286,Dean Phillips,PD,Medway,92500177,Dean,False,Phillips,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:58:55.000Z,1457,4,4.4,64
+20072905,Marianne Williamson,PD,Medway,92500177,Marianne,False,Williamson,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:58:55.000Z,1457,2,2.3,34
+1036,Joe Biden,PD,Melrose,92500178,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:51.000Z,4315,85,85.3,3682
+100005,No Preference,PD,Melrose,92500178,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:51.000Z,4315,7,6.9,298
+20286,Dean Phillips,PD,Melrose,92500178,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:51.000Z,4315,4,4.2,181
+20072905,Marianne Williamson,PD,Melrose,92500178,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:51.000Z,4315,2,2.1,91
+1036,Joe Biden,PD,Mendon,92500179,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:44:04.000Z,559,84,84.1,470
+100005,No Preference,PD,Mendon,92500179,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:44:04.000Z,559,6,6.2,35
+20286,Dean Phillips,PD,Mendon,92500179,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:44:04.000Z,559,6,6.1,34
+20072905,Marianne Williamson,PD,Mendon,92500179,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:44:04.000Z,559,3,2.7,15
+1036,Joe Biden,PD,Merrimac,92500180,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:07:48.000Z,696,85,85.3,594
+20286,Dean Phillips,PD,Merrimac,92500180,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:07:48.000Z,696,6,5.9,41
+100005,No Preference,PD,Merrimac,92500180,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:07:48.000Z,696,3,3.2,22
+20072905,Marianne Williamson,PD,Merrimac,92500180,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:07:48.000Z,696,3,2.6,18
+1036,Joe Biden,PD,Methuen,92500181,Joe,True,Biden,DEM,Democratic,97,P,Massachusetts,2024-03-26T21:44:37.000Z,3486,78,77.9,2716
+100005,No Preference,PD,Methuen,92500181,,False,No Preference,DEM,Democratic,97,P,Massachusetts,2024-03-26T21:44:37.000Z,3486,9,9.4,329
+20286,Dean Phillips,PD,Methuen,92500181,Dean,False,Phillips,DEM,Democratic,97,P,Massachusetts,2024-03-26T21:44:37.000Z,3486,7,7.3,253
+20072905,Marianne Williamson,PD,Methuen,92500181,Marianne,False,Williamson,DEM,Democratic,97,P,Massachusetts,2024-03-26T21:44:37.000Z,3486,4,3.6,124
+1036,Joe Biden,PD,Middleborough,92500182,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:49.000Z,1831,83,83.0,1520
+100005,No Preference,PD,Middleborough,92500182,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:49.000Z,1831,7,6.7,122
+20286,Dean Phillips,PD,Middleborough,92500182,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:49.000Z,1831,5,5.0,92
+20072905,Marianne Williamson,PD,Middleborough,92500182,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:49.000Z,1831,4,3.8,69
+1036,Joe Biden,PD,Middlefield,92500183,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:24:34.000Z,66,83,83.3,55
+100005,No Preference,PD,Middlefield,92500183,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:24:34.000Z,66,11,10.6,7
+20072905,Marianne Williamson,PD,Middlefield,92500183,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:24:34.000Z,66,3,3.0,2
+20286,Dean Phillips,PD,Middlefield,92500183,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:24:34.000Z,66,0,0.0,0
+1036,Joe Biden,PD,Middleton,92500184,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:58.000Z,796,83,83.4,664
+100005,No Preference,PD,Middleton,92500184,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:58.000Z,796,6,6.4,51
+20286,Dean Phillips,PD,Middleton,92500184,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:58.000Z,796,6,5.9,47
+20072905,Marianne Williamson,PD,Middleton,92500184,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:07:58.000Z,796,2,2.3,18
+1036,Joe Biden,PD,Milford,92500185,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:00.000Z,2400,82,82.4,1978
+100005,No Preference,PD,Milford,92500185,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:00.000Z,2400,7,6.8,163
+20286,Dean Phillips,PD,Milford,92500185,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:00.000Z,2400,5,5.0,119
+20072905,Marianne Williamson,PD,Milford,92500185,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:00.000Z,2400,3,3.3,79
+1036,Joe Biden,PD,Millbury,92500186,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:04.000Z,1217,78,78.4,954
+100005,No Preference,PD,Millbury,92500186,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:04.000Z,1217,9,8.5,104
+20286,Dean Phillips,PD,Millbury,92500186,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:04.000Z,1217,7,6.9,84
+20072905,Marianne Williamson,PD,Millbury,92500186,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:04.000Z,1217,4,3.7,45
+1036,Joe Biden,PD,Millis,92500187,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:26.000Z,1137,86,86.0,978
+100005,No Preference,PD,Millis,92500187,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:26.000Z,1137,6,6.1,69
+20072905,Marianne Williamson,PD,Millis,92500187,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:26.000Z,1137,4,3.7,42
+20286,Dean Phillips,PD,Millis,92500187,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:26.000Z,1137,3,3.6,41
+1036,Joe Biden,PD,Millville,92500188,Joe,True,Biden,DEM,Democratic,82,P,Massachusetts,2024-03-06T02:30:16.000Z,175,73,72.6,127
+20286,Dean Phillips,PD,Millville,92500188,Dean,False,Phillips,DEM,Democratic,82,P,Massachusetts,2024-03-06T02:30:16.000Z,175,11,11.4,20
+100005,No Preference,PD,Millville,92500188,,False,No Preference,DEM,Democratic,82,P,Massachusetts,2024-03-06T02:30:16.000Z,175,9,9.1,16
+20072905,Marianne Williamson,PD,Millville,92500188,Marianne,False,Williamson,DEM,Democratic,82,P,Massachusetts,2024-03-06T02:30:16.000Z,175,5,5.1,9
+1036,Joe Biden,PD,Milton,92500189,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:43:42.000Z,4005,83,83.1,3328
+100005,No Preference,PD,Milton,92500189,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:43:42.000Z,4005,9,8.9,358
+20286,Dean Phillips,PD,Milton,92500189,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:43:42.000Z,4005,4,3.8,152
+20072905,Marianne Williamson,PD,Milton,92500189,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-06-16T15:43:42.000Z,4005,2,2.2,90
+1036,Joe Biden,PD,Monroe,92500190,Joe,True,Biden,DEM,Democratic,78,P,Massachusetts,2024-03-06T01:59:13.000Z,7,43,42.8,3
+20286,Dean Phillips,PD,Monroe,92500190,Dean,False,Phillips,DEM,Democratic,78,P,Massachusetts,2024-03-06T01:59:13.000Z,7,43,42.8,3
+20072905,Marianne Williamson,PD,Monroe,92500190,Marianne,False,Williamson,DEM,Democratic,78,P,Massachusetts,2024-03-06T01:59:13.000Z,7,14,14.3,1
+100005,No Preference,PD,Monroe,92500190,,False,No Preference,DEM,Democratic,78,P,Massachusetts,2024-03-06T01:59:13.000Z,7,0,0.0,0
+1036,Joe Biden,PD,Monson,92500191,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:36.000Z,808,81,81.2,656
+100005,No Preference,PD,Monson,92500191,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:36.000Z,808,8,7.9,64
+20286,Dean Phillips,PD,Monson,92500191,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:36.000Z,808,5,5.4,44
+20072905,Marianne Williamson,PD,Monson,92500191,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:03:36.000Z,808,4,4.1,33
+1036,Joe Biden,PD,Montague,92500192,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:59.000Z,1095,76,76.2,834
+100005,No Preference,PD,Montague,92500192,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:59.000Z,1095,14,14.2,156
+20072905,Marianne Williamson,PD,Montague,92500192,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:59.000Z,1095,3,3.4,37
+20286,Dean Phillips,PD,Montague,92500192,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:50:59.000Z,1095,3,3.2,35
+1036,Joe Biden,PD,Monterey,92500193,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T15:41:44.000Z,136,79,78.7,107
+100005,No Preference,PD,Monterey,92500193,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T15:41:44.000Z,136,15,14.7,20
+20286,Dean Phillips,PD,Monterey,92500193,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T15:41:44.000Z,136,3,3.7,5
+20072905,Marianne Williamson,PD,Monterey,92500193,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T15:41:44.000Z,136,3,2.9,4
+1036,Joe Biden,PD,Montgomery,92500194,Joe,True,Biden,DEM,Democratic,54,P,Massachusetts,2024-03-13T22:03:29.000Z,58,86,86.2,50
+100005,No Preference,PD,Montgomery,92500194,,False,No Preference,DEM,Democratic,54,P,Massachusetts,2024-03-13T22:03:29.000Z,58,7,6.9,4
+20286,Dean Phillips,PD,Montgomery,92500194,Dean,False,Phillips,DEM,Democratic,54,P,Massachusetts,2024-03-13T22:03:29.000Z,58,2,1.7,1
+20072905,Marianne Williamson,PD,Montgomery,92500194,Marianne,False,Williamson,DEM,Democratic,54,P,Massachusetts,2024-03-13T22:03:29.000Z,58,2,1.7,1
+1036,Joe Biden,PD,Mount Washington,92500195,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:41.000Z,36,81,80.6,29
+100005,No Preference,PD,Mount Washington,92500195,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:41.000Z,36,8,8.3,3
+20286,Dean Phillips,PD,Mount Washington,92500195,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:41.000Z,36,5,5.5,2
+20072905,Marianne Williamson,PD,Mount Washington,92500195,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:41.000Z,36,5,5.5,2
+1036,Joe Biden,PD,Nahant,92500196,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:37.000Z,534,89,89.3,477
+100005,No Preference,PD,Nahant,92500196,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:37.000Z,534,4,4.5,24
+20286,Dean Phillips,PD,Nahant,92500196,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:37.000Z,534,3,3.2,17
+20072905,Marianne Williamson,PD,Nahant,92500196,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:37.000Z,534,2,2.4,13
+1036,Joe Biden,PD,Nantucket,92500197,Joe,True,Biden,DEM,Democratic,77,P,Massachusetts,2024-03-06T02:46:59.000Z,992,88,87.7,870
+100005,No Preference,PD,Nantucket,92500197,,False,No Preference,DEM,Democratic,77,P,Massachusetts,2024-03-06T02:46:59.000Z,992,6,6.4,63
+20286,Dean Phillips,PD,Nantucket,92500197,Dean,False,Phillips,DEM,Democratic,77,P,Massachusetts,2024-03-06T02:46:59.000Z,992,2,2.2,22
+20072905,Marianne Williamson,PD,Nantucket,92500197,Marianne,False,Williamson,DEM,Democratic,77,P,Massachusetts,2024-03-06T02:46:59.000Z,992,2,1.9,19
+1036,Joe Biden,PD,Natick,92500198,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:51.000Z,5032,86,86.2,4336
+100005,No Preference,PD,Natick,92500198,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:51.000Z,5032,7,7.5,379
+20286,Dean Phillips,PD,Natick,92500198,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:51.000Z,5032,4,3.8,192
+20072905,Marianne Williamson,PD,Natick,92500198,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:43:51.000Z,5032,2,1.7,88
+1036,Joe Biden,PD,Needham,92500199,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:44:00.000Z,4480,89,89.5,4009
+100005,No Preference,PD,Needham,92500199,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:44:00.000Z,4480,5,5.2,232
+20286,Dean Phillips,PD,Needham,92500199,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:44:00.000Z,4480,3,3.1,141
+20072905,Marianne Williamson,PD,Needham,92500199,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-06-16T15:44:00.000Z,4480,1,1.1,50
+1036,Joe Biden,PD,New Ashford,92500200,Joe,True,Biden,DEM,Democratic,71,P,Massachusetts,2024-03-06T04:02:58.000Z,20,85,85.0,17
+20072905,Marianne Williamson,PD,New Ashford,92500200,Marianne,False,Williamson,DEM,Democratic,71,P,Massachusetts,2024-03-06T04:02:58.000Z,20,10,10.0,2
+100005,No Preference,PD,New Ashford,92500200,,False,No Preference,DEM,Democratic,71,P,Massachusetts,2024-03-06T04:02:58.000Z,20,5,5.0,1
+20286,Dean Phillips,PD,New Ashford,92500200,Dean,False,Phillips,DEM,Democratic,71,P,Massachusetts,2024-03-06T04:02:58.000Z,20,0,0.0,0
+1036,Joe Biden,PD,New Bedford,92500201,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:36:40.000Z,5601,76,76.3,4275
+100005,No Preference,PD,New Bedford,92500201,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:36:40.000Z,5601,10,10.0,558
+20286,Dean Phillips,PD,New Bedford,92500201,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:36:40.000Z,5601,6,6.0,337
+20072905,Marianne Williamson,PD,New Bedford,92500201,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:36:40.000Z,5601,5,5.0,278
+1036,Joe Biden,PD,New Braintree,92500202,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:34:41.000Z,92,77,77.2,71
+100005,No Preference,PD,New Braintree,92500202,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:34:41.000Z,92,13,13.0,12
+20072905,Marianne Williamson,PD,New Braintree,92500202,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:34:41.000Z,92,7,6.5,6
+20286,Dean Phillips,PD,New Braintree,92500202,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-03-06T02:34:41.000Z,92,3,3.3,3
+1036,Joe Biden,PD,New Marlborough,92500205,Joe,True,Biden,DEM,Democratic,77,P,Massachusetts,2024-03-26T21:47:25.000Z,149,89,89.3,133
+20286,Dean Phillips,PD,New Marlborough,92500205,Dean,False,Phillips,DEM,Democratic,77,P,Massachusetts,2024-03-26T21:47:25.000Z,149,4,4.0,6
+20072905,Marianne Williamson,PD,New Marlborough,92500205,Marianne,False,Williamson,DEM,Democratic,77,P,Massachusetts,2024-03-26T21:47:25.000Z,149,4,4.0,6
+100005,No Preference,PD,New Marlborough,92500205,,False,No Preference,DEM,Democratic,77,P,Massachusetts,2024-03-26T21:47:25.000Z,149,2,2.0,3
+1036,Joe Biden,PD,New Salem,92500206,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:35.000Z,164,77,76.8,126
+100005,No Preference,PD,New Salem,92500206,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:35.000Z,164,14,14.0,23
+20072905,Marianne Williamson,PD,New Salem,92500206,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:35.000Z,164,5,4.9,8
+20286,Dean Phillips,PD,New Salem,92500206,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:35.000Z,164,3,3.0,5
+1036,Joe Biden,PD,Newbury,92500203,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:08:07.000Z,892,86,86.0,767
+100005,No Preference,PD,Newbury,92500203,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:08:07.000Z,892,7,6.8,61
+20286,Dean Phillips,PD,Newbury,92500203,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:08:07.000Z,892,3,3.5,31
+20072905,Marianne Williamson,PD,Newbury,92500203,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:08:07.000Z,892,1,1.5,13
+1036,Joe Biden,PD,Newburyport,92500204,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:48:27.000Z,2562,89,89.6,2295
+100005,No Preference,PD,Newburyport,92500204,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:48:27.000Z,2562,5,4.8,123
+20286,Dean Phillips,PD,Newburyport,92500204,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:48:27.000Z,2562,3,2.8,72
+20072905,Marianne Williamson,PD,Newburyport,92500204,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-06-16T15:48:27.000Z,2562,2,1.8,46
+1036,Joe Biden,PD,Newton,92500207,Joe,True,Biden,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:37:16.000Z,12098,88,87.6,10596
+100005,No Preference,PD,Newton,92500207,,False,No Preference,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:37:16.000Z,12098,7,6.6,798
+20286,Dean Phillips,PD,Newton,92500207,Dean,False,Phillips,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:37:16.000Z,12098,3,3.0,363
+20072905,Marianne Williamson,PD,Newton,92500207,Marianne,False,Williamson,DEM,Democratic,80,P,Massachusetts,2024-06-16T15:37:16.000Z,12098,1,1.5,184
+1036,Joe Biden,PD,Norfolk,92500208,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:03:45.000Z,1098,83,83.2,914
+100005,No Preference,PD,Norfolk,92500208,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:03:45.000Z,1098,6,6.0,66
+20286,Dean Phillips,PD,Norfolk,92500208,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:03:45.000Z,1098,5,4.7,52
+20072905,Marianne Williamson,PD,Norfolk,92500208,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T16:03:45.000Z,1098,3,3.5,38
+1036,Joe Biden,PD,North Adams,92500209,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:54:31.000Z,1038,80,80.2,833
+100005,No Preference,PD,North Adams,92500209,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:54:31.000Z,1038,9,8.9,92
+20072905,Marianne Williamson,PD,North Adams,92500209,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:54:31.000Z,1038,5,5.4,56
+20286,Dean Phillips,PD,North Adams,92500209,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:54:31.000Z,1038,4,3.8,39
+1036,Joe Biden,PD,North Andover,92500211,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:09.000Z,2908,85,84.6,2461
+100005,No Preference,PD,North Andover,92500211,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:09.000Z,2908,7,6.8,199
+20286,Dean Phillips,PD,North Andover,92500211,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:09.000Z,2908,4,4.4,127
+20072905,Marianne Williamson,PD,North Andover,92500211,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:09.000Z,2908,2,2.3,67
+1036,Joe Biden,PD,North Attleborough,92500212,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:15.000Z,2243,80,80.2,1799
+100005,No Preference,PD,North Attleborough,92500212,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:15.000Z,2243,8,8.4,189
+20286,Dean Phillips,PD,North Attleborough,92500212,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:15.000Z,2243,5,5.1,115
+20072905,Marianne Williamson,PD,North Attleborough,92500212,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:45:15.000Z,2243,4,4.5,100
+1036,Joe Biden,PD,North Brookfield,92500215,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:48:36.000Z,330,77,77.3,255
+100005,No Preference,PD,North Brookfield,92500215,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:48:36.000Z,330,9,8.8,29
+20286,Dean Phillips,PD,North Brookfield,92500215,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:48:36.000Z,330,6,6.4,21
+20072905,Marianne Williamson,PD,North Brookfield,92500215,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:48:36.000Z,330,5,5.4,18
+1036,Joe Biden,PD,North Reading,92500217,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:59:31.000Z,1552,82,81.8,1269
+100005,No Preference,PD,North Reading,92500217,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:59:31.000Z,1552,8,8.2,128
+20286,Dean Phillips,PD,North Reading,92500217,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:59:31.000Z,1552,5,5.3,83
+20072905,Marianne Williamson,PD,North Reading,92500217,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:59:31.000Z,1552,3,2.7,42
+1036,Joe Biden,PD,Northampton,92500210,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:40:59.000Z,5441,79,78.8,4289
+100005,No Preference,PD,Northampton,92500210,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:40:59.000Z,5441,15,15.3,835
+20072905,Marianne Williamson,PD,Northampton,92500210,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:40:59.000Z,5441,2,2.4,128
+20286,Dean Phillips,PD,Northampton,92500210,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:40:59.000Z,5441,2,1.9,106
+1036,Joe Biden,PD,Northborough,92500213,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:59:13.000Z,1668,84,83.8,1398
+100005,No Preference,PD,Northborough,92500213,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:59:13.000Z,1668,8,7.7,129
+20286,Dean Phillips,PD,Northborough,92500213,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:59:13.000Z,1668,4,4.5,75
+20072905,Marianne Williamson,PD,Northborough,92500213,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:59:13.000Z,1668,3,2.7,45
+1036,Joe Biden,PD,Northbridge,92500214,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:21.000Z,1167,80,80.5,939
+100005,No Preference,PD,Northbridge,92500214,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:21.000Z,1167,7,7.4,87
+20286,Dean Phillips,PD,Northbridge,92500214,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:21.000Z,1167,7,6.8,79
+20072905,Marianne Williamson,PD,Northbridge,92500214,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:21.000Z,1167,4,4.2,49
+1036,Joe Biden,PD,Northfield,92500216,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,386,79,79.3,306
+100005,No Preference,PD,Northfield,92500216,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,386,7,7.0,27
+20072905,Marianne Williamson,PD,Northfield,92500216,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,386,6,6.5,25
+20286,Dean Phillips,PD,Northfield,92500216,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:33.000Z,386,4,4.4,17
+1036,Joe Biden,PD,Norton,92500218,Joe,True,Biden,DEM,Democratic,98,P,Massachusetts,2024-06-16T15:54:42.000Z,1504,84,84.1,1265
+100005,No Preference,PD,Norton,92500218,,False,No Preference,DEM,Democratic,98,P,Massachusetts,2024-06-16T15:54:42.000Z,1504,6,6.0,91
+20286,Dean Phillips,PD,Norton,92500218,Dean,False,Phillips,DEM,Democratic,98,P,Massachusetts,2024-06-16T15:54:42.000Z,1504,5,4.5,68
+20072905,Marianne Williamson,PD,Norton,92500218,Marianne,False,Williamson,DEM,Democratic,98,P,Massachusetts,2024-06-16T15:54:42.000Z,1504,3,3.3,49
+1036,Joe Biden,PD,Norwell,92500219,Joe,True,Biden,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:03:55.000Z,1045,86,85.7,896
+100005,No Preference,PD,Norwell,92500219,,False,No Preference,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:03:55.000Z,1045,5,5.3,55
+20286,Dean Phillips,PD,Norwell,92500219,Dean,False,Phillips,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:03:55.000Z,1045,5,4.8,50
+20072905,Marianne Williamson,PD,Norwell,92500219,Marianne,False,Williamson,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:03:55.000Z,1045,2,2.4,25
+1036,Joe Biden,PD,Norwood,92500220,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:45:24.000Z,3178,81,80.7,2566
+100005,No Preference,PD,Norwood,92500220,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:45:24.000Z,3178,9,9.3,297
+20286,Dean Phillips,PD,Norwood,92500220,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:45:24.000Z,3178,5,5.2,164
+20072905,Marianne Williamson,PD,Norwood,92500220,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:45:24.000Z,3178,3,3.1,99
+1036,Joe Biden,PD,Oak Bluffs,92500221,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,661,85,85.5,565
+100005,No Preference,PD,Oak Bluffs,92500221,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,661,6,5.9,39
+20286,Dean Phillips,PD,Oak Bluffs,92500221,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,661,4,4.4,29
+20072905,Marianne Williamson,PD,Oak Bluffs,92500221,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,661,3,2.9,19
+1036,Joe Biden,PD,Oakham,92500222,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:36.000Z,158,81,81.0,128
+20072905,Marianne Williamson,PD,Oakham,92500222,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:36.000Z,158,6,6.3,10
+100005,No Preference,PD,Oakham,92500222,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:36.000Z,158,6,6.3,10
+20286,Dean Phillips,PD,Oakham,92500222,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-03-13T21:52:36.000Z,158,6,5.7,9
+1036,Joe Biden,PD,Orange,92500223,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:16.000Z,554,83,82.8,459
+100005,No Preference,PD,Orange,92500223,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:16.000Z,554,8,7.6,42
+20286,Dean Phillips,PD,Orange,92500223,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:16.000Z,554,5,5.1,28
+20072905,Marianne Williamson,PD,Orange,92500223,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:16.000Z,554,3,3.4,19
+1036,Joe Biden,PD,Orleans,92500224,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:16.000Z,1183,90,89.7,1061
+100005,No Preference,PD,Orleans,92500224,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:16.000Z,1183,4,4.5,53
+20286,Dean Phillips,PD,Orleans,92500224,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:16.000Z,1183,4,3.6,43
+20072905,Marianne Williamson,PD,Orleans,92500224,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:16.000Z,1183,2,1.8,21
+1036,Joe Biden,PD,Otis,92500225,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,161,85,85.1,137
+100005,No Preference,PD,Otis,92500225,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,161,7,7.5,12
+20072905,Marianne Williamson,PD,Otis,92500225,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,161,4,3.7,6
+20286,Dean Phillips,PD,Otis,92500225,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,161,3,3.1,5
+1036,Joe Biden,PD,Oxford,92500226,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:42.000Z,1002,80,79.6,798
+100005,No Preference,PD,Oxford,92500226,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:42.000Z,1002,9,8.7,87
+20286,Dean Phillips,PD,Oxford,92500226,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:42.000Z,1002,6,6.3,63
+20072905,Marianne Williamson,PD,Oxford,92500226,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:59:42.000Z,1002,4,3.8,38
+1036,Joe Biden,PD,Palmer,92500227,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:53.000Z,870,77,77.6,675
+100005,No Preference,PD,Palmer,92500227,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:53.000Z,870,10,9.8,85
+20286,Dean Phillips,PD,Palmer,92500227,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:53.000Z,870,6,5.7,50
+20072905,Marianne Williamson,PD,Palmer,92500227,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:54:53.000Z,870,5,4.8,42
+1036,Joe Biden,PD,Paxton,92500228,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:39.000Z,493,81,81.1,400
+100005,No Preference,PD,Paxton,92500228,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:39.000Z,493,8,8.1,40
+20286,Dean Phillips,PD,Paxton,92500228,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:39.000Z,493,6,6.5,32
+20072905,Marianne Williamson,PD,Paxton,92500228,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T21:49:39.000Z,493,3,2.8,14
+1036,Joe Biden,PD,Peabody,92500229,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:54.000Z,5305,82,81.8,4337
+100005,No Preference,PD,Peabody,92500229,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:54.000Z,5305,8,8.0,427
+20286,Dean Phillips,PD,Peabody,92500229,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:54.000Z,5305,5,5.5,290
+20072905,Marianne Williamson,PD,Peabody,92500229,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:38:54.000Z,5305,3,2.8,151
+1036,Joe Biden,PD,Pelham,92500230,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:37.000Z,302,88,88.4,267
+100005,No Preference,PD,Pelham,92500230,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:37.000Z,302,8,7.9,24
+20072905,Marianne Williamson,PD,Pelham,92500230,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:37.000Z,302,3,2.6,8
+20286,Dean Phillips,PD,Pelham,92500230,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:37.000Z,302,0,0.3,1
+1036,Joe Biden,PD,Pembroke,92500231,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:55:02.000Z,1617,82,81.9,1324
+100005,No Preference,PD,Pembroke,92500231,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:55:02.000Z,1617,6,6.5,106
+20286,Dean Phillips,PD,Pembroke,92500231,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:55:02.000Z,1617,6,6.0,97
+20072905,Marianne Williamson,PD,Pembroke,92500231,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:55:02.000Z,1617,4,3.8,61
+1036,Joe Biden,PD,Pepperell,92500232,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:04.000Z,1172,83,83.4,978
+20286,Dean Phillips,PD,Pepperell,92500232,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:04.000Z,1172,6,6.1,72
+100005,No Preference,PD,Pepperell,92500232,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:04.000Z,1172,6,5.5,65
+20072905,Marianne Williamson,PD,Pepperell,92500232,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:04.000Z,1172,3,3.1,36
+1036,Joe Biden,PD,Peru,92500233,Joe,True,Biden,DEM,Democratic,83,P,Massachusetts,2024-03-07T00:28:06.000Z,63,81,81.0,51
+20072905,Marianne Williamson,PD,Peru,92500233,Marianne,False,Williamson,DEM,Democratic,83,P,Massachusetts,2024-03-07T00:28:06.000Z,63,8,7.9,5
+100005,No Preference,PD,Peru,92500233,,False,No Preference,DEM,Democratic,83,P,Massachusetts,2024-03-07T00:28:06.000Z,63,8,7.9,5
+20286,Dean Phillips,PD,Peru,92500233,Dean,False,Phillips,DEM,Democratic,83,P,Massachusetts,2024-03-07T00:28:06.000Z,63,0,0.0,0
+1036,Joe Biden,PD,Petersham,92500234,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T04:10:44.000Z,204,85,85.3,174
+100005,No Preference,PD,Petersham,92500234,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T04:10:44.000Z,204,10,10.3,21
+20286,Dean Phillips,PD,Petersham,92500234,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T04:10:44.000Z,204,3,3.4,7
+20072905,Marianne Williamson,PD,Petersham,92500234,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T04:10:44.000Z,204,1,1.0,2
+1036,Joe Biden,PD,Phillipston,92500235,Joe,True,Biden,DEM,Democratic,82,P,Massachusetts,2024-03-06T03:32:03.000Z,118,82,82.2,97
+20286,Dean Phillips,PD,Phillipston,92500235,Dean,False,Phillips,DEM,Democratic,82,P,Massachusetts,2024-03-06T03:32:03.000Z,118,11,11.0,13
+100005,No Preference,PD,Phillipston,92500235,,False,No Preference,DEM,Democratic,82,P,Massachusetts,2024-03-06T03:32:03.000Z,118,4,4.2,5
+20072905,Marianne Williamson,PD,Phillipston,92500235,Marianne,False,Williamson,DEM,Democratic,82,P,Massachusetts,2024-03-06T03:32:03.000Z,118,3,2.5,3
+1036,Joe Biden,PD,Pittsfield,92500236,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:41:08.000Z,4309,86,86.3,3719
+100005,No Preference,PD,Pittsfield,92500236,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:41:08.000Z,4309,6,5.8,250
+20072905,Marianne Williamson,PD,Pittsfield,92500236,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:41:08.000Z,4309,4,3.7,158
+20286,Dean Phillips,PD,Pittsfield,92500236,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:41:08.000Z,4309,3,3.1,135
+1036,Joe Biden,PD,Plainfield,92500237,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-06T19:10:16.000Z,129,87,87.6,113
+100005,No Preference,PD,Plainfield,92500237,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-06T19:10:16.000Z,129,8,7.7,10
+20072905,Marianne Williamson,PD,Plainfield,92500237,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-06T19:10:16.000Z,129,3,3.1,4
+20286,Dean Phillips,PD,Plainfield,92500237,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-06T19:10:16.000Z,129,1,0.8,1
+1036,Joe Biden,PD,Plainville,92500238,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:02:37.000Z,862,81,81.0,698
+20286,Dean Phillips,PD,Plainville,92500238,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:02:37.000Z,862,8,7.7,66
+100005,No Preference,PD,Plainville,92500238,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:02:37.000Z,862,7,7.4,64
+20072905,Marianne Williamson,PD,Plainville,92500238,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:02:37.000Z,862,3,3.2,28
+1036,Joe Biden,PD,Plymouth,92500239,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:24.000Z,6822,86,85.8,5851
+100005,No Preference,PD,Plymouth,92500239,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:24.000Z,6822,5,5.4,369
+20286,Dean Phillips,PD,Plymouth,92500239,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:24.000Z,6822,4,4.4,304
+20072905,Marianne Williamson,PD,Plymouth,92500239,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:40:24.000Z,6822,3,2.9,196
+1036,Joe Biden,PD,Plympton,92500240,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-03-06T05:10:17.000Z,249,83,83.5,208
+100005,No Preference,PD,Plympton,92500240,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-03-06T05:10:17.000Z,249,8,7.6,19
+20286,Dean Phillips,PD,Plympton,92500240,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-03-06T05:10:17.000Z,249,5,4.8,12
+20072905,Marianne Williamson,PD,Plympton,92500240,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-03-06T05:10:17.000Z,249,4,4.0,10
+1036,Joe Biden,PD,Princeton,92500241,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:03:00.000Z,498,85,85.1,424
+100005,No Preference,PD,Princeton,92500241,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:03:00.000Z,498,7,6.8,34
+20286,Dean Phillips,PD,Princeton,92500241,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:03:00.000Z,498,4,3.6,18
+20072905,Marianne Williamson,PD,Princeton,92500241,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:03:00.000Z,498,3,3.4,17
+1036,Joe Biden,PD,Provincetown,92500242,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,962,91,90.6,872
+100005,No Preference,PD,Provincetown,92500242,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,962,5,5.1,49
+20286,Dean Phillips,PD,Provincetown,92500242,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,962,2,2.0,19
+20072905,Marianne Williamson,PD,Provincetown,92500242,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:32.000Z,962,1,1.2,12
+1036,Joe Biden,PD,Quincy,92500243,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:37:25.000Z,8618,75,74.6,6428
+100005,No Preference,PD,Quincy,92500243,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:37:25.000Z,8618,12,12.1,1043
+20286,Dean Phillips,PD,Quincy,92500243,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:37:25.000Z,8618,6,6.3,541
+20072905,Marianne Williamson,PD,Quincy,92500243,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:37:25.000Z,8618,4,4.0,344
+1036,Joe Biden,PD,Randolph,92500244,Joe,True,Biden,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:42:26.000Z,2851,86,85.6,2441
+100005,No Preference,PD,Randolph,92500244,,False,No Preference,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:42:26.000Z,2851,6,6.6,187
+20286,Dean Phillips,PD,Randolph,92500244,Dean,False,Phillips,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:42:26.000Z,2851,4,3.8,108
+20072905,Marianne Williamson,PD,Randolph,92500244,Marianne,False,Williamson,DEM,Democratic,88,P,Massachusetts,2024-06-16T15:42:26.000Z,2851,3,3.1,88
+1036,Joe Biden,PD,Raynham,92500245,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:08.000Z,1157,80,79.8,923
+100005,No Preference,PD,Raynham,92500245,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:08.000Z,1157,9,9.2,106
+20286,Dean Phillips,PD,Raynham,92500245,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:08.000Z,1157,6,5.7,66
+20072905,Marianne Williamson,PD,Raynham,92500245,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:08.000Z,1157,5,4.8,56
+1036,Joe Biden,PD,Reading,92500246,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:20.000Z,4064,85,85.4,3470
+100005,No Preference,PD,Reading,92500246,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:20.000Z,4064,7,7.3,299
+20286,Dean Phillips,PD,Reading,92500246,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:20.000Z,4064,5,5.0,202
+20072905,Marianne Williamson,PD,Reading,92500246,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:20.000Z,4064,2,2.3,93
+1036,Joe Biden,PD,Rehoboth,92500247,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:15.000Z,878,85,84.6,743
+100005,No Preference,PD,Rehoboth,92500247,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:15.000Z,878,7,7.2,63
+20286,Dean Phillips,PD,Rehoboth,92500247,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:15.000Z,878,5,4.7,41
+20072905,Marianne Williamson,PD,Rehoboth,92500247,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:15.000Z,878,3,3.2,28
+1036,Joe Biden,PD,Revere,92500248,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:25.000Z,2850,71,70.9,2020
+100005,No Preference,PD,Revere,92500248,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:25.000Z,2850,13,12.7,362
+20286,Dean Phillips,PD,Revere,92500248,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:25.000Z,2850,7,7.6,218
+20072905,Marianne Williamson,PD,Revere,92500248,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:25.000Z,2850,5,5.0,142
+1036,Joe Biden,PD,Richmond,92500249,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:04:14.000Z,235,92,91.9,216
+20286,Dean Phillips,PD,Richmond,92500249,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:04:14.000Z,235,3,3.0,7
+100005,No Preference,PD,Richmond,92500249,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:04:14.000Z,235,3,3.0,7
+20072905,Marianne Williamson,PD,Richmond,92500249,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:04:14.000Z,235,1,1.3,3
+1036,Joe Biden,PD,Rochester,92500250,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,493,81,80.7,398
+100005,No Preference,PD,Rochester,92500250,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,493,7,7.5,37
+20286,Dean Phillips,PD,Rochester,92500250,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,493,6,5.9,29
+20072905,Marianne Williamson,PD,Rochester,92500250,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,493,4,3.7,18
+1036,Joe Biden,PD,Rockland,92500251,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:51:17.000Z,1497,76,75.6,1132
+100005,No Preference,PD,Rockland,92500251,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:51:17.000Z,1497,10,10.5,157
+20286,Dean Phillips,PD,Rockland,92500251,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:51:17.000Z,1497,7,7.0,105
+20072905,Marianne Williamson,PD,Rockland,92500251,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:51:17.000Z,1497,4,3.9,59
+1036,Joe Biden,PD,Rockport,92500252,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:24.000Z,1514,90,90.3,1367
+100005,No Preference,PD,Rockport,92500252,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:24.000Z,1514,4,3.9,59
+20286,Dean Phillips,PD,Rockport,92500252,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:24.000Z,1514,2,2.4,36
+20072905,Marianne Williamson,PD,Rockport,92500252,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:24.000Z,1514,2,2.0,31
+1036,Joe Biden,PD,Rowe,92500253,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:43:57.000Z,56,82,82.1,46
+20286,Dean Phillips,PD,Rowe,92500253,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:43:57.000Z,56,11,10.7,6
+20072905,Marianne Williamson,PD,Rowe,92500253,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:43:57.000Z,56,5,5.4,3
+100005,No Preference,PD,Rowe,92500253,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:43:57.000Z,56,2,1.8,1
+1036,Joe Biden,PD,Rowley,92500254,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:38.000Z,650,86,86.1,560
+20286,Dean Phillips,PD,Rowley,92500254,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:38.000Z,650,5,4.8,31
+100005,No Preference,PD,Rowley,92500254,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:38.000Z,650,4,4.5,29
+20072905,Marianne Williamson,PD,Rowley,92500254,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:38.000Z,650,3,2.8,18
+1036,Joe Biden,PD,Royalston,92500255,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:28.000Z,162,83,82.7,134
+100005,No Preference,PD,Royalston,92500255,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:28.000Z,162,9,9.3,15
+20286,Dean Phillips,PD,Royalston,92500255,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:28.000Z,162,5,4.9,8
+20072905,Marianne Williamson,PD,Royalston,92500255,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:28.000Z,162,1,1.2,2
+1036,Joe Biden,PD,Russell,92500256,Joe,True,Biden,DEM,Democratic,86,P,Massachusetts,2024-03-06T20:10:48.000Z,83,82,81.9,68
+20072905,Marianne Williamson,PD,Russell,92500256,Marianne,False,Williamson,DEM,Democratic,86,P,Massachusetts,2024-03-06T20:10:48.000Z,83,6,6.0,5
+20286,Dean Phillips,PD,Russell,92500256,Dean,False,Phillips,DEM,Democratic,86,P,Massachusetts,2024-03-06T20:10:48.000Z,83,5,4.8,4
+100005,No Preference,PD,Russell,92500256,,False,No Preference,DEM,Democratic,86,P,Massachusetts,2024-03-06T20:10:48.000Z,83,3,3.6,3
+1036,Joe Biden,PD,Rutland,92500257,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:33.000Z,791,78,78.0,617
+100005,No Preference,PD,Rutland,92500257,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:33.000Z,791,10,9.9,78
+20286,Dean Phillips,PD,Rutland,92500257,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:33.000Z,791,6,6.1,48
+20072905,Marianne Williamson,PD,Rutland,92500257,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:33.000Z,791,4,4.0,32
+1036,Joe Biden,PD,Salem,92500258,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:41:18.000Z,5339,78,78.1,4172
+100005,No Preference,PD,Salem,92500258,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:41:18.000Z,5339,12,12.1,644
+20286,Dean Phillips,PD,Salem,92500258,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:41:18.000Z,5339,4,4.3,228
+20072905,Marianne Williamson,PD,Salem,92500258,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:41:18.000Z,5339,4,3.9,208
+1036,Joe Biden,PD,Salisbury,92500259,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:42.000Z,876,83,83.1,728
+20286,Dean Phillips,PD,Salisbury,92500259,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:42.000Z,876,6,6.0,53
+100005,No Preference,PD,Salisbury,92500259,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:42.000Z,876,6,6.0,53
+20072905,Marianne Williamson,PD,Salisbury,92500259,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:42.000Z,876,3,3.2,28
+1036,Joe Biden,PD,Sandisfield,92500260,Joe,True,Biden,DEM,Democratic,80,P,Massachusetts,2024-03-06T15:40:24.000Z,60,87,86.7,52
+20286,Dean Phillips,PD,Sandisfield,92500260,Dean,False,Phillips,DEM,Democratic,80,P,Massachusetts,2024-03-06T15:40:24.000Z,60,5,5.0,3
+100005,No Preference,PD,Sandisfield,92500260,,False,No Preference,DEM,Democratic,80,P,Massachusetts,2024-03-06T15:40:24.000Z,60,3,3.3,2
+20072905,Marianne Williamson,PD,Sandisfield,92500260,Marianne,False,Williamson,DEM,Democratic,80,P,Massachusetts,2024-03-06T15:40:24.000Z,60,2,1.7,1
+1036,Joe Biden,PD,Sandwich,92500261,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:26.000Z,2376,87,87.0,2067
+100005,No Preference,PD,Sandwich,92500261,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:26.000Z,2376,6,5.6,133
+20286,Dean Phillips,PD,Sandwich,92500261,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:26.000Z,2376,4,3.7,89
+20072905,Marianne Williamson,PD,Sandwich,92500261,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:26.000Z,2376,2,2.3,54
+1036,Joe Biden,PD,Saugus,92500262,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:08.000Z,2200,76,76.4,1682
+100005,No Preference,PD,Saugus,92500262,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:08.000Z,2200,10,9.9,217
+20286,Dean Phillips,PD,Saugus,92500262,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:08.000Z,2200,7,6.9,151
+20072905,Marianne Williamson,PD,Saugus,92500262,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:44:08.000Z,2200,5,4.7,103
+1036,Joe Biden,PD,Savoy,92500263,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,55,73,72.7,40
+100005,No Preference,PD,Savoy,92500263,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,55,13,12.7,7
+20072905,Marianne Williamson,PD,Savoy,92500263,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,55,11,10.9,6
+20286,Dean Phillips,PD,Savoy,92500263,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:11:00.000Z,55,3,3.6,2
+1036,Joe Biden,PD,Scituate,92500264,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:36.000Z,2604,88,87.6,2282
+100005,No Preference,PD,Scituate,92500264,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:36.000Z,2604,5,5.4,140
+20286,Dean Phillips,PD,Scituate,92500264,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:36.000Z,2604,4,3.8,98
+20072905,Marianne Williamson,PD,Scituate,92500264,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:51:36.000Z,2604,2,2.1,56
+1036,Joe Biden,PD,Seekonk,92500265,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:59:50.000Z,967,81,81.2,785
+100005,No Preference,PD,Seekonk,92500265,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:59:50.000Z,967,7,6.6,64
+20286,Dean Phillips,PD,Seekonk,92500265,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:59:50.000Z,967,7,6.5,63
+20072905,Marianne Williamson,PD,Seekonk,92500265,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:59:50.000Z,967,4,4.2,41
+1036,Joe Biden,PD,Sharon,92500266,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:55:12.000Z,2473,84,84.1,2081
+100005,No Preference,PD,Sharon,92500266,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:55:12.000Z,2473,8,8.2,204
+20286,Dean Phillips,PD,Sharon,92500266,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:55:12.000Z,2473,4,4.2,105
+20072905,Marianne Williamson,PD,Sharon,92500266,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:55:12.000Z,2473,2,1.9,48
+1036,Joe Biden,PD,Sheffield,92500267,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,407,85,84.8,345
+100005,No Preference,PD,Sheffield,92500267,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,407,8,7.6,31
+20286,Dean Phillips,PD,Sheffield,92500267,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,407,3,3.4,14
+20072905,Marianne Williamson,PD,Sheffield,92500267,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,407,3,2.9,12
+1036,Joe Biden,PD,Shelburne,92500268,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,371,84,84.1,312
+100005,No Preference,PD,Shelburne,92500268,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,371,9,8.9,33
+20072905,Marianne Williamson,PD,Shelburne,92500268,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,371,4,4.3,16
+20286,Dean Phillips,PD,Shelburne,92500268,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,371,2,1.6,6
+1036,Joe Biden,PD,Sherborn,92500269,Joe,True,Biden,DEM,Democratic,84,P,Massachusetts,2024-03-13T22:03:57.000Z,606,87,87.0,527
+100005,No Preference,PD,Sherborn,92500269,,False,No Preference,DEM,Democratic,84,P,Massachusetts,2024-03-13T22:03:57.000Z,606,6,5.9,36
+20286,Dean Phillips,PD,Sherborn,92500269,Dean,False,Phillips,DEM,Democratic,84,P,Massachusetts,2024-03-13T22:03:57.000Z,606,4,4.3,26
+20072905,Marianne Williamson,PD,Sherborn,92500269,Marianne,False,Williamson,DEM,Democratic,84,P,Massachusetts,2024-03-13T22:03:57.000Z,606,1,1.3,8
+1036,Joe Biden,PD,Shirley,92500270,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-03-06T03:14:14.000Z,598,82,81.6,488
+100005,No Preference,PD,Shirley,92500270,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-03-06T03:14:14.000Z,598,8,7.5,45
+20286,Dean Phillips,PD,Shirley,92500270,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-03-06T03:14:14.000Z,598,5,5.5,33
+20072905,Marianne Williamson,PD,Shirley,92500270,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-03-06T03:14:14.000Z,598,3,2.8,17
+1036,Joe Biden,PD,Shrewsbury,92500271,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:44:19.000Z,3307,82,81.9,2707
+100005,No Preference,PD,Shrewsbury,92500271,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:44:19.000Z,3307,10,10.0,330
+20286,Dean Phillips,PD,Shrewsbury,92500271,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:44:19.000Z,3307,5,4.7,156
+20072905,Marianne Williamson,PD,Shrewsbury,92500271,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:44:19.000Z,3307,2,2.6,87
+1036,Joe Biden,PD,Shutesbury,92500272,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-03-06T06:10:28.000Z,401,82,81.5,327
+100005,No Preference,PD,Shutesbury,92500272,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-03-06T06:10:28.000Z,401,12,12.5,50
+20072905,Marianne Williamson,PD,Shutesbury,92500272,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-03-06T06:10:28.000Z,401,3,3.5,14
+20286,Dean Phillips,PD,Shutesbury,92500272,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-03-06T06:10:28.000Z,401,2,1.7,7
+1036,Joe Biden,PD,Somerset,92500273,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:23.000Z,1891,81,81.1,1534
+100005,No Preference,PD,Somerset,92500273,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:23.000Z,1891,9,8.7,165
+20286,Dean Phillips,PD,Somerset,92500273,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:23.000Z,1891,4,4.3,82
+20072905,Marianne Williamson,PD,Somerset,92500273,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:23.000Z,1891,4,3.5,67
+1036,Joe Biden,PD,Somerville,92500274,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:35.000Z,11909,68,67.9,8091
+100005,No Preference,PD,Somerville,92500274,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:35.000Z,11909,22,22.0,2622
+20286,Dean Phillips,PD,Somerville,92500274,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:35.000Z,11909,4,3.9,462
+20072905,Marianne Williamson,PD,Somerville,92500274,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-06-16T15:38:35.000Z,11909,4,3.7,442
+1036,Joe Biden,PD,South Hadley,92500278,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:41.000Z,2415,80,80.5,1944
+100005,No Preference,PD,South Hadley,92500278,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:41.000Z,2415,11,10.9,264
+20286,Dean Phillips,PD,South Hadley,92500278,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:41.000Z,2415,4,3.6,86
+20072905,Marianne Williamson,PD,South Hadley,92500278,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:41.000Z,2415,3,3.1,76
+1036,Joe Biden,PD,Southampton,92500275,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,732,81,80.6,590
+100005,No Preference,PD,Southampton,92500275,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,732,8,7.9,58
+20072905,Marianne Williamson,PD,Southampton,92500275,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,732,4,4.5,33
+20286,Dean Phillips,PD,Southampton,92500275,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:38.000Z,732,4,4.0,29
+1036,Joe Biden,PD,Southborough,92500276,Joe,True,Biden,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:04:50.000Z,1084,86,86.3,935
+100005,No Preference,PD,Southborough,92500276,,False,No Preference,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:04:50.000Z,1084,7,7.1,77
+20286,Dean Phillips,PD,Southborough,92500276,Dean,False,Phillips,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:04:50.000Z,1084,4,3.7,40
+20072905,Marianne Williamson,PD,Southborough,92500276,Marianne,False,Williamson,DEM,Democratic,82,P,Massachusetts,2024-06-16T16:04:50.000Z,1084,2,1.8,20
+1036,Joe Biden,PD,Southbridge,92500277,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:32.000Z,1002,80,80.0,802
+100005,No Preference,PD,Southbridge,92500277,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:32.000Z,1002,7,6.9,69
+20286,Dean Phillips,PD,Southbridge,92500277,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:32.000Z,1002,6,6.4,64
+20072905,Marianne Williamson,PD,Southbridge,92500277,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:32.000Z,1002,4,4.2,42
+1036,Joe Biden,PD,Southwick,92500279,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:59.000Z,600,82,82.2,493
+100005,No Preference,PD,Southwick,92500279,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:59.000Z,600,8,8.2,49
+20286,Dean Phillips,PD,Southwick,92500279,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:59.000Z,600,5,4.8,29
+20072905,Marianne Williamson,PD,Southwick,92500279,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:04:59.000Z,600,3,3.3,20
+1036,Joe Biden,PD,Spencer,92500280,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:00.000Z,917,75,75.2,690
+100005,No Preference,PD,Spencer,92500280,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:00.000Z,917,9,9.4,86
+20286,Dean Phillips,PD,Spencer,92500280,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:00.000Z,917,9,8.6,79
+20072905,Marianne Williamson,PD,Spencer,92500280,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:00.000Z,917,6,5.7,52
+1036,Joe Biden,PD,Springfield,92500281,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:36:19.000Z,7889,82,82.2,6482
+100005,No Preference,PD,Springfield,92500281,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:36:19.000Z,7889,8,8.2,645
+20072905,Marianne Williamson,PD,Springfield,92500281,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:36:19.000Z,7889,4,4.1,327
+20286,Dean Phillips,PD,Springfield,92500281,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:36:19.000Z,7889,3,3.4,267
+1036,Joe Biden,PD,Sterling,92500282,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:39.000Z,878,82,82.0,720
+100005,No Preference,PD,Sterling,92500282,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:39.000Z,878,7,7.2,63
+20286,Dean Phillips,PD,Sterling,92500282,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:39.000Z,878,6,6.0,53
+20072905,Marianne Williamson,PD,Sterling,92500282,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:39.000Z,878,4,3.6,32
+1036,Joe Biden,PD,Stockbridge,92500283,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:17:13.000Z,354,89,89.2,316
+100005,No Preference,PD,Stockbridge,92500283,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:17:13.000Z,354,5,5.1,18
+20286,Dean Phillips,PD,Stockbridge,92500283,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:17:13.000Z,354,2,2.0,7
+20072905,Marianne Williamson,PD,Stockbridge,92500283,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T03:17:13.000Z,354,2,2.0,7
+1036,Joe Biden,PD,Stoneham,92500284,Joe,True,Biden,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:48:35.000Z,2474,83,82.7,2045
+100005,No Preference,PD,Stoneham,92500284,,False,No Preference,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:48:35.000Z,2474,8,8.4,209
+20286,Dean Phillips,PD,Stoneham,92500284,Dean,False,Phillips,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:48:35.000Z,2474,5,5.3,130
+20072905,Marianne Williamson,PD,Stoneham,92500284,Marianne,False,Williamson,DEM,Democratic,91,P,Massachusetts,2024-06-16T15:48:35.000Z,2474,3,2.6,64
+1036,Joe Biden,PD,Stoughton,92500285,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:46:28.000Z,2406,80,80.2,1930
+100005,No Preference,PD,Stoughton,92500285,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:46:28.000Z,2406,9,9.4,225
+20286,Dean Phillips,PD,Stoughton,92500285,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:46:28.000Z,2406,5,5.1,122
+20072905,Marianne Williamson,PD,Stoughton,92500285,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:46:28.000Z,2406,4,3.8,92
+1036,Joe Biden,PD,Stow,92500286,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:50.000Z,1132,87,87.0,985
+100005,No Preference,PD,Stow,92500286,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:50.000Z,1132,5,5.3,60
+20286,Dean Phillips,PD,Stow,92500286,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:50.000Z,1132,4,3.8,43
+20072905,Marianne Williamson,PD,Stow,92500286,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:50.000Z,1132,3,3.2,36
+1036,Joe Biden,PD,Sturbridge,92500287,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:08.000Z,945,83,82.6,781
+100005,No Preference,PD,Sturbridge,92500287,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:08.000Z,945,6,6.6,62
+20286,Dean Phillips,PD,Sturbridge,92500287,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:08.000Z,945,6,6.0,57
+20072905,Marianne Williamson,PD,Sturbridge,92500287,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:08.000Z,945,3,3.1,29
+1036,Joe Biden,PD,Sudbury,92500288,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:51:45.000Z,2594,88,87.9,2280
+100005,No Preference,PD,Sudbury,92500288,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:51:45.000Z,2594,6,5.9,152
+20286,Dean Phillips,PD,Sudbury,92500288,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:51:45.000Z,2594,3,3.3,87
+20072905,Marianne Williamson,PD,Sudbury,92500288,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:51:45.000Z,2594,2,1.6,42
+1036,Joe Biden,PD,Sunderland,92500289,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-03-06T02:27:59.000Z,462,79,79.2,366
+100005,No Preference,PD,Sunderland,92500289,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-03-06T02:27:59.000Z,462,11,10.6,49
+20072905,Marianne Williamson,PD,Sunderland,92500289,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-03-06T02:27:59.000Z,462,5,5.4,25
+20286,Dean Phillips,PD,Sunderland,92500289,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-03-06T02:27:59.000Z,462,3,2.6,12
+1036,Joe Biden,PD,Sutton,92500290,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:15:56.000Z,766,84,83.8,642
+20286,Dean Phillips,PD,Sutton,92500290,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:15:56.000Z,766,7,6.5,50
+100005,No Preference,PD,Sutton,92500290,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:15:56.000Z,766,5,5.2,40
+20072905,Marianne Williamson,PD,Sutton,92500290,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-26T22:15:56.000Z,766,3,3.1,24
+1036,Joe Biden,PD,Swampscott,92500291,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:51:54.000Z,2056,87,86.9,1787
+100005,No Preference,PD,Swampscott,92500291,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:51:54.000Z,2056,6,6.2,127
+20286,Dean Phillips,PD,Swampscott,92500291,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:51:54.000Z,2056,4,3.6,74
+20072905,Marianne Williamson,PD,Swampscott,92500291,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:51:54.000Z,2056,2,1.8,38
+1036,Joe Biden,PD,Swansea,92500292,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:49.000Z,1515,81,80.8,1224
+100005,No Preference,PD,Swansea,92500292,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:49.000Z,1515,8,8.4,127
+20286,Dean Phillips,PD,Swansea,92500292,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:49.000Z,1515,5,4.8,73
+20072905,Marianne Williamson,PD,Swansea,92500292,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:55:49.000Z,1515,4,3.6,54
+1036,Joe Biden,PD,Taunton,92500293,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:40:06.000Z,3625,79,79.3,2874
+100005,No Preference,PD,Taunton,92500293,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:40:06.000Z,3625,9,9.1,331
+20286,Dean Phillips,PD,Taunton,92500293,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:40:06.000Z,3625,6,6.4,233
+20072905,Marianne Williamson,PD,Taunton,92500293,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:40:06.000Z,3625,4,4.2,154
+1036,Joe Biden,PD,Templeton,92500294,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:18.000Z,604,76,76.1,460
+20286,Dean Phillips,PD,Templeton,92500294,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:18.000Z,604,9,8.6,52
+100005,No Preference,PD,Templeton,92500294,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:18.000Z,604,8,8.3,50
+20072905,Marianne Williamson,PD,Templeton,92500294,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:18.000Z,604,4,4.0,24
+1036,Joe Biden,PD,Tewksbury,92500295,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:38.000Z,2915,80,79.6,2320
+100005,No Preference,PD,Tewksbury,92500295,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:38.000Z,2915,8,8.4,246
+20286,Dean Phillips,PD,Tewksbury,92500295,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:38.000Z,2915,6,6.3,185
+20072905,Marianne Williamson,PD,Tewksbury,92500295,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:38.000Z,2915,4,3.7,109
+1036,Joe Biden,PD,Tisbury,92500296,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,635,85,85.0,540
+100005,No Preference,PD,Tisbury,92500296,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,635,8,8.3,53
+20072905,Marianne Williamson,PD,Tisbury,92500296,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,635,3,3.3,21
+20286,Dean Phillips,PD,Tisbury,92500296,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,635,2,2.4,15
+1036,Joe Biden,PD,Tolland,92500297,Joe,True,Biden,DEM,Democratic,74,P,Massachusetts,2024-03-06T03:25:56.000Z,29,86,86.2,25
+20072905,Marianne Williamson,PD,Tolland,92500297,Marianne,False,Williamson,DEM,Democratic,74,P,Massachusetts,2024-03-06T03:25:56.000Z,29,7,6.9,2
+100005,No Preference,PD,Tolland,92500297,,False,No Preference,DEM,Democratic,74,P,Massachusetts,2024-03-06T03:25:56.000Z,29,3,3.4,1
+20286,Dean Phillips,PD,Tolland,92500297,Dean,False,Phillips,DEM,Democratic,74,P,Massachusetts,2024-03-06T03:25:56.000Z,29,0,0.0,0
+1036,Joe Biden,PD,Topsfield,92500298,Joe,True,Biden,DEM,Democratic,78,P,Massachusetts,2024-03-13T21:52:31.000Z,665,85,84.7,563
+20286,Dean Phillips,PD,Topsfield,92500298,Dean,False,Phillips,DEM,Democratic,78,P,Massachusetts,2024-03-13T21:52:31.000Z,665,6,6.0,40
+100005,No Preference,PD,Topsfield,92500298,,False,No Preference,DEM,Democratic,78,P,Massachusetts,2024-03-13T21:52:31.000Z,665,6,6.0,40
+20072905,Marianne Williamson,PD,Topsfield,92500298,Marianne,False,Williamson,DEM,Democratic,78,P,Massachusetts,2024-03-13T21:52:31.000Z,665,2,2.4,16
+1036,Joe Biden,PD,Townsend,92500299,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:27.000Z,750,81,81.1,608
+20286,Dean Phillips,PD,Townsend,92500299,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:27.000Z,750,7,7.2,54
+100005,No Preference,PD,Townsend,92500299,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:27.000Z,750,6,6.3,47
+20072905,Marianne Williamson,PD,Townsend,92500299,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:27.000Z,750,4,4.4,33
+1036,Joe Biden,PD,Truro,92500300,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,533,88,88.4,471
+100005,No Preference,PD,Truro,92500300,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,533,7,7.1,38
+20072905,Marianne Williamson,PD,Truro,92500300,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,533,2,2.4,13
+20286,Dean Phillips,PD,Truro,92500300,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,533,2,1.5,8
+1036,Joe Biden,PD,Tyngsborough,92500301,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:09.000Z,1138,81,81.4,926
+100005,No Preference,PD,Tyngsborough,92500301,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:09.000Z,1138,8,8.2,94
+20286,Dean Phillips,PD,Tyngsborough,92500301,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:09.000Z,1138,7,6.6,75
+20072905,Marianne Williamson,PD,Tyngsborough,92500301,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:09.000Z,1138,4,3.8,43
+1036,Joe Biden,PD,Tyringham,92500302,Joe,True,Biden,DEM,Democratic,63,P,Massachusetts,2024-03-06T03:21:31.000Z,49,94,93.9,46
+100005,No Preference,PD,Tyringham,92500302,,False,No Preference,DEM,Democratic,63,P,Massachusetts,2024-03-06T03:21:31.000Z,49,4,4.1,2
+20072905,Marianne Williamson,PD,Tyringham,92500302,Marianne,False,Williamson,DEM,Democratic,63,P,Massachusetts,2024-03-06T03:21:31.000Z,49,2,2.0,1
+20286,Dean Phillips,PD,Tyringham,92500302,Dean,False,Phillips,DEM,Democratic,63,P,Massachusetts,2024-03-06T03:21:31.000Z,49,0,0.0,0
+1036,Joe Biden,PD,Upton,92500303,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:58.000Z,888,82,82.3,731
+100005,No Preference,PD,Upton,92500303,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:58.000Z,888,7,7.2,64
+20286,Dean Phillips,PD,Upton,92500303,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:58.000Z,888,5,5.1,45
+20072905,Marianne Williamson,PD,Upton,92500303,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:08:58.000Z,888,4,4.1,36
+1036,Joe Biden,PD,Uxbridge,92500304,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:18.000Z,1170,80,79.9,935
+100005,No Preference,PD,Uxbridge,92500304,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:18.000Z,1170,7,7.1,83
+20286,Dean Phillips,PD,Uxbridge,92500304,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:18.000Z,1170,7,6.9,81
+20072905,Marianne Williamson,PD,Uxbridge,92500304,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:18.000Z,1170,4,4.5,53
+1036,Joe Biden,PD,Wakefield,92500305,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:48:45.000Z,3324,82,82.4,2741
+100005,No Preference,PD,Wakefield,92500305,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:48:45.000Z,3324,8,8.2,272
+20286,Dean Phillips,PD,Wakefield,92500305,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:48:45.000Z,3324,5,4.9,163
+20072905,Marianne Williamson,PD,Wakefield,92500305,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:48:45.000Z,3324,3,2.8,92
+1036,Joe Biden,PD,Wales,92500306,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:17:13.000Z,136,79,79.4,108
+100005,No Preference,PD,Wales,92500306,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:17:13.000Z,136,10,10.3,14
+20286,Dean Phillips,PD,Wales,92500306,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:17:13.000Z,136,5,5.1,7
+20072905,Marianne Williamson,PD,Wales,92500306,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:17:13.000Z,136,4,3.7,5
+1036,Joe Biden,PD,Walpole,92500307,Joe,True,Biden,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:46:47.000Z,2697,81,80.9,2182
+100005,No Preference,PD,Walpole,92500307,,False,No Preference,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:46:47.000Z,2697,9,8.7,234
+20286,Dean Phillips,PD,Walpole,92500307,Dean,False,Phillips,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:46:47.000Z,2697,6,5.9,160
+20072905,Marianne Williamson,PD,Walpole,92500307,Marianne,False,Williamson,DEM,Democratic,97,P,Massachusetts,2024-06-16T15:46:47.000Z,2697,3,2.9,78
+1036,Joe Biden,PD,Waltham,92500308,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:39:14.000Z,5631,81,80.7,4543
+100005,No Preference,PD,Waltham,92500308,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:39:14.000Z,5631,11,10.6,598
+20286,Dean Phillips,PD,Waltham,92500308,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:39:14.000Z,5631,4,4.2,239
+20072905,Marianne Williamson,PD,Waltham,92500308,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:39:14.000Z,5631,3,3.1,173
+1036,Joe Biden,PD,Ware,92500309,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:36.000Z,765,77,77.5,593
+100005,No Preference,PD,Ware,92500309,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:36.000Z,765,10,10.1,77
+20072905,Marianne Williamson,PD,Ware,92500309,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:36.000Z,765,6,5.6,43
+20286,Dean Phillips,PD,Ware,92500309,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:36.000Z,765,5,4.7,36
+1036,Joe Biden,PD,Wareham,92500310,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:02.000Z,2105,85,84.8,1785
+100005,No Preference,PD,Wareham,92500310,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:02.000Z,2105,6,6.2,130
+20286,Dean Phillips,PD,Wareham,92500310,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:02.000Z,2105,5,5.2,110
+20072905,Marianne Williamson,PD,Wareham,92500310,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:52:02.000Z,2105,4,3.8,80
+1036,Joe Biden,PD,Warren,92500311,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:08.000Z,323,80,79.6,257
+100005,No Preference,PD,Warren,92500311,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:08.000Z,323,7,6.8,22
+20072905,Marianne Williamson,PD,Warren,92500311,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:08.000Z,323,6,6.2,20
+20286,Dean Phillips,PD,Warren,92500311,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:08.000Z,323,5,4.9,16
+1036,Joe Biden,PD,Warwick,92500312,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:32.000Z,109,76,76.1,83
+100005,No Preference,PD,Warwick,92500312,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:32.000Z,109,13,12.8,14
+20286,Dean Phillips,PD,Warwick,92500312,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:32.000Z,109,4,4.6,5
+20072905,Marianne Williamson,PD,Warwick,92500312,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-03-13T21:52:32.000Z,109,4,4.6,5
+1036,Joe Biden,PD,Washington,92500313,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:49:17.000Z,91,86,85.7,78
+20286,Dean Phillips,PD,Washington,92500313,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:49:17.000Z,91,5,5.5,5
+20072905,Marianne Williamson,PD,Washington,92500313,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:49:17.000Z,91,4,4.4,4
+100005,No Preference,PD,Washington,92500313,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:49:17.000Z,91,3,3.3,3
+1036,Joe Biden,PD,Watertown,92500314,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:42:36.000Z,4774,79,78.9,3768
+100005,No Preference,PD,Watertown,92500314,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:42:36.000Z,4774,14,13.7,653
+20286,Dean Phillips,PD,Watertown,92500314,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:42:36.000Z,4774,4,4.0,189
+20072905,Marianne Williamson,PD,Watertown,92500314,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T15:42:36.000Z,4774,2,2.6,126
+1036,Joe Biden,PD,Wayland,92500315,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:00:28.000Z,2020,88,87.7,1771
+100005,No Preference,PD,Wayland,92500315,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:00:28.000Z,2020,5,5.6,113
+20286,Dean Phillips,PD,Wayland,92500315,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:00:28.000Z,2020,4,3.8,78
+20072905,Marianne Williamson,PD,Wayland,92500315,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-06-16T16:00:28.000Z,2020,2,1.8,36
+1036,Joe Biden,PD,Webster,92500316,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:56:03.000Z,1035,77,77.2,799
+100005,No Preference,PD,Webster,92500316,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:56:03.000Z,1035,10,9.8,101
+20286,Dean Phillips,PD,Webster,92500316,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:56:03.000Z,1035,6,6.4,66
+20072905,Marianne Williamson,PD,Webster,92500316,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T15:56:03.000Z,1035,5,4.6,48
+1036,Joe Biden,PD,Wellesley,92500317,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:56.000Z,3875,88,88.3,3423
+100005,No Preference,PD,Wellesley,92500317,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:56.000Z,3875,6,5.7,222
+20286,Dean Phillips,PD,Wellesley,92500317,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:56.000Z,3875,4,3.8,148
+20072905,Marianne Williamson,PD,Wellesley,92500317,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:46:56.000Z,3875,1,1.4,56
+1036,Joe Biden,PD,Wellfleet,92500318,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:43.000Z,720,87,86.7,624
+100005,No Preference,PD,Wellfleet,92500318,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:43.000Z,720,7,7.2,52
+20286,Dean Phillips,PD,Wellfleet,92500318,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:43.000Z,720,2,2.4,17
+20072905,Marianne Williamson,PD,Wellfleet,92500318,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T22:03:43.000Z,720,2,1.5,11
+1036,Joe Biden,PD,Wendell,92500319,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,203,75,75.4,153
+100005,No Preference,PD,Wendell,92500319,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,203,16,15.7,32
+20072905,Marianne Williamson,PD,Wendell,92500319,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,203,6,5.9,12
+20286,Dean Phillips,PD,Wendell,92500319,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:35.000Z,203,1,1.5,3
+1036,Joe Biden,PD,Wenham,92500320,Joe,True,Biden,DEM,Democratic,81,P,Massachusetts,2024-03-26T22:21:10.000Z,446,83,83.4,372
+100005,No Preference,PD,Wenham,92500320,,False,No Preference,DEM,Democratic,81,P,Massachusetts,2024-03-26T22:21:10.000Z,446,8,7.8,35
+20286,Dean Phillips,PD,Wenham,92500320,Dean,False,Phillips,DEM,Democratic,81,P,Massachusetts,2024-03-26T22:21:10.000Z,446,5,4.7,21
+20072905,Marianne Williamson,PD,Wenham,92500320,Marianne,False,Williamson,DEM,Democratic,81,P,Massachusetts,2024-03-26T22:21:10.000Z,446,3,2.9,13
+1036,Joe Biden,PD,West Boylston,92500322,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:09:19.000Z,840,85,84.5,710
+100005,No Preference,PD,West Boylston,92500322,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:09:19.000Z,840,7,6.5,55
+20286,Dean Phillips,PD,West Boylston,92500322,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:09:19.000Z,840,4,4.0,34
+20072905,Marianne Williamson,PD,West Boylston,92500322,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-06-16T16:09:19.000Z,840,2,2.5,21
+1036,Joe Biden,PD,West Bridgewater,92500323,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:28.000Z,595,83,83.0,494
+100005,No Preference,PD,West Bridgewater,92500323,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:28.000Z,595,8,7.9,47
+20286,Dean Phillips,PD,West Bridgewater,92500323,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:28.000Z,595,5,5.0,30
+20072905,Marianne Williamson,PD,West Bridgewater,92500323,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:28.000Z,595,3,2.7,16
+1036,Joe Biden,PD,West Brookfield,92500324,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,376,84,84.3,317
+20286,Dean Phillips,PD,West Brookfield,92500324,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,376,7,6.6,25
+100005,No Preference,PD,West Brookfield,92500324,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,376,5,4.5,17
+20072905,Marianne Williamson,PD,West Brookfield,92500324,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-13T21:52:32.000Z,376,3,3.2,12
+1036,Joe Biden,PD,West Newbury,92500329,Joe,True,Biden,DEM,Democratic,92,P,Massachusetts,2024-03-06T01:49:17.000Z,640,89,89.4,572
+100005,No Preference,PD,West Newbury,92500329,,False,No Preference,DEM,Democratic,92,P,Massachusetts,2024-03-06T01:49:17.000Z,640,4,4.4,28
+20286,Dean Phillips,PD,West Newbury,92500329,Dean,False,Phillips,DEM,Democratic,92,P,Massachusetts,2024-03-06T01:49:17.000Z,640,3,3.3,21
+20072905,Marianne Williamson,PD,West Newbury,92500329,Marianne,False,Williamson,DEM,Democratic,92,P,Massachusetts,2024-03-06T01:49:17.000Z,640,2,1.5,10
+1036,Joe Biden,PD,West Springfield,92500332,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:05.000Z,1724,81,81.5,1405
+100005,No Preference,PD,West Springfield,92500332,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:05.000Z,1724,8,7.9,137
+20286,Dean Phillips,PD,West Springfield,92500332,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:05.000Z,1724,5,4.8,83
+20072905,Marianne Williamson,PD,West Springfield,92500332,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:47:05.000Z,1724,4,3.8,65
+1036,Joe Biden,PD,West Stockbridge,92500333,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:31:20.000Z,223,86,86.1,192
+100005,No Preference,PD,West Stockbridge,92500333,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:31:20.000Z,223,9,8.5,19
+20286,Dean Phillips,PD,West Stockbridge,92500333,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:31:20.000Z,223,3,3.1,7
+20072905,Marianne Williamson,PD,West Stockbridge,92500333,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T01:31:20.000Z,223,1,1.3,3
+1036,Joe Biden,PD,West Tisbury,92500334,Joe,True,Biden,DEM,Democratic,87,P,Massachusetts,2024-03-26T22:22:44.000Z,559,85,84.8,474
+100005,No Preference,PD,West Tisbury,92500334,,False,No Preference,DEM,Democratic,87,P,Massachusetts,2024-03-26T22:22:44.000Z,559,8,8.2,46
+20286,Dean Phillips,PD,West Tisbury,92500334,Dean,False,Phillips,DEM,Democratic,87,P,Massachusetts,2024-03-26T22:22:44.000Z,559,4,3.6,20
+20072905,Marianne Williamson,PD,West Tisbury,92500334,Marianne,False,Williamson,DEM,Democratic,87,P,Massachusetts,2024-03-26T22:22:44.000Z,559,2,2.5,14
+1036,Joe Biden,PD,Westborough,92500321,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:13.000Z,2173,86,85.9,1866
+100005,No Preference,PD,Westborough,92500321,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:13.000Z,2173,7,7.3,159
+20286,Dean Phillips,PD,Westborough,92500321,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:13.000Z,2173,4,3.6,79
+20072905,Marianne Williamson,PD,Westborough,92500321,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:13.000Z,2173,2,2.2,47
+1036,Joe Biden,PD,Westfield,92500325,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:42:44.000Z,2870,82,81.6,2341
+100005,No Preference,PD,Westfield,92500325,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:42:44.000Z,2870,7,7.5,215
+20286,Dean Phillips,PD,Westfield,92500325,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:42:44.000Z,2870,5,4.9,142
+20072905,Marianne Williamson,PD,Westfield,92500325,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:42:44.000Z,2870,4,4.3,122
+1036,Joe Biden,PD,Westford,92500326,Joe,True,Biden,DEM,Democratic,78,P,Massachusetts,2024-06-16T15:52:11.000Z,2433,82,82.4,2006
+100005,No Preference,PD,Westford,92500326,,False,No Preference,DEM,Democratic,78,P,Massachusetts,2024-06-16T15:52:11.000Z,2433,8,7.9,192
+20286,Dean Phillips,PD,Westford,92500326,Dean,False,Phillips,DEM,Democratic,78,P,Massachusetts,2024-06-16T15:52:11.000Z,2433,5,4.9,120
+20072905,Marianne Williamson,PD,Westford,92500326,Marianne,False,Williamson,DEM,Democratic,78,P,Massachusetts,2024-06-16T15:52:11.000Z,2433,3,3.5,84
+1036,Joe Biden,PD,Westhampton,92500327,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,246,85,85.0,209
+100005,No Preference,PD,Westhampton,92500327,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,246,8,8.5,21
+20072905,Marianne Williamson,PD,Westhampton,92500327,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,246,4,4.1,10
+20286,Dean Phillips,PD,Westhampton,92500327,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:39.000Z,246,2,1.6,4
+1036,Joe Biden,PD,Westminster,92500328,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:39.000Z,771,84,84.4,651
+20286,Dean Phillips,PD,Westminster,92500328,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:39.000Z,771,6,6.2,48
+100005,No Preference,PD,Westminster,92500328,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:39.000Z,771,5,5.4,42
+20072905,Marianne Williamson,PD,Westminster,92500328,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:09:39.000Z,771,3,3.1,24
+1036,Joe Biden,PD,Weston,92500330,Joe,True,Biden,DEM,Democratic,72,P,Massachusetts,2024-06-16T16:00:38.000Z,1137,87,86.8,987
+100005,No Preference,PD,Weston,92500330,,False,No Preference,DEM,Democratic,72,P,Massachusetts,2024-06-16T16:00:38.000Z,1137,6,6.3,72
+20286,Dean Phillips,PD,Weston,92500330,Dean,False,Phillips,DEM,Democratic,72,P,Massachusetts,2024-06-16T16:00:38.000Z,1137,4,3.8,43
+20072905,Marianne Williamson,PD,Weston,92500330,Marianne,False,Williamson,DEM,Democratic,72,P,Massachusetts,2024-06-16T16:00:38.000Z,1137,2,1.6,18
+1036,Joe Biden,PD,Westport,92500331,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:21.000Z,1680,80,79.8,1341
+100005,No Preference,PD,Westport,92500331,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:21.000Z,1680,8,8.5,142
+20286,Dean Phillips,PD,Westport,92500331,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:21.000Z,1680,5,4.5,76
+20072905,Marianne Williamson,PD,Westport,92500331,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:56:21.000Z,1680,4,4.3,73
+1036,Joe Biden,PD,Westwood,92500335,Joe,True,Biden,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:00:48.000Z,2002,83,83.2,1666
+100005,No Preference,PD,Westwood,92500335,,False,No Preference,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:00:48.000Z,2002,9,9.3,186
+20286,Dean Phillips,PD,Westwood,92500335,Dean,False,Phillips,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:00:48.000Z,2002,5,5.0,101
+20072905,Marianne Williamson,PD,Westwood,92500335,Marianne,False,Williamson,DEM,Democratic,90,P,Massachusetts,2024-06-16T16:00:48.000Z,2002,2,2.0,40
+1036,Joe Biden,PD,Weymouth,92500336,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:39:24.000Z,5622,81,80.6,4532
+100005,No Preference,PD,Weymouth,92500336,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:39:24.000Z,5622,9,8.6,483
+20286,Dean Phillips,PD,Weymouth,92500336,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:39:24.000Z,5622,5,5.5,312
+20072905,Marianne Williamson,PD,Weymouth,92500336,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:39:24.000Z,5622,3,3.1,177
+1036,Joe Biden,PD,Whately,92500337,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,243,89,88.9,216
+100005,No Preference,PD,Whately,92500337,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,243,5,5.3,13
+20286,Dean Phillips,PD,Whately,92500337,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,243,2,2.5,6
+20072905,Marianne Williamson,PD,Whately,92500337,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-13T21:52:38.000Z,243,2,2.1,5
+1036,Joe Biden,PD,Whitman,92500338,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:57.000Z,1279,74,74.3,950
+100005,No Preference,PD,Whitman,92500338,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:57.000Z,1279,10,10.2,131
+20286,Dean Phillips,PD,Whitman,92500338,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:57.000Z,1279,8,7.9,101
+20072905,Marianne Williamson,PD,Whitman,92500338,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:00:57.000Z,1279,6,5.6,71
+1036,Joe Biden,PD,Wilbraham,92500339,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:06.000Z,1416,83,82.6,1169
+100005,No Preference,PD,Wilbraham,92500339,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:06.000Z,1416,7,6.8,96
+20286,Dean Phillips,PD,Wilbraham,92500339,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:06.000Z,1416,4,4.4,63
+20072905,Marianne Williamson,PD,Wilbraham,92500339,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:06.000Z,1416,4,3.9,55
+1036,Joe Biden,PD,Williamsburg,92500340,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T22:05:27.000Z,507,84,83.8,425
+100005,No Preference,PD,Williamsburg,92500340,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T22:05:27.000Z,507,10,10.6,54
+20286,Dean Phillips,PD,Williamsburg,92500340,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T22:05:27.000Z,507,3,2.8,14
+20072905,Marianne Williamson,PD,Williamsburg,92500340,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T22:05:27.000Z,507,2,1.8,9
+1036,Joe Biden,PD,Williamstown,92500341,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:05:45.000Z,1026,87,87.0,893
+100005,No Preference,PD,Williamstown,92500341,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:05:45.000Z,1026,9,8.7,89
+20286,Dean Phillips,PD,Williamstown,92500341,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:05:45.000Z,1026,2,2.2,23
+20072905,Marianne Williamson,PD,Williamstown,92500341,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T16:05:45.000Z,1026,1,1.5,15
+1036,Joe Biden,PD,Wilmington,92500342,Joe,True,Biden,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:52:20.000Z,2182,80,80.4,1754
+100005,No Preference,PD,Wilmington,92500342,,False,No Preference,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:52:20.000Z,2182,9,8.9,194
+20286,Dean Phillips,PD,Wilmington,92500342,Dean,False,Phillips,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:52:20.000Z,2182,7,6.6,144
+20072905,Marianne Williamson,PD,Wilmington,92500342,Marianne,False,Williamson,DEM,Democratic,89,P,Massachusetts,2024-06-16T15:52:20.000Z,2182,3,3.5,76
+1036,Joe Biden,PD,Winchendon,92500343,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:15.000Z,648,81,81.3,527
+100005,No Preference,PD,Winchendon,92500343,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:15.000Z,648,8,7.6,49
+20286,Dean Phillips,PD,Winchendon,92500343,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:15.000Z,648,5,4.9,32
+20072905,Marianne Williamson,PD,Winchendon,92500343,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:01:15.000Z,648,5,4.8,31
+1036,Joe Biden,PD,Winchester,92500344,Joe,True,Biden,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:47:13.000Z,2700,85,84.9,2291
+100005,No Preference,PD,Winchester,92500344,,False,No Preference,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:47:13.000Z,2700,8,8.3,224
+20286,Dean Phillips,PD,Winchester,92500344,Dean,False,Phillips,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:47:13.000Z,2700,3,3.4,93
+20072905,Marianne Williamson,PD,Winchester,92500344,Marianne,False,Williamson,DEM,Democratic,82,P,Massachusetts,2024-06-16T15:47:13.000Z,2700,2,2.0,54
+1036,Joe Biden,PD,Windsor,92500345,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:41.000Z,115,86,86.1,99
+100005,No Preference,PD,Windsor,92500345,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:41.000Z,115,6,6.1,7
+20286,Dean Phillips,PD,Windsor,92500345,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:41.000Z,115,5,5.2,6
+20072905,Marianne Williamson,PD,Windsor,92500345,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-03-06T02:45:41.000Z,115,3,2.6,3
+1036,Joe Biden,PD,Winthrop,92500346,Joe,True,Biden,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:52:29.000Z,1820,80,80.2,1460
+100005,No Preference,PD,Winthrop,92500346,,False,No Preference,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:52:29.000Z,1820,10,9.8,178
+20286,Dean Phillips,PD,Winthrop,92500346,Dean,False,Phillips,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:52:29.000Z,1820,5,4.8,88
+20072905,Marianne Williamson,PD,Winthrop,92500346,Marianne,False,Williamson,DEM,Democratic,93,P,Massachusetts,2024-06-16T15:52:29.000Z,1820,3,2.9,53
+1036,Joe Biden,PD,Woburn,92500347,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:29.000Z,3958,79,79.6,3152
+100005,No Preference,PD,Woburn,92500347,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:29.000Z,3958,10,9.9,391
+20286,Dean Phillips,PD,Woburn,92500347,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:29.000Z,3958,6,6.0,236
+20072905,Marianne Williamson,PD,Woburn,92500347,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:41:29.000Z,3958,3,2.8,112
+1036,Joe Biden,PD,Worcester,92500348,Joe,True,Biden,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:36:30.000Z,11831,78,77.8,9208
+100005,No Preference,PD,Worcester,92500348,,False,No Preference,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:36:30.000Z,11831,11,11.1,1315
+20286,Dean Phillips,PD,Worcester,92500348,Dean,False,Phillips,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:36:30.000Z,11831,5,5.0,596
+20072905,Marianne Williamson,PD,Worcester,92500348,Marianne,False,Williamson,DEM,Democratic,94,P,Massachusetts,2024-06-16T15:36:30.000Z,11831,4,4.1,485
+1036,Joe Biden,PD,Worthington,92500349,Joe,True,Biden,DEM,Democratic,99,P,Massachusetts,2024-03-06T02:05:20.000Z,201,85,85.1,171
+100005,No Preference,PD,Worthington,92500349,,False,No Preference,DEM,Democratic,99,P,Massachusetts,2024-03-06T02:05:20.000Z,201,9,9.4,19
+20286,Dean Phillips,PD,Worthington,92500349,Dean,False,Phillips,DEM,Democratic,99,P,Massachusetts,2024-03-06T02:05:20.000Z,201,3,3.0,6
+20072905,Marianne Williamson,PD,Worthington,92500349,Marianne,False,Williamson,DEM,Democratic,99,P,Massachusetts,2024-03-06T02:05:20.000Z,201,2,2.0,4
+1036,Joe Biden,PD,Wrentham,92500350,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:54.000Z,1148,83,82.7,949
+100005,No Preference,PD,Wrentham,92500350,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:54.000Z,1148,7,6.7,77
+20286,Dean Phillips,PD,Wrentham,92500350,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:54.000Z,1148,6,6.6,76
+20072905,Marianne Williamson,PD,Wrentham,92500350,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T16:05:54.000Z,1148,3,2.7,31
+1036,Joe Biden,PD,Yarmouth,92500351,Joe,True,Biden,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:54.000Z,3277,88,88.4,2897
+100005,No Preference,PD,Yarmouth,92500351,,False,No Preference,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:54.000Z,3277,4,4.5,146
+20286,Dean Phillips,PD,Yarmouth,92500351,Dean,False,Phillips,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:54.000Z,3277,4,3.6,119
+20072905,Marianne Williamson,PD,Yarmouth,92500351,Marianne,False,Williamson,DEM,Democratic,95,P,Massachusetts,2024-06-16T15:48:54.000Z,3277,2,2.1,70

@@ -1,0 +1,175 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+8639,Donald Trump,PR,Aitkin,27001,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:54:53.000Z,2115,77,77.3,1634
+60420,Nikki Haley,PR,Aitkin,27001,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:54:53.000Z,2115,20,20.1,425
+8639,Donald Trump,PR,Anoka,27003,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T19:46:46.000Z,23184,72,72.5,16806
+60420,Nikki Haley,PR,Anoka,27003,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T19:46:46.000Z,23184,25,25.4,5900
+8639,Donald Trump,PR,Becker,27005,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:55:04.000Z,2710,81,80.8,2189
+60420,Nikki Haley,PR,Becker,27005,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:55:04.000Z,2710,17,17.1,464
+8639,Donald Trump,PR,Beltrami,27007,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:54:30.000Z,2848,78,77.8,2216
+60420,Nikki Haley,PR,Beltrami,27007,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:54:30.000Z,2848,20,20.3,577
+8639,Donald Trump,PR,Benton,27009,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:04:27.000Z,2681,80,80.2,2151
+60420,Nikki Haley,PR,Benton,27009,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:04:27.000Z,2681,18,18.0,483
+8639,Donald Trump,PR,Big Stone,27011,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:10:55.000Z,572,72,72.4,414
+60420,Nikki Haley,PR,Big Stone,27011,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:10:55.000Z,572,24,23.9,137
+8639,Donald Trump,PR,Blue Earth,27013,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:15:20.000Z,3786,69,69.3,2624
+60420,Nikki Haley,PR,Blue Earth,27013,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:15:20.000Z,3786,28,28.0,1061
+8639,Donald Trump,PR,Brown,27015,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T04:38:42.000Z,2157,72,72.0,1552
+60420,Nikki Haley,PR,Brown,27015,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T04:38:42.000Z,2157,26,25.9,558
+8639,Donald Trump,PR,Carlton,27017,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T04:45:25.000Z,2420,73,72.6,1758
+60420,Nikki Haley,PR,Carlton,27017,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T04:45:25.000Z,2420,24,24.1,584
+8639,Donald Trump,PR,Carver,27019,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:20:49.000Z,7295,61,61.4,4482
+60420,Nikki Haley,PR,Carver,27019,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:20:49.000Z,7295,36,36.3,2650
+8639,Donald Trump,PR,Cass,27021,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:54:16.000Z,3603,80,80.2,2891
+60420,Nikki Haley,PR,Cass,27021,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:54:16.000Z,3603,17,17.5,630
+8639,Donald Trump,PR,Chippewa,27023,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:58:12.000Z,945,75,75.2,711
+60420,Nikki Haley,PR,Chippewa,27023,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:58:12.000Z,945,22,21.7,205
+8639,Donald Trump,PR,Chisago,27025,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T05:29:10.000Z,4041,79,79.2,3200
+60420,Nikki Haley,PR,Chisago,27025,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T05:29:10.000Z,4041,19,18.9,765
+8639,Donald Trump,PR,Clay,27027,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:54:42.000Z,2086,73,73.2,1527
+60420,Nikki Haley,PR,Clay,27027,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:54:42.000Z,2086,25,24.6,513
+8639,Donald Trump,PR,Clearwater,27029,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T03:58:50.000Z,820,85,85.4,700
+60420,Nikki Haley,PR,Clearwater,27029,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T03:58:50.000Z,820,14,13.5,111
+8639,Donald Trump,PR,Cook,27031,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T06:06:27.000Z,554,63,63.0,349
+60420,Nikki Haley,PR,Cook,27031,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T06:06:27.000Z,554,34,33.7,187
+8639,Donald Trump,PR,Cottonwood,27033,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:37:20.000Z,728,78,77.9,567
+60420,Nikki Haley,PR,Cottonwood,27033,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:37:20.000Z,728,20,19.8,144
+8639,Donald Trump,PR,Crow Wing,27035,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T04:44:32.000Z,5647,79,79.0,4462
+60420,Nikki Haley,PR,Crow Wing,27035,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T04:44:32.000Z,5647,19,19.0,1071
+8639,Donald Trump,PR,Dakota,27037,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:53:47.000Z,27402,64,64.4,17655
+60420,Nikki Haley,PR,Dakota,27037,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:53:47.000Z,27402,33,33.5,9171
+8639,Donald Trump,PR,Dodge,27039,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:44:09.000Z,1572,77,77.2,1214
+60420,Nikki Haley,PR,Dodge,27039,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:44:09.000Z,1572,20,20.2,317
+8639,Donald Trump,PR,Douglas,27041,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:56:32.000Z,3587,77,76.6,2749
+60420,Nikki Haley,PR,Douglas,27041,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:56:32.000Z,3587,21,21.3,765
+8639,Donald Trump,PR,Faribault,27043,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:46:53.000Z,1355,78,77.6,1052
+60420,Nikki Haley,PR,Faribault,27043,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:46:53.000Z,1355,19,19.0,258
+8639,Donald Trump,PR,Fillmore,27045,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:48:35.000Z,1695,74,74.2,1258
+60420,Nikki Haley,PR,Fillmore,27045,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:48:35.000Z,1695,24,24.0,406
+8639,Donald Trump,PR,Freeborn,27047,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:59:15.000Z,2197,79,78.8,1732
+60420,Nikki Haley,PR,Freeborn,27047,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:59:15.000Z,2197,19,19.0,417
+8639,Donald Trump,PR,Goodhue,27049,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T20:54:47.000Z,3578,70,70.3,2517
+60420,Nikki Haley,PR,Goodhue,27049,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T20:54:47.000Z,3578,28,27.6,988
+8639,Donald Trump,PR,Grant,27051,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T02:48:52.000Z,748,79,79.0,591
+60420,Nikki Haley,PR,Grant,27051,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T02:48:52.000Z,748,18,18.0,135
+8639,Donald Trump,PR,Hennepin,27053,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:53:06.000Z,50528,53,52.8,26701
+60420,Nikki Haley,PR,Hennepin,27053,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:53:06.000Z,50528,45,44.8,22613
+8639,Donald Trump,PR,Houston,27055,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T05:58:46.000Z,1363,75,74.7,1018
+60420,Nikki Haley,PR,Houston,27055,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T05:58:46.000Z,1363,23,23.1,315
+8639,Donald Trump,PR,Hubbard,27057,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:56:19.000Z,1954,81,81.2,1587
+60420,Nikki Haley,PR,Hubbard,27057,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:56:19.000Z,1954,17,16.9,331
+8639,Donald Trump,PR,Isanti,27059,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:21:02.000Z,3369,82,81.9,2761
+60420,Nikki Haley,PR,Isanti,27059,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:21:02.000Z,3369,16,16.1,541
+8639,Donald Trump,PR,Itasca,27061,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:58:52.000Z,4531,79,78.8,3569
+60420,Nikki Haley,PR,Itasca,27061,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:58:52.000Z,4531,20,19.6,889
+8639,Donald Trump,PR,Jackson,27063,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:29:17.000Z,1036,80,80.3,832
+60420,Nikki Haley,PR,Jackson,27063,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:29:17.000Z,1036,17,16.7,173
+8639,Donald Trump,PR,Kanabec,27065,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:33:14.000Z,1376,85,85.1,1171
+60420,Nikki Haley,PR,Kanabec,27065,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:33:14.000Z,1376,13,13.3,183
+8639,Donald Trump,PR,Kandiyohi,27067,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:34:43.000Z,2731,76,75.9,2074
+60420,Nikki Haley,PR,Kandiyohi,27067,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:34:43.000Z,2731,22,21.6,589
+8639,Donald Trump,PR,Kittson,27069,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T05:58:45.000Z,528,76,75.9,401
+60420,Nikki Haley,PR,Kittson,27069,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T05:58:45.000Z,528,22,21.6,114
+8639,Donald Trump,PR,Koochiching,27071,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T03:18:55.000Z,1191,81,81.3,968
+60420,Nikki Haley,PR,Koochiching,27071,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T03:18:55.000Z,1191,17,17.0,202
+8639,Donald Trump,PR,Lac Qui Parle,27073,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:38:54.000Z,717,77,77.1,553
+60420,Nikki Haley,PR,Lac Qui Parle,27073,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:38:54.000Z,717,20,20.2,145
+8639,Donald Trump,PR,Lake,27075,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:40:19.000Z,953,73,72.7,693
+60420,Nikki Haley,PR,Lake,27075,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:40:19.000Z,953,25,25.1,239
+8639,Donald Trump,PR,Lake of the Woods,27077,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:41:49.000Z,672,82,81.5,548
+60420,Nikki Haley,PR,Lake of the Woods,27077,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:41:49.000Z,672,17,16.7,112
+8639,Donald Trump,PR,Le Sueur,27079,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:43:29.000Z,2650,74,74.4,1973
+60420,Nikki Haley,PR,Le Sueur,27079,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:43:29.000Z,2650,23,22.9,606
+8639,Donald Trump,PR,Lincoln,27081,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:45:15.000Z,374,77,76.7,287
+60420,Nikki Haley,PR,Lincoln,27081,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:45:15.000Z,374,20,19.8,74
+8639,Donald Trump,PR,Lyon,27083,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:59:37.000Z,1674,76,75.6,1265
+60420,Nikki Haley,PR,Lyon,27083,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:59:37.000Z,1674,22,21.8,365
+8639,Donald Trump,PR,Mahnomen,27087,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T21:59:12.000Z,360,75,74.7,269
+60420,Nikki Haley,PR,Mahnomen,27087,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T21:59:12.000Z,360,23,23.1,83
+8639,Donald Trump,PR,Marshall,27089,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:00:40.000Z,1148,81,80.6,925
+60420,Nikki Haley,PR,Marshall,27089,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:00:40.000Z,1148,18,17.7,203
+8639,Donald Trump,PR,Martin,27091,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:02:00.000Z,1431,77,77.1,1104
+60420,Nikki Haley,PR,Martin,27091,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:02:00.000Z,1431,21,21.2,304
+8639,Donald Trump,PR,McLeod,27085,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:57:29.000Z,2324,78,78.4,1821
+60420,Nikki Haley,PR,McLeod,27085,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:57:29.000Z,2324,19,19.1,444
+8639,Donald Trump,PR,Meeker,27093,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:03:49.000Z,1891,75,75.1,1420
+60420,Nikki Haley,PR,Meeker,27093,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:03:49.000Z,1891,22,21.8,412
+8639,Donald Trump,PR,Mille Lacs,27095,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:05:33.000Z,2035,83,82.7,1683
+60420,Nikki Haley,PR,Mille Lacs,27095,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:05:33.000Z,2035,15,15.1,308
+8639,Donald Trump,PR,Morrison,27097,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:08:10.000Z,3576,83,83.0,2969
+60420,Nikki Haley,PR,Morrison,27097,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:08:10.000Z,3576,15,14.8,529
+8639,Donald Trump,PR,Mower,27099,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:55:53.000Z,2062,74,74.0,1526
+60420,Nikki Haley,PR,Mower,27099,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:55:53.000Z,2062,23,23.2,478
+8639,Donald Trump,PR,Murray,27101,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:12:12.000Z,994,77,77.3,768
+60420,Nikki Haley,PR,Murray,27101,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:12:12.000Z,994,20,19.7,196
+8639,Donald Trump,PR,Nicollet,27103,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:57:39.000Z,2362,69,69.0,1629
+60420,Nikki Haley,PR,Nicollet,27103,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:57:39.000Z,2362,29,28.7,678
+8639,Donald Trump,PR,Nobles,27105,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:15:15.000Z,1271,78,78.0,992
+60420,Nikki Haley,PR,Nobles,27105,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:15:15.000Z,1271,20,19.5,248
+8639,Donald Trump,PR,Norman,27107,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:16:43.000Z,533,74,73.7,393
+60420,Nikki Haley,PR,Norman,27107,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:16:43.000Z,533,23,23.6,126
+8639,Donald Trump,PR,Olmsted,27109,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:18:29.000Z,9444,62,62.2,5872
+60420,Nikki Haley,PR,Olmsted,27109,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:18:29.000Z,9444,35,35.3,3334
+8639,Donald Trump,PR,Otter Tail,27111,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:54:04.000Z,5032,78,78.5,3949
+60420,Nikki Haley,PR,Otter Tail,27111,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:54:04.000Z,5032,19,19.3,972
+8639,Donald Trump,PR,Pennington,27113,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:21:42.000Z,752,84,83.6,629
+60420,Nikki Haley,PR,Pennington,27113,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:21:42.000Z,752,14,14.4,108
+8639,Donald Trump,PR,Pine,27115,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:55:29.000Z,2650,82,81.8,2169
+60420,Nikki Haley,PR,Pine,27115,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:55:29.000Z,2650,16,16.3,432
+8639,Donald Trump,PR,Pipestone,27117,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:27:31.000Z,848,78,77.7,659
+60420,Nikki Haley,PR,Pipestone,27117,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:27:31.000Z,848,19,18.7,159
+8639,Donald Trump,PR,Polk,27119,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T04:32:37.000Z,2132,80,79.7,1700
+60420,Nikki Haley,PR,Polk,27119,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T04:32:37.000Z,2132,18,18.2,388
+8639,Donald Trump,PR,Pope,27121,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T03:48:50.000Z,1054,77,77.1,813
+60420,Nikki Haley,PR,Pope,27121,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T03:48:50.000Z,1054,21,20.7,218
+8639,Donald Trump,PR,Ramsey,27123,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:53:33.000Z,18559,53,53.4,9907
+60420,Nikki Haley,PR,Ramsey,27123,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:53:33.000Z,18559,44,43.7,8114
+8639,Donald Trump,PR,Red Lake,27125,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:36:00.000Z,456,78,78.3,357
+60420,Nikki Haley,PR,Red Lake,27125,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:36:00.000Z,456,20,19.5,89
+8639,Donald Trump,PR,Redwood,27127,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:55:41.000Z,1106,77,76.8,850
+60420,Nikki Haley,PR,Redwood,27127,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:55:41.000Z,1106,21,21.1,233
+8639,Donald Trump,PR,Renville,27129,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T08:50:35.000Z,902,75,75.5,681
+60420,Nikki Haley,PR,Renville,27129,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T08:50:35.000Z,902,22,21.9,198
+8639,Donald Trump,PR,Rice,27131,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:57:13.000Z,4177,72,71.5,2987
+60420,Nikki Haley,PR,Rice,27131,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:57:13.000Z,4177,26,26.2,1093
+8639,Donald Trump,PR,Rock,27133,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T03:50:12.000Z,899,80,80.2,721
+60420,Nikki Haley,PR,Rock,27133,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T03:50:12.000Z,899,17,16.6,149
+8639,Donald Trump,PR,Roseau,27135,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-07T22:44:11.000Z,1423,82,82.0,1167
+60420,Nikki Haley,PR,Roseau,27135,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-07T22:44:11.000Z,1423,16,15.8,225
+8639,Donald Trump,PR,Scott,27139,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:11:51.000Z,10439,70,69.6,7264
+60420,Nikki Haley,PR,Scott,27139,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:11:51.000Z,10439,28,28.3,2958
+8639,Donald Trump,PR,Sherburne,27141,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:56:52.000Z,6789,80,80.1,5440
+60420,Nikki Haley,PR,Sherburne,27141,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:56:52.000Z,6789,18,17.8,1206
+8639,Donald Trump,PR,Sibley,27143,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T04:27:41.000Z,1302,74,74.7,972
+60420,Nikki Haley,PR,Sibley,27143,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T04:27:41.000Z,1302,23,22.7,296
+8639,Donald Trump,PR,St. Louis,27137,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:53:21.000Z,11647,71,70.6,8219
+60420,Nikki Haley,PR,St. Louis,27137,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:53:21.000Z,11647,27,26.9,3138
+8639,Donald Trump,PR,Stearns,27145,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:15:59.000Z,9733,74,74.4,7245
+60420,Nikki Haley,PR,Stearns,27145,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:15:59.000Z,9733,23,23.5,2287
+8639,Donald Trump,PR,Steele,27147,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:57:53.000Z,2473,75,75.1,1858
+60420,Nikki Haley,PR,Steele,27147,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:57:53.000Z,2473,22,21.9,542
+8639,Donald Trump,PR,Stevens,27149,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:58:03.000Z,854,77,76.9,657
+60420,Nikki Haley,PR,Stevens,27149,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:58:03.000Z,854,21,20.7,177
+8639,Donald Trump,PR,Swift,27151,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:19:26.000Z,740,77,77.2,571
+60420,Nikki Haley,PR,Swift,27151,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:19:26.000Z,740,20,19.6,145
+8639,Donald Trump,PR,Todd,27153,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:56:05.000Z,2095,82,81.6,1709
+60420,Nikki Haley,PR,Todd,27153,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:56:05.000Z,2095,16,16.2,339
+8639,Donald Trump,PR,Traverse,27155,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T03:38:53.000Z,369,78,78.6,290
+60420,Nikki Haley,PR,Traverse,27155,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T03:38:53.000Z,369,19,18.7,69
+8639,Donald Trump,PR,Wabasha,27157,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:24:49.000Z,1829,75,74.7,1366
+60420,Nikki Haley,PR,Wabasha,27157,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:24:49.000Z,1829,23,22.7,416
+8639,Donald Trump,PR,Wadena,27159,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T20:00:03.000Z,1240,84,83.9,1041
+60420,Nikki Haley,PR,Wadena,27159,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T20:00:03.000Z,1240,14,14.4,179
+8639,Donald Trump,PR,Waseca,27161,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-04-23T19:58:26.000Z,1312,76,76.1,999
+60420,Nikki Haley,PR,Waseca,27161,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-04-23T19:58:26.000Z,1312,22,22.3,293
+8639,Donald Trump,PR,Washington,27163,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:37:03.000Z,16441,64,64.0,10518
+60420,Nikki Haley,PR,Washington,27163,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:37:03.000Z,16441,34,34.0,5598
+8639,Donald Trump,PR,Watonwan,27165,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-06T03:58:49.000Z,866,74,73.7,638
+60420,Nikki Haley,PR,Watonwan,27165,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-06T03:58:49.000Z,866,23,23.4,203
+8639,Donald Trump,PR,Wilkin,27167,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:39:48.000Z,489,78,78.3,383
+60420,Nikki Haley,PR,Wilkin,27167,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:39:48.000Z,489,19,19.0,93
+8639,Donald Trump,PR,Winona,27169,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:41:05.000Z,2944,73,73.1,2153
+60420,Nikki Haley,PR,Winona,27169,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:41:05.000Z,2944,25,24.6,724
+8639,Donald Trump,PR,Wright,27171,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:42:17.000Z,9833,76,75.6,7433
+60420,Nikki Haley,PR,Wright,27171,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:42:17.000Z,9833,22,22.3,2197
+8639,Donald Trump,PR,Yellow Medicine,27173,Donald,False,Trump,REP,Republican,100,P,Minnesota,2024-03-08T00:43:34.000Z,945,77,77.0,728
+60420,Nikki Haley,PR,Yellow Medicine,27173,Nikki,False,Haley,REP,Republican,100,P,Minnesota,2024-03-08T00:43:34.000Z,945,20,19.9,188

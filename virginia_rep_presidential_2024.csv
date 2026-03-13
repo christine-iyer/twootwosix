@@ -1,0 +1,267 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+8639,Donald Trump,PR,Accomack,51001,Donald,False,Trump,REP,Republican,85,P,Virginia,2024-06-18T17:59:29.000Z,2860,79,78.7,2250
+60420,Nikki Haley,PR,Accomack,51001,Nikki,False,Haley,REP,Republican,85,P,Virginia,2024-06-18T17:59:29.000Z,2860,20,20.1,574
+60420,Nikki Haley,PR,Albemarle,51003,Nikki,False,Haley,REP,Republican,80,P,Virginia,2024-06-18T17:45:38.000Z,9208,55,54.6,5032
+8639,Donald Trump,PR,Albemarle,51003,Donald,False,Trump,REP,Republican,80,P,Virginia,2024-06-18T17:45:38.000Z,9208,43,43.0,3963
+60420,Nikki Haley,PR,Alexandria,51510,Nikki,False,Haley,REP,Republican,91,P,Virginia,2024-05-23T20:36:46.000Z,9632,71,71.4,6873
+8639,Donald Trump,PR,Alexandria,51510,Donald,False,Trump,REP,Republican,91,P,Virginia,2024-05-23T20:36:46.000Z,9632,26,25.8,2485
+8639,Donald Trump,PR,Alleghany,51005,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-06-18T17:49:18.000Z,1335,80,80.3,1072
+60420,Nikki Haley,PR,Alleghany,51005,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-06-18T17:49:18.000Z,1335,18,18.3,244
+8639,Donald Trump,PR,Amelia,51007,Donald,False,Trump,REP,Republican,92,P,Virginia,2024-05-23T20:31:28.000Z,1581,90,90.1,1424
+60420,Nikki Haley,PR,Amelia,51007,Nikki,False,Haley,REP,Republican,92,P,Virginia,2024-05-23T20:31:28.000Z,1581,8,8.5,134
+8639,Donald Trump,PR,Amherst,51009,Donald,False,Trump,REP,Republican,76,P,Virginia,2024-06-18T17:59:58.000Z,2650,81,81.2,2152
+60420,Nikki Haley,PR,Amherst,51009,Nikki,False,Haley,REP,Republican,76,P,Virginia,2024-06-18T17:59:58.000Z,2650,16,16.5,437
+8639,Donald Trump,PR,Appomattox,51011,Donald,False,Trump,REP,Republican,86,P,Virginia,2024-06-18T17:51:22.000Z,1622,84,84.4,1369
+60420,Nikki Haley,PR,Appomattox,51011,Nikki,False,Haley,REP,Republican,86,P,Virginia,2024-06-18T17:51:22.000Z,1622,14,14.4,234
+60420,Nikki Haley,PR,Arlington,51013,Nikki,False,Haley,REP,Republican,88,P,Virginia,2024-06-18T17:44:46.000Z,15185,74,73.7,11198
+8639,Donald Trump,PR,Arlington,51013,Donald,False,Trump,REP,Republican,88,P,Virginia,2024-06-18T17:44:46.000Z,15185,24,23.8,3608
+8639,Donald Trump,PR,Augusta,51015,Donald,False,Trump,REP,Republican,86,P,Virginia,2024-06-18T17:45:50.000Z,9251,78,78.5,7259
+60420,Nikki Haley,PR,Augusta,51015,Nikki,False,Haley,REP,Republican,86,P,Virginia,2024-06-18T17:45:50.000Z,9251,20,19.8,1828
+8639,Donald Trump,PR,Bath,51017,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:52:40.000Z,612,81,80.5,493
+60420,Nikki Haley,PR,Bath,51017,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:52:40.000Z,612,18,18.1,111
+8639,Donald Trump,PR,Bedford,51019,Donald,False,Trump,REP,Republican,87,P,Virginia,2024-06-18T17:45:24.000Z,10335,76,76.1,7869
+60420,Nikki Haley,PR,Bedford,51019,Nikki,False,Haley,REP,Republican,87,P,Virginia,2024-06-18T17:45:24.000Z,10335,22,21.9,2264
+8639,Donald Trump,PR,Bland,51021,Donald,False,Trump,REP,Republican,85,P,Virginia,2024-06-18T18:00:35.000Z,707,86,86.1,609
+60420,Nikki Haley,PR,Bland,51021,Nikki,False,Haley,REP,Republican,85,P,Virginia,2024-06-18T18:00:35.000Z,707,12,12.3,87
+8639,Donald Trump,PR,Botetourt,51023,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:50:42.000Z,4756,75,75.3,3583
+60420,Nikki Haley,PR,Botetourt,51023,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:50:42.000Z,4756,23,23.2,1102
+8639,Donald Trump,PR,Bristol,51520,Donald,False,Trump,REP,Republican,62,P,Virginia,2024-06-18T18:04:21.000Z,1096,82,82.4,903
+60420,Nikki Haley,PR,Bristol,51520,Nikki,False,Haley,REP,Republican,62,P,Virginia,2024-06-18T18:04:21.000Z,1096,17,16.9,186
+8639,Donald Trump,PR,Brunswick,51025,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1096,85,85.4,936
+60420,Nikki Haley,PR,Brunswick,51025,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1096,14,13.9,152
+8639,Donald Trump,PR,Buchanan,51027,Donald,False,Trump,REP,Republican,81,P,Virginia,2024-06-18T17:47:32.000Z,1459,96,95.5,1394
+60420,Nikki Haley,PR,Buchanan,51027,Nikki,False,Haley,REP,Republican,81,P,Virginia,2024-06-18T17:47:32.000Z,1459,4,4.1,60
+8639,Donald Trump,PR,Buckingham,51029,Donald,False,Trump,REP,Republican,88,P,Virginia,2024-06-18T17:50:51.000Z,1188,84,84.3,1002
+60420,Nikki Haley,PR,Buckingham,51029,Nikki,False,Haley,REP,Republican,88,P,Virginia,2024-06-18T17:50:51.000Z,1188,14,14.0,166
+8639,Donald Trump,PR,Buena Vista,51530,Donald,False,Trump,REP,Republican,90,P,Virginia,2024-06-18T17:56:33.000Z,420,79,78.6,330
+60420,Nikki Haley,PR,Buena Vista,51530,Nikki,False,Haley,REP,Republican,90,P,Virginia,2024-06-18T17:56:33.000Z,420,20,20.0,84
+8639,Donald Trump,PR,Campbell,51031,Donald,False,Trump,REP,Republican,68,P,Virginia,2024-06-18T17:48:14.000Z,4781,83,82.7,3955
+60420,Nikki Haley,PR,Campbell,51031,Nikki,False,Haley,REP,Republican,68,P,Virginia,2024-06-18T17:48:14.000Z,4781,15,15.3,730
+8639,Donald Trump,PR,Caroline,51033,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,2545,79,78.7,2004
+60420,Nikki Haley,PR,Caroline,51033,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,2545,20,19.6,500
+8639,Donald Trump,PR,Carroll,51035,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:47:40.000Z,3762,87,86.8,3265
+60420,Nikki Haley,PR,Carroll,51035,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:47:40.000Z,3762,12,12.1,454
+8639,Donald Trump,PR,Charles City,51036,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,540,77,76.7,414
+60420,Nikki Haley,PR,Charles City,51036,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,540,22,22.4,121
+8639,Donald Trump,PR,Charlotte,51037,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,1117,85,85.4,954
+60420,Nikki Haley,PR,Charlotte,51037,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,1117,13,13.3,149
+60420,Nikki Haley,PR,Charlottesville,51540,Nikki,False,Haley,REP,Republican,74,P,Virginia,2024-06-18T17:51:59.000Z,1636,74,73.6,1204
+8639,Donald Trump,PR,Charlottesville,51540,Donald,False,Trump,REP,Republican,74,P,Virginia,2024-06-18T17:51:59.000Z,1636,24,23.8,389
+8639,Donald Trump,PR,Chesapeake,51550,Donald,False,Trump,REP,Republican,84,P,Virginia,2024-06-18T17:57:48.000Z,18964,70,70.0,13275
+60420,Nikki Haley,PR,Chesapeake,51550,Nikki,False,Haley,REP,Republican,84,P,Virginia,2024-06-18T17:57:48.000Z,18964,28,28.3,5362
+8639,Donald Trump,PR,Chesterfield,51041,Donald,False,Trump,REP,Republican,88,P,Virginia,2024-05-23T20:31:28.000Z,36910,64,63.8,23555
+60420,Nikki Haley,PR,Chesterfield,51041,Nikki,False,Haley,REP,Republican,88,P,Virginia,2024-05-23T20:31:28.000Z,36910,34,34.4,12695
+8639,Donald Trump,PR,Clarke,51043,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:52:51.000Z,1990,68,68.0,1353
+60420,Nikki Haley,PR,Clarke,51043,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:52:51.000Z,1990,30,30.1,600
+8639,Donald Trump,PR,Colonial Heights,51570,Donald,False,Trump,REP,Republican,87,P,Virginia,2024-06-18T17:55:08.000Z,1976,81,80.6,1593
+60420,Nikki Haley,PR,Colonial Heights,51570,Nikki,False,Haley,REP,Republican,87,P,Virginia,2024-06-18T17:55:08.000Z,1976,18,17.9,353
+8639,Donald Trump,PR,Covington,51580,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-05-23T20:35:07.000Z,318,81,81.4,259
+60420,Nikki Haley,PR,Covington,51580,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-05-23T20:35:07.000Z,318,16,15.7,50
+8639,Donald Trump,PR,Craig,51045,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:52:09.000Z,765,85,84.6,647
+60420,Nikki Haley,PR,Craig,51045,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:52:09.000Z,765,13,13.3,102
+8639,Donald Trump,PR,Culpeper,51047,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,5382,78,78.3,4212
+60420,Nikki Haley,PR,Culpeper,51047,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,5382,20,20.2,1085
+8639,Donald Trump,PR,Cumberland,51049,Donald,False,Trump,REP,Republican,87,P,Virginia,2024-06-18T17:54:15.000Z,947,84,84.3,798
+60420,Nikki Haley,PR,Cumberland,51049,Nikki,False,Haley,REP,Republican,87,P,Virginia,2024-06-18T17:54:15.000Z,947,14,14.3,136
+8639,Donald Trump,PR,Danville,51590,Donald,False,Trump,REP,Republican,72,P,Virginia,2024-06-18T17:59:43.000Z,1854,77,77.4,1435
+60420,Nikki Haley,PR,Danville,51590,Nikki,False,Haley,REP,Republican,72,P,Virginia,2024-06-18T17:59:43.000Z,1854,21,21.0,390
+8639,Donald Trump,PR,Dickenson,51051,Donald,False,Trump,REP,Republican,69,P,Virginia,2024-06-18T17:51:00.000Z,814,92,92.4,752
+60420,Nikki Haley,PR,Dickenson,51051,Nikki,False,Haley,REP,Republican,69,P,Virginia,2024-06-18T17:51:00.000Z,814,7,6.8,55
+8639,Donald Trump,PR,Dinwiddie,51053,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,2530,86,85.6,2166
+60420,Nikki Haley,PR,Dinwiddie,51053,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,2530,13,13.3,336
+8639,Donald Trump,PR,Emporia,51595,Donald,False,Trump,REP,Republican,81,P,Virginia,2024-06-18T18:00:57.000Z,241,82,82.2,198
+60420,Nikki Haley,PR,Emporia,51595,Nikki,False,Haley,REP,Republican,81,P,Virginia,2024-06-18T18:00:57.000Z,241,17,17.0,41
+8639,Donald Trump,PR,Essex,51057,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-06-18T17:55:25.000Z,850,81,81.3,691
+60420,Nikki Haley,PR,Essex,51057,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-06-18T17:55:25.000Z,850,18,18.2,155
+60420,Nikki Haley,PR,Fairfax City,51600,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:53:56.000Z,2261,57,56.7,1283
+8639,Donald Trump,PR,Fairfax City,51600,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:53:56.000Z,2261,40,39.6,895
+60420,Nikki Haley,PR,Fairfax County,51059,Nikki,False,Haley,REP,Republican,83,P,Virginia,2024-06-18T17:43:55.000Z,85475,57,57.3,48968
+8639,Donald Trump,PR,Fairfax County,51059,Donald,False,Trump,REP,Republican,83,P,Virginia,2024-06-18T17:43:55.000Z,85475,40,40.3,34421
+60420,Nikki Haley,PR,Falls Church,51610,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:56:01.000Z,1183,75,75.1,889
+8639,Donald Trump,PR,Falls Church,51610,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:56:01.000Z,1183,23,22.7,269
+8639,Donald Trump,PR,Fauquier,51061,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-06-18T17:46:46.000Z,9885,70,70.3,6950
+60420,Nikki Haley,PR,Fauquier,51061,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-06-18T17:46:46.000Z,9885,28,27.6,2728
+8639,Donald Trump,PR,Floyd,51063,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-05-23T20:53:23.000Z,1789,81,81.0,1449
+60420,Nikki Haley,PR,Floyd,51063,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-05-23T20:53:23.000Z,1789,18,17.6,316
+8639,Donald Trump,PR,Fluvanna,51065,Donald,False,Trump,REP,Republican,80,P,Virginia,2024-06-18T18:04:04.000Z,2286,66,65.7,1501
+60420,Nikki Haley,PR,Fluvanna,51065,Nikki,False,Haley,REP,Republican,80,P,Virginia,2024-06-18T18:04:04.000Z,2286,33,32.6,745
+8639,Donald Trump,PR,Franklin City,51620,Donald,False,Trump,REP,Republican,79,P,Virginia,2024-06-18T18:03:29.000Z,471,72,71.5,337
+60420,Nikki Haley,PR,Franklin City,51620,Nikki,False,Haley,REP,Republican,79,P,Virginia,2024-06-18T18:03:29.000Z,471,27,27.4,129
+8639,Donald Trump,PR,Franklin County,51067,Donald,False,Trump,REP,Republican,97,P,Virginia,2024-06-18T17:46:25.000Z,6213,77,77.2,4796
+60420,Nikki Haley,PR,Franklin County,51067,Nikki,False,Haley,REP,Republican,97,P,Virginia,2024-06-18T17:46:25.000Z,6213,21,21.2,1316
+8639,Donald Trump,PR,Frederick,51069,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:46:38.000Z,10276,74,73.6,7568
+60420,Nikki Haley,PR,Frederick,51069,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:46:38.000Z,10276,25,24.5,2518
+8639,Donald Trump,PR,Fredericksburg,51630,Donald,False,Trump,REP,Republican,87,P,Virginia,2024-06-18T17:55:17.000Z,1539,50,49.8,766
+60420,Nikki Haley,PR,Fredericksburg,51630,Nikki,False,Haley,REP,Republican,87,P,Virginia,2024-06-18T17:55:17.000Z,1539,47,47.5,731
+8639,Donald Trump,PR,Galax,51640,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:56:10.000Z,507,84,83.6,424
+60420,Nikki Haley,PR,Galax,51640,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:56:10.000Z,507,15,14.6,74
+8639,Donald Trump,PR,Giles,51071,Donald,False,Trump,REP,Republican,84,P,Virginia,2024-06-18T17:51:32.000Z,1455,83,83.1,1209
+60420,Nikki Haley,PR,Giles,51071,Nikki,False,Haley,REP,Republican,84,P,Virginia,2024-06-18T17:51:32.000Z,1455,16,15.7,228
+8639,Donald Trump,PR,Gloucester,51073,Donald,False,Trump,REP,Republican,92,P,Virginia,2024-06-18T17:50:10.000Z,4756,77,76.8,3653
+60420,Nikki Haley,PR,Gloucester,51073,Nikki,False,Haley,REP,Republican,92,P,Virginia,2024-06-18T17:50:10.000Z,4756,22,21.7,1034
+8639,Donald Trump,PR,Goochland,51075,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,4505,61,60.8,2740
+60420,Nikki Haley,PR,Goochland,51075,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,4505,38,37.7,1700
+8639,Donald Trump,PR,Grayson,51077,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-06-18T17:48:36.000Z,2005,88,87.7,1758
+60420,Nikki Haley,PR,Grayson,51077,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-06-18T17:48:36.000Z,2005,10,10.4,208
+8639,Donald Trump,PR,Greene,51079,Donald,False,Trump,REP,Republican,89,P,Virginia,2024-05-23T20:31:30.000Z,2049,73,72.9,1493
+60420,Nikki Haley,PR,Greene,51079,Nikki,False,Haley,REP,Republican,89,P,Virginia,2024-05-23T20:31:30.000Z,2049,25,25.3,519
+8639,Donald Trump,PR,Greensville,51081,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-05-23T20:31:30.000Z,684,88,87.6,599
+60420,Nikki Haley,PR,Greensville,51081,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-05-23T20:31:30.000Z,684,12,12.0,82
+8639,Donald Trump,PR,Halifax,51083,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,2951,88,87.6,2584
+60420,Nikki Haley,PR,Halifax,51083,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,2951,11,11.3,333
+8639,Donald Trump,PR,Hampton,51650,Donald,False,Trump,REP,Republican,78,P,Virginia,2024-06-18T17:58:45.000Z,5800,66,66.1,3833
+60420,Nikki Haley,PR,Hampton,51650,Nikki,False,Haley,REP,Republican,78,P,Virginia,2024-06-18T17:58:45.000Z,5800,32,31.6,1834
+8639,Donald Trump,PR,Hanover,51085,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:44:59.000Z,18370,69,69.2,12716
+60420,Nikki Haley,PR,Hanover,51085,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:44:59.000Z,18370,29,28.9,5317
+8639,Donald Trump,PR,Harrisonburg,51660,Donald,False,Trump,REP,Republican,50,P,Virginia,2024-06-18T17:52:30.000Z,1550,50,49.6,769
+60420,Nikki Haley,PR,Harrisonburg,51660,Nikki,False,Haley,REP,Republican,50,P,Virginia,2024-06-18T17:52:30.000Z,1550,48,48.1,746
+8639,Donald Trump,PR,Henrico,51087,Donald,False,Trump,REP,Republican,85,P,Virginia,2024-06-18T17:57:33.000Z,28409,54,53.7,15257
+60420,Nikki Haley,PR,Henrico,51087,Nikki,False,Haley,REP,Republican,85,P,Virginia,2024-06-18T17:57:33.000Z,28409,44,44.3,12573
+8639,Donald Trump,PR,Henry,51089,Donald,False,Trump,REP,Republican,92,P,Virginia,2024-05-23T20:31:28.000Z,4167,87,87.3,3637
+60420,Nikki Haley,PR,Henry,51089,Nikki,False,Haley,REP,Republican,92,P,Virginia,2024-05-23T20:31:28.000Z,4167,12,11.9,496
+8639,Donald Trump,PR,Highland,51091,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:53:19.000Z,348,79,79.0,275
+60420,Nikki Haley,PR,Highland,51091,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:53:19.000Z,348,19,19.3,67
+8639,Donald Trump,PR,Hopewell,51670,Donald,False,Trump,REP,Republican,82,P,Virginia,2024-06-18T18:01:21.000Z,1140,84,83.6,953
+60420,Nikki Haley,PR,Hopewell,51670,Nikki,False,Haley,REP,Republican,82,P,Virginia,2024-06-18T18:01:21.000Z,1140,15,15.0,171
+8639,Donald Trump,PR,Isle of Wight,51093,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,4632,74,74.4,3448
+60420,Nikki Haley,PR,Isle of Wight,51093,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,4632,24,24.2,1120
+8639,Donald Trump,PR,James City,51095,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-05-23T20:31:28.000Z,11319,53,53.4,6041
+60420,Nikki Haley,PR,James City,51095,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-05-23T20:31:28.000Z,11319,44,44.4,5025
+8639,Donald Trump,PR,King and Queen,51097,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,760,80,79.6,605
+60420,Nikki Haley,PR,King and Queen,51097,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,760,19,18.9,144
+8639,Donald Trump,PR,King George,51099,Donald,False,Trump,REP,Republican,91,P,Virginia,2024-06-18T17:54:38.000Z,2781,72,72.3,2010
+60420,Nikki Haley,PR,King George,51099,Nikki,False,Haley,REP,Republican,91,P,Virginia,2024-06-18T17:54:38.000Z,2781,25,25.4,705
+8639,Donald Trump,PR,King William,51101,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-06-18T17:53:35.000Z,2096,82,82.2,1722
+60420,Nikki Haley,PR,King William,51101,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-06-18T17:53:35.000Z,2096,17,16.7,350
+8639,Donald Trump,PR,Lancaster,51103,Donald,False,Trump,REP,Republican,97,P,Virginia,2024-05-23T20:31:30.000Z,1604,68,68.1,1092
+60420,Nikki Haley,PR,Lancaster,51103,Nikki,False,Haley,REP,Republican,97,P,Virginia,2024-05-23T20:31:30.000Z,1604,31,30.8,494
+8639,Donald Trump,PR,Lee,51105,Donald,False,Trump,REP,Republican,75,P,Virginia,2024-06-18T17:48:26.000Z,1195,92,92.4,1104
+60420,Nikki Haley,PR,Lee,51105,Nikki,False,Haley,REP,Republican,75,P,Virginia,2024-06-18T17:48:26.000Z,1195,7,7.0,84
+60420,Nikki Haley,PR,Lexington,51678,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:57:05.000Z,442,57,56.6,250
+8639,Donald Trump,PR,Lexington,51678,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:57:05.000Z,442,40,40.0,177
+8639,Donald Trump,PR,Loudoun,51107,Donald,False,Trump,REP,Republican,80,P,Virginia,2024-06-18T17:44:20.000Z,32416,52,51.6,16741
+60420,Nikki Haley,PR,Loudoun,51107,Nikki,False,Haley,REP,Republican,80,P,Virginia,2024-06-18T17:44:20.000Z,32416,46,46.0,14898
+8639,Donald Trump,PR,Louisa,51109,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,4592,76,76.4,3506
+60420,Nikki Haley,PR,Louisa,51109,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,4592,22,21.7,997
+8639,Donald Trump,PR,Lunenburg,51111,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1016,87,86.9,883
+60420,Nikki Haley,PR,Lunenburg,51111,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1016,12,11.6,118
+8639,Donald Trump,PR,Lynchburg,51680,Donald,False,Trump,REP,Republican,64,P,Virginia,2024-06-18T17:47:22.000Z,5140,65,65.2,3350
+60420,Nikki Haley,PR,Lynchburg,51680,Nikki,False,Haley,REP,Republican,64,P,Virginia,2024-06-18T17:47:22.000Z,5140,32,31.5,1621
+8639,Donald Trump,PR,Madison,51113,Donald,False,Trump,REP,Republican,96,P,Virginia,2024-06-18T17:51:41.000Z,1642,78,78.2,1284
+60420,Nikki Haley,PR,Madison,51113,Nikki,False,Haley,REP,Republican,96,P,Virginia,2024-06-18T17:51:41.000Z,1642,20,20.4,335
+8639,Donald Trump,PR,Manassas,51683,Donald,False,Trump,REP,Republican,77,P,Virginia,2024-06-18T18:03:39.000Z,2322,64,63.7,1480
+60420,Nikki Haley,PR,Manassas,51683,Nikki,False,Haley,REP,Republican,77,P,Virginia,2024-06-18T18:03:39.000Z,2322,33,33.4,776
+8639,Donald Trump,PR,Manassas Park,51685,Donald,False,Trump,REP,Republican,80,P,Virginia,2024-06-18T18:04:32.000Z,598,64,63.5,380
+60420,Nikki Haley,PR,Manassas Park,51685,Nikki,False,Haley,REP,Republican,80,P,Virginia,2024-06-18T18:04:32.000Z,598,33,33.3,199
+8639,Donald Trump,PR,Martinsville,51690,Donald,False,Trump,REP,Republican,75,P,Virginia,2024-06-18T18:03:53.000Z,594,77,77.1,458
+60420,Nikki Haley,PR,Martinsville,51690,Nikki,False,Haley,REP,Republican,75,P,Virginia,2024-06-18T18:03:53.000Z,594,20,20.2,120
+8639,Donald Trump,PR,Mathews,51115,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,1317,74,74.1,976
+60420,Nikki Haley,PR,Mathews,51115,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,1317,24,24.1,317
+8639,Donald Trump,PR,Mecklenburg,51117,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,3259,82,82.5,2688
+60420,Nikki Haley,PR,Mecklenburg,51117,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,3259,16,16.1,525
+8639,Donald Trump,PR,Middlesex,51119,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:29.000Z,1522,72,72.3,1101
+60420,Nikki Haley,PR,Middlesex,51119,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:29.000Z,1522,26,26.1,397
+8639,Donald Trump,PR,Montgomery,51121,Donald,False,Trump,REP,Republican,76,P,Virginia,2024-06-18T17:46:15.000Z,5868,61,60.8,3569
+60420,Nikki Haley,PR,Montgomery,51121,Nikki,False,Haley,REP,Republican,76,P,Virginia,2024-06-18T17:46:15.000Z,5868,37,37.0,2172
+8639,Donald Trump,PR,Nelson,51125,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1668,67,67.0,1117
+60420,Nikki Haley,PR,Nelson,51125,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1668,31,31.5,525
+8639,Donald Trump,PR,New Kent,51127,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,3410,76,75.8,2584
+60420,Nikki Haley,PR,New Kent,51127,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,3410,23,23.1,788
+8639,Donald Trump,PR,Newport News,51700,Donald,False,Trump,REP,Republican,75,P,Virginia,2024-06-18T17:58:15.000Z,8198,66,66.2,5431
+60420,Nikki Haley,PR,Newport News,51700,Nikki,False,Haley,REP,Republican,75,P,Virginia,2024-06-18T17:58:15.000Z,8198,32,31.8,2606
+8639,Donald Trump,PR,Norfolk,51710,Donald,False,Trump,REP,Republican,83,P,Virginia,2024-06-18T17:58:02.000Z,8123,56,56.1,4555
+60420,Nikki Haley,PR,Norfolk,51710,Nikki,False,Haley,REP,Republican,83,P,Virginia,2024-06-18T17:58:02.000Z,8123,42,41.7,3385
+8639,Donald Trump,PR,Northampton,51131,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:29.000Z,1112,66,65.7,731
+60420,Nikki Haley,PR,Northampton,51131,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:29.000Z,1112,33,32.6,363
+8639,Donald Trump,PR,Northumberland,51133,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1855,70,70.1,1300
+60420,Nikki Haley,PR,Northumberland,51133,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,1855,29,28.7,532
+8639,Donald Trump,PR,Norton,51720,Donald,False,Trump,REP,Republican,67,P,Virginia,2024-05-23T20:36:34.000Z,197,88,87.8,173
+60420,Nikki Haley,PR,Norton,51720,Nikki,False,Haley,REP,Republican,67,P,Virginia,2024-05-23T20:36:34.000Z,197,10,9.6,19
+8639,Donald Trump,PR,Nottoway,51135,Donald,False,Trump,REP,Republican,88,P,Virginia,2024-06-18T17:51:50.000Z,1106,85,85.4,945
+60420,Nikki Haley,PR,Nottoway,51135,Nikki,False,Haley,REP,Republican,88,P,Virginia,2024-06-18T17:51:50.000Z,1106,14,13.7,151
+8639,Donald Trump,PR,Orange,51137,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-05-23T20:31:28.000Z,4308,75,74.9,3227
+60420,Nikki Haley,PR,Orange,51137,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-05-23T20:31:28.000Z,4308,23,23.3,1002
+8639,Donald Trump,PR,Page,51139,Donald,False,Trump,REP,Republican,87,P,Virginia,2024-06-18T17:54:50.000Z,1843,86,85.6,1577
+60420,Nikki Haley,PR,Page,51139,Nikki,False,Haley,REP,Republican,87,P,Virginia,2024-06-18T17:54:50.000Z,1843,13,13.1,241
+8639,Donald Trump,PR,Patrick,51141,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:49:07.000Z,2084,87,87.0,1814
+60420,Nikki Haley,PR,Patrick,51141,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:49:07.000Z,2084,11,11.3,235
+8639,Donald Trump,PR,Petersburg,51730,Donald,False,Trump,REP,Republican,85,P,Virginia,2024-06-18T18:03:17.000Z,460,66,65.9,303
+60420,Nikki Haley,PR,Petersburg,51730,Nikki,False,Haley,REP,Republican,85,P,Virginia,2024-06-18T18:03:17.000Z,460,30,30.0,138
+8639,Donald Trump,PR,Pittsylvania,51143,Donald,False,Trump,REP,Republican,87,P,Virginia,2024-06-18T17:58:59.000Z,5899,87,87.4,5153
+60420,Nikki Haley,PR,Pittsylvania,51143,Nikki,False,Haley,REP,Republican,87,P,Virginia,2024-06-18T17:58:59.000Z,5899,11,11.4,673
+8639,Donald Trump,PR,Poquoson,51735,Donald,False,Trump,REP,Republican,84,P,Virginia,2024-06-18T17:56:24.000Z,1960,69,69.0,1352
+60420,Nikki Haley,PR,Poquoson,51735,Nikki,False,Haley,REP,Republican,84,P,Virginia,2024-06-18T17:56:24.000Z,1960,29,28.7,563
+8639,Donald Trump,PR,Portsmouth,51740,Donald,False,Trump,REP,Republican,71,P,Virginia,2024-06-18T17:58:31.000Z,3810,70,70.4,2682
+60420,Nikki Haley,PR,Portsmouth,51740,Nikki,False,Haley,REP,Republican,71,P,Virginia,2024-06-18T17:58:31.000Z,3810,27,27.4,1043
+8639,Donald Trump,PR,Powhatan,51145,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:49:30.000Z,4893,76,75.5,3696
+60420,Nikki Haley,PR,Powhatan,51145,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:49:30.000Z,4893,23,22.8,1118
+8639,Donald Trump,PR,Prince Edward,51147,Donald,False,Trump,REP,Republican,84,P,Virginia,2024-06-18T18:00:13.000Z,1351,75,75.5,1020
+60420,Nikki Haley,PR,Prince Edward,51147,Nikki,False,Haley,REP,Republican,84,P,Virginia,2024-06-18T18:00:13.000Z,1351,23,22.9,310
+8639,Donald Trump,PR,Prince George,51149,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,3314,85,84.8,2810
+60420,Nikki Haley,PR,Prince George,51149,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:28.000Z,3314,13,13.4,444
+8639,Donald Trump,PR,Prince William,51153,Donald,False,Trump,REP,Republican,86,P,Virginia,2024-06-18T17:57:25.000Z,31220,61,60.7,18937
+60420,Nikki Haley,PR,Prince William,51153,Nikki,False,Haley,REP,Republican,86,P,Virginia,2024-06-18T17:57:25.000Z,31220,37,36.6,11425
+8639,Donald Trump,PR,Pulaski,51155,Donald,False,Trump,REP,Republican,82,P,Virginia,2024-06-18T17:49:39.000Z,2689,83,82.5,2219
+60420,Nikki Haley,PR,Pulaski,51155,Nikki,False,Haley,REP,Republican,82,P,Virginia,2024-06-18T17:49:39.000Z,2689,16,16.2,436
+8639,Donald Trump,PR,Radford,51750,Donald,False,Trump,REP,Republican,64,P,Virginia,2024-06-18T17:55:40.000Z,716,65,64.9,465
+60420,Nikki Haley,PR,Radford,51750,Nikki,False,Haley,REP,Republican,64,P,Virginia,2024-06-18T17:55:40.000Z,716,33,32.5,233
+8639,Donald Trump,PR,Rappahannock,51157,Donald,False,Trump,REP,Republican,91,P,Virginia,2024-06-18T17:53:47.000Z,962,74,74.2,714
+60420,Nikki Haley,PR,Rappahannock,51157,Nikki,False,Haley,REP,Republican,91,P,Virginia,2024-06-18T17:53:47.000Z,962,24,24.0,231
+60420,Nikki Haley,PR,Richmond City,51760,Nikki,False,Haley,REP,Republican,86,P,Virginia,2024-06-18T17:44:32.000Z,9016,65,64.9,5856
+8639,Donald Trump,PR,Richmond City,51760,Donald,False,Trump,REP,Republican,86,P,Virginia,2024-06-18T17:44:32.000Z,9016,31,30.7,2768
+8639,Donald Trump,PR,Richmond County,51159,Donald,False,Trump,REP,Republican,85,P,Virginia,2024-06-18T17:54:59.000Z,550,78,78.0,429
+60420,Nikki Haley,PR,Richmond County,51159,Nikki,False,Haley,REP,Republican,85,P,Virginia,2024-06-18T17:54:59.000Z,550,20,20.2,111
+8639,Donald Trump,PR,Roanoke City,51770,Donald,False,Trump,REP,Republican,78,P,Virginia,2024-06-18T17:47:12.000Z,4595,61,61.2,2811
+60420,Nikki Haley,PR,Roanoke City,51770,Nikki,False,Haley,REP,Republican,78,P,Virginia,2024-06-18T17:47:12.000Z,4595,37,36.6,1682
+8639,Donald Trump,PR,Roanoke County,51161,Donald,False,Trump,REP,Republican,86,P,Virginia,2024-06-18T17:45:13.000Z,10988,68,68.4,7512
+60420,Nikki Haley,PR,Roanoke County,51161,Nikki,False,Haley,REP,Republican,86,P,Virginia,2024-06-18T17:45:13.000Z,10988,30,29.5,3246
+8639,Donald Trump,PR,Rockbridge,51163,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-06-18T17:47:51.000Z,2809,70,70.2,1972
+60420,Nikki Haley,PR,Rockbridge,51163,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-06-18T17:47:51.000Z,2809,28,28.1,790
+8639,Donald Trump,PR,Rockingham,51165,Donald,False,Trump,REP,Republican,83,P,Virginia,2024-06-18T17:46:04.000Z,8594,74,74.1,6370
+60420,Nikki Haley,PR,Rockingham,51165,Nikki,False,Haley,REP,Republican,83,P,Virginia,2024-06-18T17:46:04.000Z,8594,24,24.1,2075
+8639,Donald Trump,PR,Russell,51167,Donald,False,Trump,REP,Republican,83,P,Virginia,2024-06-18T17:48:46.000Z,2014,90,90.4,1820
+60420,Nikki Haley,PR,Russell,51167,Nikki,False,Haley,REP,Republican,83,P,Virginia,2024-06-18T17:48:46.000Z,2014,9,8.5,172
+8639,Donald Trump,PR,Salem,51775,Donald,False,Trump,REP,Republican,72,P,Virginia,2024-06-18T17:51:11.000Z,1995,69,68.6,1368
+60420,Nikki Haley,PR,Salem,51775,Nikki,False,Haley,REP,Republican,72,P,Virginia,2024-06-18T17:51:11.000Z,1995,29,29.5,588
+8639,Donald Trump,PR,Scott,51169,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:48:00.000Z,2323,91,90.9,2112
+60420,Nikki Haley,PR,Scott,51169,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:48:00.000Z,2323,8,8.1,189
+8639,Donald Trump,PR,Shenandoah,51171,Donald,False,Trump,REP,Republican,93,P,Virginia,2024-06-18T17:49:49.000Z,4515,77,77.4,3497
+60420,Nikki Haley,PR,Shenandoah,51171,Nikki,False,Haley,REP,Republican,93,P,Virginia,2024-06-18T17:49:49.000Z,4515,21,20.7,933
+8639,Donald Trump,PR,Smyth,51173,Donald,False,Trump,REP,Republican,76,P,Virginia,2024-06-18T17:48:54.000Z,1986,88,87.6,1739
+60420,Nikki Haley,PR,Smyth,51173,Nikki,False,Haley,REP,Republican,76,P,Virginia,2024-06-18T17:48:54.000Z,1986,11,11.2,223
+8639,Donald Trump,PR,Southampton,51175,Donald,False,Trump,REP,Republican,99,P,Virginia,2024-05-23T20:31:28.000Z,1705,86,85.6,1459
+60420,Nikki Haley,PR,Southampton,51175,Nikki,False,Haley,REP,Republican,99,P,Virginia,2024-05-23T20:31:28.000Z,1705,14,13.8,235
+8639,Donald Trump,PR,Spotsylvania,51177,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-05-23T20:31:30.000Z,13436,73,72.9,9798
+60420,Nikki Haley,PR,Spotsylvania,51177,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-05-23T20:31:30.000Z,13436,25,25.0,3365
+8639,Donald Trump,PR,Stafford,51179,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-05-23T20:31:30.000Z,15074,67,67.1,10121
+60420,Nikki Haley,PR,Stafford,51179,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-05-23T20:31:30.000Z,15074,30,30.2,4547
+8639,Donald Trump,PR,Staunton,51790,Donald,False,Trump,REP,Republican,82,P,Virginia,2024-06-18T18:04:47.000Z,2047,60,59.9,1226
+60420,Nikki Haley,PR,Staunton,51790,Nikki,False,Haley,REP,Republican,82,P,Virginia,2024-06-18T18:04:47.000Z,2047,37,37.3,764
+8639,Donald Trump,PR,Suffolk,51800,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:37:25.000Z,7395,71,71.1,5257
+60420,Nikki Haley,PR,Suffolk,51800,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:37:25.000Z,7395,27,27.1,2002
+8639,Donald Trump,PR,Surry,51181,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,681,81,80.8,550
+60420,Nikki Haley,PR,Surry,51181,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-05-23T20:31:30.000Z,681,18,17.8,121
+8639,Donald Trump,PR,Sussex,51183,Donald,False,Trump,REP,Republican,93,P,Virginia,2024-03-08T19:58:03.000Z,649,88,88.4,574
+60420,Nikki Haley,PR,Sussex,51183,Nikki,False,Haley,REP,Republican,93,P,Virginia,2024-03-08T19:58:03.000Z,649,11,11.2,73
+8639,Donald Trump,PR,Tazewell,51185,Donald,False,Trump,REP,Republican,72,P,Virginia,2024-06-18T17:47:00.000Z,3329,90,89.6,2984
+60420,Nikki Haley,PR,Tazewell,51185,Nikki,False,Haley,REP,Republican,72,P,Virginia,2024-06-18T17:47:00.000Z,3329,9,9.0,298
+8639,Donald Trump,PR,Virginia Beach,51810,Donald,False,Trump,REP,Republican,88,P,Virginia,2024-05-23T20:36:46.000Z,38335,65,65.0,24932
+60420,Nikki Haley,PR,Virginia Beach,51810,Nikki,False,Haley,REP,Republican,88,P,Virginia,2024-05-23T20:36:46.000Z,38335,33,33.2,12732
+8639,Donald Trump,PR,Warren,51187,Donald,False,Trump,REP,Republican,94,P,Virginia,2024-06-18T17:50:21.000Z,3813,80,80.2,3059
+60420,Nikki Haley,PR,Warren,51187,Nikki,False,Haley,REP,Republican,94,P,Virginia,2024-06-18T17:50:21.000Z,3813,18,17.7,675
+8639,Donald Trump,PR,Washington,51191,Donald,False,Trump,REP,Republican,73,P,Virginia,2024-06-18T17:59:17.000Z,4387,84,83.9,3682
+60420,Nikki Haley,PR,Washington,51191,Nikki,False,Haley,REP,Republican,73,P,Virginia,2024-06-18T17:59:17.000Z,4387,14,14.4,631
+8639,Donald Trump,PR,Waynesboro,51820,Donald,False,Trump,REP,Republican,83,P,Virginia,2024-06-18T17:55:50.000Z,1817,68,68.1,1237
+60420,Nikki Haley,PR,Waynesboro,51820,Nikki,False,Haley,REP,Republican,83,P,Virginia,2024-06-18T17:55:50.000Z,1817,30,29.9,543
+8639,Donald Trump,PR,Westmoreland,51193,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:52:18.000Z,1772,78,77.6,1376
+60420,Nikki Haley,PR,Westmoreland,51193,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:52:18.000Z,1772,21,21.3,377
+60420,Nikki Haley,PR,Williamsburg,51830,Nikki,False,Haley,REP,Republican,88,P,Virginia,2024-06-18T17:56:43.000Z,1061,53,53.5,568
+8639,Donald Trump,PR,Williamsburg,51830,Donald,False,Trump,REP,Republican,88,P,Virginia,2024-06-18T17:56:43.000Z,1061,44,44.1,468
+8639,Donald Trump,PR,Winchester,51840,Donald,False,Trump,REP,Republican,86,P,Virginia,2024-06-18T17:54:06.000Z,1826,58,57.7,1054
+60420,Nikki Haley,PR,Winchester,51840,Nikki,False,Haley,REP,Republican,86,P,Virginia,2024-06-18T17:54:06.000Z,1826,40,39.9,729
+8639,Donald Trump,PR,Wise,51195,Donald,False,Trump,REP,Republican,63,P,Virginia,2024-06-18T17:50:00.000Z,1814,91,91.4,1658
+60420,Nikki Haley,PR,Wise,51195,Nikki,False,Haley,REP,Republican,63,P,Virginia,2024-06-18T17:50:00.000Z,1814,8,7.8,141
+8639,Donald Trump,PR,Wythe,51197,Donald,False,Trump,REP,Republican,95,P,Virginia,2024-06-18T17:50:33.000Z,2890,87,87.1,2516
+60420,Nikki Haley,PR,Wythe,51197,Nikki,False,Haley,REP,Republican,95,P,Virginia,2024-06-18T17:50:33.000Z,2890,12,11.8,342
+8639,Donald Trump,PR,York,51199,Donald,False,Trump,REP,Republican,91,P,Virginia,2024-05-23T20:35:58.000Z,8539,61,60.7,5179
+60420,Nikki Haley,PR,York,51199,Nikki,False,Haley,REP,Republican,91,P,Virginia,2024-05-23T20:35:58.000Z,8539,37,37.3,3181

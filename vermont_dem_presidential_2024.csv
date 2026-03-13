@@ -1,0 +1,742 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Addison,95000001,Joe,True,Biden,DEM,Democratic,55,P,Vermont,2024-04-09T17:52:24.000Z,129,78,77.5,100
+20072905,Marianne Williamson,PD,Addison,95000001,Marianne,False,Williamson,DEM,Democratic,55,P,Vermont,2024-04-09T17:52:24.000Z,129,5,5.4,7
+20286,Dean Phillips,PD,Addison,95000001,Dean,False,Phillips,DEM,Democratic,55,P,Vermont,2024-04-09T17:52:24.000Z,129,3,3.1,4
+1036,Joe Biden,PD,Albany,95000002,Joe,True,Biden,DEM,Democratic,67,P,Vermont,2024-03-11T22:25:06.000Z,40,70,70.0,28
+20286,Dean Phillips,PD,Albany,95000002,Dean,False,Phillips,DEM,Democratic,67,P,Vermont,2024-03-11T22:25:06.000Z,40,2,2.5,1
+20072905,Marianne Williamson,PD,Albany,95000002,Marianne,False,Williamson,DEM,Democratic,67,P,Vermont,2024-03-11T22:25:06.000Z,40,2,2.5,1
+1036,Joe Biden,PD,Alburgh,95000003,Joe,True,Biden,DEM,Democratic,85,P,Vermont,2024-03-11T22:26:24.000Z,122,84,83.6,102
+20286,Dean Phillips,PD,Alburgh,95000003,Dean,False,Phillips,DEM,Democratic,85,P,Vermont,2024-03-11T22:26:24.000Z,122,4,4.1,5
+20072905,Marianne Williamson,PD,Alburgh,95000003,Marianne,False,Williamson,DEM,Democratic,85,P,Vermont,2024-03-11T22:26:24.000Z,122,3,3.3,4
+1036,Joe Biden,PD,Andover,95000004,Joe,True,Biden,DEM,Democratic,83,P,Vermont,2024-03-11T22:27:56.000Z,52,82,82.7,43
+20072905,Marianne Williamson,PD,Andover,95000004,Marianne,False,Williamson,DEM,Democratic,83,P,Vermont,2024-03-11T22:27:56.000Z,52,6,5.8,3
+20286,Dean Phillips,PD,Andover,95000004,Dean,False,Phillips,DEM,Democratic,83,P,Vermont,2024-03-11T22:27:56.000Z,52,2,1.9,1
+1036,Joe Biden,PD,Arlington,95000005,Joe,True,Biden,DEM,Democratic,90,P,Vermont,2024-03-11T22:30:20.000Z,243,87,87.2,212
+20072905,Marianne Williamson,PD,Arlington,95000005,Marianne,False,Williamson,DEM,Democratic,90,P,Vermont,2024-03-11T22:30:20.000Z,243,4,3.7,9
+20286,Dean Phillips,PD,Arlington,95000005,Dean,False,Phillips,DEM,Democratic,90,P,Vermont,2024-03-11T22:30:20.000Z,243,2,2.5,6
+1036,Joe Biden,PD,Athens,95000006,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:31:29.000Z,47,81,80.8,38
+20286,Dean Phillips,PD,Athens,95000006,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:31:29.000Z,47,6,6.4,3
+20072905,Marianne Williamson,PD,Athens,95000006,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:31:29.000Z,47,4,4.3,2
+1036,Joe Biden,PD,Bakersfield,95000007,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:32:42.000Z,106,77,77.4,82
+20072905,Marianne Williamson,PD,Bakersfield,95000007,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:32:42.000Z,106,11,11.3,12
+20286,Dean Phillips,PD,Bakersfield,95000007,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:32:42.000Z,106,2,1.9,2
+1036,Joe Biden,PD,Baltimore,95000008,Joe,True,Biden,DEM,Democratic,42,P,Vermont,2024-03-06T00:30:20.000Z,8,100,100.0,8
+20286,Dean Phillips,PD,Baltimore,95000008,Dean,False,Phillips,DEM,Democratic,42,P,Vermont,2024-03-06T00:30:20.000Z,8,0,0.0,0
+20072905,Marianne Williamson,PD,Baltimore,95000008,Marianne,False,Williamson,DEM,Democratic,42,P,Vermont,2024-03-06T00:30:20.000Z,8,0,0.0,0
+1036,Joe Biden,PD,Barnard,95000009,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:35:34.000Z,185,92,92.4,171
+20072905,Marianne Williamson,PD,Barnard,95000009,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:35:34.000Z,185,2,1.6,3
+20286,Dean Phillips,PD,Barnard,95000009,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:35:34.000Z,185,1,1.1,2
+1036,Joe Biden,PD,Barnet,95000010,Joe,True,Biden,DEM,Democratic,88,P,Vermont,2024-03-11T22:36:33.000Z,138,83,83.3,115
+20072905,Marianne Williamson,PD,Barnet,95000010,Marianne,False,Williamson,DEM,Democratic,88,P,Vermont,2024-03-11T22:36:33.000Z,138,4,4.3,6
+20286,Dean Phillips,PD,Barnet,95000010,Dean,False,Phillips,DEM,Democratic,88,P,Vermont,2024-03-11T22:36:33.000Z,138,3,2.9,4
+1036,Joe Biden,PD,Barre,95000011,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-11T22:37:35.000Z,631,80,79.7,503
+20072905,Marianne Williamson,PD,Barre,95000011,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-11T22:37:35.000Z,631,7,6.7,42
+20286,Dean Phillips,PD,Barre,95000011,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-11T22:37:35.000Z,631,4,4.0,25
+1036,Joe Biden,PD,Barre Town,95000012,Joe,True,Biden,DEM,Democratic,82,P,Vermont,2024-04-09T17:53:21.000Z,724,86,86.0,623
+20286,Dean Phillips,PD,Barre Town,95000012,Dean,False,Phillips,DEM,Democratic,82,P,Vermont,2024-04-09T17:53:21.000Z,724,5,4.7,34
+20072905,Marianne Williamson,PD,Barre Town,95000012,Marianne,False,Williamson,DEM,Democratic,82,P,Vermont,2024-04-09T17:53:21.000Z,724,2,2.5,18
+1036,Joe Biden,PD,Barton,95000013,Joe,True,Biden,DEM,Democratic,68,P,Vermont,2024-03-06T01:01:51.000Z,92,92,92.4,85
+20286,Dean Phillips,PD,Barton,95000013,Dean,False,Phillips,DEM,Democratic,68,P,Vermont,2024-03-06T01:01:51.000Z,92,3,3.2,3
+20072905,Marianne Williamson,PD,Barton,95000013,Marianne,False,Williamson,DEM,Democratic,68,P,Vermont,2024-03-06T01:01:51.000Z,92,1,1.1,1
+1036,Joe Biden,PD,Belvidere,95000014,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T01:42:47.000Z,19,95,94.7,18
+20072905,Marianne Williamson,PD,Belvidere,95000014,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T01:42:47.000Z,19,5,5.3,1
+20286,Dean Phillips,PD,Belvidere,95000014,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T01:42:47.000Z,19,0,0.0,0
+1036,Joe Biden,PD,Bennington,95000015,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:40:19.000Z,1277,87,86.8,1108
+20072905,Marianne Williamson,PD,Bennington,95000015,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:40:19.000Z,1277,4,4.4,56
+20286,Dean Phillips,PD,Bennington,95000015,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:40:19.000Z,1277,2,1.8,23
+1036,Joe Biden,PD,Benson,95000016,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:41:33.000Z,73,78,78.1,57
+20286,Dean Phillips,PD,Benson,95000016,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:41:33.000Z,73,7,6.8,5
+20072905,Marianne Williamson,PD,Benson,95000016,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:41:33.000Z,73,7,6.8,5
+1036,Joe Biden,PD,Berkshire,95000017,Joe,True,Biden,DEM,Democratic,90,P,Vermont,2024-03-06T01:01:49.000Z,55,85,85.5,47
+20286,Dean Phillips,PD,Berkshire,95000017,Dean,False,Phillips,DEM,Democratic,90,P,Vermont,2024-03-06T01:01:49.000Z,55,4,3.6,2
+20072905,Marianne Williamson,PD,Berkshire,95000017,Marianne,False,Williamson,DEM,Democratic,90,P,Vermont,2024-03-06T01:01:49.000Z,55,2,1.8,1
+1036,Joe Biden,PD,Berlin,95000018,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:42:48.000Z,264,88,87.9,232
+20286,Dean Phillips,PD,Berlin,95000018,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:42:48.000Z,264,3,3.0,8
+20072905,Marianne Williamson,PD,Berlin,95000018,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:42:48.000Z,264,3,3.0,8
+1036,Joe Biden,PD,Bethel,95000019,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-11T22:44:20.000Z,149,85,84.6,126
+20072905,Marianne Williamson,PD,Bethel,95000019,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-11T22:44:20.000Z,149,5,5.4,8
+20286,Dean Phillips,PD,Bethel,95000019,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-11T22:44:20.000Z,149,1,1.3,2
+1036,Joe Biden,PD,Bloomfield,95000020,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:45:29.000Z,15,53,53.3,8
+20072905,Marianne Williamson,PD,Bloomfield,95000020,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:45:29.000Z,15,13,13.3,2
+20286,Dean Phillips,PD,Bloomfield,95000020,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:45:29.000Z,15,7,6.7,1
+1036,Joe Biden,PD,Bolton,95000021,Joe,True,Biden,DEM,Democratic,91,P,Vermont,2024-03-11T22:46:41.000Z,146,88,88.4,129
+20072905,Marianne Williamson,PD,Bolton,95000021,Marianne,False,Williamson,DEM,Democratic,91,P,Vermont,2024-03-11T22:46:41.000Z,146,6,6.2,9
+20286,Dean Phillips,PD,Bolton,95000021,Dean,False,Phillips,DEM,Democratic,91,P,Vermont,2024-03-11T22:46:41.000Z,146,2,2.0,3
+1036,Joe Biden,PD,Bradford,95000022,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:47:41.000Z,251,80,79.7,200
+20072905,Marianne Williamson,PD,Bradford,95000022,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:47:41.000Z,251,4,4.4,11
+20286,Dean Phillips,PD,Bradford,95000022,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:47:41.000Z,251,4,3.6,9
+1036,Joe Biden,PD,Braintree,95000023,Joe,True,Biden,DEM,Democratic,66,P,Vermont,2024-03-06T01:42:49.000Z,69,91,91.3,63
+20286,Dean Phillips,PD,Braintree,95000023,Dean,False,Phillips,DEM,Democratic,66,P,Vermont,2024-03-06T01:42:49.000Z,69,4,4.3,3
+20072905,Marianne Williamson,PD,Braintree,95000023,Marianne,False,Williamson,DEM,Democratic,66,P,Vermont,2024-03-06T01:42:49.000Z,69,4,4.3,3
+1036,Joe Biden,PD,Brandon,95000024,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:49:05.000Z,403,88,88.1,355
+20072905,Marianne Williamson,PD,Brandon,95000024,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:49:05.000Z,403,5,5.2,21
+20286,Dean Phillips,PD,Brandon,95000024,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:49:05.000Z,403,4,4.0,16
+1036,Joe Biden,PD,Brattleboro,95000025,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:50:11.000Z,1679,84,84.4,1418
+20072905,Marianne Williamson,PD,Brattleboro,95000025,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:50:11.000Z,1679,5,4.9,82
+20286,Dean Phillips,PD,Brattleboro,95000025,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:50:11.000Z,1679,2,2.3,39
+1036,Joe Biden,PD,Bridgewater,95000026,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:51:06.000Z,130,76,76.1,99
+20072905,Marianne Williamson,PD,Bridgewater,95000026,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:51:06.000Z,130,8,7.7,10
+20286,Dean Phillips,PD,Bridgewater,95000026,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:51:06.000Z,130,1,1.5,2
+1036,Joe Biden,PD,Bridport,95000027,Joe,True,Biden,DEM,Democratic,80,P,Vermont,2024-03-11T22:52:10.000Z,89,85,85.4,76
+20072905,Marianne Williamson,PD,Bridport,95000027,Marianne,False,Williamson,DEM,Democratic,80,P,Vermont,2024-03-11T22:52:10.000Z,89,6,5.6,5
+20286,Dean Phillips,PD,Bridport,95000027,Dean,False,Phillips,DEM,Democratic,80,P,Vermont,2024-03-11T22:52:10.000Z,89,3,3.4,3
+1036,Joe Biden,PD,Brighton,95000028,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T02:34:12.000Z,90,86,85.6,77
+20072905,Marianne Williamson,PD,Brighton,95000028,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T02:34:12.000Z,90,7,6.7,6
+20286,Dean Phillips,PD,Brighton,95000028,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T02:34:12.000Z,90,3,3.3,3
+1036,Joe Biden,PD,Bristol,95000029,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-11T22:53:48.000Z,475,79,79.4,377
+20072905,Marianne Williamson,PD,Bristol,95000029,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-11T22:53:48.000Z,475,6,5.7,27
+20286,Dean Phillips,PD,Bristol,95000029,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-11T22:53:48.000Z,475,3,3.2,15
+1036,Joe Biden,PD,Brookfield,95000030,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:55:54.000Z,151,78,78.1,118
+20072905,Marianne Williamson,PD,Brookfield,95000030,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:55:54.000Z,151,7,6.6,10
+20286,Dean Phillips,PD,Brookfield,95000030,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:55:54.000Z,151,2,2.0,3
+1036,Joe Biden,PD,Brookline,95000031,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T22:57:02.000Z,54,85,85.2,46
+20286,Dean Phillips,PD,Brookline,95000031,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T22:57:02.000Z,54,2,1.8,1
+20072905,Marianne Williamson,PD,Brookline,95000031,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T22:57:02.000Z,54,2,1.8,1
+1036,Joe Biden,PD,Brownington,95000032,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-06T00:29:57.000Z,28,89,89.3,25
+20286,Dean Phillips,PD,Brownington,95000032,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-06T00:29:57.000Z,28,3,3.5,1
+20072905,Marianne Williamson,PD,Brownington,95000032,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-06T00:29:57.000Z,28,0,0.0,0
+1036,Joe Biden,PD,Brunswick,95000033,Joe,True,Biden,DEM,Democratic,69,P,Vermont,2024-03-06T04:15:54.000Z,9,89,88.9,8
+20286,Dean Phillips,PD,Brunswick,95000033,Dean,False,Phillips,DEM,Democratic,69,P,Vermont,2024-03-06T04:15:54.000Z,9,11,11.1,1
+20072905,Marianne Williamson,PD,Brunswick,95000033,Marianne,False,Williamson,DEM,Democratic,69,P,Vermont,2024-03-06T04:15:54.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Burke,95000034,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-11T22:58:33.000Z,160,84,83.7,134
+20286,Dean Phillips,PD,Burke,95000034,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-11T22:58:33.000Z,160,6,6.2,10
+20072905,Marianne Williamson,PD,Burke,95000034,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-11T22:58:33.000Z,160,2,1.9,3
+1036,Joe Biden,PD,Burlington,95000035,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-11T23:00:07.000Z,6327,72,71.7,4538
+20072905,Marianne Williamson,PD,Burlington,95000035,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-11T23:00:07.000Z,6327,9,8.7,549
+20286,Dean Phillips,PD,Burlington,95000035,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-11T23:00:07.000Z,6327,3,2.8,180
+1036,Joe Biden,PD,Cabot,95000036,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:18:50.000Z,280,81,80.7,226
+20072905,Marianne Williamson,PD,Cabot,95000036,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:18:50.000Z,280,4,3.9,11
+20286,Dean Phillips,PD,Cabot,95000036,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:18:50.000Z,280,3,2.9,8
+1036,Joe Biden,PD,Calais,95000037,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-04-09T17:53:48.000Z,206,92,92.2,190
+20072905,Marianne Williamson,PD,Calais,95000037,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-04-09T17:53:48.000Z,206,5,5.3,11
+20286,Dean Phillips,PD,Calais,95000037,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-04-09T17:53:48.000Z,206,0,0.0,0
+1036,Joe Biden,PD,Cambridge,95000038,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-12T00:22:38.000Z,334,88,88.0,294
+20072905,Marianne Williamson,PD,Cambridge,95000038,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-12T00:22:38.000Z,334,3,3.3,11
+20286,Dean Phillips,PD,Cambridge,95000038,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-12T00:22:38.000Z,334,3,3.0,10
+1036,Joe Biden,PD,Canaan,95000039,Joe,True,Biden,DEM,Democratic,64,P,Vermont,2024-03-12T00:23:57.000Z,45,82,82.2,37
+20072905,Marianne Williamson,PD,Canaan,95000039,Marianne,False,Williamson,DEM,Democratic,64,P,Vermont,2024-03-12T00:23:57.000Z,45,7,6.7,3
+20286,Dean Phillips,PD,Canaan,95000039,Dean,False,Phillips,DEM,Democratic,64,P,Vermont,2024-03-12T00:23:57.000Z,45,0,0.0,0
+1036,Joe Biden,PD,Castleton,95000040,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:29:08.000Z,282,89,89.4,252
+20286,Dean Phillips,PD,Castleton,95000040,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:29:08.000Z,282,4,3.9,11
+20072905,Marianne Williamson,PD,Castleton,95000040,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:29:08.000Z,282,2,2.1,6
+1036,Joe Biden,PD,Cavendish,95000041,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-12T00:30:09.000Z,145,79,79.3,115
+20286,Dean Phillips,PD,Cavendish,95000041,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-12T00:30:09.000Z,145,7,6.9,10
+20072905,Marianne Williamson,PD,Cavendish,95000041,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-12T00:30:09.000Z,145,5,4.8,7
+1036,Joe Biden,PD,Charleston,95000042,Joe,True,Biden,DEM,Democratic,92,P,Vermont,2024-03-12T00:31:19.000Z,54,80,79.6,43
+20072905,Marianne Williamson,PD,Charleston,95000042,Marianne,False,Williamson,DEM,Democratic,92,P,Vermont,2024-03-12T00:31:19.000Z,54,7,7.4,4
+20286,Dean Phillips,PD,Charleston,95000042,Dean,False,Phillips,DEM,Democratic,92,P,Vermont,2024-03-12T00:31:19.000Z,54,5,5.6,3
+1036,Joe Biden,PD,Charlotte,95000043,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:32:25.000Z,787,92,92.2,726
+20072905,Marianne Williamson,PD,Charlotte,95000043,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:32:25.000Z,787,3,2.9,23
+20286,Dean Phillips,PD,Charlotte,95000043,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:32:25.000Z,787,2,1.9,15
+1036,Joe Biden,PD,Chelsea,95000044,Joe,True,Biden,DEM,Democratic,73,P,Vermont,2024-04-09T17:54:17.000Z,64,81,81.2,52
+20072905,Marianne Williamson,PD,Chelsea,95000044,Marianne,False,Williamson,DEM,Democratic,73,P,Vermont,2024-04-09T17:54:17.000Z,64,8,7.8,5
+20286,Dean Phillips,PD,Chelsea,95000044,Dean,False,Phillips,DEM,Democratic,73,P,Vermont,2024-04-09T17:54:17.000Z,64,3,3.1,2
+1036,Joe Biden,PD,Chester,95000045,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:35:00.000Z,284,84,83.8,238
+20072905,Marianne Williamson,PD,Chester,95000045,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:35:00.000Z,284,6,6.0,17
+20286,Dean Phillips,PD,Chester,95000045,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:35:00.000Z,284,4,3.9,11
+1036,Joe Biden,PD,Chittenden,95000046,Joe,True,Biden,DEM,Democratic,77,P,Vermont,2024-03-12T00:35:58.000Z,112,91,91.1,102
+20286,Dean Phillips,PD,Chittenden,95000046,Dean,False,Phillips,DEM,Democratic,77,P,Vermont,2024-03-12T00:35:58.000Z,112,1,0.9,1
+20072905,Marianne Williamson,PD,Chittenden,95000046,Marianne,False,Williamson,DEM,Democratic,77,P,Vermont,2024-03-12T00:35:58.000Z,112,1,0.9,1
+1036,Joe Biden,PD,Clarendon,95000047,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:37:30.000Z,149,89,89.3,133
+20286,Dean Phillips,PD,Clarendon,95000047,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:37:30.000Z,149,2,2.0,3
+20072905,Marianne Williamson,PD,Clarendon,95000047,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:37:30.000Z,149,1,1.3,2
+1036,Joe Biden,PD,Colchester,95000048,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:39:26.000Z,1572,87,86.9,1366
+20286,Dean Phillips,PD,Colchester,95000048,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:39:26.000Z,1572,3,3.1,49
+20072905,Marianne Williamson,PD,Colchester,95000048,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:39:26.000Z,1572,3,2.8,44
+1036,Joe Biden,PD,Concord,95000049,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:43:02.000Z,58,74,74.1,43
+20072905,Marianne Williamson,PD,Concord,95000049,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:43:02.000Z,58,7,6.9,4
+20286,Dean Phillips,PD,Concord,95000049,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:43:02.000Z,58,5,5.2,3
+1036,Joe Biden,PD,Corinth,95000050,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:43:57.000Z,129,84,83.7,108
+20072905,Marianne Williamson,PD,Corinth,95000050,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:43:57.000Z,129,6,6.2,8
+20286,Dean Phillips,PD,Corinth,95000050,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:43:57.000Z,129,1,1.5,2
+1036,Joe Biden,PD,Cornwall,95000051,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:47:25.000Z,193,89,88.6,171
+20286,Dean Phillips,PD,Cornwall,95000051,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:47:25.000Z,193,4,3.6,7
+20072905,Marianne Williamson,PD,Cornwall,95000051,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:47:25.000Z,193,4,3.6,7
+1036,Joe Biden,PD,Coventry,95000052,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-12T00:50:24.000Z,52,79,78.8,41
+20286,Dean Phillips,PD,Coventry,95000052,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-12T00:50:24.000Z,52,7,7.7,4
+20072905,Marianne Williamson,PD,Coventry,95000052,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-12T00:50:24.000Z,52,6,5.8,3
+1036,Joe Biden,PD,Craftsbury,95000053,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:51:21.000Z,151,83,83.4,126
+20072905,Marianne Williamson,PD,Craftsbury,95000053,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:51:21.000Z,151,7,6.6,10
+20286,Dean Phillips,PD,Craftsbury,95000053,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:51:21.000Z,151,1,1.3,2
+1036,Joe Biden,PD,Danby,95000054,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:52:41.000Z,72,82,81.9,59
+20286,Dean Phillips,PD,Danby,95000054,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:52:41.000Z,72,4,4.2,3
+20072905,Marianne Williamson,PD,Danby,95000054,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:52:41.000Z,72,4,4.2,3
+1036,Joe Biden,PD,Danville,95000055,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-12T00:55:52.000Z,208,90,90.4,188
+20286,Dean Phillips,PD,Danville,95000055,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-12T00:55:52.000Z,208,4,3.8,8
+20072905,Marianne Williamson,PD,Danville,95000055,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-12T00:55:52.000Z,208,3,2.9,6
+1036,Joe Biden,PD,Derby,95000056,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-12T00:56:49.000Z,260,86,86.5,225
+20072905,Marianne Williamson,PD,Derby,95000056,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-12T00:56:49.000Z,260,3,3.4,9
+20286,Dean Phillips,PD,Derby,95000056,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-12T00:56:49.000Z,260,3,2.7,7
+1036,Joe Biden,PD,Dorset,95000057,Joe,True,Biden,DEM,Democratic,74,P,Vermont,2024-03-12T00:57:58.000Z,199,94,94.5,188
+20286,Dean Phillips,PD,Dorset,95000057,Dean,False,Phillips,DEM,Democratic,74,P,Vermont,2024-03-12T00:57:58.000Z,199,1,1.0,2
+20072905,Marianne Williamson,PD,Dorset,95000057,Marianne,False,Williamson,DEM,Democratic,74,P,Vermont,2024-03-12T00:57:58.000Z,199,1,1.0,2
+1036,Joe Biden,PD,Dover,95000058,Joe,True,Biden,DEM,Democratic,65,P,Vermont,2024-03-06T00:56:50.000Z,94,87,87.2,82
+20286,Dean Phillips,PD,Dover,95000058,Dean,False,Phillips,DEM,Democratic,65,P,Vermont,2024-03-06T00:56:50.000Z,94,4,4.3,4
+20072905,Marianne Williamson,PD,Dover,95000058,Marianne,False,Williamson,DEM,Democratic,65,P,Vermont,2024-03-06T00:56:50.000Z,94,4,4.3,4
+1036,Joe Biden,PD,Dummerston,95000059,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-12T00:59:58.000Z,332,87,86.7,288
+20072905,Marianne Williamson,PD,Dummerston,95000059,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-12T00:59:58.000Z,332,3,3.3,11
+20286,Dean Phillips,PD,Dummerston,95000059,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-12T00:59:58.000Z,332,3,3.0,10
+1036,Joe Biden,PD,Duxbury,95000060,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-12T01:00:48.000Z,204,84,83.8,171
+20286,Dean Phillips,PD,Duxbury,95000060,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-12T01:00:48.000Z,204,5,4.9,10
+20072905,Marianne Williamson,PD,Duxbury,95000060,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-12T01:00:48.000Z,204,5,4.9,10
+1036,Joe Biden,PD,East Haven,95000061,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:16:26.000Z,26,73,73.1,19
+20286,Dean Phillips,PD,East Haven,95000061,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:16:26.000Z,26,4,3.8,1
+20072905,Marianne Williamson,PD,East Haven,95000061,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:16:26.000Z,26,4,3.8,1
+1036,Joe Biden,PD,East Montpelier,95000062,Joe,True,Biden,DEM,Democratic,62,P,Vermont,2024-03-15T00:06:33.000Z,234,85,85.0,199
+20072905,Marianne Williamson,PD,East Montpelier,95000062,Marianne,False,Williamson,DEM,Democratic,62,P,Vermont,2024-03-15T00:06:33.000Z,234,5,5.1,12
+20286,Dean Phillips,PD,East Montpelier,95000062,Dean,False,Phillips,DEM,Democratic,62,P,Vermont,2024-03-15T00:06:33.000Z,234,1,0.8,2
+1036,Joe Biden,PD,Eden,95000063,Joe,True,Biden,DEM,Democratic,72,P,Vermont,2024-03-15T00:06:34.000Z,43,81,81.4,35
+20072905,Marianne Williamson,PD,Eden,95000063,Marianne,False,Williamson,DEM,Democratic,72,P,Vermont,2024-03-15T00:06:34.000Z,43,5,4.6,2
+20286,Dean Phillips,PD,Eden,95000063,Dean,False,Phillips,DEM,Democratic,72,P,Vermont,2024-03-15T00:06:34.000Z,43,2,2.3,1
+1036,Joe Biden,PD,Elmore,95000064,Joe,True,Biden,DEM,Democratic,58,P,Vermont,2024-03-15T00:06:36.000Z,76,88,88.2,67
+20072905,Marianne Williamson,PD,Elmore,95000064,Marianne,False,Williamson,DEM,Democratic,58,P,Vermont,2024-03-15T00:06:36.000Z,76,5,5.3,4
+20286,Dean Phillips,PD,Elmore,95000064,Dean,False,Phillips,DEM,Democratic,58,P,Vermont,2024-03-15T00:06:36.000Z,76,0,0.0,0
+1036,Joe Biden,PD,Enosburgh,95000065,Joe,True,Biden,DEM,Democratic,83,P,Vermont,2024-03-06T01:43:53.000Z,101,81,81.2,82
+20072905,Marianne Williamson,PD,Enosburgh,95000065,Marianne,False,Williamson,DEM,Democratic,83,P,Vermont,2024-03-06T01:43:53.000Z,101,9,8.9,9
+20286,Dean Phillips,PD,Enosburgh,95000065,Dean,False,Phillips,DEM,Democratic,83,P,Vermont,2024-03-06T01:43:53.000Z,101,4,3.9,4
+1036,Joe Biden,PD,Essex,95000066,Joe,True,Biden,DEM,Democratic,65,P,Vermont,2024-06-18T17:36:12.000Z,895,88,88.5,792
+20286,Dean Phillips,PD,Essex,95000066,Dean,False,Phillips,DEM,Democratic,65,P,Vermont,2024-06-18T17:36:12.000Z,895,3,2.6,23
+20072905,Marianne Williamson,PD,Essex,95000066,Marianne,False,Williamson,DEM,Democratic,65,P,Vermont,2024-06-18T17:36:12.000Z,895,2,2.2,20
+1036,Joe Biden,PD,Essex Junction,95000247,Joe,True,Biden,DEM,Democratic,59,P,Vermont,2024-06-18T17:37:09.000Z,697,86,86.1,600
+20072905,Marianne Williamson,PD,Essex Junction,95000247,Marianne,False,Williamson,DEM,Democratic,59,P,Vermont,2024-06-18T17:37:09.000Z,697,5,5.0,35
+20286,Dean Phillips,PD,Essex Junction,95000247,Dean,False,Phillips,DEM,Democratic,59,P,Vermont,2024-06-18T17:37:09.000Z,697,4,3.9,27
+1036,Joe Biden,PD,Fair Haven,95000069,Joe,True,Biden,DEM,Democratic,74,P,Vermont,2024-03-06T01:48:47.000Z,145,86,86.2,125
+20072905,Marianne Williamson,PD,Fair Haven,95000069,Marianne,False,Williamson,DEM,Democratic,74,P,Vermont,2024-03-06T01:48:47.000Z,145,3,3.4,5
+20286,Dean Phillips,PD,Fair Haven,95000069,Dean,False,Phillips,DEM,Democratic,74,P,Vermont,2024-03-06T01:48:47.000Z,145,3,2.8,4
+1036,Joe Biden,PD,Fairfax,95000067,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:16:42.000Z,488,81,80.7,394
+20072905,Marianne Williamson,PD,Fairfax,95000067,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:16:42.000Z,488,5,5.1,25
+20286,Dean Phillips,PD,Fairfax,95000067,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:16:42.000Z,488,5,4.7,23
+1036,Joe Biden,PD,Fairfield,95000068,Joe,True,Biden,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:42.000Z,120,77,77.5,93
+20072905,Marianne Williamson,PD,Fairfield,95000068,Marianne,False,Williamson,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:42.000Z,120,7,7.5,9
+20286,Dean Phillips,PD,Fairfield,95000068,Dean,False,Phillips,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:42.000Z,120,4,4.2,5
+1036,Joe Biden,PD,Fairlee,95000070,Joe,True,Biden,DEM,Democratic,78,P,Vermont,2024-03-06T00:37:26.000Z,91,87,86.8,79
+20286,Dean Phillips,PD,Fairlee,95000070,Dean,False,Phillips,DEM,Democratic,78,P,Vermont,2024-03-06T00:37:26.000Z,91,5,5.5,5
+20072905,Marianne Williamson,PD,Fairlee,95000070,Marianne,False,Williamson,DEM,Democratic,78,P,Vermont,2024-03-06T00:37:26.000Z,91,4,4.4,4
+1036,Joe Biden,PD,Fayston,95000071,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:37.000Z,186,91,90.9,169
+20072905,Marianne Williamson,PD,Fayston,95000071,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:37.000Z,186,5,4.8,9
+20286,Dean Phillips,PD,Fayston,95000071,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:37.000Z,186,2,2.1,4
+1036,Joe Biden,PD,Ferrisburg,95000072,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:17:42.000Z,371,82,82.2,305
+20072905,Marianne Williamson,PD,Ferrisburg,95000072,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:17:42.000Z,371,5,4.8,18
+20286,Dean Phillips,PD,Ferrisburg,95000072,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:17:42.000Z,371,2,2.2,8
+1036,Joe Biden,PD,Fletcher,95000073,Joe,True,Biden,DEM,Democratic,71,P,Vermont,2024-03-15T00:45:34.000Z,74,88,87.8,65
+20286,Dean Phillips,PD,Fletcher,95000073,Dean,False,Phillips,DEM,Democratic,71,P,Vermont,2024-03-15T00:45:34.000Z,74,2,2.7,2
+20072905,Marianne Williamson,PD,Fletcher,95000073,Marianne,False,Williamson,DEM,Democratic,71,P,Vermont,2024-03-15T00:45:34.000Z,74,2,2.7,2
+1036,Joe Biden,PD,Franklin,95000074,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:17:50.000Z,79,77,77.2,61
+20286,Dean Phillips,PD,Franklin,95000074,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:17:50.000Z,79,8,7.6,6
+20072905,Marianne Williamson,PD,Franklin,95000074,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:17:50.000Z,79,5,5.1,4
+1036,Joe Biden,PD,Georgia,95000075,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,289,83,83.0,240
+20072905,Marianne Williamson,PD,Georgia,95000075,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,289,6,5.9,17
+20286,Dean Phillips,PD,Georgia,95000075,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,289,4,4.2,12
+1036,Joe Biden,PD,Glover,95000076,Joe,True,Biden,DEM,Democratic,77,P,Vermont,2024-03-15T00:06:33.000Z,65,86,86.2,56
+20072905,Marianne Williamson,PD,Glover,95000076,Marianne,False,Williamson,DEM,Democratic,77,P,Vermont,2024-03-15T00:06:33.000Z,65,3,3.1,2
+20286,Dean Phillips,PD,Glover,95000076,Dean,False,Phillips,DEM,Democratic,77,P,Vermont,2024-03-15T00:06:33.000Z,65,1,1.5,1
+1036,Joe Biden,PD,Goshen,95000077,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T04:33:49.000Z,41,90,90.2,37
+20286,Dean Phillips,PD,Goshen,95000077,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T04:33:49.000Z,41,0,0.0,0
+20072905,Marianne Williamson,PD,Goshen,95000077,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T04:33:49.000Z,41,0,0.0,0
+1036,Joe Biden,PD,Grafton,95000078,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:09.000Z,86,90,89.5,77
+20072905,Marianne Williamson,PD,Grafton,95000078,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:09.000Z,86,6,5.8,5
+20286,Dean Phillips,PD,Grafton,95000078,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:09.000Z,86,1,1.2,1
+1036,Joe Biden,PD,Granby,95000079,Joe,True,Biden,DEM,Democratic,67,P,Vermont,2024-03-06T02:08:48.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Granby,95000079,Dean,False,Phillips,DEM,Democratic,67,P,Vermont,2024-03-06T02:08:48.000Z,2,0,0.0,0
+20072905,Marianne Williamson,PD,Granby,95000079,Marianne,False,Williamson,DEM,Democratic,67,P,Vermont,2024-03-06T02:08:48.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Grand Isle,95000080,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-15T00:18:36.000Z,223,88,88.3,197
+20286,Dean Phillips,PD,Grand Isle,95000080,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-15T00:18:36.000Z,223,3,3.6,8
+20072905,Marianne Williamson,PD,Grand Isle,95000080,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-15T00:18:36.000Z,223,3,3.6,8
+1036,Joe Biden,PD,Granville,95000081,Joe,True,Biden,DEM,Democratic,78,P,Vermont,2024-03-15T00:06:33.000Z,32,75,75.0,24
+20072905,Marianne Williamson,PD,Granville,95000081,Marianne,False,Williamson,DEM,Democratic,78,P,Vermont,2024-03-15T00:06:33.000Z,32,9,9.4,3
+20286,Dean Phillips,PD,Granville,95000081,Dean,False,Phillips,DEM,Democratic,78,P,Vermont,2024-03-15T00:06:33.000Z,32,6,6.2,2
+1036,Joe Biden,PD,Greensboro,95000082,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:25.000Z,123,91,91.1,112
+20072905,Marianne Williamson,PD,Greensboro,95000082,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:25.000Z,123,3,3.3,4
+20286,Dean Phillips,PD,Greensboro,95000082,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:25.000Z,123,2,2.4,3
+1036,Joe Biden,PD,Groton,95000083,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,55,80,80.0,44
+20072905,Marianne Williamson,PD,Groton,95000083,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,55,7,7.3,4
+20286,Dean Phillips,PD,Groton,95000083,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,55,3,3.6,2
+1036,Joe Biden,PD,Guildhall,95000084,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:36.000Z,21,86,85.7,18
+20286,Dean Phillips,PD,Guildhall,95000084,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:36.000Z,21,5,4.8,1
+20072905,Marianne Williamson,PD,Guildhall,95000084,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:36.000Z,21,0,0.0,0
+1036,Joe Biden,PD,Guilford,95000085,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:32.000Z,343,89,89.2,306
+20072905,Marianne Williamson,PD,Guilford,95000085,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:32.000Z,343,4,3.8,13
+20286,Dean Phillips,PD,Guilford,95000085,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:32.000Z,343,3,2.9,10
+1036,Joe Biden,PD,Halifax,95000086,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:50.000Z,91,84,83.5,76
+20072905,Marianne Williamson,PD,Halifax,95000086,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:50.000Z,91,5,5.5,5
+20286,Dean Phillips,PD,Halifax,95000086,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:18:50.000Z,91,1,1.1,1
+1036,Joe Biden,PD,Hancock,95000087,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:39.000Z,31,81,80.6,25
+20286,Dean Phillips,PD,Hancock,95000087,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:39.000Z,31,10,9.7,3
+20072905,Marianne Williamson,PD,Hancock,95000087,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:39.000Z,31,3,3.2,1
+1036,Joe Biden,PD,Hardwick,95000088,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:51.000Z,279,79,78.9,220
+20072905,Marianne Williamson,PD,Hardwick,95000088,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:51.000Z,279,8,7.9,22
+20286,Dean Phillips,PD,Hardwick,95000088,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:19:51.000Z,279,3,3.6,10
+1036,Joe Biden,PD,Hartford,95000089,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-04-09T18:01:14.000Z,1331,88,87.8,1169
+20072905,Marianne Williamson,PD,Hartford,95000089,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-04-09T18:01:14.000Z,1331,4,3.8,51
+20286,Dean Phillips,PD,Hartford,95000089,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-04-09T18:01:14.000Z,1331,4,3.8,50
+1036,Joe Biden,PD,Hartland,95000090,Joe,True,Biden,DEM,Democratic,91,P,Vermont,2024-04-09T18:01:52.000Z,358,89,88.8,318
+20286,Dean Phillips,PD,Hartland,95000090,Dean,False,Phillips,DEM,Democratic,91,P,Vermont,2024-04-09T18:01:52.000Z,358,3,3.4,12
+20072905,Marianne Williamson,PD,Hartland,95000090,Marianne,False,Williamson,DEM,Democratic,91,P,Vermont,2024-04-09T18:01:52.000Z,358,2,2.0,7
+1036,Joe Biden,PD,Highgate,95000091,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:46:30.000Z,141,74,73.8,104
+20286,Dean Phillips,PD,Highgate,95000091,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:46:30.000Z,141,10,9.9,14
+20072905,Marianne Williamson,PD,Highgate,95000091,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:46:30.000Z,141,6,6.4,9
+1036,Joe Biden,PD,Hinesburg,95000092,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-15T00:20:53.000Z,728,87,86.7,631
+20286,Dean Phillips,PD,Hinesburg,95000092,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-15T00:20:53.000Z,728,3,3.0,22
+20072905,Marianne Williamson,PD,Hinesburg,95000092,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-15T00:20:53.000Z,728,3,2.9,21
+1036,Joe Biden,PD,Holland,95000093,Joe,True,Biden,DEM,Democratic,64,P,Vermont,2024-03-06T01:13:01.000Z,18,89,88.9,16
+20286,Dean Phillips,PD,Holland,95000093,Dean,False,Phillips,DEM,Democratic,64,P,Vermont,2024-03-06T01:13:01.000Z,18,11,11.1,2
+20072905,Marianne Williamson,PD,Holland,95000093,Marianne,False,Williamson,DEM,Democratic,64,P,Vermont,2024-03-06T01:13:01.000Z,18,0,0.0,0
+1036,Joe Biden,PD,Hubbardton,95000094,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T01:43:50.000Z,70,94,94.3,66
+20286,Dean Phillips,PD,Hubbardton,95000094,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T01:43:50.000Z,70,3,2.9,2
+20072905,Marianne Williamson,PD,Hubbardton,95000094,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T01:43:50.000Z,70,0,0.0,0
+1036,Joe Biden,PD,Huntington,95000095,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-15T00:06:38.000Z,293,85,85.3,250
+20286,Dean Phillips,PD,Huntington,95000095,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-15T00:06:38.000Z,293,5,5.1,15
+20072905,Marianne Williamson,PD,Huntington,95000095,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-15T00:06:38.000Z,293,4,4.4,13
+1036,Joe Biden,PD,Hyde Park,95000096,Joe,True,Biden,DEM,Democratic,99,P,Vermont,2024-03-15T00:06:36.000Z,236,89,89.0,210
+20286,Dean Phillips,PD,Hyde Park,95000096,Dean,False,Phillips,DEM,Democratic,99,P,Vermont,2024-03-15T00:06:36.000Z,236,3,2.9,7
+20072905,Marianne Williamson,PD,Hyde Park,95000096,Marianne,False,Williamson,DEM,Democratic,99,P,Vermont,2024-03-15T00:06:36.000Z,236,3,2.9,7
+1036,Joe Biden,PD,Ira,95000097,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T00:51:22.000Z,31,100,100.0,31
+20286,Dean Phillips,PD,Ira,95000097,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T00:51:22.000Z,31,0,0.0,0
+20072905,Marianne Williamson,PD,Ira,95000097,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T00:51:22.000Z,31,0,0.0,0
+1036,Joe Biden,PD,Irasburg,95000098,Joe,True,Biden,DEM,Democratic,61,P,Vermont,2024-03-15T00:06:33.000Z,31,87,87.1,27
+20072905,Marianne Williamson,PD,Irasburg,95000098,Marianne,False,Williamson,DEM,Democratic,61,P,Vermont,2024-03-15T00:06:33.000Z,31,6,6.5,2
+20286,Dean Phillips,PD,Irasburg,95000098,Dean,False,Phillips,DEM,Democratic,61,P,Vermont,2024-03-15T00:06:33.000Z,31,3,3.2,1
+1036,Joe Biden,PD,Isle La Motte,95000099,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T01:19:23.000Z,66,83,83.3,55
+20286,Dean Phillips,PD,Isle La Motte,95000099,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T01:19:23.000Z,66,8,7.6,5
+20072905,Marianne Williamson,PD,Isle La Motte,95000099,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T01:19:23.000Z,66,6,6.1,4
+1036,Joe Biden,PD,Jamaica,95000100,Joe,True,Biden,DEM,Democratic,70,P,Vermont,2024-03-15T00:06:33.000Z,65,77,76.9,50
+20286,Dean Phillips,PD,Jamaica,95000100,Dean,False,Phillips,DEM,Democratic,70,P,Vermont,2024-03-15T00:06:33.000Z,65,11,10.8,7
+20072905,Marianne Williamson,PD,Jamaica,95000100,Marianne,False,Williamson,DEM,Democratic,70,P,Vermont,2024-03-15T00:06:33.000Z,65,6,6.2,4
+1036,Joe Biden,PD,Jay,95000101,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:01.000Z,29,76,75.9,22
+20286,Dean Phillips,PD,Jay,95000101,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:01.000Z,29,14,13.8,4
+20072905,Marianne Williamson,PD,Jay,95000101,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:01.000Z,29,0,0.0,0
+1036,Joe Biden,PD,Jericho,95000102,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:10.000Z,728,91,90.9,662
+20286,Dean Phillips,PD,Jericho,95000102,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:10.000Z,728,3,2.7,20
+20072905,Marianne Williamson,PD,Jericho,95000102,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:10.000Z,728,2,2.2,16
+1036,Joe Biden,PD,Johnson,95000103,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:38.000Z,200,82,82.5,165
+20072905,Marianne Williamson,PD,Johnson,95000103,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:38.000Z,200,8,8.5,17
+20286,Dean Phillips,PD,Johnson,95000103,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:38.000Z,200,2,2.5,5
+1036,Joe Biden,PD,Killington,95000182,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:57.000Z,210,90,89.5,188
+20072905,Marianne Williamson,PD,Killington,95000182,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:57.000Z,210,5,4.8,10
+20286,Dean Phillips,PD,Killington,95000182,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:57.000Z,210,0,0.5,1
+1036,Joe Biden,PD,Kirby,95000104,Joe,True,Biden,DEM,Democratic,73,P,Vermont,2024-03-06T01:13:05.000Z,36,97,97.2,35
+20286,Dean Phillips,PD,Kirby,95000104,Dean,False,Phillips,DEM,Democratic,73,P,Vermont,2024-03-06T01:13:05.000Z,36,0,0.0,0
+20072905,Marianne Williamson,PD,Kirby,95000104,Marianne,False,Williamson,DEM,Democratic,73,P,Vermont,2024-03-06T01:13:05.000Z,36,0,0.0,0
+1036,Joe Biden,PD,Landgrove,95000105,Joe,True,Biden,DEM,Democratic,63,P,Vermont,2024-03-15T00:06:33.000Z,19,84,84.2,16
+20286,Dean Phillips,PD,Landgrove,95000105,Dean,False,Phillips,DEM,Democratic,63,P,Vermont,2024-03-15T00:06:33.000Z,19,0,0.0,0
+20072905,Marianne Williamson,PD,Landgrove,95000105,Marianne,False,Williamson,DEM,Democratic,63,P,Vermont,2024-03-15T00:06:33.000Z,19,0,0.0,0
+1036,Joe Biden,PD,Leicester,95000106,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:17.000Z,74,88,87.8,65
+20072905,Marianne Williamson,PD,Leicester,95000106,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:17.000Z,74,4,4.1,3
+20286,Dean Phillips,PD,Leicester,95000106,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:17.000Z,74,0,0.0,0
+1036,Joe Biden,PD,Lemington,95000107,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T02:54:39.000Z,9,89,88.9,8
+20072905,Marianne Williamson,PD,Lemington,95000107,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T02:54:39.000Z,9,11,11.1,1
+20286,Dean Phillips,PD,Lemington,95000107,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T02:54:39.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Lincoln,95000108,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:17.000Z,263,87,86.7,228
+20072905,Marianne Williamson,PD,Lincoln,95000108,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:17.000Z,263,4,3.8,10
+20286,Dean Phillips,PD,Lincoln,95000108,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:17.000Z,263,2,2.3,6
+1036,Joe Biden,PD,Londonderry,95000109,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:24.000Z,167,84,83.8,140
+20286,Dean Phillips,PD,Londonderry,95000109,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:24.000Z,167,5,4.8,8
+20072905,Marianne Williamson,PD,Londonderry,95000109,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:24.000Z,167,3,3.6,6
+1036,Joe Biden,PD,Lowell,95000110,Joe,True,Biden,DEM,Democratic,59,P,Vermont,2024-03-15T00:06:33.000Z,22,91,90.9,20
+20072905,Marianne Williamson,PD,Lowell,95000110,Marianne,False,Williamson,DEM,Democratic,59,P,Vermont,2024-03-15T00:06:33.000Z,22,4,4.5,1
+20286,Dean Phillips,PD,Lowell,95000110,Dean,False,Phillips,DEM,Democratic,59,P,Vermont,2024-03-15T00:06:33.000Z,22,0,0.0,0
+1036,Joe Biden,PD,Ludlow,95000111,Joe,True,Biden,DEM,Democratic,94,P,Vermont,2024-03-15T00:21:45.000Z,185,83,83.2,154
+20286,Dean Phillips,PD,Ludlow,95000111,Dean,False,Phillips,DEM,Democratic,94,P,Vermont,2024-03-15T00:21:45.000Z,185,6,6.5,12
+20072905,Marianne Williamson,PD,Ludlow,95000111,Marianne,False,Williamson,DEM,Democratic,94,P,Vermont,2024-03-15T00:21:45.000Z,185,5,4.9,9
+1036,Joe Biden,PD,Lunenburg,95000112,Joe,True,Biden,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:36.000Z,46,76,76.1,35
+20072905,Marianne Williamson,PD,Lunenburg,95000112,Marianne,False,Williamson,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:36.000Z,46,13,13.0,6
+20286,Dean Phillips,PD,Lunenburg,95000112,Dean,False,Phillips,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:36.000Z,46,2,2.2,1
+1036,Joe Biden,PD,Lyndon,95000113,Joe,True,Biden,DEM,Democratic,85,P,Vermont,2024-03-15T00:06:43.000Z,208,80,80.3,167
+20072905,Marianne Williamson,PD,Lyndon,95000113,Marianne,False,Williamson,DEM,Democratic,85,P,Vermont,2024-03-15T00:06:43.000Z,208,7,6.7,14
+20286,Dean Phillips,PD,Lyndon,95000113,Dean,False,Phillips,DEM,Democratic,85,P,Vermont,2024-03-15T00:06:43.000Z,208,4,4.3,9
+1036,Joe Biden,PD,Maidstone,95000114,Joe,True,Biden,DEM,Democratic,48,P,Vermont,2024-03-06T01:07:29.000Z,11,100,100.0,11
+20286,Dean Phillips,PD,Maidstone,95000114,Dean,False,Phillips,DEM,Democratic,48,P,Vermont,2024-03-06T01:07:29.000Z,11,0,0.0,0
+20072905,Marianne Williamson,PD,Maidstone,95000114,Marianne,False,Williamson,DEM,Democratic,48,P,Vermont,2024-03-06T01:07:29.000Z,11,0,0.0,0
+1036,Joe Biden,PD,Manchester,95000115,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:53.000Z,659,91,90.9,599
+20072905,Marianne Williamson,PD,Manchester,95000115,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:53.000Z,659,4,4.4,29
+20286,Dean Phillips,PD,Manchester,95000115,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:21:53.000Z,659,1,1.2,8
+1036,Joe Biden,PD,Marlboro,95000116,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:33.000Z,153,85,85.6,131
+20286,Dean Phillips,PD,Marlboro,95000116,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:33.000Z,153,4,3.9,6
+20072905,Marianne Williamson,PD,Marlboro,95000116,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:33.000Z,153,2,2.0,3
+1036,Joe Biden,PD,Marshfield,95000117,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:00.000Z,172,87,86.6,149
+20072905,Marianne Williamson,PD,Marshfield,95000117,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:00.000Z,172,3,3.5,6
+20286,Dean Phillips,PD,Marshfield,95000117,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:00.000Z,172,1,1.1,2
+1036,Joe Biden,PD,Mendon,95000118,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:07.000Z,123,91,91.1,112
+20072905,Marianne Williamson,PD,Mendon,95000118,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:07.000Z,123,4,4.1,5
+20286,Dean Phillips,PD,Mendon,95000118,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:07.000Z,123,0,0.0,0
+1036,Joe Biden,PD,Middlebury,95000119,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-04-09T18:02:56.000Z,1000,92,92.4,924
+20072905,Marianne Williamson,PD,Middlebury,95000119,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-04-09T18:02:56.000Z,1000,3,2.7,27
+20286,Dean Phillips,PD,Middlebury,95000119,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-04-09T18:02:56.000Z,1000,2,1.6,16
+1036,Joe Biden,PD,Middlesex,95000120,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:17.000Z,307,86,85.7,263
+20072905,Marianne Williamson,PD,Middlesex,95000120,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:17.000Z,307,4,3.9,12
+20286,Dean Phillips,PD,Middlesex,95000120,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:17.000Z,307,2,2.3,7
+1036,Joe Biden,PD,Middletown Springs,95000121,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:28.000Z,134,83,82.8,111
+20286,Dean Phillips,PD,Middletown Springs,95000121,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:28.000Z,134,3,3.0,4
+20072905,Marianne Williamson,PD,Middletown Springs,95000121,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:22:28.000Z,134,2,2.2,3
+1036,Joe Biden,PD,Milton,95000122,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:10.000Z,944,84,84.0,793
+20072905,Marianne Williamson,PD,Milton,95000122,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:10.000Z,944,4,4.4,42
+20286,Dean Phillips,PD,Milton,95000122,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:10.000Z,944,3,3.3,31
+1036,Joe Biden,PD,Monkton,95000123,Joe,True,Biden,DEM,Democratic,79,P,Vermont,2024-03-15T00:06:37.000Z,238,84,84.0,200
+20286,Dean Phillips,PD,Monkton,95000123,Dean,False,Phillips,DEM,Democratic,79,P,Vermont,2024-03-15T00:06:37.000Z,238,4,4.2,10
+20072905,Marianne Williamson,PD,Monkton,95000123,Marianne,False,Williamson,DEM,Democratic,79,P,Vermont,2024-03-15T00:06:37.000Z,238,3,3.4,8
+1036,Joe Biden,PD,Montgomery,95000124,Joe,True,Biden,DEM,Democratic,80,P,Vermont,2024-03-15T00:06:40.000Z,88,89,88.6,78
+20072905,Marianne Williamson,PD,Montgomery,95000124,Marianne,False,Williamson,DEM,Democratic,80,P,Vermont,2024-03-15T00:06:40.000Z,88,2,2.3,2
+20286,Dean Phillips,PD,Montgomery,95000124,Dean,False,Phillips,DEM,Democratic,80,P,Vermont,2024-03-15T00:06:40.000Z,88,1,1.1,1
+1036,Joe Biden,PD,Montpelier,95000125,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:24.000Z,2028,83,83.3,1689
+20072905,Marianne Williamson,PD,Montpelier,95000125,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:24.000Z,2028,4,3.7,76
+20286,Dean Phillips,PD,Montpelier,95000125,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:24.000Z,2028,2,1.8,37
+1036,Joe Biden,PD,Moretown,95000126,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:40.000Z,261,90,89.6,234
+20072905,Marianne Williamson,PD,Moretown,95000126,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:40.000Z,261,4,4.2,11
+20286,Dean Phillips,PD,Moretown,95000126,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:40.000Z,261,3,3.1,8
+1036,Joe Biden,PD,Morgan,95000127,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T00:39:51.000Z,30,93,93.3,28
+20286,Dean Phillips,PD,Morgan,95000127,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T00:39:51.000Z,30,3,3.3,1
+20072905,Marianne Williamson,PD,Morgan,95000127,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T00:39:51.000Z,30,0,0.0,0
+1036,Joe Biden,PD,Morristown,95000128,Joe,True,Biden,DEM,Democratic,59,P,Vermont,2024-03-15T00:06:38.000Z,326,82,82.5,269
+20072905,Marianne Williamson,PD,Morristown,95000128,Marianne,False,Williamson,DEM,Democratic,59,P,Vermont,2024-03-15T00:06:38.000Z,326,6,5.8,19
+20286,Dean Phillips,PD,Morristown,95000128,Dean,False,Phillips,DEM,Democratic,59,P,Vermont,2024-03-15T00:06:38.000Z,326,5,4.6,15
+1036,Joe Biden,PD,Mount Holly,95000129,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:49.000Z,176,86,86.4,152
+20072905,Marianne Williamson,PD,Mount Holly,95000129,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:49.000Z,176,6,5.7,10
+20286,Dean Phillips,PD,Mount Holly,95000129,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:49.000Z,176,1,1.1,2
+1036,Joe Biden,PD,Mount Tabor,95000130,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T02:59:43.000Z,16,75,75.0,12
+20286,Dean Phillips,PD,Mount Tabor,95000130,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T02:59:43.000Z,16,12,12.5,2
+20072905,Marianne Williamson,PD,Mount Tabor,95000130,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T02:59:43.000Z,16,6,6.2,1
+1036,Joe Biden,PD,New Haven,95000134,Joe,True,Biden,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:33.000Z,195,84,83.6,163
+20286,Dean Phillips,PD,New Haven,95000134,Dean,False,Phillips,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:33.000Z,195,6,6.2,12
+20072905,Marianne Williamson,PD,New Haven,95000134,Marianne,False,Williamson,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:33.000Z,195,2,2.6,5
+1036,Joe Biden,PD,Newark,95000131,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:57.000Z,53,79,79.2,42
+20072905,Marianne Williamson,PD,Newark,95000131,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:57.000Z,53,6,5.7,3
+20286,Dean Phillips,PD,Newark,95000131,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:29:57.000Z,53,2,1.9,1
+1036,Joe Biden,PD,Newbury,95000132,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:04.000Z,202,86,86.1,174
+20286,Dean Phillips,PD,Newbury,95000132,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:04.000Z,202,4,4.4,9
+20072905,Marianne Williamson,PD,Newbury,95000132,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:04.000Z,202,4,4.0,8
+1036,Joe Biden,PD,Newfane,95000133,Joe,True,Biden,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:37.000Z,175,87,86.8,152
+20072905,Marianne Williamson,PD,Newfane,95000133,Marianne,False,Williamson,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:37.000Z,175,4,4.0,7
+20286,Dean Phillips,PD,Newfane,95000133,Dean,False,Phillips,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:37.000Z,175,2,2.3,4
+1036,Joe Biden,PD,Newport,95000135,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:15.000Z,323,83,83.0,268
+20286,Dean Phillips,PD,Newport,95000135,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:15.000Z,323,5,5.3,17
+20072905,Marianne Williamson,PD,Newport,95000135,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:15.000Z,323,3,3.4,11
+1036,Joe Biden,PD,Newport Town,95000136,Joe,True,Biden,DEM,Democratic,73,P,Vermont,2024-03-15T00:06:38.000Z,48,79,79.2,38
+20286,Dean Phillips,PD,Newport Town,95000136,Dean,False,Phillips,DEM,Democratic,73,P,Vermont,2024-03-15T00:06:38.000Z,48,6,6.2,3
+20072905,Marianne Williamson,PD,Newport Town,95000136,Marianne,False,Williamson,DEM,Democratic,73,P,Vermont,2024-03-15T00:06:38.000Z,48,4,4.2,2
+1036,Joe Biden,PD,North Hero,95000138,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:36.000Z,186,92,91.9,171
+20286,Dean Phillips,PD,North Hero,95000138,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:36.000Z,186,3,2.7,5
+20072905,Marianne Williamson,PD,North Hero,95000138,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:36.000Z,186,3,2.7,5
+1036,Joe Biden,PD,Northfield,95000137,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-04-09T18:03:29.000Z,375,84,84.3,316
+20286,Dean Phillips,PD,Northfield,95000137,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-04-09T18:03:29.000Z,375,3,3.5,13
+20072905,Marianne Williamson,PD,Northfield,95000137,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-04-09T18:03:29.000Z,375,3,3.5,13
+1036,Joe Biden,PD,Norton,95000139,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-04-09T18:03:49.000Z,9,89,88.9,8
+20286,Dean Phillips,PD,Norton,95000139,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-04-09T18:03:49.000Z,9,0,0.0,0
+20072905,Marianne Williamson,PD,Norton,95000139,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-04-09T18:03:49.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Norwich,95000140,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:53.000Z,941,91,91.1,857
+20286,Dean Phillips,PD,Norwich,95000140,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:53.000Z,941,2,2.4,23
+20072905,Marianne Williamson,PD,Norwich,95000140,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:53.000Z,941,1,1.4,13
+1036,Joe Biden,PD,Orange,95000141,Joe,True,Biden,DEM,Democratic,79,P,Vermont,2024-03-06T05:06:50.000Z,34,85,85.3,29
+20286,Dean Phillips,PD,Orange,95000141,Dean,False,Phillips,DEM,Democratic,79,P,Vermont,2024-03-06T05:06:50.000Z,34,15,14.7,5
+20072905,Marianne Williamson,PD,Orange,95000141,Marianne,False,Williamson,DEM,Democratic,79,P,Vermont,2024-03-06T05:06:50.000Z,34,0,0.0,0
+1036,Joe Biden,PD,Orwell,95000142,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:58.000Z,107,88,87.9,94
+20286,Dean Phillips,PD,Orwell,95000142,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:58.000Z,107,4,3.7,4
+20072905,Marianne Williamson,PD,Orwell,95000142,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:30:58.000Z,107,2,1.9,2
+1036,Joe Biden,PD,Panton,95000143,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:03.000Z,96,85,85.4,82
+20286,Dean Phillips,PD,Panton,95000143,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:03.000Z,96,5,5.2,5
+20072905,Marianne Williamson,PD,Panton,95000143,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:03.000Z,96,3,3.1,3
+1036,Joe Biden,PD,Pawlet,95000144,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:10.000Z,150,89,88.7,133
+20072905,Marianne Williamson,PD,Pawlet,95000144,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:10.000Z,150,5,4.7,7
+20286,Dean Phillips,PD,Pawlet,95000144,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:10.000Z,150,1,1.3,2
+1036,Joe Biden,PD,Peacham,95000145,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:21.000Z,95,87,87.4,83
+20286,Dean Phillips,PD,Peacham,95000145,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:21.000Z,95,3,3.1,3
+20072905,Marianne Williamson,PD,Peacham,95000145,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:21.000Z,95,1,1.1,1
+1036,Joe Biden,PD,Peru,95000146,Joe,True,Biden,DEM,Democratic,68,P,Vermont,2024-03-15T00:06:38.000Z,36,92,91.7,33
+20286,Dean Phillips,PD,Peru,95000146,Dean,False,Phillips,DEM,Democratic,68,P,Vermont,2024-03-15T00:06:38.000Z,36,3,2.8,1
+20072905,Marianne Williamson,PD,Peru,95000146,Marianne,False,Williamson,DEM,Democratic,68,P,Vermont,2024-03-15T00:06:38.000Z,36,0,0.0,0
+1036,Joe Biden,PD,Pittsfield,95000147,Joe,True,Biden,DEM,Democratic,44,P,Vermont,2024-03-15T00:06:33.000Z,23,87,87.0,20
+20072905,Marianne Williamson,PD,Pittsfield,95000147,Marianne,False,Williamson,DEM,Democratic,44,P,Vermont,2024-03-15T00:06:33.000Z,23,4,4.3,1
+20286,Dean Phillips,PD,Pittsfield,95000147,Dean,False,Phillips,DEM,Democratic,44,P,Vermont,2024-03-15T00:06:33.000Z,23,0,0.0,0
+1036,Joe Biden,PD,Pittsford,95000148,Joe,True,Biden,DEM,Democratic,91,P,Vermont,2024-03-15T00:06:36.000Z,214,84,83.6,179
+20072905,Marianne Williamson,PD,Pittsford,95000148,Marianne,False,Williamson,DEM,Democratic,91,P,Vermont,2024-03-15T00:06:36.000Z,214,6,6.5,14
+20286,Dean Phillips,PD,Pittsford,95000148,Dean,False,Phillips,DEM,Democratic,91,P,Vermont,2024-03-15T00:06:36.000Z,214,2,1.9,4
+1036,Joe Biden,PD,Plainfield,95000149,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:30.000Z,234,75,75.2,176
+20072905,Marianne Williamson,PD,Plainfield,95000149,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:30.000Z,234,4,4.3,10
+20286,Dean Phillips,PD,Plainfield,95000149,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:30.000Z,234,2,1.7,4
+1036,Joe Biden,PD,Plymouth,95000150,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:38.000Z,89,84,84.3,75
+20072905,Marianne Williamson,PD,Plymouth,95000150,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:38.000Z,89,6,5.6,5
+20286,Dean Phillips,PD,Plymouth,95000150,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:38.000Z,89,4,4.5,4
+1036,Joe Biden,PD,Pomfret,95000151,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:52.000Z,215,93,92.6,199
+20286,Dean Phillips,PD,Pomfret,95000151,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:52.000Z,215,3,3.2,7
+20072905,Marianne Williamson,PD,Pomfret,95000151,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:31:52.000Z,215,2,2.3,5
+1036,Joe Biden,PD,Poultney,95000152,Joe,True,Biden,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:34.000Z,213,84,84.0,179
+20072905,Marianne Williamson,PD,Poultney,95000152,Marianne,False,Williamson,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:34.000Z,213,6,5.6,12
+20286,Dean Phillips,PD,Poultney,95000152,Dean,False,Phillips,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:34.000Z,213,3,3.3,7
+1036,Joe Biden,PD,Pownal,95000153,Joe,True,Biden,DEM,Democratic,81,P,Vermont,2024-03-15T00:06:36.000Z,193,83,83.4,161
+20072905,Marianne Williamson,PD,Pownal,95000153,Marianne,False,Williamson,DEM,Democratic,81,P,Vermont,2024-03-15T00:06:36.000Z,193,5,5.2,10
+20286,Dean Phillips,PD,Pownal,95000153,Dean,False,Phillips,DEM,Democratic,81,P,Vermont,2024-03-15T00:06:36.000Z,193,4,4.1,8
+1036,Joe Biden,PD,Proctor,95000154,Joe,True,Biden,DEM,Democratic,66,P,Vermont,2024-03-15T00:06:38.000Z,93,86,86.0,80
+20286,Dean Phillips,PD,Proctor,95000154,Dean,False,Phillips,DEM,Democratic,66,P,Vermont,2024-03-15T00:06:38.000Z,93,4,4.3,4
+20072905,Marianne Williamson,PD,Proctor,95000154,Marianne,False,Williamson,DEM,Democratic,66,P,Vermont,2024-03-15T00:06:38.000Z,93,4,4.3,4
+1036,Joe Biden,PD,Putney,95000155,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:11.000Z,397,86,85.6,340
+20072905,Marianne Williamson,PD,Putney,95000155,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:11.000Z,397,5,4.8,19
+20286,Dean Phillips,PD,Putney,95000155,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:11.000Z,397,2,2.3,9
+1036,Joe Biden,PD,Randolph,95000156,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:17.000Z,469,87,87.4,410
+20072905,Marianne Williamson,PD,Randolph,95000156,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:17.000Z,469,4,4.0,19
+20286,Dean Phillips,PD,Randolph,95000156,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:17.000Z,469,3,2.8,13
+1036,Joe Biden,PD,Reading,95000157,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:25.000Z,133,92,92.5,123
+20286,Dean Phillips,PD,Reading,95000157,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:25.000Z,133,4,3.8,5
+20072905,Marianne Williamson,PD,Reading,95000157,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:25.000Z,133,1,1.5,2
+1036,Joe Biden,PD,Readsboro,95000158,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:38.000Z,69,91,91.3,63
+20072905,Marianne Williamson,PD,Readsboro,95000158,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:38.000Z,69,3,2.9,2
+20286,Dean Phillips,PD,Readsboro,95000158,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:32:38.000Z,69,0,0.0,0
+1036,Joe Biden,PD,Richford,95000159,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:38.000Z,106,80,80.2,85
+20072905,Marianne Williamson,PD,Richford,95000159,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:38.000Z,106,4,3.8,4
+20286,Dean Phillips,PD,Richford,95000159,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:38.000Z,106,2,1.9,2
+1036,Joe Biden,PD,Richmond,95000160,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:12.000Z,802,86,86.3,692
+20072905,Marianne Williamson,PD,Richmond,95000160,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:12.000Z,802,4,3.7,30
+20286,Dean Phillips,PD,Richmond,95000160,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:12.000Z,802,3,3.5,28
+1036,Joe Biden,PD,Ripton,95000161,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:18.000Z,138,88,88.4,122
+20072905,Marianne Williamson,PD,Ripton,95000161,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:18.000Z,138,4,3.6,5
+20286,Dean Phillips,PD,Ripton,95000161,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:18.000Z,138,1,1.4,2
+1036,Joe Biden,PD,Rochester,95000162,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:28.000Z,154,94,94.2,145
+20072905,Marianne Williamson,PD,Rochester,95000162,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:28.000Z,154,2,1.9,3
+20286,Dean Phillips,PD,Rochester,95000162,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:28.000Z,154,0,0.0,0
+1036,Joe Biden,PD,Rockingham,95000163,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:41.000Z,451,81,81.4,367
+20072905,Marianne Williamson,PD,Rockingham,95000163,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:41.000Z,451,5,5.3,24
+20286,Dean Phillips,PD,Rockingham,95000163,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:06:41.000Z,451,2,2.0,9
+1036,Joe Biden,PD,Roxbury,95000164,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:34.000Z,120,85,85.0,102
+20072905,Marianne Williamson,PD,Roxbury,95000164,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:34.000Z,120,4,4.2,5
+20286,Dean Phillips,PD,Roxbury,95000164,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:34.000Z,120,2,2.5,3
+1036,Joe Biden,PD,Royalton,95000165,Joe,True,Biden,DEM,Democratic,74,P,Vermont,2024-04-09T18:04:14.000Z,194,84,84.0,163
+20072905,Marianne Williamson,PD,Royalton,95000165,Marianne,False,Williamson,DEM,Democratic,74,P,Vermont,2024-04-09T18:04:14.000Z,194,6,5.7,11
+20286,Dean Phillips,PD,Royalton,95000165,Dean,False,Phillips,DEM,Democratic,74,P,Vermont,2024-04-09T18:04:14.000Z,194,2,2.1,4
+1036,Joe Biden,PD,Rupert,95000166,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:47.000Z,87,82,81.6,71
+20072905,Marianne Williamson,PD,Rupert,95000166,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:47.000Z,87,5,4.6,4
+20286,Dean Phillips,PD,Rupert,95000166,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:33:47.000Z,87,2,2.3,2
+1036,Joe Biden,PD,Rutland,95000167,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-04-09T18:04:39.000Z,1349,85,85.3,1151
+20072905,Marianne Williamson,PD,Rutland,95000167,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-04-09T18:04:39.000Z,1349,4,3.9,52
+20286,Dean Phillips,PD,Rutland,95000167,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-04-09T18:04:39.000Z,1349,3,2.9,39
+1036,Joe Biden,PD,Rutland Town,95000168,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-06T02:13:55.000Z,359,90,90.0,323
+20072905,Marianne Williamson,PD,Rutland Town,95000168,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-06T02:13:55.000Z,359,5,4.7,17
+20286,Dean Phillips,PD,Rutland Town,95000168,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-06T02:13:55.000Z,359,2,1.9,7
+1036,Joe Biden,PD,Ryegate,95000169,Joe,True,Biden,DEM,Democratic,66,P,Vermont,2024-03-06T00:51:22.000Z,60,85,85.0,51
+20072905,Marianne Williamson,PD,Ryegate,95000169,Marianne,False,Williamson,DEM,Democratic,66,P,Vermont,2024-03-06T00:51:22.000Z,60,8,8.3,5
+20286,Dean Phillips,PD,Ryegate,95000169,Dean,False,Phillips,DEM,Democratic,66,P,Vermont,2024-03-06T00:51:22.000Z,60,3,3.3,2
+1036,Joe Biden,PD,Salisbury,95000174,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:36.000Z,115,87,87.0,100
+20072905,Marianne Williamson,PD,Salisbury,95000174,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:36.000Z,115,2,1.7,2
+20286,Dean Phillips,PD,Salisbury,95000174,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:36.000Z,115,1,0.9,1
+1036,Joe Biden,PD,Sandgate,95000175,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T01:34:38.000Z,42,90,90.5,38
+20286,Dean Phillips,PD,Sandgate,95000175,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T01:34:38.000Z,42,2,2.4,1
+20072905,Marianne Williamson,PD,Sandgate,95000175,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T01:34:38.000Z,42,0,0.0,0
+1036,Joe Biden,PD,Searsburg,95000176,Joe,True,Biden,DEM,Democratic,75,P,Vermont,2024-03-06T01:19:21.000Z,6,83,83.3,5
+20286,Dean Phillips,PD,Searsburg,95000176,Dean,False,Phillips,DEM,Democratic,75,P,Vermont,2024-03-06T01:19:21.000Z,6,0,0.0,0
+20072905,Marianne Williamson,PD,Searsburg,95000176,Marianne,False,Williamson,DEM,Democratic,75,P,Vermont,2024-03-06T01:19:21.000Z,6,0,0.0,0
+1036,Joe Biden,PD,Shaftsbury,95000177,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:44.000Z,467,89,89.1,416
+20072905,Marianne Williamson,PD,Shaftsbury,95000177,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:44.000Z,467,3,3.4,16
+20286,Dean Phillips,PD,Shaftsbury,95000177,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:44.000Z,467,2,2.3,11
+1036,Joe Biden,PD,Sharon,95000178,Joe,True,Biden,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:34.000Z,126,88,88.1,111
+20286,Dean Phillips,PD,Sharon,95000178,Dean,False,Phillips,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:34.000Z,126,4,3.9,5
+20072905,Marianne Williamson,PD,Sharon,95000178,Marianne,False,Williamson,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:34.000Z,126,3,3.2,4
+1036,Joe Biden,PD,Sheffield,95000179,Joe,True,Biden,DEM,Democratic,82,P,Vermont,2024-03-06T00:39:52.000Z,27,81,81.5,22
+20286,Dean Phillips,PD,Sheffield,95000179,Dean,False,Phillips,DEM,Democratic,82,P,Vermont,2024-03-06T00:39:52.000Z,27,7,7.4,2
+20072905,Marianne Williamson,PD,Sheffield,95000179,Marianne,False,Williamson,DEM,Democratic,82,P,Vermont,2024-03-06T00:39:52.000Z,27,0,0.0,0
+1036,Joe Biden,PD,Shelburne,95000180,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:51.000Z,1511,94,93.5,1413
+20286,Dean Phillips,PD,Shelburne,95000180,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:51.000Z,1511,2,1.8,27
+20072905,Marianne Williamson,PD,Shelburne,95000180,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:35:51.000Z,1511,2,1.6,24
+1036,Joe Biden,PD,Sheldon,95000181,Joe,True,Biden,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:36.000Z,71,77,77.5,55
+20072905,Marianne Williamson,PD,Sheldon,95000181,Marianne,False,Williamson,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:36.000Z,71,7,7.0,5
+20286,Dean Phillips,PD,Sheldon,95000181,Dean,False,Phillips,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:36.000Z,71,3,2.8,2
+1036,Joe Biden,PD,Shoreham,95000183,Joe,True,Biden,DEM,Democratic,76,P,Vermont,2024-03-15T00:06:36.000Z,103,83,83.5,86
+20286,Dean Phillips,PD,Shoreham,95000183,Dean,False,Phillips,DEM,Democratic,76,P,Vermont,2024-03-15T00:06:36.000Z,103,4,3.9,4
+20072905,Marianne Williamson,PD,Shoreham,95000183,Marianne,False,Williamson,DEM,Democratic,76,P,Vermont,2024-03-15T00:06:36.000Z,103,4,3.9,4
+1036,Joe Biden,PD,Shrewsbury,95000184,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:03.000Z,137,85,84.7,116
+20072905,Marianne Williamson,PD,Shrewsbury,95000184,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:03.000Z,137,5,5.1,7
+20286,Dean Phillips,PD,Shrewsbury,95000184,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:03.000Z,137,2,2.2,3
+1036,Joe Biden,PD,South Burlington,95000185,Joe,True,Biden,DEM,Democratic,92,P,Vermont,2024-03-15T00:06:33.000Z,2813,88,87.9,2474
+20072905,Marianne Williamson,PD,South Burlington,95000185,Marianne,False,Williamson,DEM,Democratic,92,P,Vermont,2024-03-15T00:06:33.000Z,2813,2,2.6,72
+20286,Dean Phillips,PD,South Burlington,95000185,Dean,False,Phillips,DEM,Democratic,92,P,Vermont,2024-03-15T00:06:33.000Z,2813,2,2.4,67
+1036,Joe Biden,PD,South Hero,95000186,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:08.000Z,359,89,88.6,318
+20286,Dean Phillips,PD,South Hero,95000186,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:08.000Z,359,4,4.5,16
+20072905,Marianne Williamson,PD,South Hero,95000186,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:08.000Z,359,1,0.8,3
+1036,Joe Biden,PD,Springfield,95000187,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-06-18T17:36:33.000Z,719,86,86.0,618
+20072905,Marianne Williamson,PD,Springfield,95000187,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-06-18T17:36:33.000Z,719,3,3.3,24
+20286,Dean Phillips,PD,Springfield,95000187,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-06-18T17:36:33.000Z,719,3,3.1,22
+1036,Joe Biden,PD,St. Albans,95000170,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:00.000Z,461,85,85.5,394
+20072905,Marianne Williamson,PD,St. Albans,95000170,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:00.000Z,461,5,5.0,23
+20286,Dean Phillips,PD,St. Albans,95000170,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:00.000Z,461,3,3.2,15
+1036,Joe Biden,PD,St. Albans Town,95000171,Joe,True,Biden,DEM,Democratic,91,P,Vermont,2024-06-18T17:36:23.000Z,463,85,85.5,396
+20072905,Marianne Williamson,PD,St. Albans Town,95000171,Marianne,False,Williamson,DEM,Democratic,91,P,Vermont,2024-06-18T17:36:23.000Z,463,5,4.5,21
+20286,Dean Phillips,PD,St. Albans Town,95000171,Dean,False,Phillips,DEM,Democratic,91,P,Vermont,2024-06-18T17:36:23.000Z,463,3,3.0,14
+1036,Joe Biden,PD,St. George,95000172,Joe,True,Biden,DEM,Democratic,80,P,Vermont,2024-03-15T00:06:38.000Z,60,85,85.0,51
+20286,Dean Phillips,PD,St. George,95000172,Dean,False,Phillips,DEM,Democratic,80,P,Vermont,2024-03-15T00:06:38.000Z,60,5,5.0,3
+20072905,Marianne Williamson,PD,St. George,95000172,Marianne,False,Williamson,DEM,Democratic,80,P,Vermont,2024-03-15T00:06:38.000Z,60,2,1.7,1
+1036,Joe Biden,PD,St. Johnsbury,95000173,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:52.000Z,535,85,84.7,453
+20072905,Marianne Williamson,PD,St. Johnsbury,95000173,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:52.000Z,535,5,5.0,27
+20286,Dean Phillips,PD,St. Johnsbury,95000173,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:34:52.000Z,535,3,3.2,17
+1036,Joe Biden,PD,Stamford,95000188,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:34.000Z,113,89,89.4,101
+20072905,Marianne Williamson,PD,Stamford,95000188,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:34.000Z,113,6,6.2,7
+20286,Dean Phillips,PD,Stamford,95000188,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:34.000Z,113,2,1.7,2
+1036,Joe Biden,PD,Stannard,95000189,Joe,True,Biden,DEM,Democratic,72,P,Vermont,2024-03-15T00:06:33.000Z,13,77,76.9,10
+20286,Dean Phillips,PD,Stannard,95000189,Dean,False,Phillips,DEM,Democratic,72,P,Vermont,2024-03-15T00:06:33.000Z,13,7,7.7,1
+20072905,Marianne Williamson,PD,Stannard,95000189,Marianne,False,Williamson,DEM,Democratic,72,P,Vermont,2024-03-15T00:06:33.000Z,13,7,7.7,1
+1036,Joe Biden,PD,Starksboro,95000190,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:47.000Z,189,88,87.8,166
+20286,Dean Phillips,PD,Starksboro,95000190,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:47.000Z,189,2,1.6,3
+20072905,Marianne Williamson,PD,Starksboro,95000190,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:47.000Z,189,2,1.6,3
+1036,Joe Biden,PD,Stockbridge,95000191,Joe,True,Biden,DEM,Democratic,56,P,Vermont,2024-03-15T00:06:37.000Z,40,82,82.5,33
+20286,Dean Phillips,PD,Stockbridge,95000191,Dean,False,Phillips,DEM,Democratic,56,P,Vermont,2024-03-15T00:06:37.000Z,40,5,5.0,2
+20072905,Marianne Williamson,PD,Stockbridge,95000191,Marianne,False,Williamson,DEM,Democratic,56,P,Vermont,2024-03-15T00:06:37.000Z,40,2,2.5,1
+1036,Joe Biden,PD,Stowe,95000192,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:53.000Z,635,92,92.3,586
+20072905,Marianne Williamson,PD,Stowe,95000192,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:53.000Z,635,4,3.8,24
+20286,Dean Phillips,PD,Stowe,95000192,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:53.000Z,635,2,1.7,11
+1036,Joe Biden,PD,Strafford,95000193,Joe,True,Biden,DEM,Democratic,67,P,Vermont,2024-03-15T00:06:37.000Z,120,88,88.3,106
+20286,Dean Phillips,PD,Strafford,95000193,Dean,False,Phillips,DEM,Democratic,67,P,Vermont,2024-03-15T00:06:37.000Z,120,1,1.7,2
+20072905,Marianne Williamson,PD,Strafford,95000193,Marianne,False,Williamson,DEM,Democratic,67,P,Vermont,2024-03-15T00:06:37.000Z,120,1,1.7,2
+1036,Joe Biden,PD,Stratton,95000194,Joe,True,Biden,DEM,Democratic,43,P,Vermont,2024-03-06T00:34:58.000Z,12,83,83.3,10
+20072905,Marianne Williamson,PD,Stratton,95000194,Marianne,False,Williamson,DEM,Democratic,43,P,Vermont,2024-03-06T00:34:58.000Z,12,17,16.7,2
+20286,Dean Phillips,PD,Stratton,95000194,Dean,False,Phillips,DEM,Democratic,43,P,Vermont,2024-03-06T00:34:58.000Z,12,0,0.0,0
+1036,Joe Biden,PD,Sudbury,95000195,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-06T02:54:41.000Z,55,89,89.1,49
+20072905,Marianne Williamson,PD,Sudbury,95000195,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-06T02:54:41.000Z,55,7,7.3,4
+20286,Dean Phillips,PD,Sudbury,95000195,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-06T02:54:41.000Z,55,2,1.8,1
+1036,Joe Biden,PD,Sunderland,95000196,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:59.000Z,128,86,85.9,110
+20072905,Marianne Williamson,PD,Sunderland,95000196,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:59.000Z,128,5,4.7,6
+20286,Dean Phillips,PD,Sunderland,95000196,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:36:59.000Z,128,2,2.3,3
+1036,Joe Biden,PD,Sutton,95000197,Joe,True,Biden,DEM,Democratic,60,P,Vermont,2024-03-15T00:47:07.000Z,34,85,85.3,29
+20286,Dean Phillips,PD,Sutton,95000197,Dean,False,Phillips,DEM,Democratic,60,P,Vermont,2024-03-15T00:47:07.000Z,34,3,2.9,1
+20072905,Marianne Williamson,PD,Sutton,95000197,Marianne,False,Williamson,DEM,Democratic,60,P,Vermont,2024-03-15T00:47:07.000Z,34,3,2.9,1
+1036,Joe Biden,PD,Swanton,95000198,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-04-09T18:05:05.000Z,405,77,76.8,311
+20286,Dean Phillips,PD,Swanton,95000198,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-04-09T18:05:05.000Z,405,5,5.4,22
+20072905,Marianne Williamson,PD,Swanton,95000198,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-04-09T18:05:05.000Z,405,5,4.9,20
+1036,Joe Biden,PD,Thetford,95000199,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:37:41.000Z,494,92,91.7,453
+20072905,Marianne Williamson,PD,Thetford,95000199,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:37:41.000Z,494,2,2.4,12
+20286,Dean Phillips,PD,Thetford,95000199,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:37:41.000Z,494,2,2.2,11
+1036,Joe Biden,PD,Tinmouth,95000200,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-06-18T17:36:42.000Z,84,92,91.7,77
+20286,Dean Phillips,PD,Tinmouth,95000200,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-06-18T17:36:42.000Z,84,5,4.7,4
+20072905,Marianne Williamson,PD,Tinmouth,95000200,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-06-18T17:36:42.000Z,84,2,2.4,2
+1036,Joe Biden,PD,Topsham,95000201,Joe,True,Biden,DEM,Democratic,60,P,Vermont,2024-03-15T00:06:36.000Z,33,88,87.9,29
+20286,Dean Phillips,PD,Topsham,95000201,Dean,False,Phillips,DEM,Democratic,60,P,Vermont,2024-03-15T00:06:36.000Z,33,3,3.0,1
+20072905,Marianne Williamson,PD,Topsham,95000201,Marianne,False,Williamson,DEM,Democratic,60,P,Vermont,2024-03-15T00:06:36.000Z,33,3,3.0,1
+1036,Joe Biden,PD,Townshend,95000202,Joe,True,Biden,DEM,Democratic,73,P,Vermont,2024-03-15T00:06:37.000Z,91,90,90.1,82
+20072905,Marianne Williamson,PD,Townshend,95000202,Marianne,False,Williamson,DEM,Democratic,73,P,Vermont,2024-03-15T00:06:37.000Z,91,3,3.3,3
+20286,Dean Phillips,PD,Townshend,95000202,Dean,False,Phillips,DEM,Democratic,73,P,Vermont,2024-03-15T00:06:37.000Z,91,1,1.1,1
+1036,Joe Biden,PD,Troy,95000203,Joe,True,Biden,DEM,Democratic,64,P,Vermont,2024-06-18T17:36:53.000Z,43,81,81.4,35
+20072905,Marianne Williamson,PD,Troy,95000203,Marianne,False,Williamson,DEM,Democratic,64,P,Vermont,2024-06-18T17:36:53.000Z,43,5,4.7,2
+20286,Dean Phillips,PD,Troy,95000203,Dean,False,Phillips,DEM,Democratic,64,P,Vermont,2024-06-18T17:36:53.000Z,43,2,2.3,1
+1036,Joe Biden,PD,Tunbridge,95000204,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-06T01:21:23.000Z,116,78,78.4,91
+20072905,Marianne Williamson,PD,Tunbridge,95000204,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-06T01:21:23.000Z,116,3,2.6,3
+20286,Dean Phillips,PD,Tunbridge,95000204,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-06T01:21:23.000Z,116,0,0.0,0
+1036,Joe Biden,PD,Underhill,95000205,Joe,True,Biden,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:38.000Z,398,88,88.2,351
+20072905,Marianne Williamson,PD,Underhill,95000205,Marianne,False,Williamson,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:38.000Z,398,3,3.3,13
+20286,Dean Phillips,PD,Underhill,95000205,Dean,False,Phillips,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:38.000Z,398,3,2.8,11
+1036,Joe Biden,PD,Vergennes,95000206,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:00.000Z,320,85,85.3,273
+20072905,Marianne Williamson,PD,Vergennes,95000206,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:00.000Z,320,4,4.4,14
+20286,Dean Phillips,PD,Vergennes,95000206,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:00.000Z,320,2,2.2,7
+1036,Joe Biden,PD,Vernon,95000207,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T01:24:44.000Z,182,87,87.4,159
+20286,Dean Phillips,PD,Vernon,95000207,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T01:24:44.000Z,182,6,6.0,11
+20072905,Marianne Williamson,PD,Vernon,95000207,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T01:24:44.000Z,182,4,3.8,7
+1036,Joe Biden,PD,Vershire,95000208,Joe,True,Biden,DEM,Democratic,67,P,Vermont,2024-03-15T00:06:41.000Z,48,79,79.2,38
+20072905,Marianne Williamson,PD,Vershire,95000208,Marianne,False,Williamson,DEM,Democratic,67,P,Vermont,2024-03-15T00:06:41.000Z,48,10,10.4,5
+20286,Dean Phillips,PD,Vershire,95000208,Dean,False,Phillips,DEM,Democratic,67,P,Vermont,2024-03-15T00:06:41.000Z,48,0,0.0,0
+1036,Joe Biden,PD,Victory,95000209,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:06.000Z,9,67,66.7,6
+20072905,Marianne Williamson,PD,Victory,95000209,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:06.000Z,9,11,11.1,1
+20286,Dean Phillips,PD,Victory,95000209,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:06.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Waitsfield,95000210,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:14.000Z,361,90,90.0,325
+20072905,Marianne Williamson,PD,Waitsfield,95000210,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:14.000Z,361,4,3.6,13
+20286,Dean Phillips,PD,Waitsfield,95000210,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:14.000Z,361,3,3.0,11
+1036,Joe Biden,PD,Walden,95000211,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:21.000Z,78,83,83.3,65
+20286,Dean Phillips,PD,Walden,95000211,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:21.000Z,78,5,5.1,4
+20072905,Marianne Williamson,PD,Walden,95000211,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:21.000Z,78,4,3.8,3
+1036,Joe Biden,PD,Wallingford,95000212,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:31.000Z,237,87,87.3,207
+20286,Dean Phillips,PD,Wallingford,95000212,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:31.000Z,237,4,4.2,10
+20072905,Marianne Williamson,PD,Wallingford,95000212,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:38:31.000Z,237,3,3.4,8
+1036,Joe Biden,PD,Waltham,95000213,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:06.000Z,62,84,83.9,52
+20286,Dean Phillips,PD,Waltham,95000213,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:06.000Z,62,5,4.8,3
+20072905,Marianne Williamson,PD,Waltham,95000213,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:06.000Z,62,5,4.8,3
+1036,Joe Biden,PD,Wardsboro,95000214,Joe,True,Biden,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:36.000Z,63,90,90.5,57
+20286,Dean Phillips,PD,Wardsboro,95000214,Dean,False,Phillips,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:36.000Z,63,6,6.3,4
+20072905,Marianne Williamson,PD,Wardsboro,95000214,Marianne,False,Williamson,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:36.000Z,63,2,1.6,1
+1036,Joe Biden,PD,Warren,95000215,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:20.000Z,318,87,86.8,276
+20072905,Marianne Williamson,PD,Warren,95000215,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:20.000Z,318,4,4.4,14
+20286,Dean Phillips,PD,Warren,95000215,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:20.000Z,318,3,2.5,8
+1036,Joe Biden,PD,Washington,95000216,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:26.000Z,89,82,82.0,73
+20286,Dean Phillips,PD,Washington,95000216,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:26.000Z,89,4,4.5,4
+20072905,Marianne Williamson,PD,Washington,95000216,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:26.000Z,89,2,2.2,2
+1036,Joe Biden,PD,Waterbury,95000217,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:40.000Z,796,88,87.7,698
+20072905,Marianne Williamson,PD,Waterbury,95000217,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:40.000Z,796,4,4.3,34
+20286,Dean Phillips,PD,Waterbury,95000217,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:40.000Z,796,3,3.3,26
+1036,Joe Biden,PD,Waterford,95000218,Joe,True,Biden,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:33.000Z,81,81,81.5,66
+20072905,Marianne Williamson,PD,Waterford,95000218,Marianne,False,Williamson,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:33.000Z,81,9,8.6,7
+20286,Dean Phillips,PD,Waterford,95000218,Dean,False,Phillips,DEM,Democratic,90,P,Vermont,2024-03-15T00:06:33.000Z,81,4,3.7,3
+1036,Joe Biden,PD,Waterville,95000219,Joe,True,Biden,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,38,95,94.7,36
+20286,Dean Phillips,PD,Waterville,95000219,Dean,False,Phillips,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,38,0,0.0,0
+20072905,Marianne Williamson,PD,Waterville,95000219,Marianne,False,Williamson,DEM,Democratic,86,P,Vermont,2024-03-15T00:06:36.000Z,38,0,0.0,0
+1036,Joe Biden,PD,Weathersfield,95000220,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:45.000Z,268,83,83.2,223
+20072905,Marianne Williamson,PD,Weathersfield,95000220,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:45.000Z,268,3,3.4,9
+20286,Dean Phillips,PD,Weathersfield,95000220,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:45.000Z,268,3,2.6,7
+1036,Joe Biden,PD,Wells,95000221,Joe,True,Biden,DEM,Democratic,84,P,Vermont,2024-03-15T00:06:42.000Z,73,85,84.9,62
+20286,Dean Phillips,PD,Wells,95000221,Dean,False,Phillips,DEM,Democratic,84,P,Vermont,2024-03-15T00:06:42.000Z,73,4,4.1,3
+20072905,Marianne Williamson,PD,Wells,95000221,Marianne,False,Williamson,DEM,Democratic,84,P,Vermont,2024-03-15T00:06:42.000Z,73,4,4.1,3
+1036,Joe Biden,PD,West Fairlee,95000222,Joe,True,Biden,DEM,Democratic,57,P,Vermont,2024-03-15T00:06:33.000Z,31,87,87.1,27
+20072905,Marianne Williamson,PD,West Fairlee,95000222,Marianne,False,Williamson,DEM,Democratic,57,P,Vermont,2024-03-15T00:06:33.000Z,31,6,6.5,2
+20286,Dean Phillips,PD,West Fairlee,95000222,Dean,False,Phillips,DEM,Democratic,57,P,Vermont,2024-03-15T00:06:33.000Z,31,0,0.0,0
+1036,Joe Biden,PD,West Haven,95000225,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T02:39:55.000Z,32,91,90.6,29
+20286,Dean Phillips,PD,West Haven,95000225,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T02:39:55.000Z,32,3,3.1,1
+20072905,Marianne Williamson,PD,West Haven,95000225,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T02:39:55.000Z,32,0,0.0,0
+1036,Joe Biden,PD,West Rutland,95000229,Joe,True,Biden,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:36.000Z,116,78,78.4,91
+20286,Dean Phillips,PD,West Rutland,95000229,Dean,False,Phillips,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:36.000Z,116,4,4.3,5
+20072905,Marianne Williamson,PD,West Rutland,95000229,Marianne,False,Williamson,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:36.000Z,116,4,4.3,5
+1036,Joe Biden,PD,West Windsor,95000230,Joe,True,Biden,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:33.000Z,128,90,89.8,115
+20286,Dean Phillips,PD,West Windsor,95000230,Dean,False,Phillips,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:33.000Z,128,1,1.6,2
+20072905,Marianne Williamson,PD,West Windsor,95000230,Marianne,False,Williamson,DEM,Democratic,82,P,Vermont,2024-03-15T00:06:33.000Z,128,1,0.8,1
+1036,Joe Biden,PD,Westfield,95000223,Joe,True,Biden,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:37.000Z,40,90,90.0,36
+20072905,Marianne Williamson,PD,Westfield,95000223,Marianne,False,Williamson,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:37.000Z,40,2,2.5,1
+20286,Dean Phillips,PD,Westfield,95000223,Dean,False,Phillips,DEM,Democratic,83,P,Vermont,2024-03-15T00:06:37.000Z,40,0,0.0,0
+1036,Joe Biden,PD,Westford,95000224,Joe,True,Biden,DEM,Democratic,61,P,Vermont,2024-03-15T00:06:37.000Z,164,93,92.7,152
+20286,Dean Phillips,PD,Westford,95000224,Dean,False,Phillips,DEM,Democratic,61,P,Vermont,2024-03-15T00:06:37.000Z,164,2,1.8,3
+20072905,Marianne Williamson,PD,Westford,95000224,Marianne,False,Williamson,DEM,Democratic,61,P,Vermont,2024-03-15T00:06:37.000Z,164,2,1.8,3
+1036,Joe Biden,PD,Westminster,95000226,Joe,True,Biden,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:36.000Z,337,87,86.9,293
+20286,Dean Phillips,PD,Westminster,95000226,Dean,False,Phillips,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:36.000Z,337,4,4.4,15
+20072905,Marianne Williamson,PD,Westminster,95000226,Marianne,False,Williamson,DEM,Democratic,88,P,Vermont,2024-03-15T00:06:36.000Z,337,3,3.3,11
+1036,Joe Biden,PD,Westmore,95000227,Joe,True,Biden,DEM,Democratic,68,P,Vermont,2024-03-15T00:06:36.000Z,17,70,70.6,12
+20072905,Marianne Williamson,PD,Westmore,95000227,Marianne,False,Williamson,DEM,Democratic,68,P,Vermont,2024-03-15T00:06:36.000Z,17,12,11.7,2
+20286,Dean Phillips,PD,Westmore,95000227,Dean,False,Phillips,DEM,Democratic,68,P,Vermont,2024-03-15T00:06:36.000Z,17,6,5.9,1
+1036,Joe Biden,PD,Weston,95000228,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:59.000Z,90,96,95.6,86
+20072905,Marianne Williamson,PD,Weston,95000228,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:59.000Z,90,2,2.2,2
+20286,Dean Phillips,PD,Weston,95000228,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:39:59.000Z,90,1,1.1,1
+1036,Joe Biden,PD,Weybridge,95000231,Joe,True,Biden,DEM,Democratic,89,P,Vermont,2024-03-06T02:08:48.000Z,145,96,95.9,139
+20072905,Marianne Williamson,PD,Weybridge,95000231,Marianne,False,Williamson,DEM,Democratic,89,P,Vermont,2024-03-06T02:08:48.000Z,145,3,2.7,4
+20286,Dean Phillips,PD,Weybridge,95000231,Dean,False,Phillips,DEM,Democratic,89,P,Vermont,2024-03-06T02:08:48.000Z,145,1,1.4,2
+1036,Joe Biden,PD,Wheelock,95000232,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-06T04:27:48.000Z,57,84,84.2,48
+20072905,Marianne Williamson,PD,Wheelock,95000232,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-06T04:27:48.000Z,57,9,8.8,5
+20286,Dean Phillips,PD,Wheelock,95000232,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-06T04:27:48.000Z,57,5,5.3,3
+1036,Joe Biden,PD,Whiting,95000233,Joe,True,Biden,DEM,Democratic,92,P,Vermont,2024-03-15T00:40:05.000Z,35,94,94.3,33
+20286,Dean Phillips,PD,Whiting,95000233,Dean,False,Phillips,DEM,Democratic,92,P,Vermont,2024-03-15T00:40:05.000Z,35,3,2.8,1
+20072905,Marianne Williamson,PD,Whiting,95000233,Marianne,False,Williamson,DEM,Democratic,92,P,Vermont,2024-03-15T00:40:05.000Z,35,0,0.0,0
+1036,Joe Biden,PD,Whitingham,95000234,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-06-18T17:37:01.000Z,100,92,92.0,92
+20286,Dean Phillips,PD,Whitingham,95000234,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-06-18T17:37:01.000Z,100,2,2.0,2
+20072905,Marianne Williamson,PD,Whitingham,95000234,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-06-18T17:37:01.000Z,100,2,2.0,2
+1036,Joe Biden,PD,Williamstown,95000235,Joe,True,Biden,DEM,Democratic,77,P,Vermont,2024-03-15T00:06:33.000Z,148,77,77.0,114
+20286,Dean Phillips,PD,Williamstown,95000235,Dean,False,Phillips,DEM,Democratic,77,P,Vermont,2024-03-15T00:06:33.000Z,148,6,6.1,9
+20072905,Marianne Williamson,PD,Williamstown,95000235,Marianne,False,Williamson,DEM,Democratic,77,P,Vermont,2024-03-15T00:06:33.000Z,148,6,6.1,9
+1036,Joe Biden,PD,Williston,95000236,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:49:16.000Z,1446,89,88.9,1286
+20286,Dean Phillips,PD,Williston,95000236,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:49:16.000Z,1446,3,2.8,41
+20072905,Marianne Williamson,PD,Williston,95000236,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:49:16.000Z,1446,2,2.6,37
+1036,Joe Biden,PD,Wilmington,95000237,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:24.000Z,184,84,83.7,154
+20072905,Marianne Williamson,PD,Wilmington,95000237,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:24.000Z,184,5,5.4,10
+20286,Dean Phillips,PD,Wilmington,95000237,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:24.000Z,184,3,2.7,5
+1036,Joe Biden,PD,Windham,95000238,Joe,True,Biden,DEM,Democratic,76,P,Vermont,2024-03-15T00:06:43.000Z,39,95,94.9,37
+20286,Dean Phillips,PD,Windham,95000238,Dean,False,Phillips,DEM,Democratic,76,P,Vermont,2024-03-15T00:06:43.000Z,39,2,2.5,1
+20072905,Marianne Williamson,PD,Windham,95000238,Marianne,False,Williamson,DEM,Democratic,76,P,Vermont,2024-03-15T00:06:43.000Z,39,0,0.0,0
+1036,Joe Biden,PD,Windsor,95000239,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:36.000Z,388,82,82.2,319
+20286,Dean Phillips,PD,Windsor,95000239,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:36.000Z,388,3,3.1,12
+20072905,Marianne Williamson,PD,Windsor,95000239,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:36.000Z,388,3,2.6,10
+1036,Joe Biden,PD,Winhall,95000240,Joe,True,Biden,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:33.000Z,92,85,84.8,78
+20286,Dean Phillips,PD,Winhall,95000240,Dean,False,Phillips,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:33.000Z,92,3,3.2,3
+20072905,Marianne Williamson,PD,Winhall,95000240,Marianne,False,Williamson,DEM,Democratic,89,P,Vermont,2024-03-15T00:06:33.000Z,92,3,3.2,3
+1036,Joe Biden,PD,Winooski,95000241,Joe,True,Biden,DEM,Democratic,93,P,Vermont,2024-04-09T18:05:43.000Z,823,77,77.1,635
+20072905,Marianne Williamson,PD,Winooski,95000241,Marianne,False,Williamson,DEM,Democratic,93,P,Vermont,2024-04-09T18:05:43.000Z,823,9,8.9,73
+20286,Dean Phillips,PD,Winooski,95000241,Dean,False,Phillips,DEM,Democratic,93,P,Vermont,2024-04-09T18:05:43.000Z,823,3,3.2,26
+1036,Joe Biden,PD,Wolcott,95000242,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:50:33.000Z,130,85,85.4,111
+20072905,Marianne Williamson,PD,Wolcott,95000242,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:50:33.000Z,130,5,5.4,7
+20286,Dean Phillips,PD,Wolcott,95000242,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:50:33.000Z,130,1,0.7,1
+1036,Joe Biden,PD,Woodbury,95000243,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:48.000Z,93,78,78.5,73
+20072905,Marianne Williamson,PD,Woodbury,95000243,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:48.000Z,93,4,4.3,4
+20286,Dean Phillips,PD,Woodbury,95000243,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:40:48.000Z,93,2,2.1,2
+1036,Joe Biden,PD,Woodford,95000244,Joe,True,Biden,DEM,Democratic,94,P,Vermont,2024-03-15T00:52:01.000Z,29,86,86.2,25
+20072905,Marianne Williamson,PD,Woodford,95000244,Marianne,False,Williamson,DEM,Democratic,94,P,Vermont,2024-03-15T00:52:01.000Z,29,7,6.9,2
+20286,Dean Phillips,PD,Woodford,95000244,Dean,False,Phillips,DEM,Democratic,94,P,Vermont,2024-03-15T00:52:01.000Z,29,0,0.0,0
+1036,Joe Biden,PD,Woodstock,95000245,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:41:05.000Z,722,90,90.4,653
+20286,Dean Phillips,PD,Woodstock,95000245,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:41:05.000Z,722,2,2.5,18
+20072905,Marianne Williamson,PD,Woodstock,95000245,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:41:05.000Z,722,2,1.5,11
+1036,Joe Biden,PD,Worcester,95000246,Joe,True,Biden,DEM,Democratic,95,P,Vermont,2024-03-15T00:41:00.000Z,151,77,76.8,116
+20072905,Marianne Williamson,PD,Worcester,95000246,Marianne,False,Williamson,DEM,Democratic,95,P,Vermont,2024-03-15T00:41:00.000Z,151,4,4.0,6
+20286,Dean Phillips,PD,Worcester,95000246,Dean,False,Phillips,DEM,Democratic,95,P,Vermont,2024-03-15T00:41:00.000Z,151,2,2.0,3

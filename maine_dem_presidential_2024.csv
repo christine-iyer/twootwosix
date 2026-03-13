@@ -1,0 +1,997 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Abbot,92300001,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T15:08:59.000Z,29,86,86.2,25
+20286,Dean Phillips,PD,Abbot,92300001,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T15:08:59.000Z,29,14,13.8,4
+1036,Joe Biden,PD,Acton,92300002,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T05:32:47.000Z,118,81,81.4,96
+20286,Dean Phillips,PD,Acton,92300002,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T05:32:47.000Z,118,19,18.6,22
+1036,Joe Biden,PD,Addison,92300003,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:25:13.000Z,24,96,95.8,23
+20286,Dean Phillips,PD,Addison,92300003,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:25:13.000Z,24,4,4.2,1
+1036,Joe Biden,PD,Albion,92300005,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:37:26.000Z,38,87,86.8,33
+20286,Dean Phillips,PD,Albion,92300005,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:37:26.000Z,38,13,13.2,5
+1036,Joe Biden,PD,Alexander,92300006,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-06T16:53:25.000Z,14,86,85.7,12
+20286,Dean Phillips,PD,Alexander,92300006,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-06T16:53:25.000Z,14,14,14.3,2
+1036,Joe Biden,PD,Alfred,92300007,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:37:28.000Z,157,85,85.4,134
+20286,Dean Phillips,PD,Alfred,92300007,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:37:28.000Z,157,15,14.6,23
+1036,Joe Biden,PD,Allagash,92300008,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:24:05.000Z,13,92,92.3,12
+20286,Dean Phillips,PD,Allagash,92300008,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:24:05.000Z,13,8,7.7,1
+1036,Joe Biden,PD,Alna,92300009,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T16:30:22.000Z,90,98,97.8,88
+20286,Dean Phillips,PD,Alna,92300009,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T16:30:22.000Z,90,2,2.2,2
+1036,Joe Biden,PD,Alton,92300010,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T15:12:12.000Z,25,100,100.0,25
+20286,Dean Phillips,PD,Alton,92300010,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T15:12:12.000Z,25,0,0.0,0
+1036,Joe Biden,PD,Amherst,92300011,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:51:09.000Z,10,100,100.0,10
+20286,Dean Phillips,PD,Amherst,92300011,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:51:09.000Z,10,0,0.0,0
+1036,Joe Biden,PD,Amity,92300012,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T17:43:24.000Z,7,57,57.1,4
+20286,Dean Phillips,PD,Amity,92300012,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T17:43:24.000Z,7,43,42.9,3
+1036,Joe Biden,PD,Andover,92300013,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:32:31.000Z,51,92,92.2,47
+20286,Dean Phillips,PD,Andover,92300013,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:32:31.000Z,51,8,7.8,4
+1036,Joe Biden,PD,Anson,92300014,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T17:53:52.000Z,62,71,71.0,44
+20286,Dean Phillips,PD,Anson,92300014,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T17:53:52.000Z,62,14,14.5,9
+1036,Joe Biden,PD,Appleton,92300015,Joe,True,Biden,DEM,Democratic,80,P,Maine,2024-03-27T17:25:25.000Z,84,90,90.5,76
+20286,Dean Phillips,PD,Appleton,92300015,Dean,False,Phillips,DEM,Democratic,80,P,Maine,2024-03-27T17:25:25.000Z,84,10,9.5,8
+1036,Joe Biden,PD,Aroostook Cty Townships,92300528,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T20:21:20.000Z,10,80,80.0,8
+20286,Dean Phillips,PD,Aroostook Cty Townships,92300528,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T20:21:20.000Z,10,20,20.0,2
+1036,Joe Biden,PD,Arrowsic,92300016,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:45:07.000Z,79,97,97.5,77
+20286,Dean Phillips,PD,Arrowsic,92300016,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:45:07.000Z,79,1,1.2,1
+1036,Joe Biden,PD,Arundel,92300017,Joe,True,Biden,DEM,Democratic,87,P,Maine,2024-03-06T14:35:16.000Z,199,90,89.9,179
+20286,Dean Phillips,PD,Arundel,92300017,Dean,False,Phillips,DEM,Democratic,87,P,Maine,2024-03-06T14:35:16.000Z,199,10,10.1,20
+1036,Joe Biden,PD,Ashland,92300018,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T15:48:34.000Z,34,76,76.5,26
+20286,Dean Phillips,PD,Ashland,92300018,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T15:48:34.000Z,34,24,23.5,8
+1036,Joe Biden,PD,Athens,92300019,Joe,True,Biden,DEM,Democratic,32,P,Maine,2024-03-27T17:25:43.000Z,9,78,77.8,7
+20286,Dean Phillips,PD,Athens,92300019,Dean,False,Phillips,DEM,Democratic,32,P,Maine,2024-03-27T17:25:43.000Z,9,22,22.2,2
+1036,Joe Biden,PD,Atkinson,92300020,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-27T17:27:03.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Atkinson,92300020,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-27T17:27:03.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Auburn,92300021,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:23:52.000Z,683,91,90.6,619
+20286,Dean Phillips,PD,Auburn,92300021,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:23:52.000Z,683,9,9.4,64
+1036,Joe Biden,PD,Augusta,92300022,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-27T17:33:23.000Z,710,91,91.3,648
+20286,Dean Phillips,PD,Augusta,92300022,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-27T17:33:23.000Z,710,8,8.4,60
+1036,Joe Biden,PD,Aurora,92300023,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:43.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Aurora,92300023,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:43.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Avon,92300024,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T17:39:03.000Z,18,100,100.0,18
+20286,Dean Phillips,PD,Avon,92300024,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T17:39:03.000Z,18,0,0.0,0
+1036,Joe Biden,PD,Baileyville,92300025,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T17:40:21.000Z,24,92,91.7,22
+20286,Dean Phillips,PD,Baileyville,92300025,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T17:40:21.000Z,24,8,8.3,2
+1036,Joe Biden,PD,Baldwin,92300026,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T17:41:07.000Z,23,87,87.0,20
+20286,Dean Phillips,PD,Baldwin,92300026,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T17:41:07.000Z,23,13,13.0,3
+1036,Joe Biden,PD,Bangor,92300028,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:49:26.000Z,927,93,93.2,864
+20286,Dean Phillips,PD,Bangor,92300028,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:49:26.000Z,927,7,6.8,63
+1036,Joe Biden,PD,Bar Harbor,92300029,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:26:19.000Z,393,95,94.9,373
+20286,Dean Phillips,PD,Bar Harbor,92300029,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:26:19.000Z,393,5,4.8,19
+1036,Joe Biden,PD,Baring Plt.,92300030,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T20:43:48.000Z,11,82,81.8,9
+20286,Dean Phillips,PD,Baring Plt.,92300030,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T20:43:48.000Z,11,18,18.2,2
+1036,Joe Biden,PD,Bath,92300031,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T03:38:22.000Z,636,96,95.9,610
+20286,Dean Phillips,PD,Bath,92300031,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T03:38:22.000Z,636,4,4.1,26
+1036,Joe Biden,PD,Beals,92300032,Joe,True,Biden,DEM,Democratic,69,P,Maine,2024-03-27T17:41:30.000Z,9,100,100.0,9
+20286,Dean Phillips,PD,Beals,92300032,Dean,False,Phillips,DEM,Democratic,69,P,Maine,2024-03-27T17:41:30.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Beaver Cove,92300033,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-08T14:53:34.000Z,17,100,100.0,17
+20286,Dean Phillips,PD,Beaver Cove,92300033,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-08T14:53:34.000Z,17,0,0.0,0
+1036,Joe Biden,PD,Beddington,92300034,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T03:21:51.000Z,2,50,50.0,1
+20286,Dean Phillips,PD,Beddington,92300034,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T03:21:51.000Z,2,50,50.0,1
+1036,Joe Biden,PD,Belfast,92300035,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-06-15T22:24:34.000Z,656,96,96.0,630
+20286,Dean Phillips,PD,Belfast,92300035,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-06-15T22:24:34.000Z,656,4,4.0,26
+1036,Joe Biden,PD,Belgrade,92300036,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:44:46.000Z,172,88,88.4,152
+20286,Dean Phillips,PD,Belgrade,92300036,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:44:46.000Z,172,6,6.4,11
+1036,Joe Biden,PD,Belmont,92300037,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:51:25.000Z,37,92,91.9,34
+20286,Dean Phillips,PD,Belmont,92300037,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:51:25.000Z,37,8,8.1,3
+1036,Joe Biden,PD,Benton,92300039,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:11:18.000Z,83,87,86.7,72
+20286,Dean Phillips,PD,Benton,92300039,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:11:18.000Z,83,6,6.0,5
+1036,Joe Biden,PD,Berwick,92300040,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:17:06.000Z,310,89,89.4,277
+20286,Dean Phillips,PD,Berwick,92300040,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:17:06.000Z,310,11,10.6,33
+1036,Joe Biden,PD,Bethel,92300041,Joe,True,Biden,DEM,Democratic,84,P,Maine,2024-03-06T14:59:14.000Z,131,95,94.7,124
+20286,Dean Phillips,PD,Bethel,92300041,Dean,False,Phillips,DEM,Democratic,84,P,Maine,2024-03-06T14:59:14.000Z,131,5,5.3,7
+1036,Joe Biden,PD,Biddeford,92300042,Joe,True,Biden,DEM,Democratic,70,P,Maine,2024-06-15T22:23:14.000Z,867,90,89.6,777
+20286,Dean Phillips,PD,Biddeford,92300042,Dean,False,Phillips,DEM,Democratic,70,P,Maine,2024-06-15T22:23:14.000Z,867,10,10.4,90
+1036,Joe Biden,PD,Bingham,92300043,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:41:51.000Z,25,84,84.0,21
+20286,Dean Phillips,PD,Bingham,92300043,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:41:51.000Z,25,16,16.0,4
+1036,Joe Biden,PD,Blaine,92300044,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:21:25.000Z,5,100,100.0,5
+20286,Dean Phillips,PD,Blaine,92300044,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:21:25.000Z,5,0,0.0,0
+1036,Joe Biden,PD,Blue Hill,92300045,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-06T15:14:28.000Z,196,96,96.4,189
+20286,Dean Phillips,PD,Blue Hill,92300045,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-06T15:14:28.000Z,196,3,3.1,6
+1036,Joe Biden,PD,Boothbay,92300046,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:15:11.000Z,234,96,95.7,224
+20286,Dean Phillips,PD,Boothbay,92300046,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:15:11.000Z,234,4,4.3,10
+1036,Joe Biden,PD,Boothbay Harbor,92300047,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:54:54.000Z,163,96,96.3,157
+20286,Dean Phillips,PD,Boothbay Harbor,92300047,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:54:54.000Z,163,4,3.7,6
+1036,Joe Biden,PD,Bowdoin,92300048,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-27T17:42:28.000Z,102,91,91.2,93
+20286,Dean Phillips,PD,Bowdoin,92300048,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-27T17:42:28.000Z,102,9,8.8,9
+1036,Joe Biden,PD,Bowdoinham,92300049,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T15:05:37.000Z,228,72,72.4,165
+20286,Dean Phillips,PD,Bowdoinham,92300049,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T15:05:37.000Z,228,6,6.1,14
+1036,Joe Biden,PD,Bowerbank,92300050,Joe,True,Biden,DEM,Democratic,60,P,Maine,2024-03-08T16:05:39.000Z,3,100,100.0,3
+20286,Dean Phillips,PD,Bowerbank,92300050,Dean,False,Phillips,DEM,Democratic,60,P,Maine,2024-03-08T16:05:39.000Z,3,0,0.0,0
+1036,Joe Biden,PD,Bradford,92300051,Joe,True,Biden,DEM,Democratic,64,P,Maine,2024-03-07T15:24:43.000Z,18,89,88.9,16
+20286,Dean Phillips,PD,Bradford,92300051,Dean,False,Phillips,DEM,Democratic,64,P,Maine,2024-03-07T15:24:43.000Z,18,11,11.1,2
+1036,Joe Biden,PD,Bradley,92300052,Joe,True,Biden,DEM,Democratic,74,P,Maine,2024-03-27T17:42:52.000Z,56,87,87.5,49
+20286,Dean Phillips,PD,Bradley,92300052,Dean,False,Phillips,DEM,Democratic,74,P,Maine,2024-03-27T17:42:52.000Z,56,12,12.5,7
+1036,Joe Biden,PD,Bremen,92300053,Joe,True,Biden,DEM,Democratic,88,P,Maine,2024-03-27T17:43:09.000Z,92,92,92.4,85
+20286,Dean Phillips,PD,Bremen,92300053,Dean,False,Phillips,DEM,Democratic,88,P,Maine,2024-03-27T17:43:09.000Z,92,8,7.6,7
+1036,Joe Biden,PD,Brewer,92300054,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:39:49.000Z,247,90,90.3,223
+20286,Dean Phillips,PD,Brewer,92300054,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:39:49.000Z,247,10,9.7,24
+1036,Joe Biden,PD,Bridgewater,92300055,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T14:49:01.000Z,8,75,75.0,6
+20286,Dean Phillips,PD,Bridgewater,92300055,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T14:49:01.000Z,8,25,25.0,2
+1036,Joe Biden,PD,Bridgton,92300056,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:07:00.000Z,250,95,94.8,237
+20286,Dean Phillips,PD,Bridgton,92300056,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:07:00.000Z,250,5,5.2,13
+1036,Joe Biden,PD,Brighton Plt.,92300057,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:31:45.000Z,6,83,83.3,5
+20286,Dean Phillips,PD,Brighton Plt.,92300057,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:31:45.000Z,6,17,16.7,1
+1036,Joe Biden,PD,Bristol,92300058,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T17:43:59.000Z,302,95,94.7,286
+20286,Dean Phillips,PD,Bristol,92300058,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T17:43:59.000Z,302,5,5.3,16
+1036,Joe Biden,PD,Brooklin,92300059,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:44:17.000Z,100,97,97.0,97
+20286,Dean Phillips,PD,Brooklin,92300059,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:44:17.000Z,100,3,3.0,3
+1036,Joe Biden,PD,Brooks,92300060,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:46.000Z,40,82,82.5,33
+20286,Dean Phillips,PD,Brooks,92300060,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:46.000Z,40,2,2.5,1
+1036,Joe Biden,PD,Brooksville,92300061,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T04:37:20.000Z,124,98,97.6,121
+20286,Dean Phillips,PD,Brooksville,92300061,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T04:37:20.000Z,124,2,2.4,3
+1036,Joe Biden,PD,Brownfield,92300063,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-06T01:27:21.000Z,62,82,82.2,51
+20286,Dean Phillips,PD,Brownfield,92300063,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-06T01:27:21.000Z,62,10,9.7,6
+1036,Joe Biden,PD,Brownville,92300064,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:06:51.000Z,36,89,88.9,32
+20286,Dean Phillips,PD,Brownville,92300064,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:06:51.000Z,36,11,11.1,4
+1036,Joe Biden,PD,Brunswick,92300065,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:44:47.000Z,2008,96,95.7,1921
+20286,Dean Phillips,PD,Brunswick,92300065,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:44:47.000Z,2008,4,4.3,87
+1036,Joe Biden,PD,Buckfield,92300066,Joe,True,Biden,DEM,Democratic,96,P,Maine,2024-03-27T17:45:06.000Z,44,89,88.6,39
+20286,Dean Phillips,PD,Buckfield,92300066,Dean,False,Phillips,DEM,Democratic,96,P,Maine,2024-03-27T17:45:06.000Z,44,11,11.4,5
+1036,Joe Biden,PD,Bucksport,92300067,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:03:03.000Z,156,91,91.0,142
+20286,Dean Phillips,PD,Bucksport,92300067,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:03:03.000Z,156,8,7.7,12
+1036,Joe Biden,PD,Burlington,92300068,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-06T21:40:06.000Z,10,90,90.0,9
+20286,Dean Phillips,PD,Burlington,92300068,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-06T21:40:06.000Z,10,10,10.0,1
+1036,Joe Biden,PD,Burnham,92300069,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:48:52.000Z,16,75,75.0,12
+20286,Dean Phillips,PD,Burnham,92300069,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:48:52.000Z,16,25,25.0,4
+1036,Joe Biden,PD,Buxton,92300070,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-27T17:45:31.000Z,283,89,88.7,251
+20286,Dean Phillips,PD,Buxton,92300070,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-27T17:45:31.000Z,283,11,11.3,32
+1036,Joe Biden,PD,Byron,92300071,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T22:31:52.000Z,9,89,88.9,8
+20286,Dean Phillips,PD,Byron,92300071,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T22:31:52.000Z,9,11,11.1,1
+1036,Joe Biden,PD,Calais,92300072,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:48:10.000Z,64,92,92.2,59
+20286,Dean Phillips,PD,Calais,92300072,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:48:10.000Z,64,8,7.8,5
+1036,Joe Biden,PD,Cambridge,92300073,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:58:01.000Z,9,100,100.0,9
+20286,Dean Phillips,PD,Cambridge,92300073,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:58:01.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Camden,92300074,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:44.000Z,626,97,97.4,610
+20286,Dean Phillips,PD,Camden,92300074,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:44.000Z,626,3,2.6,16
+1036,Joe Biden,PD,Canaan,92300075,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:16:29.000Z,46,91,91.3,42
+20286,Dean Phillips,PD,Canaan,92300075,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:16:29.000Z,46,9,8.7,4
+1036,Joe Biden,PD,Canton,92300076,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T17:45:48.000Z,26,81,80.8,21
+20286,Dean Phillips,PD,Canton,92300076,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T17:45:48.000Z,26,19,19.2,5
+1036,Joe Biden,PD,Cape Elizabeth,92300077,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:07:45.000Z,871,96,96.2,838
+20286,Dean Phillips,PD,Cape Elizabeth,92300077,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:07:45.000Z,871,4,3.8,33
+1036,Joe Biden,PD,Caratunk,92300078,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T18:43:40.000Z,11,82,81.8,9
+20286,Dean Phillips,PD,Caratunk,92300078,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T18:43:40.000Z,11,18,18.2,2
+1036,Joe Biden,PD,Caribou,92300079,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:13:27.000Z,157,90,90.4,142
+20286,Dean Phillips,PD,Caribou,92300079,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:13:27.000Z,157,10,9.6,15
+1036,Joe Biden,PD,Carmel,92300080,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:46.000Z,46,91,91.3,42
+20286,Dean Phillips,PD,Carmel,92300080,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:46.000Z,46,9,8.7,4
+1036,Joe Biden,PD,Carrabassett Valley,92300081,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:33:43.000Z,87,94,94.3,82
+20286,Dean Phillips,PD,Carrabassett Valley,92300081,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:33:43.000Z,87,6,5.7,5
+1036,Joe Biden,PD,Carroll Plt.,92300082,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-08T15:04:39.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Carroll Plt.,92300082,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-08T15:04:39.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Carthage,92300083,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:50:42.000Z,14,50,50.0,7
+20286,Dean Phillips,PD,Carthage,92300083,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:50:42.000Z,14,43,42.9,6
+1036,Joe Biden,PD,Cary Plt.,92300084,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-27T19:37:01.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Cary Plt.,92300084,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-27T19:37:01.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Casco,92300085,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:49:48.000Z,135,92,91.9,124
+20286,Dean Phillips,PD,Casco,92300085,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:49:48.000Z,135,8,8.1,11
+1036,Joe Biden,PD,Castine,92300086,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T18:05:19.000Z,145,96,95.9,139
+20286,Dean Phillips,PD,Castine,92300086,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T18:05:19.000Z,145,4,4.1,6
+1036,Joe Biden,PD,Castle Hill,92300087,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:46:36.000Z,13,100,100.0,13
+20286,Dean Phillips,PD,Castle Hill,92300087,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:46:36.000Z,13,0,0.0,0
+1036,Joe Biden,PD,Caswell,92300088,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T20:45:04.000Z,6,67,66.7,4
+20286,Dean Phillips,PD,Caswell,92300088,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T20:45:04.000Z,6,33,33.3,2
+1036,Joe Biden,PD,Chapman,92300090,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-07T15:33:26.000Z,11,91,90.9,10
+20286,Dean Phillips,PD,Chapman,92300090,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-07T15:33:26.000Z,11,9,9.1,1
+1036,Joe Biden,PD,Charleston,92300091,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-27T17:46:50.000Z,18,83,83.3,15
+20286,Dean Phillips,PD,Charleston,92300091,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-27T17:46:50.000Z,18,17,16.7,3
+1036,Joe Biden,PD,Charlotte,92300092,Joe,True,Biden,DEM,Democratic,40,P,Maine,2024-03-26T18:26:46.000Z,6,83,83.3,5
+20286,Dean Phillips,PD,Charlotte,92300092,Dean,False,Phillips,DEM,Democratic,40,P,Maine,2024-03-26T18:26:46.000Z,6,17,16.7,1
+1036,Joe Biden,PD,Chebeague Island,92300521,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T17:34:54.000Z,70,93,92.9,65
+20286,Dean Phillips,PD,Chebeague Island,92300521,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T17:34:54.000Z,70,7,7.1,5
+1036,Joe Biden,PD,Chelsea,92300093,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:39.000Z,79,89,88.6,70
+20286,Dean Phillips,PD,Chelsea,92300093,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:39.000Z,79,9,8.9,7
+1036,Joe Biden,PD,Cherryfield,92300094,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:07:47.000Z,58,83,82.8,48
+20286,Dean Phillips,PD,Cherryfield,92300094,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:07:47.000Z,58,2,1.7,1
+1036,Joe Biden,PD,Chester,92300095,Joe,True,Biden,DEM,Democratic,60,P,Maine,2024-03-06T18:07:49.000Z,6,83,83.3,5
+20286,Dean Phillips,PD,Chester,92300095,Dean,False,Phillips,DEM,Democratic,60,P,Maine,2024-03-06T18:07:49.000Z,6,17,16.7,1
+1036,Joe Biden,PD,Chesterville,92300096,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-06T01:24:29.000Z,47,98,97.9,46
+20286,Dean Phillips,PD,Chesterville,92300096,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-06T01:24:29.000Z,47,2,2.1,1
+1036,Joe Biden,PD,China,92300097,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:09:07.000Z,200,82,82.0,164
+20286,Dean Phillips,PD,China,92300097,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:09:07.000Z,200,9,9.5,19
+1036,Joe Biden,PD,Clifton,92300098,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-06T18:23:25.000Z,24,87,87.5,21
+20286,Dean Phillips,PD,Clifton,92300098,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-06T18:23:25.000Z,24,12,12.5,3
+1036,Joe Biden,PD,Clinton,92300099,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T17:47:08.000Z,76,88,88.2,67
+20286,Dean Phillips,PD,Clinton,92300099,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T17:47:08.000Z,76,12,11.8,9
+1036,Joe Biden,PD,Columbia,92300101,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-06T18:18:01.000Z,6,100,100.0,6
+20286,Dean Phillips,PD,Columbia,92300101,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-06T18:18:01.000Z,6,0,0.0,0
+1036,Joe Biden,PD,Columbia Falls,92300102,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:40:35.000Z,10,90,90.0,9
+20286,Dean Phillips,PD,Columbia Falls,92300102,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:40:35.000Z,10,10,10.0,1
+1036,Joe Biden,PD,Cooper,92300104,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-06T18:42:38.000Z,7,71,71.4,5
+20286,Dean Phillips,PD,Cooper,92300104,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-06T18:42:38.000Z,7,29,28.6,2
+1036,Joe Biden,PD,Coplin Plt.,92300105,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:45:21.000Z,9,89,88.9,8
+20286,Dean Phillips,PD,Coplin Plt.,92300105,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:45:21.000Z,9,11,11.1,1
+1036,Joe Biden,PD,Corinna,92300106,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-06T18:54:30.000Z,40,80,80.0,32
+20286,Dean Phillips,PD,Corinna,92300106,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-06T18:54:30.000Z,40,12,12.5,5
+1036,Joe Biden,PD,Corinth,92300107,Joe,True,Biden,DEM,Democratic,88,P,Maine,2024-03-06T19:10:21.000Z,37,84,83.8,31
+20286,Dean Phillips,PD,Corinth,92300107,Dean,False,Phillips,DEM,Democratic,88,P,Maine,2024-03-06T19:10:21.000Z,37,16,16.2,6
+1036,Joe Biden,PD,Cornish,92300108,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:47:25.000Z,59,95,94.9,56
+20286,Dean Phillips,PD,Cornish,92300108,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:47:25.000Z,59,5,5.1,3
+1036,Joe Biden,PD,Cornville,92300109,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:05:00.000Z,32,91,90.6,29
+20286,Dean Phillips,PD,Cornville,92300109,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:05:00.000Z,32,9,9.4,3
+1036,Joe Biden,PD,Cranberry Isles,92300110,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:47:41.000Z,19,95,94.7,18
+20286,Dean Phillips,PD,Cranberry Isles,92300110,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:47:41.000Z,19,5,5.3,1
+1036,Joe Biden,PD,Crawford,92300111,Joe,True,Biden,DEM,Democratic,50,P,Maine,2024-03-26T18:26:38.000Z,1,100,100.0,1
+20286,Dean Phillips,PD,Crawford,92300111,Dean,False,Phillips,DEM,Democratic,50,P,Maine,2024-03-26T18:26:38.000Z,1,0,0.0,0
+1036,Joe Biden,PD,Crystal,92300112,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T15:43:04.000Z,8,75,75.0,6
+20286,Dean Phillips,PD,Crystal,92300112,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T15:43:04.000Z,8,25,25.0,2
+1036,Joe Biden,PD,Cumberland,92300113,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T17:48:01.000Z,1782,93,92.5,1649
+20286,Dean Phillips,PD,Cumberland,92300113,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T17:48:01.000Z,1782,7,7.5,133
+1036,Joe Biden,PD,Cushing,92300114,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:24:01.000Z,124,98,97.6,121
+20286,Dean Phillips,PD,Cushing,92300114,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:24:01.000Z,124,2,2.4,3
+1036,Joe Biden,PD,Cutler,92300115,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:08:57.000Z,18,94,94.4,17
+20286,Dean Phillips,PD,Cutler,92300115,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:08:57.000Z,18,6,5.6,1
+1036,Joe Biden,PD,Cyr Plt.,92300116,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T19:25:29.000Z,4,100,100.0,4
+20286,Dean Phillips,PD,Cyr Plt.,92300116,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T19:25:29.000Z,4,0,0.0,0
+1036,Joe Biden,PD,Dallas Plt.,92300117,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:50:59.000Z,19,100,100.0,19
+20286,Dean Phillips,PD,Dallas Plt.,92300117,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:50:59.000Z,19,0,0.0,0
+1036,Joe Biden,PD,Damariscotta,92300118,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:48:21.000Z,210,97,96.7,203
+20286,Dean Phillips,PD,Damariscotta,92300118,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:48:21.000Z,210,3,3.3,7
+1036,Joe Biden,PD,Danforth,92300119,Joe,True,Biden,DEM,Democratic,20,P,Maine,2024-03-08T14:39:00.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Danforth,92300119,Dean,False,Phillips,DEM,Democratic,20,P,Maine,2024-03-08T14:39:00.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Dayton,92300120,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T03:46:04.000Z,71,93,93.0,66
+20286,Dean Phillips,PD,Dayton,92300120,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T03:46:04.000Z,71,7,7.0,5
+20286,Dean Phillips,PD,Deblois,92300121,Dean,False,Phillips,DEM,Democratic,33,P,Maine,2024-03-06T02:56:30.000Z,1,100,100.0,1
+1036,Joe Biden,PD,Deblois,92300121,Joe,True,Biden,DEM,Democratic,33,P,Maine,2024-03-06T02:56:30.000Z,1,0,0.0,0
+1036,Joe Biden,PD,Dedham,92300122,Joe,True,Biden,DEM,Democratic,84,P,Maine,2024-03-06T20:09:34.000Z,78,95,94.9,74
+20286,Dean Phillips,PD,Dedham,92300122,Dean,False,Phillips,DEM,Democratic,84,P,Maine,2024-03-06T20:09:34.000Z,78,5,5.1,4
+1036,Joe Biden,PD,Deer Isle,92300123,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:04:04.000Z,249,87,87.1,217
+20286,Dean Phillips,PD,Deer Isle,92300123,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:04:04.000Z,249,4,4.4,11
+1036,Joe Biden,PD,Denmark,92300124,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:41:32.000Z,63,97,96.8,61
+20286,Dean Phillips,PD,Denmark,92300124,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:41:32.000Z,63,3,3.2,2
+1036,Joe Biden,PD,Dennistown Plt.,92300125,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:30.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Dennistown Plt.,92300125,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:30.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Dennysville,92300126,Joe,True,Biden,DEM,Democratic,59,P,Maine,2024-03-27T17:48:52.000Z,13,92,92.3,12
+20286,Dean Phillips,PD,Dennysville,92300126,Dean,False,Phillips,DEM,Democratic,59,P,Maine,2024-03-27T17:48:52.000Z,13,8,7.7,1
+1036,Joe Biden,PD,Detroit,92300127,Joe,True,Biden,DEM,Democratic,33,P,Maine,2024-03-06T14:47:23.000Z,8,100,100.0,8
+20286,Dean Phillips,PD,Detroit,92300127,Dean,False,Phillips,DEM,Democratic,33,P,Maine,2024-03-06T14:47:23.000Z,8,0,0.0,0
+1036,Joe Biden,PD,Dexter,92300128,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:52:47.000Z,69,93,92.8,64
+20286,Dean Phillips,PD,Dexter,92300128,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:52:47.000Z,69,7,7.2,5
+1036,Joe Biden,PD,Dixfield,92300129,Joe,True,Biden,DEM,Democratic,46,P,Maine,2024-03-06T19:54:39.000Z,24,83,83.3,20
+20286,Dean Phillips,PD,Dixfield,92300129,Dean,False,Phillips,DEM,Democratic,46,P,Maine,2024-03-06T19:54:39.000Z,24,17,16.7,4
+1036,Joe Biden,PD,Dixmont,92300130,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:40.000Z,44,91,90.9,40
+20286,Dean Phillips,PD,Dixmont,92300130,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:40.000Z,44,9,9.1,4
+1036,Joe Biden,PD,Dover-Foxcroft,92300131,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:32:46.000Z,108,90,89.8,97
+20286,Dean Phillips,PD,Dover-Foxcroft,92300131,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:32:46.000Z,108,10,10.2,11
+1036,Joe Biden,PD,Dresden,92300132,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:44:23.000Z,102,90,90.2,92
+20286,Dean Phillips,PD,Dresden,92300132,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:44:23.000Z,102,10,9.8,10
+1036,Joe Biden,PD,Drew Plt.,92300133,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-27T18:07:57.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Drew Plt.,92300133,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-27T18:07:57.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Durham,92300134,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:29:20.000Z,146,88,88.4,129
+20286,Dean Phillips,PD,Durham,92300134,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:29:20.000Z,146,12,11.6,17
+1036,Joe Biden,PD,Dyer Brook,92300135,Joe,True,Biden,DEM,Democratic,75,P,Maine,2024-03-06T01:47:47.000Z,3,100,100.0,3
+20286,Dean Phillips,PD,Dyer Brook,92300135,Dean,False,Phillips,DEM,Democratic,75,P,Maine,2024-03-06T01:47:47.000Z,3,0,0.0,0
+1036,Joe Biden,PD,Eagle Lake,92300136,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:48.000Z,43,67,67.4,29
+20286,Dean Phillips,PD,Eagle Lake,92300136,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:48.000Z,43,19,18.6,8
+1036,Joe Biden,PD,East Machias,92300138,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T20:21:51.000Z,47,94,93.6,44
+20286,Dean Phillips,PD,East Machias,92300138,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T20:21:51.000Z,47,6,6.4,3
+1036,Joe Biden,PD,East Millinocket,92300139,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-26T18:26:48.000Z,60,73,73.3,44
+20286,Dean Phillips,PD,East Millinocket,92300139,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-26T18:26:48.000Z,60,15,15.0,9
+1036,Joe Biden,PD,Eastbrook,92300137,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:51:11.000Z,17,82,82.4,14
+20286,Dean Phillips,PD,Eastbrook,92300137,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:51:11.000Z,17,18,17.6,3
+1036,Joe Biden,PD,Easton,92300140,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:36:20.000Z,16,75,75.0,12
+20286,Dean Phillips,PD,Easton,92300140,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:36:20.000Z,16,25,25.0,4
+1036,Joe Biden,PD,Eastport,92300141,Joe,True,Biden,DEM,Democratic,89,P,Maine,2024-03-27T18:09:36.000Z,116,95,94.8,110
+20286,Dean Phillips,PD,Eastport,92300141,Dean,False,Phillips,DEM,Democratic,89,P,Maine,2024-03-27T18:09:36.000Z,116,5,5.2,6
+1036,Joe Biden,PD,Eddington,92300142,Joe,True,Biden,DEM,Democratic,58,P,Maine,2024-03-08T15:49:07.000Z,42,83,83.3,35
+20286,Dean Phillips,PD,Eddington,92300142,Dean,False,Phillips,DEM,Democratic,58,P,Maine,2024-03-08T15:49:07.000Z,42,17,16.7,7
+1036,Joe Biden,PD,Edgecomb,92300143,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:50:21.000Z,116,97,97.4,113
+20286,Dean Phillips,PD,Edgecomb,92300143,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:50:21.000Z,116,3,2.6,3
+1036,Joe Biden,PD,Edinburg,92300144,Joe,True,Biden,DEM,Democratic,40,P,Maine,2024-03-06T17:11:22.000Z,4,75,75.0,3
+20286,Dean Phillips,PD,Edinburg,92300144,Dean,False,Phillips,DEM,Democratic,40,P,Maine,2024-03-06T17:11:22.000Z,4,25,25.0,1
+1036,Joe Biden,PD,Eliot,92300146,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:16:06.000Z,497,93,92.6,460
+20286,Dean Phillips,PD,Eliot,92300146,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:16:06.000Z,497,7,7.4,37
+1036,Joe Biden,PD,Ellsworth,92300147,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:24:14.000Z,289,95,94.8,274
+20286,Dean Phillips,PD,Ellsworth,92300147,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:24:14.000Z,289,5,5.2,15
+1036,Joe Biden,PD,Embden,92300148,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:45:47.000Z,28,93,92.8,26
+20286,Dean Phillips,PD,Embden,92300148,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:45:47.000Z,28,3,3.6,1
+1036,Joe Biden,PD,Enfield,92300149,Joe,True,Biden,DEM,Democratic,89,P,Maine,2024-03-27T18:09:57.000Z,39,92,92.3,36
+20286,Dean Phillips,PD,Enfield,92300149,Dean,False,Phillips,DEM,Democratic,89,P,Maine,2024-03-27T18:09:57.000Z,39,8,7.7,3
+1036,Joe Biden,PD,Etna,92300150,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-07T16:39:37.000Z,28,86,85.7,24
+20286,Dean Phillips,PD,Etna,92300150,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-07T16:39:37.000Z,28,14,14.3,4
+1036,Joe Biden,PD,Eustis,92300151,Joe,True,Biden,DEM,Democratic,64,P,Maine,2024-03-06T01:41:40.000Z,18,100,100.0,18
+20286,Dean Phillips,PD,Eustis,92300151,Dean,False,Phillips,DEM,Democratic,64,P,Maine,2024-03-06T01:41:40.000Z,18,0,0.0,0
+1036,Joe Biden,PD,Exeter,92300152,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T14:45:01.000Z,16,87,87.5,14
+20286,Dean Phillips,PD,Exeter,92300152,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T14:45:01.000Z,16,0,0.0,0
+1036,Joe Biden,PD,Fairfield,92300153,Joe,True,Biden,DEM,Democratic,65,P,Maine,2024-03-06T03:38:53.000Z,129,91,91.5,118
+20286,Dean Phillips,PD,Fairfield,92300153,Dean,False,Phillips,DEM,Democratic,65,P,Maine,2024-03-06T03:38:53.000Z,129,9,8.5,11
+1036,Joe Biden,PD,Falmouth,92300154,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:48:00.000Z,999,96,95.6,955
+20286,Dean Phillips,PD,Falmouth,92300154,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:48:00.000Z,999,4,4.2,42
+1036,Joe Biden,PD,Farmingdale,92300155,Joe,True,Biden,DEM,Democratic,80,P,Maine,2024-03-06T21:50:44.000Z,133,95,94.7,126
+20286,Dean Phillips,PD,Farmingdale,92300155,Dean,False,Phillips,DEM,Democratic,80,P,Maine,2024-03-06T21:50:44.000Z,133,5,5.3,7
+1036,Joe Biden,PD,Farmington,92300156,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T19:17:36.000Z,261,92,92.3,241
+20286,Dean Phillips,PD,Farmington,92300156,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T19:17:36.000Z,261,8,7.7,20
+1036,Joe Biden,PD,Fayette,92300157,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:46.000Z,77,95,94.8,73
+20286,Dean Phillips,PD,Fayette,92300157,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:46.000Z,77,1,1.3,1
+1036,Joe Biden,PD,Fort Fairfield,92300158,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:16:25.000Z,72,93,93.1,67
+20286,Dean Phillips,PD,Fort Fairfield,92300158,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:16:25.000Z,72,7,6.9,5
+1036,Joe Biden,PD,Fort Kent,92300159,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:40:42.000Z,137,82,82.5,113
+20286,Dean Phillips,PD,Fort Kent,92300159,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:40:42.000Z,137,18,17.5,24
+1036,Joe Biden,PD,Frankfort,92300160,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:26:39.000Z,22,91,90.9,20
+20286,Dean Phillips,PD,Frankfort,92300160,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:26:39.000Z,22,9,9.1,2
+1036,Joe Biden,PD,Franklin,92300161,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T19:25:01.000Z,66,95,95.5,63
+20286,Dean Phillips,PD,Franklin,92300161,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T19:25:01.000Z,66,5,4.5,3
+1036,Joe Biden,PD,Franklin Cty Townships,92300529,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:09.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Franklin Cty Townships,92300529,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:09.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Freedom,92300162,Joe,True,Biden,DEM,Democratic,83,P,Maine,2024-03-06T18:19:01.000Z,33,94,93.9,31
+20286,Dean Phillips,PD,Freedom,92300162,Dean,False,Phillips,DEM,Democratic,83,P,Maine,2024-03-06T18:19:01.000Z,33,6,6.1,2
+1036,Joe Biden,PD,Freeport,92300163,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T19:24:15.000Z,685,95,94.7,649
+20286,Dean Phillips,PD,Freeport,92300163,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T19:24:15.000Z,685,5,5.0,34
+1036,Joe Biden,PD,Frenchboro,92300164,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:30:48.000Z,5,80,80.0,4
+20286,Dean Phillips,PD,Frenchboro,92300164,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:30:48.000Z,5,20,20.0,1
+1036,Joe Biden,PD,Frenchville,92300165,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:57:07.000Z,32,78,78.1,25
+20286,Dean Phillips,PD,Frenchville,92300165,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:57:07.000Z,32,22,21.9,7
+1036,Joe Biden,PD,Friendship,92300166,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T01:34:12.000Z,88,86,86.4,76
+20286,Dean Phillips,PD,Friendship,92300166,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T01:34:12.000Z,88,5,4.5,4
+1036,Joe Biden,PD,Frye Island,92300514,Joe,True,Biden,DEM,Democratic,33,P,Maine,2024-03-06T01:46:05.000Z,1,100,100.0,1
+20286,Dean Phillips,PD,Frye Island,92300514,Dean,False,Phillips,DEM,Democratic,33,P,Maine,2024-03-06T01:46:05.000Z,1,0,0.0,0
+1036,Joe Biden,PD,Fryeburg,92300167,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:45.000Z,192,82,82.3,158
+20286,Dean Phillips,PD,Fryeburg,92300167,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:45.000Z,192,10,10.4,20
+1036,Joe Biden,PD,Gardiner,92300168,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-27T19:25:40.000Z,246,95,95.1,234
+20286,Dean Phillips,PD,Gardiner,92300168,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-27T19:25:40.000Z,246,5,4.9,12
+1036,Joe Biden,PD,Garfield Plt.,92300169,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T21:56:51.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Garfield Plt.,92300169,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T21:56:51.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Garland,92300170,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T19:26:07.000Z,25,96,96.0,24
+20286,Dean Phillips,PD,Garland,92300170,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T19:26:07.000Z,25,4,4.0,1
+1036,Joe Biden,PD,Georgetown,92300171,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-27T19:26:24.000Z,157,95,94.9,149
+20286,Dean Phillips,PD,Georgetown,92300171,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-27T19:26:24.000Z,157,5,5.1,8
+1036,Joe Biden,PD,Gilead,92300172,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T16:06:52.000Z,14,100,100.0,14
+20286,Dean Phillips,PD,Gilead,92300172,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T16:06:52.000Z,14,0,0.0,0
+1036,Joe Biden,PD,Glenburn,92300173,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:55:56.000Z,96,92,91.7,88
+20286,Dean Phillips,PD,Glenburn,92300173,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:55:56.000Z,96,8,8.3,8
+1036,Joe Biden,PD,Glenwood Plt.,92300174,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:13.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Glenwood Plt.,92300174,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:13.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Gorham,92300175,Joe,True,Biden,DEM,Democratic,71,P,Maine,2024-03-27T19:26:55.000Z,828,91,91.0,754
+20286,Dean Phillips,PD,Gorham,92300175,Dean,False,Phillips,DEM,Democratic,71,P,Maine,2024-03-27T19:26:55.000Z,828,7,6.8,56
+1036,Joe Biden,PD,Gouldsboro,92300176,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:39:51.000Z,132,98,97.7,129
+20286,Dean Phillips,PD,Gouldsboro,92300176,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:39:51.000Z,132,2,2.3,3
+1036,Joe Biden,PD,Grand Isle,92300177,Joe,True,Biden,DEM,Democratic,57,P,Maine,2024-03-27T19:27:09.000Z,12,92,91.7,11
+20286,Dean Phillips,PD,Grand Isle,92300177,Dean,False,Phillips,DEM,Democratic,57,P,Maine,2024-03-27T19:27:09.000Z,12,8,8.3,1
+1036,Joe Biden,PD,Grand Lake Stream Plt,92300178,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-26T18:26:38.000Z,6,100,100.0,6
+20286,Dean Phillips,PD,Grand Lake Stream Plt,92300178,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-26T18:26:38.000Z,6,0,0.0,0
+1036,Joe Biden,PD,Gray,92300179,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:13:24.000Z,330,89,88.8,293
+20286,Dean Phillips,PD,Gray,92300179,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:13:24.000Z,330,11,11.2,37
+1036,Joe Biden,PD,Great Pond,92300180,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-08T15:46:58.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Great Pond,92300180,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-08T15:46:58.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Greenbush,92300181,Joe,True,Biden,DEM,Democratic,29,P,Maine,2024-03-26T18:26:38.000Z,6,50,50.0,3
+20286,Dean Phillips,PD,Greenbush,92300181,Dean,False,Phillips,DEM,Democratic,29,P,Maine,2024-03-26T18:26:38.000Z,6,50,50.0,3
+1036,Joe Biden,PD,Greene,92300182,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:37:01.000Z,116,78,78.4,91
+20286,Dean Phillips,PD,Greene,92300182,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:37:01.000Z,116,8,7.8,9
+1036,Joe Biden,PD,Greenville,92300183,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T19:27:30.000Z,60,93,93.3,56
+20286,Dean Phillips,PD,Greenville,92300183,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T19:27:30.000Z,60,7,6.7,4
+1036,Joe Biden,PD,Greenwood,92300184,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:44:59.000Z,44,98,97.7,43
+20286,Dean Phillips,PD,Greenwood,92300184,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:44:59.000Z,44,2,2.3,1
+1036,Joe Biden,PD,Guilford,92300186,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-27T19:29:55.000Z,27,89,88.9,24
+20286,Dean Phillips,PD,Guilford,92300186,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-27T19:29:55.000Z,27,11,11.1,3
+1036,Joe Biden,PD,Hallowell,92300187,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:36:19.000Z,298,97,97.0,289
+20286,Dean Phillips,PD,Hallowell,92300187,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:36:19.000Z,298,3,3.0,9
+1036,Joe Biden,PD,Hamlin,92300188,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T20:43:06.000Z,8,100,100.0,8
+20286,Dean Phillips,PD,Hamlin,92300188,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T20:43:06.000Z,8,0,0.0,0
+1036,Joe Biden,PD,Hammond,92300189,Joe,True,Biden,DEM,Democratic,33,P,Maine,2024-03-06T20:48:23.000Z,1,100,100.0,1
+20286,Dean Phillips,PD,Hammond,92300189,Dean,False,Phillips,DEM,Democratic,33,P,Maine,2024-03-06T20:48:23.000Z,1,0,0.0,0
+1036,Joe Biden,PD,Hampden,92300190,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:46:15.000Z,203,92,91.6,186
+20286,Dean Phillips,PD,Hampden,92300190,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:46:15.000Z,203,8,8.4,17
+1036,Joe Biden,PD,Hancock,92300191,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:53:59.000Z,118,87,87.3,103
+20286,Dean Phillips,PD,Hancock,92300191,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:53:59.000Z,118,5,5.1,6
+1036,Joe Biden,PD,Hancock Cty Townships,92300530,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:21.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Hancock Cty Townships,92300530,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:21.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Hanover,92300192,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:36.000Z,22,95,95.5,21
+20286,Dean Phillips,PD,Hanover,92300192,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:36.000Z,22,5,4.5,1
+1036,Joe Biden,PD,Harmony,92300193,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-07T16:20:32.000Z,14,100,100.0,14
+20286,Dean Phillips,PD,Harmony,92300193,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-07T16:20:32.000Z,14,0,0.0,0
+1036,Joe Biden,PD,Harpswell,92300194,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:24:46.000Z,580,93,93.4,542
+20286,Dean Phillips,PD,Harpswell,92300194,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:24:46.000Z,580,7,6.6,38
+1036,Joe Biden,PD,Harrington,92300195,Joe,True,Biden,DEM,Democratic,61,P,Maine,2024-03-27T19:30:18.000Z,17,88,88.2,15
+20286,Dean Phillips,PD,Harrington,92300195,Dean,False,Phillips,DEM,Democratic,61,P,Maine,2024-03-27T19:30:18.000Z,17,6,5.9,1
+1036,Joe Biden,PD,Harrison,92300196,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-26T18:26:38.000Z,112,94,93.7,105
+20286,Dean Phillips,PD,Harrison,92300196,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-26T18:26:38.000Z,112,5,5.4,6
+1036,Joe Biden,PD,Hartford,92300197,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-27T19:30:38.000Z,38,84,84.2,32
+20286,Dean Phillips,PD,Hartford,92300197,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-27T19:30:38.000Z,38,16,15.8,6
+1036,Joe Biden,PD,Hartland,92300198,Joe,True,Biden,DEM,Democratic,88,P,Maine,2024-03-07T16:24:49.000Z,37,86,86.5,32
+20286,Dean Phillips,PD,Hartland,92300198,Dean,False,Phillips,DEM,Democratic,88,P,Maine,2024-03-07T16:24:49.000Z,37,14,13.5,5
+1036,Joe Biden,PD,Haynesville,92300199,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-08T15:36:26.000Z,2,50,50.0,1
+20286,Dean Phillips,PD,Haynesville,92300199,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-08T15:36:26.000Z,2,50,50.0,1
+1036,Joe Biden,PD,Hebron,92300200,Joe,True,Biden,DEM,Democratic,53,P,Maine,2024-03-07T16:28:05.000Z,23,100,100.0,23
+20286,Dean Phillips,PD,Hebron,92300200,Dean,False,Phillips,DEM,Democratic,53,P,Maine,2024-03-07T16:28:05.000Z,23,0,0.0,0
+1036,Joe Biden,PD,Hermon,92300201,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:32:18.000Z,150,94,94.0,141
+20286,Dean Phillips,PD,Hermon,92300201,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:32:18.000Z,150,6,6.0,9
+1036,Joe Biden,PD,Hersey,92300202,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:37.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Hersey,92300202,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:37.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Highland Plt.,92300203,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:56:54.000Z,5,80,80.0,4
+20286,Dean Phillips,PD,Highland Plt.,92300203,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:56:54.000Z,5,20,20.0,1
+1036,Joe Biden,PD,Hiram,92300204,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:43:11.000Z,55,91,90.9,50
+20286,Dean Phillips,PD,Hiram,92300204,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:43:11.000Z,55,9,9.1,5
+1036,Joe Biden,PD,Hodgdon,92300205,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-27T19:38:10.000Z,12,75,75.0,9
+20286,Dean Phillips,PD,Hodgdon,92300205,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-27T19:38:10.000Z,12,25,25.0,3
+1036,Joe Biden,PD,Holden,92300206,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T19:38:30.000Z,96,92,91.7,88
+20286,Dean Phillips,PD,Holden,92300206,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T19:38:30.000Z,96,8,8.3,8
+1036,Joe Biden,PD,Hollis,92300207,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:18:25.000Z,159,87,86.8,138
+20286,Dean Phillips,PD,Hollis,92300207,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:18:25.000Z,159,13,13.2,21
+1036,Joe Biden,PD,Hope,92300208,Joe,True,Biden,DEM,Democratic,77,P,Maine,2024-03-06T14:38:50.000Z,114,96,96.5,110
+20286,Dean Phillips,PD,Hope,92300208,Dean,False,Phillips,DEM,Democratic,77,P,Maine,2024-03-06T14:38:50.000Z,114,4,3.5,4
+1036,Joe Biden,PD,Houlton,92300209,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:27:59.000Z,117,88,88.0,103
+20286,Dean Phillips,PD,Houlton,92300209,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:27:59.000Z,117,12,12.0,14
+1036,Joe Biden,PD,Howland,92300210,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T19:39:31.000Z,45,91,91.1,41
+20286,Dean Phillips,PD,Howland,92300210,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T19:39:31.000Z,45,9,8.9,4
+1036,Joe Biden,PD,Hudson,92300211,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:03:03.000Z,19,84,84.2,16
+20286,Dean Phillips,PD,Hudson,92300211,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:03:03.000Z,19,5,5.3,1
+1036,Joe Biden,PD,Indian Township Vtng Dst,92300214,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:48.000Z,25,96,96.0,24
+20286,Dean Phillips,PD,Indian Township Vtng Dst,92300214,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:48.000Z,25,4,4.0,1
+1036,Joe Biden,PD,Industry,92300215,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:15:57.000Z,39,97,97.4,38
+20286,Dean Phillips,PD,Industry,92300215,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:15:57.000Z,39,3,2.6,1
+1036,Joe Biden,PD,Island Falls,92300216,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T15:18:31.000Z,25,80,80.0,20
+20286,Dean Phillips,PD,Island Falls,92300216,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T15:18:31.000Z,25,20,20.0,5
+1036,Joe Biden,PD,Isle Au Haut,92300217,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T19:40:37.000Z,26,96,96.2,25
+20286,Dean Phillips,PD,Isle Au Haut,92300217,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T19:40:37.000Z,26,4,3.8,1
+1036,Joe Biden,PD,Islesboro,92300218,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T19:40:54.000Z,83,93,92.8,77
+20286,Dean Phillips,PD,Islesboro,92300218,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T19:40:54.000Z,83,7,7.2,6
+1036,Joe Biden,PD,Jackman,92300219,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:56:48.000Z,13,69,69.2,9
+20286,Dean Phillips,PD,Jackman,92300219,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:56:48.000Z,13,31,30.8,4
+1036,Joe Biden,PD,Jackson,92300220,Joe,True,Biden,DEM,Democratic,66,P,Maine,2024-03-08T15:47:36.000Z,19,89,89.5,17
+20286,Dean Phillips,PD,Jackson,92300220,Dean,False,Phillips,DEM,Democratic,66,P,Maine,2024-03-08T15:47:36.000Z,19,11,10.5,2
+1036,Joe Biden,PD,Jay,92300221,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T19:41:10.000Z,164,86,86.0,141
+20286,Dean Phillips,PD,Jay,92300221,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T19:41:10.000Z,164,14,14.0,23
+1036,Joe Biden,PD,Jefferson,92300222,Joe,True,Biden,DEM,Democratic,88,P,Maine,2024-03-27T19:41:45.000Z,129,97,96.9,125
+20286,Dean Phillips,PD,Jefferson,92300222,Dean,False,Phillips,DEM,Democratic,88,P,Maine,2024-03-27T19:41:45.000Z,129,3,3.1,4
+1036,Joe Biden,PD,Jonesboro,92300223,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-06T22:02:53.000Z,17,88,88.2,15
+20286,Dean Phillips,PD,Jonesboro,92300223,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-06T22:02:53.000Z,17,12,11.8,2
+1036,Joe Biden,PD,Jonesport,92300224,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:29:28.000Z,31,100,100.0,31
+20286,Dean Phillips,PD,Jonesport,92300224,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:29:28.000Z,31,0,0.0,0
+1036,Joe Biden,PD,Kenduskeag,92300225,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:15:25.000Z,31,84,83.9,26
+20286,Dean Phillips,PD,Kenduskeag,92300225,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:15:25.000Z,31,10,9.7,3
+1036,Joe Biden,PD,Kennebunk,92300226,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:44:03.000Z,1301,95,94.5,1230
+20286,Dean Phillips,PD,Kennebunk,92300226,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:44:03.000Z,1301,5,5.5,71
+1036,Joe Biden,PD,Kennebunkport,92300227,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:45.000Z,389,98,98.5,383
+20286,Dean Phillips,PD,Kennebunkport,92300227,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:45.000Z,389,2,1.5,6
+1036,Joe Biden,PD,Kingfield,92300228,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T19:21:07.000Z,125,92,92.0,115
+20286,Dean Phillips,PD,Kingfield,92300228,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T19:21:07.000Z,125,8,8.0,10
+1036,Joe Biden,PD,Kingsbury Plt.,92300230,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-27T19:29:34.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Kingsbury Plt.,92300230,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-27T19:29:34.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Kittery,92300231,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T05:15:35.000Z,907,93,93.5,848
+20286,Dean Phillips,PD,Kittery,92300231,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T05:15:35.000Z,907,7,6.5,59
+1036,Joe Biden,PD,Knox,92300232,Joe,True,Biden,DEM,Democratic,64,P,Maine,2024-03-27T19:42:04.000Z,16,75,75.0,12
+20286,Dean Phillips,PD,Knox,92300232,Dean,False,Phillips,DEM,Democratic,64,P,Maine,2024-03-27T19:42:04.000Z,16,25,25.0,4
+1036,Joe Biden,PD,LaGrange,92300233,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:48.000Z,13,92,92.3,12
+20286,Dean Phillips,PD,LaGrange,92300233,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:48.000Z,13,8,7.7,1
+1036,Joe Biden,PD,Lake View Plt.,92300234,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-07T14:25:07.000Z,6,67,66.7,4
+20286,Dean Phillips,PD,Lake View Plt.,92300234,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-07T14:25:07.000Z,6,33,33.3,2
+1036,Joe Biden,PD,Lakeville,92300235,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-26T18:26:46.000Z,6,100,100.0,6
+20286,Dean Phillips,PD,Lakeville,92300235,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-26T18:26:46.000Z,6,0,0.0,0
+1036,Joe Biden,PD,Lamoine,92300236,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:38:56.000Z,141,97,97.2,137
+20286,Dean Phillips,PD,Lamoine,92300236,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:38:56.000Z,141,3,2.8,4
+1036,Joe Biden,PD,Lebanon,92300237,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:27:28.000Z,143,80,80.4,115
+20286,Dean Phillips,PD,Lebanon,92300237,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:27:28.000Z,143,20,19.6,28
+1036,Joe Biden,PD,Lee,92300238,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-06T02:01:25.000Z,19,84,84.2,16
+20286,Dean Phillips,PD,Lee,92300238,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-06T02:01:25.000Z,19,16,15.8,3
+1036,Joe Biden,PD,Leeds,92300239,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-27T19:44:47.000Z,71,90,90.1,64
+20286,Dean Phillips,PD,Leeds,92300239,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-27T19:44:47.000Z,71,10,9.9,7
+1036,Joe Biden,PD,Levant,92300240,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-06T19:56:44.000Z,43,81,81.4,35
+20286,Dean Phillips,PD,Levant,92300240,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-06T19:56:44.000Z,43,19,18.6,8
+1036,Joe Biden,PD,Lewiston,92300241,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:23:25.000Z,854,89,88.8,758
+20286,Dean Phillips,PD,Lewiston,92300241,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:23:25.000Z,854,11,11.2,96
+1036,Joe Biden,PD,Liberty,92300242,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:39:04.000Z,70,96,95.7,67
+20286,Dean Phillips,PD,Liberty,92300242,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:39:04.000Z,70,4,4.3,3
+1036,Joe Biden,PD,Limerick,92300243,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T18:21:08.000Z,164,91,90.9,149
+20286,Dean Phillips,PD,Limerick,92300243,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T18:21:08.000Z,164,9,9.1,15
+1036,Joe Biden,PD,Limestone,92300244,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:31:27.000Z,63,75,74.6,47
+20286,Dean Phillips,PD,Limestone,92300244,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:31:27.000Z,63,19,19.0,12
+1036,Joe Biden,PD,Limington,92300245,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-27T19:45:05.000Z,148,85,85.1,126
+20286,Dean Phillips,PD,Limington,92300245,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-27T19:45:05.000Z,148,15,14.9,22
+1036,Joe Biden,PD,Lincoln,92300246,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:35:12.000Z,120,86,85.8,103
+20286,Dean Phillips,PD,Lincoln,92300246,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:35:12.000Z,120,14,14.2,17
+1036,Joe Biden,PD,Lincoln Plt.,92300247,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:11:04.000Z,8,87,87.5,7
+20286,Dean Phillips,PD,Lincoln Plt.,92300247,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:11:04.000Z,8,12,12.5,1
+1036,Joe Biden,PD,Lincolnville,92300248,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:31:38.000Z,207,96,95.7,198
+20286,Dean Phillips,PD,Lincolnville,92300248,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:31:38.000Z,207,4,4.3,9
+1036,Joe Biden,PD,Linneus,92300249,Joe,True,Biden,DEM,Democratic,75,P,Maine,2024-03-08T15:40:35.000Z,9,100,100.0,9
+20286,Dean Phillips,PD,Linneus,92300249,Dean,False,Phillips,DEM,Democratic,75,P,Maine,2024-03-08T15:40:35.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Lisbon,92300250,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T19:50:42.000Z,314,86,86.3,271
+20286,Dean Phillips,PD,Lisbon,92300250,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T19:50:42.000Z,314,14,13.7,43
+1036,Joe Biden,PD,Litchfield,92300251,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:58:09.000Z,118,92,92.4,109
+20286,Dean Phillips,PD,Litchfield,92300251,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:58:09.000Z,118,8,7.6,9
+1036,Joe Biden,PD,Littleton,92300252,Joe,True,Biden,DEM,Democratic,48,P,Maine,2024-03-06T18:43:46.000Z,10,100,100.0,10
+20286,Dean Phillips,PD,Littleton,92300252,Dean,False,Phillips,DEM,Democratic,48,P,Maine,2024-03-06T18:43:46.000Z,10,0,0.0,0
+1036,Joe Biden,PD,Livermore,92300253,Joe,True,Biden,DEM,Democratic,74,P,Maine,2024-03-27T19:50:57.000Z,73,85,84.9,62
+20286,Dean Phillips,PD,Livermore,92300253,Dean,False,Phillips,DEM,Democratic,74,P,Maine,2024-03-27T19:50:57.000Z,73,15,15.1,11
+1036,Joe Biden,PD,Livermore Falls,92300254,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T19:51:10.000Z,73,71,71.2,52
+20286,Dean Phillips,PD,Livermore Falls,92300254,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T19:51:10.000Z,73,21,20.5,15
+1036,Joe Biden,PD,Long Island,92300255,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T01:43:53.000Z,35,94,94.3,33
+20286,Dean Phillips,PD,Long Island,92300255,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T01:43:53.000Z,35,6,5.7,2
+1036,Joe Biden,PD,Lovell,92300256,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:29:15.000Z,82,93,92.7,76
+20286,Dean Phillips,PD,Lovell,92300256,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:29:15.000Z,82,7,7.3,6
+1036,Joe Biden,PD,Lowell,92300257,Joe,True,Biden,DEM,Democratic,73,P,Maine,2024-03-27T19:51:27.000Z,11,55,54.5,6
+20286,Dean Phillips,PD,Lowell,92300257,Dean,False,Phillips,DEM,Democratic,73,P,Maine,2024-03-27T19:51:27.000Z,11,45,45.5,5
+1036,Joe Biden,PD,Lubec,92300258,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:56:11.000Z,100,92,92.0,92
+20286,Dean Phillips,PD,Lubec,92300258,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:56:11.000Z,100,3,3.0,3
+1036,Joe Biden,PD,Ludlow,92300259,Joe,True,Biden,DEM,Democratic,50,P,Maine,2024-03-06T15:10:18.000Z,7,86,85.7,6
+20286,Dean Phillips,PD,Ludlow,92300259,Dean,False,Phillips,DEM,Democratic,50,P,Maine,2024-03-06T15:10:18.000Z,7,14,14.3,1
+1036,Joe Biden,PD,Lyman,92300260,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-27T19:51:45.000Z,159,90,89.9,143
+20286,Dean Phillips,PD,Lyman,92300260,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-27T19:51:45.000Z,159,10,10.1,16
+1036,Joe Biden,PD,Machias,92300261,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:19:08.000Z,59,86,86.4,51
+20286,Dean Phillips,PD,Machias,92300261,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:19:08.000Z,59,14,13.6,8
+1036,Joe Biden,PD,Machiasport,92300262,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-27T19:51:58.000Z,37,92,91.9,34
+20286,Dean Phillips,PD,Machiasport,92300262,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-27T19:51:58.000Z,37,8,8.1,3
+1036,Joe Biden,PD,Macwahoc Plt.,92300263,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:43.000Z,4,75,75.0,3
+20286,Dean Phillips,PD,Macwahoc Plt.,92300263,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:43.000Z,4,25,25.0,1
+1036,Joe Biden,PD,Madawaska,92300264,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:56:48.000Z,163,91,91.4,149
+20286,Dean Phillips,PD,Madawaska,92300264,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:56:48.000Z,163,9,8.6,14
+1036,Joe Biden,PD,Madison,92300266,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T19:52:15.000Z,93,95,94.6,88
+20286,Dean Phillips,PD,Madison,92300266,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T19:52:15.000Z,93,5,5.4,5
+1036,Joe Biden,PD,Magalloway Plt.,92300268,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-27T19:50:06.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Magalloway Plt.,92300268,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-27T19:50:06.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Manchester,92300269,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:39:12.000Z,125,98,97.6,122
+20286,Dean Phillips,PD,Manchester,92300269,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:39:12.000Z,125,2,2.4,3
+1036,Joe Biden,PD,Mapleton,92300270,Joe,True,Biden,DEM,Democratic,52,P,Maine,2024-03-27T19:55:34.000Z,26,92,92.3,24
+20286,Dean Phillips,PD,Mapleton,92300270,Dean,False,Phillips,DEM,Democratic,52,P,Maine,2024-03-27T19:55:34.000Z,26,8,7.7,2
+1036,Joe Biden,PD,Mariaville,92300271,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:51:15.000Z,18,94,94.4,17
+20286,Dean Phillips,PD,Mariaville,92300271,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:51:15.000Z,18,6,5.6,1
+1036,Joe Biden,PD,Mars Hill,92300273,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:03:33.000Z,22,91,90.9,20
+20286,Dean Phillips,PD,Mars Hill,92300273,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:03:33.000Z,22,9,9.1,2
+1036,Joe Biden,PD,Marshfield,92300272,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:42:00.000Z,11,91,90.9,10
+20286,Dean Phillips,PD,Marshfield,92300272,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:42:00.000Z,11,9,9.1,1
+1036,Joe Biden,PD,Masardis,92300274,Joe,True,Biden,DEM,Democratic,80,P,Maine,2024-03-27T19:55:06.000Z,8,87,87.5,7
+20286,Dean Phillips,PD,Masardis,92300274,Dean,False,Phillips,DEM,Democratic,80,P,Maine,2024-03-27T19:55:06.000Z,8,12,12.5,1
+1036,Joe Biden,PD,Matinicus Isle Plt.,92300276,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:47:48.000Z,10,100,100.0,10
+20286,Dean Phillips,PD,Matinicus Isle Plt.,92300276,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:47:48.000Z,10,0,0.0,0
+1036,Joe Biden,PD,Mattawamkeag,92300277,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:49:31.000Z,23,82,82.6,19
+20286,Dean Phillips,PD,Mattawamkeag,92300277,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:49:31.000Z,23,9,8.7,2
+1036,Joe Biden,PD,Maxfield,92300278,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:25.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Maxfield,92300278,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:25.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Mechanic Falls,92300279,Joe,True,Biden,DEM,Democratic,75,P,Maine,2024-03-27T19:55:57.000Z,67,91,91.0,61
+20286,Dean Phillips,PD,Mechanic Falls,92300279,Dean,False,Phillips,DEM,Democratic,75,P,Maine,2024-03-27T19:55:57.000Z,67,9,9.0,6
+1036,Joe Biden,PD,Meddybemps,92300280,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:17.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Meddybemps,92300280,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:17.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Medford,92300281,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-08T15:46:24.000Z,10,60,60.0,6
+20286,Dean Phillips,PD,Medford,92300281,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-08T15:46:24.000Z,10,40,40.0,4
+1036,Joe Biden,PD,Medway,92300282,Joe,True,Biden,DEM,Democratic,81,P,Maine,2024-03-06T19:19:47.000Z,30,83,83.3,25
+20286,Dean Phillips,PD,Medway,92300282,Dean,False,Phillips,DEM,Democratic,81,P,Maine,2024-03-06T19:19:47.000Z,30,17,16.7,5
+1036,Joe Biden,PD,Mercer,92300283,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:00:23.000Z,40,90,90.0,36
+20286,Dean Phillips,PD,Mercer,92300283,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:00:23.000Z,40,7,7.5,3
+1036,Joe Biden,PD,Merrill,92300284,Joe,True,Biden,DEM,Democratic,75,P,Maine,2024-03-07T15:30:39.000Z,3,100,100.0,3
+20286,Dean Phillips,PD,Merrill,92300284,Dean,False,Phillips,DEM,Democratic,75,P,Maine,2024-03-07T15:30:39.000Z,3,0,0.0,0
+1036,Joe Biden,PD,Mexico,92300285,Joe,True,Biden,DEM,Democratic,63,P,Maine,2024-03-07T14:16:49.000Z,63,86,85.7,54
+20286,Dean Phillips,PD,Mexico,92300285,Dean,False,Phillips,DEM,Democratic,63,P,Maine,2024-03-07T14:16:49.000Z,63,14,14.3,9
+1036,Joe Biden,PD,Milbridge,92300286,Joe,True,Biden,DEM,Democratic,87,P,Maine,2024-03-27T19:57:05.000Z,39,95,94.9,37
+20286,Dean Phillips,PD,Milbridge,92300286,Dean,False,Phillips,DEM,Democratic,87,P,Maine,2024-03-27T19:57:05.000Z,39,5,5.1,2
+1036,Joe Biden,PD,Milford,92300287,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:57:11.000Z,78,94,93.6,73
+20286,Dean Phillips,PD,Milford,92300287,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:57:11.000Z,78,6,6.4,5
+1036,Joe Biden,PD,Millinocket,92300288,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:48:36.000Z,152,90,90.1,137
+20286,Dean Phillips,PD,Millinocket,92300288,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:48:36.000Z,152,10,9.9,15
+1036,Joe Biden,PD,Milo,92300289,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T19:57:24.000Z,41,93,92.7,38
+20286,Dean Phillips,PD,Milo,92300289,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T19:57:24.000Z,41,7,7.3,3
+1036,Joe Biden,PD,Minot,92300291,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T19:57:39.000Z,80,85,85.0,68
+20286,Dean Phillips,PD,Minot,92300291,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T19:57:39.000Z,80,15,15.0,12
+1036,Joe Biden,PD,Monhegan Plt.,92300292,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:47.000Z,19,95,94.7,18
+20286,Dean Phillips,PD,Monhegan Plt.,92300292,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:47.000Z,19,5,5.3,1
+1036,Joe Biden,PD,Monmouth,92300293,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:46.000Z,148,81,81.1,120
+20286,Dean Phillips,PD,Monmouth,92300293,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:46.000Z,148,8,8.1,12
+1036,Joe Biden,PD,Monroe,92300294,Joe,True,Biden,DEM,Democratic,52,P,Maine,2024-03-26T18:26:44.000Z,35,91,91.4,32
+20286,Dean Phillips,PD,Monroe,92300294,Dean,False,Phillips,DEM,Democratic,52,P,Maine,2024-03-26T18:26:44.000Z,35,9,8.6,3
+1036,Joe Biden,PD,Monson,92300295,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T15:23:19.000Z,30,93,93.3,28
+20286,Dean Phillips,PD,Monson,92300295,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T15:23:19.000Z,30,7,6.7,2
+1036,Joe Biden,PD,Monticello,92300296,Joe,True,Biden,DEM,Democratic,80,P,Maine,2024-03-06T20:43:28.000Z,8,62,62.5,5
+20286,Dean Phillips,PD,Monticello,92300296,Dean,False,Phillips,DEM,Democratic,80,P,Maine,2024-03-06T20:43:28.000Z,8,37,37.5,3
+1036,Joe Biden,PD,Montville,92300297,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:03:06.000Z,55,96,96.4,53
+20286,Dean Phillips,PD,Montville,92300297,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:03:06.000Z,55,4,3.6,2
+1036,Joe Biden,PD,Moose River,92300298,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T01:42:01.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Moose River,92300298,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T01:42:01.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Moro Plt.,92300299,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T16:05:00.000Z,1,100,100.0,1
+20286,Dean Phillips,PD,Moro Plt.,92300299,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T16:05:00.000Z,1,0,0.0,0
+1036,Joe Biden,PD,Morrill,92300300,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:06:46.000Z,35,91,91.4,32
+20286,Dean Phillips,PD,Morrill,92300300,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:06:46.000Z,35,9,8.6,3
+1036,Joe Biden,PD,Moscow,92300301,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:22:36.000Z,21,71,71.4,15
+20286,Dean Phillips,PD,Moscow,92300301,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:22:36.000Z,21,29,28.6,6
+1036,Joe Biden,PD,Mount Chase,92300302,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:59:09.000Z,8,100,100.0,8
+20286,Dean Phillips,PD,Mount Chase,92300302,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:59:09.000Z,8,0,0.0,0
+1036,Joe Biden,PD,Mount Desert,92300303,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:27:56.000Z,188,98,98.4,185
+20286,Dean Phillips,PD,Mount Desert,92300303,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:27:56.000Z,188,2,1.6,3
+1036,Joe Biden,PD,Mount Vernon,92300304,Joe,True,Biden,DEM,Democratic,71,P,Maine,2024-03-26T18:26:49.000Z,84,84,84.5,71
+20286,Dean Phillips,PD,Mount Vernon,92300304,Dean,False,Phillips,DEM,Democratic,71,P,Maine,2024-03-26T18:26:49.000Z,84,5,4.8,4
+1036,Joe Biden,PD,Naples,92300305,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:50.000Z,163,90,89.6,146
+20286,Dean Phillips,PD,Naples,92300305,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:50.000Z,163,10,10.4,17
+1036,Joe Biden,PD,Nashville Plt.,92300306,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:03.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Nashville Plt.,92300306,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:03.000Z,0,0,0.0,0
+1036,Joe Biden,PD,New Canada,92300308,Joe,True,Biden,DEM,Democratic,76,P,Maine,2024-03-06T01:49:06.000Z,16,81,81.2,13
+20286,Dean Phillips,PD,New Canada,92300308,Dean,False,Phillips,DEM,Democratic,76,P,Maine,2024-03-06T01:49:06.000Z,16,19,18.7,3
+1036,Joe Biden,PD,New Gloucester,92300311,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:18:16.000Z,204,92,91.7,187
+20286,Dean Phillips,PD,New Gloucester,92300311,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:18:16.000Z,204,8,8.3,17
+1036,Joe Biden,PD,New Limerick,92300312,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:48:01.000Z,6,100,100.0,6
+20286,Dean Phillips,PD,New Limerick,92300312,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:48:01.000Z,6,0,0.0,0
+1036,Joe Biden,PD,New Portland,92300314,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T20:12:03.000Z,32,91,90.6,29
+20286,Dean Phillips,PD,New Portland,92300314,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T20:12:03.000Z,32,9,9.4,3
+1036,Joe Biden,PD,New Sharon,92300316,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:07:01.000Z,68,85,85.3,58
+20286,Dean Phillips,PD,New Sharon,92300316,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:07:01.000Z,68,15,14.7,10
+1036,Joe Biden,PD,New Sweden,92300317,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:05:15.000Z,12,100,100.0,12
+20286,Dean Phillips,PD,New Sweden,92300317,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:05:15.000Z,12,0,0.0,0
+1036,Joe Biden,PD,New Vineyard,92300318,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T16:12:56.000Z,30,93,93.3,28
+20286,Dean Phillips,PD,New Vineyard,92300318,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T16:12:56.000Z,30,7,6.7,2
+1036,Joe Biden,PD,Newburgh,92300307,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T19:58:02.000Z,56,95,94.6,53
+20286,Dean Phillips,PD,Newburgh,92300307,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T19:58:02.000Z,56,5,5.4,3
+1036,Joe Biden,PD,Newcastle,92300309,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:41:37.000Z,222,96,96.4,214
+20286,Dean Phillips,PD,Newcastle,92300309,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:41:37.000Z,222,4,3.6,8
+1036,Joe Biden,PD,Newfield,92300310,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T04:42:05.000Z,60,87,86.7,52
+20286,Dean Phillips,PD,Newfield,92300310,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T04:42:05.000Z,60,13,13.3,8
+1036,Joe Biden,PD,Newport,92300313,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T19:58:17.000Z,77,94,93.5,72
+20286,Dean Phillips,PD,Newport,92300313,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T19:58:17.000Z,77,6,6.5,5
+1036,Joe Biden,PD,Newry,92300315,Joe,True,Biden,DEM,Democratic,97,P,Maine,2024-03-27T19:58:33.000Z,28,89,89.3,25
+20286,Dean Phillips,PD,Newry,92300315,Dean,False,Phillips,DEM,Democratic,97,P,Maine,2024-03-27T19:58:33.000Z,28,11,10.7,3
+1036,Joe Biden,PD,Nobleboro,92300319,Joe,True,Biden,DEM,Democratic,96,P,Maine,2024-03-27T19:58:57.000Z,137,96,96.4,132
+20286,Dean Phillips,PD,Nobleboro,92300319,Dean,False,Phillips,DEM,Democratic,96,P,Maine,2024-03-27T19:58:57.000Z,137,4,3.6,5
+1036,Joe Biden,PD,Norridgewock,92300320,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:59:09.000Z,93,90,90.3,84
+20286,Dean Phillips,PD,Norridgewock,92300320,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:59:09.000Z,93,10,9.7,9
+1036,Joe Biden,PD,North Berwick,92300321,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-27T19:59:09.000Z,228,91,91.2,208
+20286,Dean Phillips,PD,North Berwick,92300321,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-27T19:59:09.000Z,228,9,8.8,20
+1036,Joe Biden,PD,North Haven,92300323,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:52:21.000Z,71,94,94.4,67
+20286,Dean Phillips,PD,North Haven,92300323,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:52:21.000Z,71,6,5.6,4
+1036,Joe Biden,PD,North Yarmouth,92300325,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T19:59:36.000Z,344,92,92.2,317
+20286,Dean Phillips,PD,North Yarmouth,92300325,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T19:59:36.000Z,344,8,7.8,27
+1036,Joe Biden,PD,Northfield,92300322,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:08:06.000Z,8,87,87.5,7
+20286,Dean Phillips,PD,Northfield,92300322,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:08:06.000Z,8,12,12.5,1
+1036,Joe Biden,PD,Northport,92300324,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T19:59:24.000Z,124,95,95.2,118
+20286,Dean Phillips,PD,Northport,92300324,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T19:59:24.000Z,124,5,4.8,6
+1036,Joe Biden,PD,Norway,92300326,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:34:11.000Z,238,91,90.8,216
+20286,Dean Phillips,PD,Norway,92300326,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:34:11.000Z,238,9,9.2,22
+1036,Joe Biden,PD,Oakfield,92300327,Joe,True,Biden,DEM,Democratic,80,P,Maine,2024-03-07T16:16:37.000Z,12,67,66.7,8
+20286,Dean Phillips,PD,Oakfield,92300327,Dean,False,Phillips,DEM,Democratic,80,P,Maine,2024-03-07T16:16:37.000Z,12,33,33.3,4
+1036,Joe Biden,PD,Oakland,92300328,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:16:15.000Z,178,92,91.6,163
+20286,Dean Phillips,PD,Oakland,92300328,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:16:15.000Z,178,8,8.4,15
+1036,Joe Biden,PD,Ogunquit,92300329,Joe,True,Biden,DEM,Democratic,98,P,Maine,2024-03-27T19:59:52.000Z,176,97,96.6,170
+20286,Dean Phillips,PD,Ogunquit,92300329,Dean,False,Phillips,DEM,Democratic,98,P,Maine,2024-03-27T19:59:52.000Z,176,3,3.4,6
+1036,Joe Biden,PD,Old Orchard Beach,92300330,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T20:00:07.000Z,595,93,93.3,555
+20286,Dean Phillips,PD,Old Orchard Beach,92300330,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T20:00:07.000Z,595,7,6.7,40
+1036,Joe Biden,PD,Old Town,92300331,Joe,True,Biden,DEM,Democratic,87,P,Maine,2024-03-27T20:00:20.000Z,226,93,92.9,210
+20286,Dean Phillips,PD,Old Town,92300331,Dean,False,Phillips,DEM,Democratic,87,P,Maine,2024-03-27T20:00:20.000Z,226,7,7.1,16
+1036,Joe Biden,PD,Orient,92300332,Joe,True,Biden,DEM,Democratic,50,P,Maine,2024-03-06T04:06:43.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Orient,92300332,Dean,False,Phillips,DEM,Democratic,50,P,Maine,2024-03-06T04:06:43.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Orland,92300333,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:00:55.000Z,123,95,95.1,117
+20286,Dean Phillips,PD,Orland,92300333,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:00:55.000Z,123,5,4.9,6
+1036,Joe Biden,PD,Orono,92300335,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:05:19.000Z,764,81,80.9,618
+20286,Dean Phillips,PD,Orono,92300335,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:05:19.000Z,764,8,7.8,60
+1036,Joe Biden,PD,Orrington,92300336,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:00:40.000Z,96,89,88.5,85
+20286,Dean Phillips,PD,Orrington,92300336,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:00:40.000Z,96,10,10.4,10
+1036,Joe Biden,PD,Osborn,92300337,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:49:15.000Z,4,75,75.0,3
+20286,Dean Phillips,PD,Osborn,92300337,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:49:15.000Z,4,25,25.0,1
+1036,Joe Biden,PD,Otis,92300338,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:25:52.000Z,19,84,84.2,16
+20286,Dean Phillips,PD,Otis,92300338,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:25:52.000Z,19,16,15.8,3
+1036,Joe Biden,PD,Otisfield,92300339,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:41:10.000Z,94,87,87.2,82
+20286,Dean Phillips,PD,Otisfield,92300339,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:41:10.000Z,94,13,12.8,12
+1036,Joe Biden,PD,Owl's Head,92300340,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T18:22:12.000Z,118,97,96.6,114
+20286,Dean Phillips,PD,Owl's Head,92300340,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T18:22:12.000Z,118,3,3.4,4
+1036,Joe Biden,PD,Oxbow Plt.,92300341,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-28T20:34:18.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Oxbow Plt.,92300341,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-28T20:34:18.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Oxford,92300342,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:02:05.000Z,70,86,85.7,60
+20286,Dean Phillips,PD,Oxford,92300342,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:02:05.000Z,70,14,14.3,10
+1036,Joe Biden,PD,Oxford Cty Townships,92300531,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T20:20:50.000Z,31,90,90.3,28
+20286,Dean Phillips,PD,Oxford Cty Townships,92300531,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T20:20:50.000Z,31,10,9.7,3
+1036,Joe Biden,PD,Palermo,92300343,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:31:59.000Z,86,93,93.0,80
+20286,Dean Phillips,PD,Palermo,92300343,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:31:59.000Z,86,7,7.0,6
+1036,Joe Biden,PD,Palmyra,92300344,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:41.000Z,43,70,69.8,30
+20286,Dean Phillips,PD,Palmyra,92300344,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:41.000Z,43,23,23.2,10
+1036,Joe Biden,PD,Paris,92300345,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T21:29:30.000Z,164,90,90.2,148
+20286,Dean Phillips,PD,Paris,92300345,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T21:29:30.000Z,164,10,9.8,16
+1036,Joe Biden,PD,Parkman,92300346,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:31:30.000Z,19,84,84.2,16
+20286,Dean Phillips,PD,Parkman,92300346,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:31:30.000Z,19,16,15.8,3
+1036,Joe Biden,PD,Parsonsfield,92300347,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T20:00:54.000Z,76,95,94.7,72
+20286,Dean Phillips,PD,Parsonsfield,92300347,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T20:00:54.000Z,76,5,5.3,4
+1036,Joe Biden,PD,Passadumkeag,92300348,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T03:40:00.000Z,9,89,88.9,8
+20286,Dean Phillips,PD,Passadumkeag,92300348,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T03:40:00.000Z,9,11,11.1,1
+1036,Joe Biden,PD,Patten,92300349,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:50:04.000Z,31,87,87.1,27
+20286,Dean Phillips,PD,Patten,92300349,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:50:04.000Z,31,13,12.9,4
+1036,Joe Biden,PD,Pembroke,92300350,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-06T16:30:36.000Z,31,90,90.3,28
+20286,Dean Phillips,PD,Pembroke,92300350,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-06T16:30:36.000Z,31,10,9.7,3
+1036,Joe Biden,PD,Penobscot,92300351,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T04:40:30.000Z,148,91,90.5,134
+20286,Dean Phillips,PD,Penobscot,92300351,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T04:40:30.000Z,148,9,9.5,14
+1036,Joe Biden,PD,Penobscot Cty Townships,92300532,Joe,True,Biden,DEM,Democratic,27,P,Maine,2024-03-27T20:22:14.000Z,3,100,100.0,3
+20286,Dean Phillips,PD,Penobscot Cty Townships,92300532,Dean,False,Phillips,DEM,Democratic,27,P,Maine,2024-03-27T20:22:14.000Z,3,0,0.0,0
+1036,Joe Biden,PD,Penobscot Nation Vot Dst,92300212,Joe,True,Biden,DEM,Democratic,69,P,Maine,2024-03-06T22:06:22.000Z,34,100,100.0,34
+20286,Dean Phillips,PD,Penobscot Nation Vot Dst,92300212,Dean,False,Phillips,DEM,Democratic,69,P,Maine,2024-03-06T22:06:22.000Z,34,0,0.0,0
+1036,Joe Biden,PD,Perham,92300352,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:08:38.000Z,8,87,87.5,7
+20286,Dean Phillips,PD,Perham,92300352,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:08:38.000Z,8,0,0.0,0
+1036,Joe Biden,PD,Perry,92300354,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-26T18:26:42.000Z,29,93,93.1,27
+20286,Dean Phillips,PD,Perry,92300354,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-26T18:26:42.000Z,29,7,6.9,2
+1036,Joe Biden,PD,Peru,92300355,Joe,True,Biden,DEM,Democratic,58,P,Maine,2024-03-26T18:26:40.000Z,29,83,82.8,24
+20286,Dean Phillips,PD,Peru,92300355,Dean,False,Phillips,DEM,Democratic,58,P,Maine,2024-03-26T18:26:40.000Z,29,14,13.8,4
+1036,Joe Biden,PD,Phillips,92300356,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T21:30:42.000Z,39,82,82.1,32
+20286,Dean Phillips,PD,Phillips,92300356,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T21:30:42.000Z,39,18,17.9,7
+1036,Joe Biden,PD,Phippsburg,92300357,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T22:01:42.000Z,159,99,98.7,157
+20286,Dean Phillips,PD,Phippsburg,92300357,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T22:01:42.000Z,159,1,1.3,2
+1036,Joe Biden,PD,Piscataquis Cty Townships,92300533,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:14.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Piscataquis Cty Townships,92300533,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:14.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Pittsfield,92300358,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:12:39.000Z,91,91,91.2,83
+20286,Dean Phillips,PD,Pittsfield,92300358,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:12:39.000Z,91,9,8.8,8
+1036,Joe Biden,PD,Pittston,92300359,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-06T22:15:59.000Z,81,88,87.7,71
+20286,Dean Phillips,PD,Pittston,92300359,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-06T22:15:59.000Z,81,12,12.3,10
+1036,Joe Biden,PD,Pleasant Point Votng Dst,92300360,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-07T16:26:33.000Z,22,100,100.0,22
+20286,Dean Phillips,PD,Pleasant Point Votng Dst,92300360,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-07T16:26:33.000Z,22,0,0.0,0
+1036,Joe Biden,PD,Pleasant Ridge Plt.,92300361,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T20:51:39.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Pleasant Ridge Plt.,92300361,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T20:51:39.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Plymouth,92300362,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T20:01:15.000Z,29,97,96.6,28
+20286,Dean Phillips,PD,Plymouth,92300362,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T20:01:15.000Z,29,3,3.4,1
+1036,Joe Biden,PD,Poland,92300363,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T21:48:24.000Z,161,93,92.5,149
+20286,Dean Phillips,PD,Poland,92300363,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T21:48:24.000Z,161,7,7.5,12
+1036,Joe Biden,PD,Portage Lake,92300364,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T20:45:03.000Z,22,86,86.4,19
+20286,Dean Phillips,PD,Portage Lake,92300364,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T20:45:03.000Z,22,9,9.1,2
+1036,Joe Biden,PD,Porter,92300365,Joe,True,Biden,DEM,Democratic,75,P,Maine,2024-03-27T20:01:32.000Z,36,94,94.4,34
+20286,Dean Phillips,PD,Porter,92300365,Dean,False,Phillips,DEM,Democratic,75,P,Maine,2024-03-27T20:01:32.000Z,36,6,5.6,2
+1036,Joe Biden,PD,Portland,92300366,Joe,True,Biden,DEM,Democratic,29,P,Maine,2024-06-15T22:23:05.000Z,3963,94,94.3,3739
+20286,Dean Phillips,PD,Portland,92300366,Dean,False,Phillips,DEM,Democratic,29,P,Maine,2024-06-15T22:23:05.000Z,3963,6,5.7,224
+1036,Joe Biden,PD,Pownal,92300367,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-07T14:58:32.000Z,152,87,87.5,133
+20286,Dean Phillips,PD,Pownal,92300367,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-07T14:58:32.000Z,152,7,6.6,10
+1036,Joe Biden,PD,Presque Isle,92300368,Joe,True,Biden,DEM,Democratic,53,P,Maine,2024-03-27T20:02:34.000Z,153,90,89.5,137
+20286,Dean Phillips,PD,Presque Isle,92300368,Dean,False,Phillips,DEM,Democratic,53,P,Maine,2024-03-27T20:02:34.000Z,153,10,10.5,16
+1036,Joe Biden,PD,Princeton,92300369,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-08T15:31:52.000Z,14,86,85.7,12
+20286,Dean Phillips,PD,Princeton,92300369,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-08T15:31:52.000Z,14,14,14.3,2
+1036,Joe Biden,PD,Prospect,92300370,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-08T14:43:44.000Z,39,92,92.3,36
+20286,Dean Phillips,PD,Prospect,92300370,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-08T14:43:44.000Z,39,8,7.7,3
+1036,Joe Biden,PD,Randolph,92300371,Joe,True,Biden,DEM,Democratic,89,P,Maine,2024-03-06T21:23:59.000Z,68,94,94.1,64
+20286,Dean Phillips,PD,Randolph,92300371,Dean,False,Phillips,DEM,Democratic,89,P,Maine,2024-03-06T21:23:59.000Z,68,6,5.9,4
+1036,Joe Biden,PD,Rangeley,92300372,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T20:05:23.000Z,41,95,95.1,39
+20286,Dean Phillips,PD,Rangeley,92300372,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T20:05:23.000Z,41,5,4.9,2
+1036,Joe Biden,PD,Rangeley Plt.,92300373,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:52:31.000Z,10,100,100.0,10
+20286,Dean Phillips,PD,Rangeley Plt.,92300373,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:52:31.000Z,10,0,0.0,0
+1036,Joe Biden,PD,Raymond,92300374,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:56:10.000Z,209,89,89.0,186
+20286,Dean Phillips,PD,Raymond,92300374,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:56:10.000Z,209,11,11.0,23
+1036,Joe Biden,PD,Readfield,92300375,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:39:01.000Z,162,94,93.8,152
+20286,Dean Phillips,PD,Readfield,92300375,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:39:01.000Z,162,6,6.2,10
+1036,Joe Biden,PD,Reed Plt.,92300376,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T18:08:38.000Z,6,83,83.3,5
+20286,Dean Phillips,PD,Reed Plt.,92300376,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T18:08:38.000Z,6,17,16.7,1
+1036,Joe Biden,PD,Richmond,92300377,Joe,True,Biden,DEM,Democratic,91,P,Maine,2024-03-27T20:06:15.000Z,134,89,88.8,119
+20286,Dean Phillips,PD,Richmond,92300377,Dean,False,Phillips,DEM,Democratic,91,P,Maine,2024-03-27T20:06:15.000Z,134,11,11.2,15
+1036,Joe Biden,PD,Ripley,92300378,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T20:35:12.000Z,19,100,100.0,19
+20286,Dean Phillips,PD,Ripley,92300378,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T20:35:12.000Z,19,0,0.0,0
+1036,Joe Biden,PD,Robbinston,92300379,Joe,True,Biden,DEM,Democratic,52,P,Maine,2024-03-08T15:19:43.000Z,11,91,90.9,10
+20286,Dean Phillips,PD,Robbinston,92300379,Dean,False,Phillips,DEM,Democratic,52,P,Maine,2024-03-08T15:19:43.000Z,11,9,9.1,1
+1036,Joe Biden,PD,Rockland,92300380,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:42:14.000Z,412,95,95.1,392
+20286,Dean Phillips,PD,Rockland,92300380,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:42:14.000Z,412,5,4.9,20
+1036,Joe Biden,PD,Rockport,92300381,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T20:06:32.000Z,351,95,95.4,335
+20286,Dean Phillips,PD,Rockport,92300381,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T20:06:32.000Z,351,5,4.6,16
+1036,Joe Biden,PD,Rome,92300383,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-07T19:37:04.000Z,50,84,84.0,42
+20286,Dean Phillips,PD,Rome,92300383,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-07T19:37:04.000Z,50,16,16.0,8
+1036,Joe Biden,PD,Roque Bluffs,92300384,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:20:29.000Z,16,94,93.7,15
+20286,Dean Phillips,PD,Roque Bluffs,92300384,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:20:29.000Z,16,6,6.2,1
+1036,Joe Biden,PD,Roxbury,92300385,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-27T20:06:54.000Z,17,71,70.6,12
+20286,Dean Phillips,PD,Roxbury,92300385,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-27T20:06:54.000Z,17,29,29.4,5
+1036,Joe Biden,PD,Rumford,92300386,Joe,True,Biden,DEM,Democratic,63,P,Maine,2024-03-06T20:30:51.000Z,128,94,93.7,120
+20286,Dean Phillips,PD,Rumford,92300386,Dean,False,Phillips,DEM,Democratic,63,P,Maine,2024-03-06T20:30:51.000Z,128,6,6.2,8
+1036,Joe Biden,PD,Sabattus,92300387,Joe,True,Biden,DEM,Democratic,87,P,Maine,2024-03-27T20:07:11.000Z,111,81,81.1,90
+20286,Dean Phillips,PD,Sabattus,92300387,Dean,False,Phillips,DEM,Democratic,87,P,Maine,2024-03-27T20:07:11.000Z,111,19,18.9,21
+1036,Joe Biden,PD,Saco,92300388,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:23:39.000Z,1027,93,92.5,950
+20286,Dean Phillips,PD,Saco,92300388,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:23:39.000Z,1027,7,7.5,77
+1036,Joe Biden,PD,Sandy River Plt.,92300394,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:45.000Z,20,100,100.0,20
+20286,Dean Phillips,PD,Sandy River Plt.,92300394,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:45.000Z,20,0,0.0,0
+1036,Joe Biden,PD,Sanford,92300395,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:24:57.000Z,612,91,91.2,558
+20286,Dean Phillips,PD,Sanford,92300395,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:24:57.000Z,612,9,8.8,54
+1036,Joe Biden,PD,Sangerville,92300396,Joe,True,Biden,DEM,Democratic,87,P,Maine,2024-03-27T20:07:50.000Z,34,97,97.1,33
+20286,Dean Phillips,PD,Sangerville,92300396,Dean,False,Phillips,DEM,Democratic,87,P,Maine,2024-03-27T20:07:50.000Z,34,3,2.9,1
+1036,Joe Biden,PD,Scarborough,92300397,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:19:13.000Z,1356,95,95.1,1289
+20286,Dean Phillips,PD,Scarborough,92300397,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:19:13.000Z,1356,5,4.9,67
+1036,Joe Biden,PD,Searsmont,92300398,Joe,True,Biden,DEM,Democratic,78,P,Maine,2024-03-06T14:40:43.000Z,69,94,94.2,65
+20286,Dean Phillips,PD,Searsmont,92300398,Dean,False,Phillips,DEM,Democratic,78,P,Maine,2024-03-06T14:40:43.000Z,69,6,5.8,4
+1036,Joe Biden,PD,Searsport,92300399,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:37:49.000Z,233,94,94.0,219
+20286,Dean Phillips,PD,Searsport,92300399,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:37:49.000Z,233,6,6.0,14
+1036,Joe Biden,PD,Sebago,92300400,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T19:41:58.000Z,100,87,87.0,87
+20286,Dean Phillips,PD,Sebago,92300400,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T19:41:58.000Z,100,13,13.0,13
+1036,Joe Biden,PD,Sebec,92300401,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T17:28:34.000Z,24,83,83.3,20
+20286,Dean Phillips,PD,Sebec,92300401,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T17:28:34.000Z,24,17,16.7,4
+1036,Joe Biden,PD,Seboeis Plt.,92300402,Joe,True,Biden,DEM,Democratic,83,P,Maine,2024-03-06T02:58:13.000Z,5,100,100.0,5
+20286,Dean Phillips,PD,Seboeis Plt.,92300402,Dean,False,Phillips,DEM,Democratic,83,P,Maine,2024-03-06T02:58:13.000Z,5,0,0.0,0
+1036,Joe Biden,PD,Sedgwick,92300403,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:26:32.000Z,125,97,96.8,121
+20286,Dean Phillips,PD,Sedgwick,92300403,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:26:32.000Z,125,3,3.2,4
+1036,Joe Biden,PD,Shapleigh,92300404,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T06:23:09.000Z,130,88,87.7,114
+20286,Dean Phillips,PD,Shapleigh,92300404,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T06:23:09.000Z,130,12,12.3,16
+1036,Joe Biden,PD,Sherman,92300405,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-06T01:56:19.000Z,14,86,85.7,12
+20286,Dean Phillips,PD,Sherman,92300405,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-06T01:56:19.000Z,14,14,14.3,2
+1036,Joe Biden,PD,Shirley,92300406,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T04:07:27.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Shirley,92300406,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T04:07:27.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Sidney,92300407,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:18:02.000Z,140,89,88.6,124
+20286,Dean Phillips,PD,Sidney,92300407,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:18:02.000Z,140,11,11.4,16
+1036,Joe Biden,PD,Skowhegan,92300409,Joe,True,Biden,DEM,Democratic,81,P,Maine,2024-03-06T14:34:12.000Z,218,89,89.4,195
+20286,Dean Phillips,PD,Skowhegan,92300409,Dean,False,Phillips,DEM,Democratic,81,P,Maine,2024-03-06T14:34:12.000Z,218,11,10.6,23
+1036,Joe Biden,PD,Smithfield,92300410,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:11:13.000Z,43,86,86.0,37
+20286,Dean Phillips,PD,Smithfield,92300410,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:11:13.000Z,43,5,4.7,2
+1036,Joe Biden,PD,Smyrna,92300411,Joe,True,Biden,DEM,Democratic,40,P,Maine,2024-03-07T15:29:35.000Z,2,50,50.0,1
+20286,Dean Phillips,PD,Smyrna,92300411,Dean,False,Phillips,DEM,Democratic,40,P,Maine,2024-03-07T15:29:35.000Z,2,50,50.0,1
+1036,Joe Biden,PD,Solon,92300412,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:46.000Z,35,80,80.0,28
+20286,Dean Phillips,PD,Solon,92300412,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:46.000Z,35,6,5.7,2
+1036,Joe Biden,PD,Somerset Cty Townships,92300534,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T20:21:42.000Z,15,87,86.7,13
+20286,Dean Phillips,PD,Somerset Cty Townships,92300534,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T20:21:42.000Z,15,13,13.3,2
+1036,Joe Biden,PD,Somerville,92300413,Joe,True,Biden,DEM,Democratic,85,P,Maine,2024-03-27T20:09:00.000Z,34,97,97.1,33
+20286,Dean Phillips,PD,Somerville,92300413,Dean,False,Phillips,DEM,Democratic,85,P,Maine,2024-03-27T20:09:00.000Z,34,3,2.9,1
+1036,Joe Biden,PD,Sorrento,92300414,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T19:32:28.000Z,25,100,100.0,25
+20286,Dean Phillips,PD,Sorrento,92300414,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T19:32:28.000Z,25,0,0.0,0
+1036,Joe Biden,PD,South Berwick,92300415,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:10:02.000Z,396,89,89.4,354
+20286,Dean Phillips,PD,South Berwick,92300415,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:10:02.000Z,396,11,10.6,42
+1036,Joe Biden,PD,South Bristol,92300416,Joe,True,Biden,DEM,Democratic,98,P,Maine,2024-03-27T20:09:17.000Z,123,96,95.9,118
+20286,Dean Phillips,PD,South Bristol,92300416,Dean,False,Phillips,DEM,Democratic,98,P,Maine,2024-03-27T20:09:17.000Z,123,4,4.1,5
+1036,Joe Biden,PD,South Portland,92300418,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-06-15T22:24:24.000Z,2019,95,94.6,1910
+20286,Dean Phillips,PD,South Portland,92300418,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-06-15T22:24:24.000Z,2019,5,5.4,109
+1036,Joe Biden,PD,South Thomaston,92300419,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T21:28:46.000Z,133,95,95.5,127
+20286,Dean Phillips,PD,South Thomaston,92300419,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T21:28:46.000Z,133,5,4.5,6
+1036,Joe Biden,PD,Southport,92300417,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:37:29.000Z,88,99,98.9,87
+20286,Dean Phillips,PD,Southport,92300417,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:37:29.000Z,88,1,1.1,1
+1036,Joe Biden,PD,Southwest Harbor,92300420,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:45:10.000Z,171,89,89.5,153
+20286,Dean Phillips,PD,Southwest Harbor,92300420,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:45:10.000Z,171,5,5.2,9
+1036,Joe Biden,PD,Springfield,92300421,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:43.000Z,3,100,100.0,3
+20286,Dean Phillips,PD,Springfield,92300421,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:43.000Z,3,0,0.0,0
+1036,Joe Biden,PD,St. Agatha,92300389,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:43:17.000Z,49,92,91.8,45
+20286,Dean Phillips,PD,St. Agatha,92300389,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:43:17.000Z,49,8,8.2,4
+1036,Joe Biden,PD,St. Albans,92300390,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:18:02.000Z,46,91,91.3,42
+20286,Dean Phillips,PD,St. Albans,92300390,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:18:02.000Z,46,9,8.7,4
+1036,Joe Biden,PD,St. Francis,92300391,Joe,True,Biden,DEM,Democratic,33,P,Maine,2024-03-07T21:28:03.000Z,6,83,83.3,5
+20286,Dean Phillips,PD,St. Francis,92300391,Dean,False,Phillips,DEM,Democratic,33,P,Maine,2024-03-07T21:28:03.000Z,6,17,16.7,1
+1036,Joe Biden,PD,St. George,92300392,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:38:33.000Z,243,97,96.7,235
+20286,Dean Phillips,PD,St. George,92300392,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:38:33.000Z,243,3,3.3,8
+1036,Joe Biden,PD,St. John Plt.,92300393,Joe,True,Biden,DEM,Democratic,59,P,Maine,2024-03-26T18:26:43.000Z,10,70,70.0,7
+20286,Dean Phillips,PD,St. John Plt.,92300393,Dean,False,Phillips,DEM,Democratic,59,P,Maine,2024-03-26T18:26:43.000Z,10,30,30.0,3
+1036,Joe Biden,PD,Stacyville,92300422,Joe,True,Biden,DEM,Democratic,80,P,Maine,2024-03-06T19:15:27.000Z,4,100,100.0,4
+20286,Dean Phillips,PD,Stacyville,92300422,Dean,False,Phillips,DEM,Democratic,80,P,Maine,2024-03-06T19:15:27.000Z,4,0,0.0,0
+1036,Joe Biden,PD,Standish,92300423,Joe,True,Biden,DEM,Democratic,98,P,Maine,2024-03-27T20:09:51.000Z,385,88,88.1,339
+20286,Dean Phillips,PD,Standish,92300423,Dean,False,Phillips,DEM,Democratic,98,P,Maine,2024-03-27T20:09:51.000Z,385,12,11.9,46
+1036,Joe Biden,PD,Starks,92300424,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:48:14.000Z,31,94,93.5,29
+20286,Dean Phillips,PD,Starks,92300424,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:48:14.000Z,31,6,6.5,2
+1036,Joe Biden,PD,Stetson,92300425,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:25:35.000Z,26,88,88.5,23
+20286,Dean Phillips,PD,Stetson,92300425,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:25:35.000Z,26,4,3.8,1
+1036,Joe Biden,PD,Steuben,92300426,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:32:59.000Z,80,85,85.0,68
+20286,Dean Phillips,PD,Steuben,92300426,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:32:59.000Z,80,15,15.0,12
+1036,Joe Biden,PD,Stockholm,92300427,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T20:10:04.000Z,15,93,93.3,14
+20286,Dean Phillips,PD,Stockholm,92300427,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T20:10:04.000Z,15,7,6.7,1
+1036,Joe Biden,PD,Stockton Springs,92300428,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T19:03:20.000Z,118,93,93.2,110
+20286,Dean Phillips,PD,Stockton Springs,92300428,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T19:03:20.000Z,118,7,6.8,8
+1036,Joe Biden,PD,Stoneham,92300429,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:57:53.000Z,18,94,94.4,17
+20286,Dean Phillips,PD,Stoneham,92300429,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:57:53.000Z,18,6,5.6,1
+1036,Joe Biden,PD,Stonington,92300430,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T06:29:49.000Z,120,94,94.2,113
+20286,Dean Phillips,PD,Stonington,92300430,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T06:29:49.000Z,120,6,5.8,7
+1036,Joe Biden,PD,Stow,92300431,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-07T15:38:25.000Z,18,100,100.0,18
+20286,Dean Phillips,PD,Stow,92300431,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-07T15:38:25.000Z,18,0,0.0,0
+1036,Joe Biden,PD,Strong,92300432,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:31:12.000Z,45,82,82.2,37
+20286,Dean Phillips,PD,Strong,92300432,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:31:12.000Z,45,13,13.3,6
+1036,Joe Biden,PD,Sullivan,92300433,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-26T18:26:38.000Z,49,90,89.8,44
+20286,Dean Phillips,PD,Sullivan,92300433,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-26T18:26:38.000Z,49,8,8.2,4
+1036,Joe Biden,PD,Sumner,92300434,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:38.000Z,39,74,74.4,29
+20286,Dean Phillips,PD,Sumner,92300434,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:38.000Z,39,8,7.7,3
+1036,Joe Biden,PD,Surry,92300435,Joe,True,Biden,DEM,Democratic,75,P,Maine,2024-03-06T15:00:30.000Z,104,95,95.2,99
+20286,Dean Phillips,PD,Surry,92300435,Dean,False,Phillips,DEM,Democratic,75,P,Maine,2024-03-06T15:00:30.000Z,104,5,4.8,5
+1036,Joe Biden,PD,Swan's Island,92300436,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:58:03.000Z,23,83,82.6,19
+20286,Dean Phillips,PD,Swan's Island,92300436,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:58:03.000Z,23,17,17.4,4
+1036,Joe Biden,PD,Swanville,92300437,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:35:10.000Z,65,71,70.8,46
+20286,Dean Phillips,PD,Swanville,92300437,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:35:10.000Z,65,8,7.7,5
+1036,Joe Biden,PD,Sweden,92300438,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T16:43:37.000Z,28,93,92.9,26
+20286,Dean Phillips,PD,Sweden,92300438,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T16:43:37.000Z,28,7,7.1,2
+1036,Joe Biden,PD,Talmadge,92300441,Joe,True,Biden,DEM,Democratic,33,P,Maine,2024-03-07T16:16:53.000Z,1,100,100.0,1
+20286,Dean Phillips,PD,Talmadge,92300441,Dean,False,Phillips,DEM,Democratic,33,P,Maine,2024-03-07T16:16:53.000Z,1,0,0.0,0
+1036,Joe Biden,PD,Temple,92300442,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T16:16:18.000Z,39,90,89.7,35
+20286,Dean Phillips,PD,Temple,92300442,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T16:16:18.000Z,39,10,10.3,4
+1036,Joe Biden,PD,The Forks Plt.,92300443,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:30:54.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,The Forks Plt.,92300443,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:30:54.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Thomaston,92300444,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T03:47:27.000Z,175,91,91.4,160
+20286,Dean Phillips,PD,Thomaston,92300444,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T03:47:27.000Z,175,9,8.6,15
+1036,Joe Biden,PD,Thorndike,92300445,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:21:46.000Z,35,89,88.6,31
+20286,Dean Phillips,PD,Thorndike,92300445,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:21:46.000Z,35,11,11.4,4
+1036,Joe Biden,PD,Topsfield,92300446,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:29.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Topsfield,92300446,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:29.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Topsham,92300447,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:09:19.000Z,717,95,94.7,679
+20286,Dean Phillips,PD,Topsham,92300447,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:09:19.000Z,717,5,5.3,38
+1036,Joe Biden,PD,Tremont,92300450,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:04:32.000Z,96,96,95.8,92
+20286,Dean Phillips,PD,Tremont,92300450,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:04:32.000Z,96,4,4.2,4
+1036,Joe Biden,PD,Trenton,92300451,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:48:21.000Z,68,97,97.1,66
+20286,Dean Phillips,PD,Trenton,92300451,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:48:21.000Z,68,3,2.9,2
+1036,Joe Biden,PD,Troy,92300452,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T17:55:22.000Z,37,92,91.9,34
+20286,Dean Phillips,PD,Troy,92300452,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T17:55:22.000Z,37,8,8.1,3
+1036,Joe Biden,PD,Turner,92300453,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:38:57.000Z,113,86,85.8,97
+20286,Dean Phillips,PD,Turner,92300453,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:38:57.000Z,113,14,14.2,16
+1036,Joe Biden,PD,Union,92300454,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T06:43:52.000Z,139,97,97.1,135
+20286,Dean Phillips,PD,Union,92300454,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T06:43:52.000Z,139,3,2.9,4
+1036,Joe Biden,PD,Unity,92300455,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:54:25.000Z,55,89,89.1,49
+20286,Dean Phillips,PD,Unity,92300455,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:54:25.000Z,55,9,9.1,5
+1036,Joe Biden,PD,Upton,92300456,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-07T21:29:46.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Upton,92300456,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-07T21:29:46.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Van Buren,92300457,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T04:55:00.000Z,74,86,86.5,64
+20286,Dean Phillips,PD,Van Buren,92300457,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T04:55:00.000Z,74,14,13.5,10
+1036,Joe Biden,PD,Vanceboro,92300458,Joe,True,Biden,DEM,Democratic,29,P,Maine,2024-03-26T18:26:49.000Z,2,50,50.0,1
+20286,Dean Phillips,PD,Vanceboro,92300458,Dean,False,Phillips,DEM,Democratic,29,P,Maine,2024-03-26T18:26:49.000Z,2,50,50.0,1
+1036,Joe Biden,PD,Vassalboro,92300459,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:13:50.000Z,142,90,90.1,128
+20286,Dean Phillips,PD,Vassalboro,92300459,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:13:50.000Z,142,10,9.9,14
+1036,Joe Biden,PD,Veazie,92300460,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:21:09.000Z,76,86,85.5,65
+20286,Dean Phillips,PD,Veazie,92300460,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:21:09.000Z,76,5,5.3,4
+1036,Joe Biden,PD,Verona,92300461,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:22:59.000Z,19,95,94.7,18
+20286,Dean Phillips,PD,Verona,92300461,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:22:59.000Z,19,5,5.3,1
+1036,Joe Biden,PD,Vienna,92300462,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:52:23.000Z,37,89,89.2,33
+20286,Dean Phillips,PD,Vienna,92300462,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:52:23.000Z,37,11,10.8,4
+1036,Joe Biden,PD,Vinalhaven,92300463,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:26:11.000Z,98,92,91.8,90
+20286,Dean Phillips,PD,Vinalhaven,92300463,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:26:11.000Z,98,7,7.1,7
+1036,Joe Biden,PD,Wade,92300464,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-06T01:50:37.000Z,6,100,100.0,6
+20286,Dean Phillips,PD,Wade,92300464,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-06T01:50:37.000Z,6,0,0.0,0
+1036,Joe Biden,PD,Waite,92300465,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T16:16:03.000Z,3,67,66.7,2
+20286,Dean Phillips,PD,Waite,92300465,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T16:16:03.000Z,3,33,33.3,1
+1036,Joe Biden,PD,Waldo,92300466,Joe,True,Biden,DEM,Democratic,83,P,Maine,2024-03-27T20:10:25.000Z,30,93,93.3,28
+20286,Dean Phillips,PD,Waldo,92300466,Dean,False,Phillips,DEM,Democratic,83,P,Maine,2024-03-27T20:10:25.000Z,30,7,6.7,2
+1036,Joe Biden,PD,Waldoboro,92300467,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:00:52.000Z,224,95,95.1,213
+20286,Dean Phillips,PD,Waldoboro,92300467,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:00:52.000Z,224,5,4.9,11
+1036,Joe Biden,PD,Wales,92300468,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:38:33.000Z,28,89,89.3,25
+20286,Dean Phillips,PD,Wales,92300468,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:38:33.000Z,28,11,10.7,3
+1036,Joe Biden,PD,Wallagrass,92300469,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T06:40:37.000Z,27,96,96.3,26
+20286,Dean Phillips,PD,Wallagrass,92300469,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T06:40:37.000Z,27,4,3.7,1
+1036,Joe Biden,PD,Waltham,92300470,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-26T18:26:44.000Z,9,78,77.8,7
+20286,Dean Phillips,PD,Waltham,92300470,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-26T18:26:44.000Z,9,22,22.2,2
+1036,Joe Biden,PD,Warren,92300471,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:01:35.000Z,142,84,83.8,119
+20286,Dean Phillips,PD,Warren,92300471,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:01:35.000Z,142,5,4.9,7
+1036,Joe Biden,PD,Washburn,92300472,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:25:35.000Z,13,69,69.2,9
+20286,Dean Phillips,PD,Washburn,92300472,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:25:35.000Z,13,31,30.8,4
+1036,Joe Biden,PD,Washington,92300473,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:04:53.000Z,84,93,92.9,78
+20286,Dean Phillips,PD,Washington,92300473,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:04:53.000Z,84,7,7.1,6
+1036,Joe Biden,PD,Washington Cty Townships,92300535,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:05.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,Washington Cty Townships,92300535,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:05.000Z,0,0,0.0,0
+1036,Joe Biden,PD,Waterboro,92300474,Joe,True,Biden,DEM,Democratic,81,P,Maine,2024-03-06T18:22:52.000Z,203,90,90.1,183
+20286,Dean Phillips,PD,Waterboro,92300474,Dean,False,Phillips,DEM,Democratic,81,P,Maine,2024-03-06T18:22:52.000Z,203,10,9.9,20
+1036,Joe Biden,PD,Waterford,92300475,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T21:38:24.000Z,78,88,88.5,69
+20286,Dean Phillips,PD,Waterford,92300475,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T21:38:24.000Z,78,4,3.8,3
+1036,Joe Biden,PD,Waterville,92300476,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T20:10:44.000Z,562,91,91.5,514
+20286,Dean Phillips,PD,Waterville,92300476,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T20:10:44.000Z,562,9,8.5,48
+1036,Joe Biden,PD,Wayne,92300477,Joe,True,Biden,DEM,Democratic,96,P,Maine,2024-03-27T20:10:56.000Z,118,97,96.6,114
+20286,Dean Phillips,PD,Wayne,92300477,Dean,False,Phillips,DEM,Democratic,96,P,Maine,2024-03-27T20:10:56.000Z,118,3,3.4,4
+1036,Joe Biden,PD,Webster Plt.,92300478,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-26T18:26:42.000Z,2,50,50.0,1
+20286,Dean Phillips,PD,Webster Plt.,92300478,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-26T18:26:42.000Z,2,50,50.0,1
+1036,Joe Biden,PD,Weld,92300479,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T03:37:31.000Z,44,91,90.9,40
+20286,Dean Phillips,PD,Weld,92300479,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T03:37:31.000Z,44,9,9.1,4
+1036,Joe Biden,PD,Wellington,92300480,Joe,True,Biden,DEM,Democratic,90,P,Maine,2024-03-26T18:26:42.000Z,9,100,100.0,9
+20286,Dean Phillips,PD,Wellington,92300480,Dean,False,Phillips,DEM,Democratic,90,P,Maine,2024-03-26T18:26:42.000Z,9,0,0.0,0
+1036,Joe Biden,PD,Wells,92300481,Joe,True,Biden,DEM,Democratic,97,P,Maine,2024-03-27T20:11:17.000Z,785,96,95.8,752
+20286,Dean Phillips,PD,Wells,92300481,Dean,False,Phillips,DEM,Democratic,97,P,Maine,2024-03-27T20:11:17.000Z,785,4,3.7,29
+1036,Joe Biden,PD,Wesley,92300482,Joe,True,Biden,DEM,Democratic,60,P,Maine,2024-03-06T17:51:47.000Z,3,100,100.0,3
+20286,Dean Phillips,PD,Wesley,92300482,Dean,False,Phillips,DEM,Democratic,60,P,Maine,2024-03-06T17:51:47.000Z,3,0,0.0,0
+1036,Joe Biden,PD,West Bath,92300483,Joe,True,Biden,DEM,Democratic,94,P,Maine,2024-03-27T20:11:36.000Z,143,94,93.7,134
+20286,Dean Phillips,PD,West Bath,92300483,Dean,False,Phillips,DEM,Democratic,94,P,Maine,2024-03-27T20:11:36.000Z,143,6,6.3,9
+1036,Joe Biden,PD,West Forks Plt.,92300486,Joe,True,Biden,DEM,Democratic,0,P,Maine,2024-03-05T01:16:16.000Z,0,0,0.0,0
+20286,Dean Phillips,PD,West Forks Plt.,92300486,Dean,False,Phillips,DEM,Democratic,0,P,Maine,2024-03-05T01:16:16.000Z,0,0,0.0,0
+1036,Joe Biden,PD,West Gardiner,92300487,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:05:45.000Z,131,87,87.0,114
+20286,Dean Phillips,PD,West Gardiner,92300487,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:05:45.000Z,131,12,12.2,16
+1036,Joe Biden,PD,West Paris,92300490,Joe,True,Biden,DEM,Democratic,82,P,Maine,2024-03-06T01:43:20.000Z,45,91,91.1,41
+20286,Dean Phillips,PD,West Paris,92300490,Dean,False,Phillips,DEM,Democratic,82,P,Maine,2024-03-06T01:43:20.000Z,45,9,8.9,4
+1036,Joe Biden,PD,Westbrook,92300484,Joe,True,Biden,DEM,Democratic,88,P,Maine,2024-06-15T22:24:02.000Z,714,92,91.6,654
+20286,Dean Phillips,PD,Westbrook,92300484,Dean,False,Phillips,DEM,Democratic,88,P,Maine,2024-06-15T22:24:02.000Z,714,8,8.3,59
+1036,Joe Biden,PD,Westfield,92300485,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-07T16:30:04.000Z,19,89,89.5,17
+20286,Dean Phillips,PD,Westfield,92300485,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-07T16:30:04.000Z,19,11,10.5,2
+1036,Joe Biden,PD,Westmanland,92300488,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:54:41.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Westmanland,92300488,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:54:41.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Weston,92300489,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:49:25.000Z,12,92,91.7,11
+20286,Dean Phillips,PD,Weston,92300489,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:49:25.000Z,12,0,0.0,0
+1036,Joe Biden,PD,Westport,92300491,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T15:25:18.000Z,72,96,95.8,69
+20286,Dean Phillips,PD,Westport,92300491,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T15:25:18.000Z,72,4,4.2,3
+1036,Joe Biden,PD,Whitefield,92300492,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T20:12:09.000Z,119,92,91.6,109
+20286,Dean Phillips,PD,Whitefield,92300492,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T20:12:09.000Z,119,8,8.4,10
+1036,Joe Biden,PD,Whiting,92300493,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T17:47:25.000Z,36,94,94.4,34
+20286,Dean Phillips,PD,Whiting,92300493,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T17:47:25.000Z,36,6,5.6,2
+1036,Joe Biden,PD,Whitneyville,92300494,Joe,True,Biden,DEM,Democratic,44,P,Maine,2024-03-26T18:26:42.000Z,4,100,100.0,4
+20286,Dean Phillips,PD,Whitneyville,92300494,Dean,False,Phillips,DEM,Democratic,44,P,Maine,2024-03-26T18:26:42.000Z,4,0,0.0,0
+1036,Joe Biden,PD,Willimantic,92300495,Joe,True,Biden,DEM,Democratic,71,P,Maine,2024-03-07T17:19:34.000Z,5,80,80.0,4
+20286,Dean Phillips,PD,Willimantic,92300495,Dean,False,Phillips,DEM,Democratic,71,P,Maine,2024-03-07T17:19:34.000Z,5,20,20.0,1
+1036,Joe Biden,PD,Wilton,92300496,Joe,True,Biden,DEM,Democratic,93,P,Maine,2024-03-27T20:12:25.000Z,129,91,91.5,118
+20286,Dean Phillips,PD,Wilton,92300496,Dean,False,Phillips,DEM,Democratic,93,P,Maine,2024-03-27T20:12:25.000Z,129,9,8.5,11
+1036,Joe Biden,PD,Windham,92300497,Joe,True,Biden,DEM,Democratic,89,P,Maine,2024-03-27T20:12:39.000Z,582,92,92.3,537
+20286,Dean Phillips,PD,Windham,92300497,Dean,False,Phillips,DEM,Democratic,89,P,Maine,2024-03-27T20:12:39.000Z,582,8,7.7,45
+1036,Joe Biden,PD,Windsor,92300498,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T02:42:39.000Z,67,81,80.6,54
+20286,Dean Phillips,PD,Windsor,92300498,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T02:42:39.000Z,67,19,19.4,13
+1036,Joe Biden,PD,Winn,92300499,Joe,True,Biden,DEM,Democratic,71,P,Maine,2024-03-06T18:19:56.000Z,5,100,100.0,5
+20286,Dean Phillips,PD,Winn,92300499,Dean,False,Phillips,DEM,Democratic,71,P,Maine,2024-03-06T18:19:56.000Z,5,0,0.0,0
+1036,Joe Biden,PD,Winslow,92300500,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:09:15.000Z,258,88,88.4,228
+20286,Dean Phillips,PD,Winslow,92300500,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:09:15.000Z,258,12,11.6,30
+1036,Joe Biden,PD,Winter Harbor,92300501,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T01:59:24.000Z,44,95,95.5,42
+20286,Dean Phillips,PD,Winter Harbor,92300501,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T01:59:24.000Z,44,5,4.5,2
+1036,Joe Biden,PD,Winterport,92300502,Joe,True,Biden,DEM,Democratic,65,P,Maine,2024-03-07T16:41:11.000Z,99,83,82.8,82
+20286,Dean Phillips,PD,Winterport,92300502,Dean,False,Phillips,DEM,Democratic,65,P,Maine,2024-03-07T16:41:11.000Z,99,5,5.1,5
+1036,Joe Biden,PD,Winterville Plt.,92300503,Joe,True,Biden,DEM,Democratic,86,P,Maine,2024-03-07T19:23:34.000Z,6,100,100.0,6
+20286,Dean Phillips,PD,Winterville Plt.,92300503,Dean,False,Phillips,DEM,Democratic,86,P,Maine,2024-03-07T19:23:34.000Z,6,0,0.0,0
+1036,Joe Biden,PD,Winthrop,92300504,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:32:19.000Z,309,92,91.9,284
+20286,Dean Phillips,PD,Winthrop,92300504,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:32:19.000Z,309,8,8.1,25
+1036,Joe Biden,PD,Wiscasset,92300505,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T14:36:34.000Z,169,93,93.5,158
+20286,Dean Phillips,PD,Wiscasset,92300505,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T14:36:34.000Z,169,7,6.5,11
+1036,Joe Biden,PD,Woodland,92300506,Joe,True,Biden,DEM,Democratic,83,P,Maine,2024-03-06T17:39:21.000Z,25,88,88.0,22
+20286,Dean Phillips,PD,Woodland,92300506,Dean,False,Phillips,DEM,Democratic,83,P,Maine,2024-03-06T17:39:21.000Z,25,12,12.0,3
+1036,Joe Biden,PD,Woodstock,92300507,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-06T17:23:17.000Z,53,89,88.7,47
+20286,Dean Phillips,PD,Woodstock,92300507,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-06T17:23:17.000Z,53,7,7.5,4
+1036,Joe Biden,PD,Woodville,92300508,Joe,True,Biden,DEM,Democratic,67,P,Maine,2024-03-07T19:25:28.000Z,2,100,100.0,2
+20286,Dean Phillips,PD,Woodville,92300508,Dean,False,Phillips,DEM,Democratic,67,P,Maine,2024-03-07T19:25:28.000Z,2,0,0.0,0
+1036,Joe Biden,PD,Woolwich,92300509,Joe,True,Biden,DEM,Democratic,95,P,Maine,2024-03-27T20:13:00.000Z,166,95,94.6,157
+20286,Dean Phillips,PD,Woolwich,92300509,Dean,False,Phillips,DEM,Democratic,95,P,Maine,2024-03-27T20:13:00.000Z,166,5,5.4,9
+1036,Joe Biden,PD,Yarmouth,92300510,Joe,True,Biden,DEM,Democratic,92,P,Maine,2024-03-27T20:13:17.000Z,757,97,96.8,733
+20286,Dean Phillips,PD,Yarmouth,92300510,Dean,False,Phillips,DEM,Democratic,92,P,Maine,2024-03-27T20:13:17.000Z,757,3,3.2,24
+1036,Joe Biden,PD,York,92300511,Joe,True,Biden,DEM,Democratic,99,P,Maine,2024-03-06T02:36:18.000Z,910,93,93.1,847
+20286,Dean Phillips,PD,York,92300511,Dean,False,Phillips,DEM,Democratic,99,P,Maine,2024-03-06T02:36:18.000Z,910,7,6.8,62

@@ -1,0 +1,997 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+8639,Donald Trump,PR,Abbot,92300001,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:09:18.000Z,100,88,88.0,88
+60420,Nikki Haley,PR,Abbot,92300001,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:09:18.000Z,100,11,11.0,11
+8639,Donald Trump,PR,Acton,92300002,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T19:35:56.000Z,358,74,73.7,264
+60420,Nikki Haley,PR,Acton,92300002,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T19:35:56.000Z,358,26,26.0,93
+8639,Donald Trump,PR,Addison,92300003,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:25:55.000Z,153,91,91.5,140
+60420,Nikki Haley,PR,Addison,92300003,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:25:55.000Z,153,7,7.2,11
+8639,Donald Trump,PR,Albion,92300005,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T16:29:38.000Z,230,83,83.0,191
+60420,Nikki Haley,PR,Albion,92300005,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T16:29:38.000Z,230,15,14.8,34
+8639,Donald Trump,PR,Alexander,92300006,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:54:05.000Z,66,91,90.9,60
+60420,Nikki Haley,PR,Alexander,92300006,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:54:05.000Z,66,6,6.1,4
+8639,Donald Trump,PR,Alfred,92300007,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:42:38.000Z,354,72,72.3,256
+60420,Nikki Haley,PR,Alfred,92300007,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:42:38.000Z,354,25,24.6,87
+8639,Donald Trump,PR,Allagash,92300008,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:39:41.000Z,32,91,90.6,29
+60420,Nikki Haley,PR,Allagash,92300008,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:39:41.000Z,32,9,9.4,3
+8639,Donald Trump,PR,Alna,92300009,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:30:33.000Z,84,71,71.4,60
+60420,Nikki Haley,PR,Alna,92300009,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:30:33.000Z,84,29,28.6,24
+8639,Donald Trump,PR,Alton,92300010,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:12:28.000Z,80,87,87.5,70
+60420,Nikki Haley,PR,Alton,92300010,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:12:28.000Z,80,12,12.5,10
+8639,Donald Trump,PR,Amherst,92300011,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:51:22.000Z,42,90,90.5,38
+60420,Nikki Haley,PR,Amherst,92300011,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:51:22.000Z,42,7,7.1,3
+8639,Donald Trump,PR,Amity,92300012,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:43:41.000Z,32,94,93.7,30
+60420,Nikki Haley,PR,Amity,92300012,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:43:41.000Z,32,0,0.0,0
+8639,Donald Trump,PR,Andover,92300013,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:37:20.000Z,118,69,69.5,82
+60420,Nikki Haley,PR,Andover,92300013,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:37:20.000Z,118,29,28.8,34
+8639,Donald Trump,PR,Anson,92300014,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:54:18.000Z,204,86,85.8,175
+60420,Nikki Haley,PR,Anson,92300014,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:54:18.000Z,204,13,13.2,27
+8639,Donald Trump,PR,Appleton,92300015,Donald,False,Trump,REP,Republican,98,P,Maine,2024-03-06T01:49:29.000Z,134,84,84.3,113
+60420,Nikki Haley,PR,Appleton,92300015,Nikki,False,Haley,REP,Republican,98,P,Maine,2024-03-06T01:49:29.000Z,134,15,14.9,20
+8639,Donald Trump,PR,Aroostook Cty Townships,92300528,Donald,False,Trump,REP,Republican,25,P,Maine,2024-03-27T17:28:42.000Z,23,52,52.2,12
+60420,Nikki Haley,PR,Aroostook Cty Townships,92300528,Nikki,False,Haley,REP,Republican,25,P,Maine,2024-03-27T17:28:42.000Z,23,48,47.8,11
+8639,Donald Trump,PR,Arrowsic,92300016,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:45:31.000Z,47,51,51.1,24
+60420,Nikki Haley,PR,Arrowsic,92300016,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:45:31.000Z,47,45,44.7,21
+8639,Donald Trump,PR,Arundel,92300017,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:35:44.000Z,411,76,76.4,314
+60420,Nikki Haley,PR,Arundel,92300017,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:35:44.000Z,411,22,21.9,90
+8639,Donald Trump,PR,Ashland,92300018,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T15:48:52.000Z,106,91,90.6,96
+60420,Nikki Haley,PR,Ashland,92300018,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T15:48:52.000Z,106,9,9.4,10
+8639,Donald Trump,PR,Athens,92300019,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T19:36:13.000Z,85,74,74.1,63
+60420,Nikki Haley,PR,Athens,92300019,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T19:36:13.000Z,85,21,21.2,18
+60420,Nikki Haley,PR,Atkinson,92300020,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-27T17:33:20.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Atkinson,92300020,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-27T17:33:20.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Auburn,92300021,Donald,False,Trump,REP,Republican,91,P,Maine,2024-06-15T22:23:52.000Z,1215,74,74.2,902
+60420,Nikki Haley,PR,Auburn,92300021,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-06-15T22:23:52.000Z,1215,24,23.8,289
+8639,Donald Trump,PR,Augusta,92300022,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T19:36:53.000Z,1110,71,70.6,784
+60420,Nikki Haley,PR,Augusta,92300022,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T19:36:53.000Z,1110,28,27.7,308
+8639,Donald Trump,PR,Aurora,92300023,Donald,False,Trump,REP,Republican,86,P,Maine,2024-03-26T18:26:44.000Z,18,72,72.2,13
+60420,Nikki Haley,PR,Aurora,92300023,Nikki,False,Haley,REP,Republican,86,P,Maine,2024-03-26T18:26:44.000Z,18,22,22.2,4
+8639,Donald Trump,PR,Avon,92300024,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-27T17:45:57.000Z,49,86,85.7,42
+60420,Nikki Haley,PR,Avon,92300024,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-27T17:45:57.000Z,49,12,12.2,6
+8639,Donald Trump,PR,Baileyville,92300025,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:36:34.000Z,90,86,85.6,77
+60420,Nikki Haley,PR,Baileyville,92300025,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:36:34.000Z,90,11,11.1,10
+8639,Donald Trump,PR,Baldwin,92300026,Donald,False,Trump,REP,Republican,97,P,Maine,2024-03-29T19:37:50.000Z,193,83,83.4,161
+60420,Nikki Haley,PR,Baldwin,92300026,Nikki,False,Haley,REP,Republican,97,P,Maine,2024-03-29T19:37:50.000Z,193,17,16.6,32
+8639,Donald Trump,PR,Bangor,92300028,Donald,False,Trump,REP,Republican,80,P,Maine,2024-03-06T01:50:23.000Z,1249,71,70.5,881
+60420,Nikki Haley,PR,Bangor,92300028,Nikki,False,Haley,REP,Republican,80,P,Maine,2024-03-06T01:50:23.000Z,1249,28,27.9,348
+8639,Donald Trump,PR,Bar Harbor,92300029,Donald,False,Trump,REP,Republican,81,P,Maine,2024-03-06T03:28:00.000Z,231,57,57.1,132
+60420,Nikki Haley,PR,Bar Harbor,92300029,Nikki,False,Haley,REP,Republican,81,P,Maine,2024-03-06T03:28:00.000Z,231,42,42.0,97
+8639,Donald Trump,PR,Baring Plt.,92300030,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T20:44:05.000Z,28,79,78.6,22
+60420,Nikki Haley,PR,Baring Plt.,92300030,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T20:44:05.000Z,28,21,21.4,6
+8639,Donald Trump,PR,Bath,92300031,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:38:50.000Z,479,61,61.4,294
+60420,Nikki Haley,PR,Bath,92300031,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:38:50.000Z,479,34,34.2,164
+8639,Donald Trump,PR,Beals,92300032,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-07T00:24:02.000Z,55,91,90.9,50
+60420,Nikki Haley,PR,Beals,92300032,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-07T00:24:02.000Z,55,9,9.1,5
+8639,Donald Trump,PR,Beaver Cove,92300033,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T14:54:00.000Z,27,56,55.6,15
+60420,Nikki Haley,PR,Beaver Cove,92300033,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T14:54:00.000Z,27,44,44.4,12
+8639,Donald Trump,PR,Beddington,92300034,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:30:52.000Z,15,87,86.7,13
+60420,Nikki Haley,PR,Beddington,92300034,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:30:52.000Z,15,13,13.3,2
+8639,Donald Trump,PR,Belfast,92300035,Donald,False,Trump,REP,Republican,86,P,Maine,2024-06-15T22:24:34.000Z,366,66,66.4,243
+60420,Nikki Haley,PR,Belfast,92300035,Nikki,False,Haley,REP,Republican,86,P,Maine,2024-06-15T22:24:34.000Z,366,31,31.4,115
+8639,Donald Trump,PR,Belgrade,92300036,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T19:38:53.000Z,327,70,70.3,230
+60420,Nikki Haley,PR,Belgrade,92300036,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T19:38:53.000Z,327,28,28.1,92
+8639,Donald Trump,PR,Belmont,92300037,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:53:29.000Z,99,85,84.8,84
+60420,Nikki Haley,PR,Belmont,92300037,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:53:29.000Z,99,12,12.1,12
+8639,Donald Trump,PR,Benton,92300039,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:11:45.000Z,266,82,81.6,217
+60420,Nikki Haley,PR,Benton,92300039,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:11:45.000Z,266,17,17.3,46
+8639,Donald Trump,PR,Berwick,92300040,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T04:18:07.000Z,790,79,79.0,624
+60420,Nikki Haley,PR,Berwick,92300040,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T04:18:07.000Z,790,19,19.2,152
+8639,Donald Trump,PR,Bethel,92300041,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:59:36.000Z,266,67,66.5,177
+60420,Nikki Haley,PR,Bethel,92300041,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:59:36.000Z,266,32,32.0,85
+8639,Donald Trump,PR,Biddeford,92300042,Donald,False,Trump,REP,Republican,95,P,Maine,2024-06-15T22:23:14.000Z,829,73,72.6,602
+60420,Nikki Haley,PR,Biddeford,92300042,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-06-15T22:23:14.000Z,829,26,26.3,218
+8639,Donald Trump,PR,Bingham,92300043,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:38:09.000Z,105,80,80.0,84
+60420,Nikki Haley,PR,Bingham,92300043,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:38:09.000Z,105,18,18.1,19
+8639,Donald Trump,PR,Blaine,92300044,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:21:34.000Z,94,89,89.4,84
+60420,Nikki Haley,PR,Blaine,92300044,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:21:34.000Z,94,7,7.4,7
+8639,Donald Trump,PR,Blue Hill,92300045,Donald,False,Trump,REP,Republican,84,P,Maine,2024-03-06T15:14:46.000Z,159,70,69.8,111
+60420,Nikki Haley,PR,Blue Hill,92300045,Nikki,False,Haley,REP,Republican,84,P,Maine,2024-03-06T15:14:46.000Z,159,29,28.9,46
+8639,Donald Trump,PR,Boothbay,92300046,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:16:39.000Z,344,58,58.4,201
+60420,Nikki Haley,PR,Boothbay,92300046,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:16:39.000Z,344,40,39.8,137
+8639,Donald Trump,PR,Boothbay Harbor,92300047,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:55:17.000Z,249,54,53.8,134
+60420,Nikki Haley,PR,Boothbay Harbor,92300047,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:55:17.000Z,249,43,43.0,107
+8639,Donald Trump,PR,Bowdoin,92300048,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:16:29.000Z,389,74,74.0,288
+60420,Nikki Haley,PR,Bowdoin,92300048,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:16:29.000Z,389,22,22.4,87
+8639,Donald Trump,PR,Bowdoinham,92300049,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:52:48.000Z,280,67,66.8,187
+60420,Nikki Haley,PR,Bowdoinham,92300049,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:52:48.000Z,280,30,30.0,84
+8639,Donald Trump,PR,Bowerbank,92300050,Donald,False,Trump,REP,Republican,94,P,Maine,2024-03-08T16:06:09.000Z,29,83,82.8,24
+60420,Nikki Haley,PR,Bowerbank,92300050,Nikki,False,Haley,REP,Republican,94,P,Maine,2024-03-08T16:06:09.000Z,29,17,17.2,5
+8639,Donald Trump,PR,Bradford,92300051,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T16:48:49.000Z,160,84,83.7,134
+60420,Nikki Haley,PR,Bradford,92300051,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T16:48:49.000Z,160,14,14.4,23
+8639,Donald Trump,PR,Bradley,92300052,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T19:40:27.000Z,113,82,82.3,93
+60420,Nikki Haley,PR,Bradley,92300052,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T19:40:27.000Z,113,16,15.9,18
+8639,Donald Trump,PR,Bremen,92300053,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T19:41:20.000Z,65,60,60.0,39
+60420,Nikki Haley,PR,Bremen,92300053,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T19:41:20.000Z,65,40,40.0,26
+8639,Donald Trump,PR,Brewer,92300054,Donald,False,Trump,REP,Republican,85,P,Maine,2024-03-06T02:40:57.000Z,645,75,75.2,485
+60420,Nikki Haley,PR,Brewer,92300054,Nikki,False,Haley,REP,Republican,85,P,Maine,2024-03-06T02:40:57.000Z,645,24,23.6,152
+8639,Donald Trump,PR,Bridgewater,92300055,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:49:18.000Z,56,87,87.5,49
+60420,Nikki Haley,PR,Bridgewater,92300055,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:49:18.000Z,56,12,12.5,7
+8639,Donald Trump,PR,Bridgton,92300056,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:08:04.000Z,559,72,71.9,402
+60420,Nikki Haley,PR,Bridgton,92300056,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:08:04.000Z,559,27,26.8,150
+8639,Donald Trump,PR,Brighton Plt.,92300057,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:48.000Z,11,91,90.9,10
+60420,Nikki Haley,PR,Brighton Plt.,92300057,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:48.000Z,11,9,9.1,1
+8639,Donald Trump,PR,Bristol,92300058,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T06:02:39.000Z,329,63,63.2,208
+60420,Nikki Haley,PR,Bristol,92300058,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T06:02:39.000Z,329,35,35.6,117
+8639,Donald Trump,PR,Brooklin,92300059,Donald,False,Trump,REP,Republican,91,P,Maine,2024-03-07T14:25:15.000Z,59,63,62.7,37
+60420,Nikki Haley,PR,Brooklin,92300059,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-03-07T14:25:15.000Z,59,34,33.9,20
+8639,Donald Trump,PR,Brooks,92300060,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:46:49.000Z,129,71,71.3,92
+60420,Nikki Haley,PR,Brooks,92300060,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:46:49.000Z,129,26,25.6,33
+8639,Donald Trump,PR,Brooksville,92300061,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T16:49:33.000Z,94,56,56.4,53
+60420,Nikki Haley,PR,Brooksville,92300061,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T16:49:33.000Z,94,41,41.5,39
+8639,Donald Trump,PR,Brownfield,92300063,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:31:35.000Z,190,78,77.9,148
+60420,Nikki Haley,PR,Brownfield,92300063,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:31:35.000Z,190,21,21.1,40
+8639,Donald Trump,PR,Brownville,92300064,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:10:41.000Z,156,87,87.2,136
+60420,Nikki Haley,PR,Brownville,92300064,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:10:41.000Z,156,12,11.5,18
+8639,Donald Trump,PR,Brunswick,92300065,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:31:20.000Z,1452,57,56.9,827
+60420,Nikki Haley,PR,Brunswick,92300065,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:31:20.000Z,1452,40,40.1,582
+8639,Donald Trump,PR,Buckfield,92300066,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:31:03.000Z,193,80,79.8,154
+60420,Nikki Haley,PR,Buckfield,92300066,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:31:03.000Z,193,19,19.2,37
+8639,Donald Trump,PR,Bucksport,92300067,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:30:49.000Z,373,76,76.1,284
+60420,Nikki Haley,PR,Bucksport,92300067,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:30:49.000Z,373,22,22.3,83
+8639,Donald Trump,PR,Burlington,92300068,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:40:24.000Z,58,95,94.8,55
+60420,Nikki Haley,PR,Burlington,92300068,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:40:24.000Z,58,5,5.2,3
+8639,Donald Trump,PR,Burnham,92300069,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:52:21.000Z,101,92,92.1,93
+60420,Nikki Haley,PR,Burnham,92300069,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:52:21.000Z,101,6,5.9,6
+8639,Donald Trump,PR,Buxton,92300070,Donald,False,Trump,REP,Republican,91,P,Maine,2024-03-06T03:24:42.000Z,773,75,75.4,583
+60420,Nikki Haley,PR,Buxton,92300070,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-03-06T03:24:42.000Z,773,24,23.7,183
+8639,Donald Trump,PR,Byron,92300071,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T22:32:12.000Z,20,85,85.0,17
+60420,Nikki Haley,PR,Byron,92300071,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T22:32:12.000Z,20,15,15.0,3
+8639,Donald Trump,PR,Calais,92300072,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:48:53.000Z,198,78,77.8,154
+60420,Nikki Haley,PR,Calais,92300072,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:48:53.000Z,198,20,20.2,40
+8639,Donald Trump,PR,Cambridge,92300073,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T16:50:29.000Z,58,91,91.4,53
+60420,Nikki Haley,PR,Cambridge,92300073,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T16:50:29.000Z,58,7,6.9,4
+8639,Donald Trump,PR,Camden,92300074,Donald,False,Trump,REP,Republican,83,P,Maine,2024-03-06T02:06:10.000Z,329,55,54.7,180
+60420,Nikki Haley,PR,Camden,92300074,Nikki,False,Haley,REP,Republican,83,P,Maine,2024-03-06T02:06:10.000Z,329,43,43.2,142
+8639,Donald Trump,PR,Canaan,92300075,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:23:18.000Z,216,83,83.3,180
+60420,Nikki Haley,PR,Canaan,92300075,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:23:18.000Z,216,15,15.3,33
+8639,Donald Trump,PR,Canton,92300076,Donald,False,Trump,REP,Republican,85,P,Maine,2024-03-29T20:30:37.000Z,99,82,81.8,81
+60420,Nikki Haley,PR,Canton,92300076,Nikki,False,Haley,REP,Republican,85,P,Maine,2024-03-29T20:30:37.000Z,99,15,15.2,15
+60420,Nikki Haley,PR,Cape Elizabeth,92300077,Nikki,False,Haley,REP,Republican,74,P,Maine,2024-03-06T02:08:42.000Z,635,52,51.8,329
+8639,Donald Trump,PR,Cape Elizabeth,92300077,Donald,False,Trump,REP,Republican,74,P,Maine,2024-03-06T02:08:42.000Z,635,46,45.8,291
+8639,Donald Trump,PR,Caratunk,92300078,Donald,False,Trump,REP,Republican,94,P,Maine,2024-03-06T18:43:56.000Z,15,73,73.3,11
+60420,Nikki Haley,PR,Caratunk,92300078,Nikki,False,Haley,REP,Republican,94,P,Maine,2024-03-06T18:43:56.000Z,15,27,26.7,4
+8639,Donald Trump,PR,Caribou,92300079,Donald,False,Trump,REP,Republican,90,P,Maine,2024-03-06T03:14:09.000Z,473,76,75.9,359
+60420,Nikki Haley,PR,Caribou,92300079,Nikki,False,Haley,REP,Republican,90,P,Maine,2024-03-06T03:14:09.000Z,473,22,21.8,103
+8639,Donald Trump,PR,Carmel,92300080,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:40:37.000Z,312,86,85.9,268
+60420,Nikki Haley,PR,Carmel,92300080,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:40:37.000Z,312,14,13.8,43
+60420,Nikki Haley,PR,Carrabassett Valley,92300081,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:34:03.000Z,85,61,61.2,52
+8639,Donald Trump,PR,Carrabassett Valley,92300081,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:34:03.000Z,85,39,38.8,33
+8639,Donald Trump,PR,Carroll Plt.,92300082,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:05:05.000Z,25,100,100.0,25
+60420,Nikki Haley,PR,Carroll Plt.,92300082,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:05:05.000Z,25,0,0.0,0
+8639,Donald Trump,PR,Carthage,92300083,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:31:12.000Z,65,94,93.8,61
+60420,Nikki Haley,PR,Carthage,92300083,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:31:12.000Z,65,6,6.2,4
+60420,Nikki Haley,PR,Cary Plt.,92300084,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-27T17:38:47.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Cary Plt.,92300084,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-27T17:38:47.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Casco,92300085,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:50:22.000Z,329,77,77.5,255
+60420,Nikki Haley,PR,Casco,92300085,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:50:22.000Z,329,21,20.7,68
+60420,Nikki Haley,PR,Castine,92300086,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:44:39.000Z,81,51,50.6,41
+8639,Donald Trump,PR,Castine,92300086,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:44:39.000Z,81,49,49.4,40
+8639,Donald Trump,PR,Castle Hill,92300087,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:08:26.000Z,39,87,87.2,34
+60420,Nikki Haley,PR,Castle Hill,92300087,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:08:26.000Z,39,13,12.8,5
+8639,Donald Trump,PR,Caswell,92300088,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:45:16.000Z,24,87,87.5,21
+60420,Nikki Haley,PR,Caswell,92300088,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:45:16.000Z,24,12,12.5,3
+8639,Donald Trump,PR,Chapman,92300090,Donald,False,Trump,REP,Republican,88,P,Maine,2024-03-07T15:33:38.000Z,29,86,86.2,25
+60420,Nikki Haley,PR,Chapman,92300090,Nikki,False,Haley,REP,Republican,88,P,Maine,2024-03-07T15:33:38.000Z,29,14,13.8,4
+8639,Donald Trump,PR,Charleston,92300091,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:30:23.000Z,160,88,88.1,141
+60420,Nikki Haley,PR,Charleston,92300091,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:30:23.000Z,160,10,10.0,16
+8639,Donald Trump,PR,Charlotte,92300092,Donald,False,Trump,REP,Republican,92,P,Maine,2024-03-26T18:26:38.000Z,47,70,70.2,33
+60420,Nikki Haley,PR,Charlotte,92300092,Nikki,False,Haley,REP,Republican,92,P,Maine,2024-03-26T18:26:38.000Z,47,30,29.8,14
+60420,Nikki Haley,PR,Chebeague Island,92300521,Nikki,False,Haley,REP,Republican,83,P,Maine,2024-03-06T17:35:16.000Z,34,53,52.9,18
+8639,Donald Trump,PR,Chebeague Island,92300521,Donald,False,Trump,REP,Republican,83,P,Maine,2024-03-06T17:35:16.000Z,34,44,44.1,15
+8639,Donald Trump,PR,Chelsea,92300093,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:31:29.000Z,253,81,81.4,206
+60420,Nikki Haley,PR,Chelsea,92300093,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:31:29.000Z,253,18,17.8,45
+8639,Donald Trump,PR,Cherryfield,92300094,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:09:28.000Z,176,84,84.1,148
+60420,Nikki Haley,PR,Cherryfield,92300094,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:09:28.000Z,176,11,10.8,19
+8639,Donald Trump,PR,Chester,92300095,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:08:19.000Z,85,84,83.5,71
+60420,Nikki Haley,PR,Chester,92300095,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:08:19.000Z,85,15,15.3,13
+8639,Donald Trump,PR,Chesterville,92300096,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:27:32.000Z,135,73,72.6,98
+60420,Nikki Haley,PR,Chesterville,92300096,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:27:32.000Z,135,26,25.9,35
+8639,Donald Trump,PR,China,92300097,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:30:06.000Z,457,78,78.3,358
+60420,Nikki Haley,PR,China,92300097,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:30:06.000Z,457,20,19.9,91
+8639,Donald Trump,PR,Clifton,92300098,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:29:55.000Z,118,76,76.3,90
+60420,Nikki Haley,PR,Clifton,92300098,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:29:55.000Z,118,22,22.0,26
+8639,Donald Trump,PR,Clinton,92300099,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:29:42.000Z,261,87,86.6,226
+60420,Nikki Haley,PR,Clinton,92300099,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:29:42.000Z,261,12,12.2,32
+8639,Donald Trump,PR,Columbia,92300101,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:18:17.000Z,56,93,92.9,52
+60420,Nikki Haley,PR,Columbia,92300101,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:18:17.000Z,56,7,7.1,4
+8639,Donald Trump,PR,Columbia Falls,92300102,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:42:38.000Z,99,89,88.9,88
+60420,Nikki Haley,PR,Columbia Falls,92300102,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:42:38.000Z,99,10,10.1,10
+8639,Donald Trump,PR,Cooper,92300104,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:43:02.000Z,24,75,75.0,18
+60420,Nikki Haley,PR,Cooper,92300104,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:43:02.000Z,24,17,16.7,4
+8639,Donald Trump,PR,Coplin Plt.,92300105,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:46:46.000Z,23,57,56.5,13
+60420,Nikki Haley,PR,Coplin Plt.,92300105,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:46:46.000Z,23,43,43.5,10
+8639,Donald Trump,PR,Corinna,92300106,Donald,False,Trump,REP,Republican,82,P,Maine,2024-03-06T16:26:37.000Z,196,81,80.6,158
+60420,Nikki Haley,PR,Corinna,92300106,Nikki,False,Haley,REP,Republican,82,P,Maine,2024-03-06T16:26:37.000Z,196,16,16.3,32
+8639,Donald Trump,PR,Corinth,92300107,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:11:01.000Z,276,88,88.4,244
+60420,Nikki Haley,PR,Corinth,92300107,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:11:01.000Z,276,11,10.5,29
+8639,Donald Trump,PR,Cornish,92300108,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:13:58.000Z,140,76,76.4,107
+60420,Nikki Haley,PR,Cornish,92300108,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:13:58.000Z,140,22,22.1,31
+8639,Donald Trump,PR,Cornville,92300109,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:09:02.000Z,144,81,80.6,116
+60420,Nikki Haley,PR,Cornville,92300109,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:09:02.000Z,144,19,19.4,28
+8639,Donald Trump,PR,Cranberry Isles,92300110,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T15:04:46.000Z,20,60,60.0,12
+60420,Nikki Haley,PR,Cranberry Isles,92300110,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T15:04:46.000Z,20,35,35.0,7
+8639,Donald Trump,PR,Crawford,92300111,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,22,86,86.4,19
+60420,Nikki Haley,PR,Crawford,92300111,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,22,14,13.6,3
+8639,Donald Trump,PR,Crystal,92300112,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:00:42.000Z,32,69,68.7,22
+60420,Nikki Haley,PR,Crystal,92300112,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:00:42.000Z,32,31,31.2,10
+60420,Nikki Haley,PR,Cumberland,92300113,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:10:29.000Z,1459,53,53.0,774
+8639,Donald Trump,PR,Cumberland,92300113,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:10:29.000Z,1459,43,43.5,634
+8639,Donald Trump,PR,Cushing,92300114,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:27:49.000Z,196,74,74.0,145
+60420,Nikki Haley,PR,Cushing,92300114,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:27:49.000Z,196,26,25.5,50
+8639,Donald Trump,PR,Cutler,92300115,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:09:07.000Z,80,82,82.5,66
+60420,Nikki Haley,PR,Cutler,92300115,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:09:07.000Z,80,16,16.2,13
+8639,Donald Trump,PR,Cyr Plt.,92300116,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:25:41.000Z,11,91,90.9,10
+60420,Nikki Haley,PR,Cyr Plt.,92300116,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:25:41.000Z,11,9,9.1,1
+8639,Donald Trump,PR,Dallas Plt.,92300117,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:51:51.000Z,51,57,56.9,29
+60420,Nikki Haley,PR,Dallas Plt.,92300117,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:51:51.000Z,51,41,41.2,21
+8639,Donald Trump,PR,Damariscotta,92300118,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:29:29.000Z,175,58,57.7,101
+60420,Nikki Haley,PR,Damariscotta,92300118,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:29:29.000Z,175,37,36.6,64
+8639,Donald Trump,PR,Danforth,92300119,Donald,False,Trump,REP,Republican,88,P,Maine,2024-03-08T14:39:29.000Z,61,87,86.9,53
+60420,Nikki Haley,PR,Danforth,92300119,Nikki,False,Haley,REP,Republican,88,P,Maine,2024-03-08T14:39:29.000Z,61,11,11.5,7
+8639,Donald Trump,PR,Dayton,92300120,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:46:21.000Z,276,77,76.8,212
+60420,Nikki Haley,PR,Dayton,92300120,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:46:21.000Z,276,22,21.7,60
+8639,Donald Trump,PR,Deblois,92300121,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:57:59.000Z,19,100,100.0,19
+60420,Nikki Haley,PR,Deblois,92300121,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:57:59.000Z,19,0,0.0,0
+8639,Donald Trump,PR,Dedham,92300122,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:10:00.000Z,202,64,64.4,130
+60420,Nikki Haley,PR,Dedham,92300122,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:10:00.000Z,202,35,35.1,71
+8639,Donald Trump,PR,Deer Isle,92300123,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:04:51.000Z,187,68,67.9,127
+60420,Nikki Haley,PR,Deer Isle,92300123,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:04:51.000Z,187,29,29.4,55
+8639,Donald Trump,PR,Denmark,92300124,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:41:43.000Z,164,70,70.1,115
+60420,Nikki Haley,PR,Denmark,92300124,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:41:43.000Z,164,30,29.9,49
+8639,Donald Trump,PR,Dennistown Plt.,92300125,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T21:30:44.000Z,13,100,100.0,13
+60420,Nikki Haley,PR,Dennistown Plt.,92300125,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T21:30:44.000Z,13,0,0.0,0
+8639,Donald Trump,PR,Dennysville,92300126,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:47:04.000Z,67,84,83.6,56
+60420,Nikki Haley,PR,Dennysville,92300126,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:47:04.000Z,67,15,14.9,10
+8639,Donald Trump,PR,Detroit,92300127,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:47:35.000Z,47,77,76.6,36
+60420,Nikki Haley,PR,Detroit,92300127,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:47:35.000Z,47,21,21.3,10
+8639,Donald Trump,PR,Dexter,92300128,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:53:04.000Z,305,80,80.0,244
+60420,Nikki Haley,PR,Dexter,92300128,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:53:04.000Z,305,19,19.0,58
+8639,Donald Trump,PR,Dixfield,92300129,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:55:21.000Z,219,80,80.4,176
+60420,Nikki Haley,PR,Dixfield,92300129,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:55:21.000Z,219,18,18.2,40
+8639,Donald Trump,PR,Dixmont,92300130,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-26T18:26:46.000Z,130,85,84.6,110
+60420,Nikki Haley,PR,Dixmont,92300130,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-26T18:26:46.000Z,130,15,15.4,20
+8639,Donald Trump,PR,Dover-Foxcroft,92300131,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:33:22.000Z,448,81,81.5,365
+60420,Nikki Haley,PR,Dover-Foxcroft,92300131,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:33:22.000Z,448,17,17.4,78
+8639,Donald Trump,PR,Dresden,92300132,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:44:48.000Z,202,79,78.7,159
+60420,Nikki Haley,PR,Dresden,92300132,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:44:48.000Z,202,20,19.8,40
+60420,Nikki Haley,PR,Drew Plt.,92300133,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:33.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Drew Plt.,92300133,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:33.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Durham,92300134,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:29:37.000Z,444,67,67.1,298
+60420,Nikki Haley,PR,Durham,92300134,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:29:37.000Z,444,32,31.8,141
+8639,Donald Trump,PR,Dyer Brook,92300135,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:48:08.000Z,38,84,84.2,32
+60420,Nikki Haley,PR,Dyer Brook,92300135,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:48:08.000Z,38,13,13.2,5
+8639,Donald Trump,PR,Eagle Lake,92300136,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:31:07.000Z,71,87,87.3,62
+60420,Nikki Haley,PR,Eagle Lake,92300136,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:31:07.000Z,71,13,12.7,9
+8639,Donald Trump,PR,East Machias,92300138,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:47:47.000Z,162,84,84.0,136
+60420,Nikki Haley,PR,East Machias,92300138,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:47:47.000Z,162,15,14.8,24
+8639,Donald Trump,PR,East Millinocket,92300139,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,138,84,84.1,116
+60420,Nikki Haley,PR,East Millinocket,92300139,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,138,12,12.3,17
+8639,Donald Trump,PR,Eastbrook,92300137,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:51:23.000Z,51,75,74.5,38
+60420,Nikki Haley,PR,Eastbrook,92300137,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:51:23.000Z,51,25,25.5,13
+8639,Donald Trump,PR,Easton,92300140,Donald,False,Trump,REP,Republican,64,P,Maine,2024-03-06T03:36:43.000Z,82,79,79.3,65
+60420,Nikki Haley,PR,Easton,92300140,Nikki,False,Haley,REP,Republican,64,P,Maine,2024-03-06T03:36:43.000Z,82,17,17.1,14
+8639,Donald Trump,PR,Eastport,92300141,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:14:25.000Z,110,82,81.8,90
+60420,Nikki Haley,PR,Eastport,92300141,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:14:25.000Z,110,18,18.2,20
+8639,Donald Trump,PR,Eddington,92300142,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-08T15:49:41.000Z,252,82,82.1,207
+60420,Nikki Haley,PR,Eddington,92300142,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-08T15:49:41.000Z,252,17,17.5,44
+8639,Donald Trump,PR,Edgecomb,92300143,Donald,False,Trump,REP,Republican,96,P,Maine,2024-03-06T01:51:06.000Z,108,55,55.6,60
+60420,Nikki Haley,PR,Edgecomb,92300143,Nikki,False,Haley,REP,Republican,96,P,Maine,2024-03-06T01:51:06.000Z,108,41,40.7,44
+8639,Donald Trump,PR,Edinburg,92300144,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:11:37.000Z,20,85,85.0,17
+60420,Nikki Haley,PR,Edinburg,92300144,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:11:37.000Z,20,15,15.0,3
+8639,Donald Trump,PR,Eliot,92300146,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:17:16.000Z,691,71,70.8,489
+60420,Nikki Haley,PR,Eliot,92300146,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:17:16.000Z,691,28,27.6,191
+8639,Donald Trump,PR,Ellsworth,92300147,Donald,False,Trump,REP,Republican,91,P,Maine,2024-06-15T22:24:13.000Z,640,73,73.3,469
+60420,Nikki Haley,PR,Ellsworth,92300147,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-06-15T22:24:13.000Z,640,25,24.8,159
+8639,Donald Trump,PR,Embden,92300148,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:45:58.000Z,143,76,75.5,108
+60420,Nikki Haley,PR,Embden,92300148,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:45:58.000Z,143,22,22.4,32
+8639,Donald Trump,PR,Enfield,92300149,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:58:47.000Z,142,84,83.8,119
+60420,Nikki Haley,PR,Enfield,92300149,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:58:47.000Z,142,15,15.5,22
+8639,Donald Trump,PR,Etna,92300150,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:40:18.000Z,121,89,89.3,108
+60420,Nikki Haley,PR,Etna,92300150,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:40:18.000Z,121,8,8.3,10
+8639,Donald Trump,PR,Eustis,92300151,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:29:12.000Z,110,78,78.2,86
+60420,Nikki Haley,PR,Eustis,92300151,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:29:12.000Z,110,20,20.0,22
+8639,Donald Trump,PR,Exeter,92300152,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-06T14:45:12.000Z,103,80,79.6,82
+60420,Nikki Haley,PR,Exeter,92300152,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-06T14:45:12.000Z,103,19,19.4,20
+8639,Donald Trump,PR,Fairfield,92300153,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:39:20.000Z,410,82,81.7,335
+60420,Nikki Haley,PR,Fairfield,92300153,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:39:20.000Z,410,16,16.3,67
+8639,Donald Trump,PR,Falmouth,92300154,Donald,False,Trump,REP,Republican,88,P,Maine,2024-03-06T01:48:36.000Z,1061,49,49.6,526
+60420,Nikki Haley,PR,Falmouth,92300154,Nikki,False,Haley,REP,Republican,88,P,Maine,2024-03-06T01:48:36.000Z,1061,49,48.9,519
+8639,Donald Trump,PR,Farmingdale,92300155,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:51:09.000Z,244,75,75.4,184
+60420,Nikki Haley,PR,Farmingdale,92300155,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:51:09.000Z,244,23,23.4,57
+8639,Donald Trump,PR,Farmington,92300156,Donald,False,Trump,REP,Republican,66,P,Maine,2024-03-29T20:29:01.000Z,477,65,65.4,312
+60420,Nikki Haley,PR,Farmington,92300156,Nikki,False,Haley,REP,Republican,66,P,Maine,2024-03-29T20:29:01.000Z,477,33,32.9,157
+8639,Donald Trump,PR,Fayette,92300157,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:28:46.000Z,160,76,75.6,121
+60420,Nikki Haley,PR,Fayette,92300157,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:28:46.000Z,160,22,21.9,35
+8639,Donald Trump,PR,Fort Fairfield,92300158,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:01:46.000Z,191,85,84.8,162
+60420,Nikki Haley,PR,Fort Fairfield,92300158,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:01:46.000Z,191,15,14.7,28
+8639,Donald Trump,PR,Fort Kent,92300159,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:45.000Z,235,87,87.2,205
+60420,Nikki Haley,PR,Fort Kent,92300159,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:45.000Z,235,11,11.1,26
+8639,Donald Trump,PR,Frankfort,92300160,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:42:41.000Z,99,82,81.8,81
+60420,Nikki Haley,PR,Frankfort,92300160,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:42:41.000Z,99,16,16.2,16
+8639,Donald Trump,PR,Franklin,92300161,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:28:32.000Z,158,77,77.2,122
+60420,Nikki Haley,PR,Franklin,92300161,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:28:32.000Z,158,21,20.9,33
+60420,Nikki Haley,PR,Franklin Cty Townships,92300529,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:43.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Franklin Cty Townships,92300529,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:43.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Freedom,92300162,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:19:17.000Z,84,85,84.5,71
+60420,Nikki Haley,PR,Freedom,92300162,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:19:17.000Z,84,15,15.5,13
+8639,Donald Trump,PR,Freeport,92300163,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:28:22.000Z,635,57,57.3,364
+60420,Nikki Haley,PR,Freeport,92300163,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:28:22.000Z,635,42,41.7,265
+8639,Donald Trump,PR,Frenchboro,92300164,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:31:55.000Z,8,87,87.5,7
+60420,Nikki Haley,PR,Frenchboro,92300164,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:31:55.000Z,8,12,12.5,1
+8639,Donald Trump,PR,Frenchville,92300165,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:58:58.000Z,92,91,91.3,84
+60420,Nikki Haley,PR,Frenchville,92300165,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:58:58.000Z,92,9,8.7,8
+8639,Donald Trump,PR,Friendship,92300166,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:30:03.000Z,196,76,76.5,150
+60420,Nikki Haley,PR,Friendship,92300166,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:30:03.000Z,196,21,20.9,41
+8639,Donald Trump,PR,Frye Island,92300514,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:52:07.000Z,8,75,75.0,6
+60420,Nikki Haley,PR,Frye Island,92300514,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:52:07.000Z,8,25,25.0,2
+8639,Donald Trump,PR,Fryeburg,92300167,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:29:19.000Z,315,66,66.0,208
+60420,Nikki Haley,PR,Fryeburg,92300167,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:29:19.000Z,315,33,33.0,104
+8639,Donald Trump,PR,Gardiner,92300168,Donald,False,Trump,REP,Republican,83,P,Maine,2024-03-29T20:27:52.000Z,354,76,76.0,269
+60420,Nikki Haley,PR,Gardiner,92300168,Nikki,False,Haley,REP,Republican,83,P,Maine,2024-03-29T20:27:52.000Z,354,22,22.3,79
+8639,Donald Trump,PR,Garfield Plt.,92300169,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:57:11.000Z,12,83,83.3,10
+60420,Nikki Haley,PR,Garfield Plt.,92300169,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:57:11.000Z,12,17,16.7,2
+8639,Donald Trump,PR,Garland,92300170,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-27T19:42:14.000Z,137,84,84.7,116
+60420,Nikki Haley,PR,Garland,92300170,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-27T19:42:14.000Z,137,14,13.9,19
+8639,Donald Trump,PR,Georgetown,92300171,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:27:41.000Z,137,59,59.1,81
+60420,Nikki Haley,PR,Georgetown,92300171,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:27:41.000Z,137,40,40.1,55
+8639,Donald Trump,PR,Gilead,92300172,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:07:16.000Z,31,74,74.2,23
+60420,Nikki Haley,PR,Gilead,92300172,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:07:16.000Z,31,23,22.6,7
+8639,Donald Trump,PR,Glenburn,92300173,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:56:11.000Z,386,76,76.4,295
+60420,Nikki Haley,PR,Glenburn,92300173,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:56:11.000Z,386,22,21.8,84
+60420,Nikki Haley,PR,Glenwood Plt.,92300174,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:17.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Glenwood Plt.,92300174,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:17.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Gorham,92300175,Donald,False,Trump,REP,Republican,74,P,Maine,2024-03-29T20:27:30.000Z,1360,63,63.2,860
+60420,Nikki Haley,PR,Gorham,92300175,Nikki,False,Haley,REP,Republican,74,P,Maine,2024-03-29T20:27:30.000Z,1360,35,35.2,479
+8639,Donald Trump,PR,Gouldsboro,92300176,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:40:07.000Z,259,76,76.0,197
+60420,Nikki Haley,PR,Gouldsboro,92300176,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:40:07.000Z,259,23,23.2,60
+8639,Donald Trump,PR,Grand Isle,92300177,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:50:11.000Z,23,87,87.0,20
+60420,Nikki Haley,PR,Grand Isle,92300177,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:50:11.000Z,23,9,8.7,2
+8639,Donald Trump,PR,Grand Lake Stream Plt,92300178,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:36.000Z,26,96,96.2,25
+60420,Nikki Haley,PR,Grand Lake Stream Plt,92300178,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:36.000Z,26,4,3.8,1
+8639,Donald Trump,PR,Gray,92300179,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:13:46.000Z,729,72,72.4,528
+60420,Nikki Haley,PR,Gray,92300179,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:13:46.000Z,729,27,26.7,195
+8639,Donald Trump,PR,Great Pond,92300180,Donald,False,Trump,REP,Republican,73,P,Maine,2024-03-08T15:47:42.000Z,8,75,75.0,6
+60420,Nikki Haley,PR,Great Pond,92300180,Nikki,False,Haley,REP,Republican,73,P,Maine,2024-03-08T15:47:42.000Z,8,25,25.0,2
+8639,Donald Trump,PR,Greenbush,92300181,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:44.000Z,125,83,83.2,104
+60420,Nikki Haley,PR,Greenbush,92300181,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:44.000Z,125,17,16.8,21
+8639,Donald Trump,PR,Greene,92300182,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:36:59.000Z,423,84,84.4,357
+60420,Nikki Haley,PR,Greene,92300182,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:36:59.000Z,423,15,15.4,65
+8639,Donald Trump,PR,Greenville,92300183,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:27:18.000Z,235,74,74.0,174
+60420,Nikki Haley,PR,Greenville,92300183,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:27:18.000Z,235,25,24.7,58
+8639,Donald Trump,PR,Greenwood,92300184,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:46:33.000Z,96,79,79.2,76
+60420,Nikki Haley,PR,Greenwood,92300184,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:46:33.000Z,96,21,20.8,20
+8639,Donald Trump,PR,Guilford,92300186,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:53:33.000Z,133,83,82.7,110
+60420,Nikki Haley,PR,Guilford,92300186,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:53:33.000Z,133,16,16.5,22
+8639,Donald Trump,PR,Hallowell,92300187,Donald,False,Trump,REP,Republican,92,P,Maine,2024-03-06T02:36:59.000Z,171,57,56.7,97
+60420,Nikki Haley,PR,Hallowell,92300187,Nikki,False,Haley,REP,Republican,92,P,Maine,2024-03-06T02:36:59.000Z,171,40,40.3,69
+8639,Donald Trump,PR,Hamlin,92300188,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:43:40.000Z,23,69,69.6,16
+60420,Nikki Haley,PR,Hamlin,92300188,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:43:40.000Z,23,22,21.7,5
+8639,Donald Trump,PR,Hammond,92300189,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:48:38.000Z,13,85,84.6,11
+60420,Nikki Haley,PR,Hammond,92300189,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:48:38.000Z,13,15,15.4,2
+8639,Donald Trump,PR,Hampden,92300190,Donald,False,Trump,REP,Republican,87,P,Maine,2024-03-06T01:47:39.000Z,648,72,71.6,464
+60420,Nikki Haley,PR,Hampden,92300190,Nikki,False,Haley,REP,Republican,87,P,Maine,2024-03-06T01:47:39.000Z,648,26,26.5,172
+8639,Donald Trump,PR,Hancock,92300191,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:54:10.000Z,242,79,78.9,191
+60420,Nikki Haley,PR,Hancock,92300191,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:54:10.000Z,242,20,19.8,48
+60420,Nikki Haley,PR,Hancock Cty Townships,92300530,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:21.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Hancock Cty Townships,92300530,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:21.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Hanover,92300192,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:48.000Z,32,66,65.6,21
+60420,Nikki Haley,PR,Hanover,92300192,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:48.000Z,32,34,34.4,11
+8639,Donald Trump,PR,Harmony,92300193,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:20:47.000Z,102,88,88.2,90
+60420,Nikki Haley,PR,Harmony,92300193,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:20:47.000Z,102,12,11.8,12
+8639,Donald Trump,PR,Harpswell,92300194,Donald,False,Trump,REP,Republican,99,P,Maine,2024-06-15T22:24:46.000Z,698,62,61.9,432
+60420,Nikki Haley,PR,Harpswell,92300194,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-06-15T22:24:46.000Z,698,35,35.1,245
+8639,Donald Trump,PR,Harrington,92300195,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:42:41.000Z,120,91,90.8,109
+60420,Nikki Haley,PR,Harrington,92300195,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:42:41.000Z,120,8,8.3,10
+8639,Donald Trump,PR,Harrison,92300196,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:24:28.000Z,280,70,69.6,195
+60420,Nikki Haley,PR,Harrison,92300196,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:24:28.000Z,280,29,29.6,83
+8639,Donald Trump,PR,Hartford,92300197,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:02:17.000Z,124,79,79.0,98
+60420,Nikki Haley,PR,Hartford,92300197,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:02:17.000Z,124,20,20.2,25
+8639,Donald Trump,PR,Hartland,92300198,Donald,False,Trump,REP,Republican,90,P,Maine,2024-03-07T16:25:24.000Z,174,87,86.8,151
+60420,Nikki Haley,PR,Hartland,92300198,Nikki,False,Haley,REP,Republican,90,P,Maine,2024-03-07T16:25:24.000Z,174,12,12.0,21
+8639,Donald Trump,PR,Haynesville,92300199,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:36:45.000Z,8,87,87.5,7
+60420,Nikki Haley,PR,Haynesville,92300199,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:36:45.000Z,8,12,12.5,1
+8639,Donald Trump,PR,Hebron,92300200,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:28:26.000Z,116,74,74.1,86
+60420,Nikki Haley,PR,Hebron,92300200,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:28:26.000Z,116,20,19.8,23
+8639,Donald Trump,PR,Hermon,92300201,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:32:39.000Z,633,79,79.0,500
+60420,Nikki Haley,PR,Hermon,92300201,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:32:39.000Z,633,19,19.3,122
+8639,Donald Trump,PR,Hersey,92300202,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:56:21.000Z,10,90,90.0,9
+60420,Nikki Haley,PR,Hersey,92300202,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:56:21.000Z,10,10,10.0,1
+8639,Donald Trump,PR,Highland Plt.,92300203,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:57:42.000Z,20,60,60.0,12
+60420,Nikki Haley,PR,Highland Plt.,92300203,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:57:42.000Z,20,40,40.0,8
+8639,Donald Trump,PR,Hiram,92300204,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:46:15.000Z,132,80,80.3,106
+60420,Nikki Haley,PR,Hiram,92300204,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:46:15.000Z,132,18,18.2,24
+8639,Donald Trump,PR,Hodgdon,92300205,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:02:32.000Z,204,89,88.7,181
+60420,Nikki Haley,PR,Hodgdon,92300205,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:02:32.000Z,204,9,8.8,18
+8639,Donald Trump,PR,Holden,92300206,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-06T02:02:27.000Z,347,74,74.3,258
+60420,Nikki Haley,PR,Holden,92300206,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-06T02:02:27.000Z,347,25,24.8,86
+8639,Donald Trump,PR,Hollis,92300207,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-06T03:19:02.000Z,477,74,74.4,355
+60420,Nikki Haley,PR,Hollis,92300207,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-06T03:19:02.000Z,477,23,23.1,110
+8639,Donald Trump,PR,Hope,92300208,Donald,False,Trump,REP,Republican,94,P,Maine,2024-03-06T14:39:14.000Z,162,66,66.0,107
+60420,Nikki Haley,PR,Hope,92300208,Nikki,False,Haley,REP,Republican,94,P,Maine,2024-03-06T14:39:14.000Z,162,33,32.7,53
+8639,Donald Trump,PR,Houlton,92300209,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:28:19.000Z,386,86,86.3,333
+60420,Nikki Haley,PR,Houlton,92300209,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:28:19.000Z,386,11,11.4,44
+8639,Donald Trump,PR,Howland,92300210,Donald,False,Trump,REP,Republican,90,P,Maine,2024-03-29T20:27:07.000Z,82,88,87.8,72
+60420,Nikki Haley,PR,Howland,92300210,Nikki,False,Haley,REP,Republican,90,P,Maine,2024-03-29T20:27:07.000Z,82,11,11.0,9
+8639,Donald Trump,PR,Hudson,92300211,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:03:18.000Z,143,85,84.6,121
+60420,Nikki Haley,PR,Hudson,92300211,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:03:18.000Z,143,14,14.0,20
+8639,Donald Trump,PR,Indian Township Vtng Dst,92300214,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:32:02.000Z,10,90,90.0,9
+60420,Nikki Haley,PR,Indian Township Vtng Dst,92300214,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:32:02.000Z,10,10,10.0,1
+8639,Donald Trump,PR,Industry,92300215,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:18:58.000Z,74,73,73.0,54
+60420,Nikki Haley,PR,Industry,92300215,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:18:58.000Z,74,23,23.0,17
+8639,Donald Trump,PR,Island Falls,92300216,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:19:11.000Z,88,80,79.5,70
+60420,Nikki Haley,PR,Island Falls,92300216,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:19:11.000Z,88,20,20.5,18
+60420,Nikki Haley,PR,Isle Au Haut,92300217,Nikki,False,Haley,REP,Republican,43,P,Maine,2024-03-06T22:30:19.000Z,3,67,66.7,2
+8639,Donald Trump,PR,Isle Au Haut,92300217,Donald,False,Trump,REP,Republican,43,P,Maine,2024-03-06T22:30:19.000Z,3,33,33.3,1
+8639,Donald Trump,PR,Islesboro,92300218,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:00:39.000Z,59,58,57.6,34
+60420,Nikki Haley,PR,Islesboro,92300218,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:00:39.000Z,59,37,37.3,22
+8639,Donald Trump,PR,Jackman,92300219,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:56:59.000Z,110,79,79.1,87
+60420,Nikki Haley,PR,Jackman,92300219,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:56:59.000Z,110,21,20.9,23
+8639,Donald Trump,PR,Jackson,92300220,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-08T15:47:01.000Z,54,78,77.8,42
+60420,Nikki Haley,PR,Jackson,92300220,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-08T15:47:01.000Z,54,20,20.4,11
+8639,Donald Trump,PR,Jay,92300221,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:26:50.000Z,305,77,77.4,236
+60420,Nikki Haley,PR,Jay,92300221,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:26:50.000Z,305,22,21.6,66
+8639,Donald Trump,PR,Jefferson,92300222,Donald,False,Trump,REP,Republican,92,P,Maine,2024-03-06T01:25:35.000Z,288,76,75.7,218
+60420,Nikki Haley,PR,Jefferson,92300222,Nikki,False,Haley,REP,Republican,92,P,Maine,2024-03-06T01:25:35.000Z,288,23,22.9,66
+8639,Donald Trump,PR,Jonesboro,92300223,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T22:03:28.000Z,66,80,80.3,53
+60420,Nikki Haley,PR,Jonesboro,92300223,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T22:03:28.000Z,66,20,19.7,13
+8639,Donald Trump,PR,Jonesport,92300224,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:33:44.000Z,119,91,90.8,108
+60420,Nikki Haley,PR,Jonesport,92300224,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:33:44.000Z,119,9,9.2,11
+8639,Donald Trump,PR,Kenduskeag,92300225,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:26:37.000Z,123,78,78.0,96
+60420,Nikki Haley,PR,Kenduskeag,92300225,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:26:37.000Z,123,19,18.7,23
+8639,Donald Trump,PR,Kennebunk,92300226,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:44:59.000Z,1199,55,55.5,665
+60420,Nikki Haley,PR,Kennebunk,92300226,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:44:59.000Z,1199,43,43.2,518
+8639,Donald Trump,PR,Kennebunkport,92300227,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:40.000Z,499,57,57.3,286
+60420,Nikki Haley,PR,Kennebunkport,92300227,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:40.000Z,499,41,40.7,203
+8639,Donald Trump,PR,Kingfield,92300228,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:21:32.000Z,261,64,64.4,168
+60420,Nikki Haley,PR,Kingfield,92300228,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:21:32.000Z,261,34,33.7,88
+60420,Nikki Haley,PR,Kingsbury Plt.,92300230,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:14.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Kingsbury Plt.,92300230,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:14.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Kittery,92300231,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T05:16:08.000Z,723,63,63.3,458
+60420,Nikki Haley,PR,Kittery,92300231,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T05:16:08.000Z,723,34,34.0,246
+8639,Donald Trump,PR,Knox,92300232,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:47:33.000Z,97,87,86.6,84
+60420,Nikki Haley,PR,Knox,92300232,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:47:33.000Z,97,10,10.3,10
+8639,Donald Trump,PR,LaGrange,92300233,Donald,False,Trump,REP,Republican,91,P,Maine,2024-03-26T18:26:41.000Z,50,92,92.0,46
+60420,Nikki Haley,PR,LaGrange,92300233,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-03-26T18:26:41.000Z,50,6,6.0,3
+8639,Donald Trump,PR,Lake View Plt.,92300234,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T14:25:45.000Z,31,71,71.0,22
+60420,Nikki Haley,PR,Lake View Plt.,92300234,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T14:25:45.000Z,31,29,29.0,9
+8639,Donald Trump,PR,Lakeville,92300235,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:31:26.000Z,26,88,88.5,23
+60420,Nikki Haley,PR,Lakeville,92300235,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:31:26.000Z,26,8,7.7,2
+8639,Donald Trump,PR,Lamoine,92300236,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:40:02.000Z,223,77,76.7,171
+60420,Nikki Haley,PR,Lamoine,92300236,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:40:02.000Z,223,22,22.4,50
+8639,Donald Trump,PR,Lebanon,92300237,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:30:31.000Z,669,85,84.8,567
+60420,Nikki Haley,PR,Lebanon,92300237,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:30:31.000Z,669,13,13.3,89
+8639,Donald Trump,PR,Lee,92300238,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:01:39.000Z,138,88,87.7,121
+60420,Nikki Haley,PR,Lee,92300238,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:01:39.000Z,138,11,10.9,15
+8639,Donald Trump,PR,Leeds,92300239,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:26:25.000Z,239,83,82.8,198
+60420,Nikki Haley,PR,Leeds,92300239,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:26:25.000Z,239,16,15.9,38
+8639,Donald Trump,PR,Levant,92300240,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:57:11.000Z,301,90,89.7,270
+60420,Nikki Haley,PR,Levant,92300240,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:57:11.000Z,301,9,9.3,28
+8639,Donald Trump,PR,Lewiston,92300241,Donald,False,Trump,REP,Republican,91,P,Maine,2024-06-15T22:23:24.000Z,1335,79,78.7,1050
+60420,Nikki Haley,PR,Lewiston,92300241,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-06-15T22:23:24.000Z,1335,19,19.4,259
+8639,Donald Trump,PR,Liberty,92300242,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:39:14.000Z,75,76,76.0,57
+60420,Nikki Haley,PR,Liberty,92300242,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:39:14.000Z,75,17,17.3,13
+8639,Donald Trump,PR,Limerick,92300243,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:21:30.000Z,338,79,79.3,268
+60420,Nikki Haley,PR,Limerick,92300243,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:21:30.000Z,338,19,18.9,64
+8639,Donald Trump,PR,Limestone,92300244,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-27T19:38:58.000Z,136,66,66.2,90
+60420,Nikki Haley,PR,Limestone,92300244,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-27T19:38:58.000Z,136,15,15.4,21
+8639,Donald Trump,PR,Limington,92300245,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:26:13.000Z,456,83,82.9,378
+60420,Nikki Haley,PR,Limington,92300245,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:26:13.000Z,456,16,15.8,72
+8639,Donald Trump,PR,Lincoln,92300246,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:35:39.000Z,442,82,81.7,361
+60420,Nikki Haley,PR,Lincoln,92300246,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:35:39.000Z,442,15,15.2,67
+8639,Donald Trump,PR,Lincoln Plt.,92300247,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:14:37.000Z,19,58,57.9,11
+60420,Nikki Haley,PR,Lincoln Plt.,92300247,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:14:37.000Z,19,37,36.8,7
+8639,Donald Trump,PR,Lincolnville,92300248,Donald,False,Trump,REP,Republican,92,P,Maine,2024-03-06T02:32:11.000Z,180,66,65.6,118
+60420,Nikki Haley,PR,Lincolnville,92300248,Nikki,False,Haley,REP,Republican,92,P,Maine,2024-03-06T02:32:11.000Z,180,34,33.9,61
+8639,Donald Trump,PR,Linneus,92300249,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:40:49.000Z,109,95,95.4,104
+60420,Nikki Haley,PR,Linneus,92300249,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:40:49.000Z,109,4,3.7,4
+8639,Donald Trump,PR,Lisbon,92300250,Donald,False,Trump,REP,Republican,91,P,Maine,2024-03-29T20:26:00.000Z,802,78,78.3,628
+60420,Nikki Haley,PR,Lisbon,92300250,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-03-29T20:26:00.000Z,802,19,19.2,154
+8639,Donald Trump,PR,Litchfield,92300251,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:58:35.000Z,421,78,78.4,330
+60420,Nikki Haley,PR,Litchfield,92300251,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:58:35.000Z,421,20,20.0,84
+8639,Donald Trump,PR,Littleton,92300252,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:44.000Z,106,87,86.8,92
+60420,Nikki Haley,PR,Littleton,92300252,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:44.000Z,106,10,10.4,11
+8639,Donald Trump,PR,Livermore,92300253,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T14:22:31.000Z,262,82,82.4,216
+60420,Nikki Haley,PR,Livermore,92300253,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T14:22:31.000Z,262,15,15.3,40
+8639,Donald Trump,PR,Livermore Falls,92300254,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:06:28.000Z,226,88,88.1,199
+60420,Nikki Haley,PR,Livermore Falls,92300254,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:06:28.000Z,226,11,11.1,25
+60420,Nikki Haley,PR,Long Island,92300255,Nikki,False,Haley,REP,Republican,73,P,Maine,2024-03-06T01:44:59.000Z,24,62,62.5,15
+8639,Donald Trump,PR,Long Island,92300255,Donald,False,Trump,REP,Republican,73,P,Maine,2024-03-06T01:44:59.000Z,24,33,33.3,8
+8639,Donald Trump,PR,Lovell,92300256,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:30:13.000Z,164,70,70.1,115
+60420,Nikki Haley,PR,Lovell,92300256,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:30:13.000Z,164,28,28.0,46
+8639,Donald Trump,PR,Lowell,92300257,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:14:25.000Z,65,86,86.2,56
+60420,Nikki Haley,PR,Lowell,92300257,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:14:25.000Z,65,14,13.8,9
+8639,Donald Trump,PR,Lubec,92300258,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:59:59.000Z,126,79,79.4,100
+60420,Nikki Haley,PR,Lubec,92300258,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:59:59.000Z,126,19,19.0,24
+8639,Donald Trump,PR,Ludlow,92300259,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:39.000Z,38,76,76.3,29
+60420,Nikki Haley,PR,Ludlow,92300259,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:39.000Z,38,24,23.7,9
+8639,Donald Trump,PR,Lyman,92300260,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T18:08:36.000Z,495,80,80.4,398
+60420,Nikki Haley,PR,Lyman,92300260,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T18:08:36.000Z,495,19,19.0,94
+8639,Donald Trump,PR,Machias,92300261,Donald,False,Trump,REP,Republican,73,P,Maine,2024-03-06T02:19:32.000Z,128,81,81.2,104
+60420,Nikki Haley,PR,Machias,92300261,Nikki,False,Haley,REP,Republican,73,P,Maine,2024-03-06T02:19:32.000Z,128,18,18.0,23
+8639,Donald Trump,PR,Machiasport,92300262,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:34:02.000Z,101,81,81.2,82
+60420,Nikki Haley,PR,Machiasport,92300262,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:34:02.000Z,101,16,15.8,16
+8639,Donald Trump,PR,Macwahoc Plt.,92300263,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:30:15.000Z,10,100,100.0,10
+60420,Nikki Haley,PR,Macwahoc Plt.,92300263,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:30:15.000Z,10,0,0.0,0
+8639,Donald Trump,PR,Madawaska,92300264,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:58:21.000Z,165,85,85.5,141
+60420,Nikki Haley,PR,Madawaska,92300264,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:58:21.000Z,165,13,13.3,22
+8639,Donald Trump,PR,Madison,92300266,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:25:48.000Z,337,84,83.7,282
+60420,Nikki Haley,PR,Madison,92300266,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:25:48.000Z,337,15,15.1,51
+60420,Nikki Haley,PR,Magalloway Plt.,92300268,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-27T19:49:26.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Magalloway Plt.,92300268,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-27T19:49:26.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Manchester,92300269,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:40:29.000Z,302,72,72.2,218
+60420,Nikki Haley,PR,Manchester,92300269,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:40:29.000Z,302,26,26.5,80
+8639,Donald Trump,PR,Mapleton,92300270,Donald,False,Trump,REP,Republican,72,P,Maine,2024-03-27T19:50:24.000Z,164,84,84.1,138
+60420,Nikki Haley,PR,Mapleton,92300270,Nikki,False,Haley,REP,Republican,72,P,Maine,2024-03-27T19:50:24.000Z,164,15,15.2,25
+8639,Donald Trump,PR,Mariaville,92300271,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:51:30.000Z,70,90,90.0,63
+60420,Nikki Haley,PR,Mariaville,92300271,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:51:30.000Z,70,7,7.1,5
+8639,Donald Trump,PR,Mars Hill,92300273,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:04:40.000Z,153,79,79.1,121
+60420,Nikki Haley,PR,Mars Hill,92300273,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:04:40.000Z,153,19,19.6,30
+8639,Donald Trump,PR,Marshfield,92300272,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:45:39.000Z,67,82,82.1,55
+60420,Nikki Haley,PR,Marshfield,92300272,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:45:39.000Z,67,18,17.9,12
+8639,Donald Trump,PR,Masardis,92300274,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:34:27.000Z,37,81,81.1,30
+60420,Nikki Haley,PR,Masardis,92300274,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:34:27.000Z,37,19,18.9,7
+60420,Nikki Haley,PR,Matinicus Isle Plt.,92300276,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:48:04.000Z,7,100,100.0,7
+8639,Donald Trump,PR,Matinicus Isle Plt.,92300276,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:48:04.000Z,7,0,0.0,0
+8639,Donald Trump,PR,Mattawamkeag,92300277,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:53:00.000Z,65,91,90.8,59
+60420,Nikki Haley,PR,Mattawamkeag,92300277,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:53:00.000Z,65,6,6.1,4
+8639,Donald Trump,PR,Maxfield,92300278,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:48.000Z,16,87,87.5,14
+60420,Nikki Haley,PR,Maxfield,92300278,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:48.000Z,16,12,12.5,2
+8639,Donald Trump,PR,Mechanic Falls,92300279,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:25:37.000Z,274,81,81.0,222
+60420,Nikki Haley,PR,Mechanic Falls,92300279,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:25:37.000Z,274,18,17.9,49
+8639,Donald Trump,PR,Meddybemps,92300280,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:02:23.000Z,27,89,88.9,24
+60420,Nikki Haley,PR,Meddybemps,92300280,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:02:23.000Z,27,11,11.1,3
+8639,Donald Trump,PR,Medford,92300281,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:46:36.000Z,37,89,89.2,33
+60420,Nikki Haley,PR,Medford,92300281,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:46:36.000Z,37,11,10.8,4
+8639,Donald Trump,PR,Medway,92300282,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:20:24.000Z,145,85,84.8,123
+60420,Nikki Haley,PR,Medway,92300282,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:20:24.000Z,145,12,12.4,18
+8639,Donald Trump,PR,Mercer,92300283,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:09:38.000Z,116,77,76.7,89
+60420,Nikki Haley,PR,Mercer,92300283,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:09:38.000Z,116,22,22.4,26
+8639,Donald Trump,PR,Merrill,92300284,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:30:58.000Z,31,87,87.1,27
+60420,Nikki Haley,PR,Merrill,92300284,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:30:58.000Z,31,10,9.7,3
+8639,Donald Trump,PR,Mexico,92300285,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T14:17:20.000Z,137,87,86.9,119
+60420,Nikki Haley,PR,Mexico,92300285,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T14:17:20.000Z,137,11,11.7,16
+8639,Donald Trump,PR,Milbridge,92300286,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:53:19.000Z,151,75,74.8,113
+60420,Nikki Haley,PR,Milbridge,92300286,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:53:19.000Z,151,22,21.9,33
+8639,Donald Trump,PR,Milford,92300287,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:59:12.000Z,225,83,82.7,186
+60420,Nikki Haley,PR,Milford,92300287,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:59:12.000Z,225,15,14.7,33
+8639,Donald Trump,PR,Millinocket,92300288,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:51:59.000Z,330,77,77.0,254
+60420,Nikki Haley,PR,Millinocket,92300288,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:51:59.000Z,330,21,21.5,71
+8639,Donald Trump,PR,Milo,92300289,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:47:05.000Z,218,82,82.1,179
+60420,Nikki Haley,PR,Milo,92300289,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:47:05.000Z,218,16,15.6,34
+8639,Donald Trump,PR,Minot,92300291,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:25:26.000Z,229,78,78.2,179
+60420,Nikki Haley,PR,Minot,92300291,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:25:26.000Z,229,19,19.2,44
+60420,Nikki Haley,PR,Monhegan Plt.,92300292,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:31:00.000Z,5,60,60.0,3
+8639,Donald Trump,PR,Monhegan Plt.,92300292,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:31:00.000Z,5,40,40.0,2
+8639,Donald Trump,PR,Monmouth,92300293,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:20:44.000Z,374,75,74.9,280
+60420,Nikki Haley,PR,Monmouth,92300293,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:20:44.000Z,374,24,24.0,90
+8639,Donald Trump,PR,Monroe,92300294,Donald,False,Trump,REP,Republican,83,P,Maine,2024-03-26T18:26:45.000Z,76,83,82.9,63
+60420,Nikki Haley,PR,Monroe,92300294,Nikki,False,Haley,REP,Republican,83,P,Maine,2024-03-26T18:26:45.000Z,76,14,14.5,11
+8639,Donald Trump,PR,Monson,92300295,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T15:23:36.000Z,109,82,81.6,89
+60420,Nikki Haley,PR,Monson,92300295,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T15:23:36.000Z,109,14,13.8,15
+8639,Donald Trump,PR,Monticello,92300296,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:43:40.000Z,81,90,90.1,73
+60420,Nikki Haley,PR,Monticello,92300296,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:43:40.000Z,81,9,8.6,7
+8639,Donald Trump,PR,Montville,92300297,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:03:46.000Z,87,76,75.9,66
+60420,Nikki Haley,PR,Montville,92300297,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:03:46.000Z,87,24,24.1,21
+8639,Donald Trump,PR,Moose River,92300298,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:42:50.000Z,35,86,85.7,30
+60420,Nikki Haley,PR,Moose River,92300298,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:42:50.000Z,35,11,11.4,4
+8639,Donald Trump,PR,Moro Plt.,92300299,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:05:13.000Z,10,80,80.0,8
+60420,Nikki Haley,PR,Moro Plt.,92300299,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:05:13.000Z,10,20,20.0,2
+8639,Donald Trump,PR,Morrill,92300300,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:07:12.000Z,140,75,75.0,105
+60420,Nikki Haley,PR,Morrill,92300300,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:07:12.000Z,140,23,22.9,32
+8639,Donald Trump,PR,Moscow,92300301,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:23:22.000Z,53,92,92.5,49
+60420,Nikki Haley,PR,Moscow,92300301,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:23:22.000Z,53,8,7.5,4
+8639,Donald Trump,PR,Mount Chase,92300302,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:25:13.000Z,38,76,76.3,29
+60420,Nikki Haley,PR,Mount Chase,92300302,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:25:13.000Z,38,24,23.7,9
+60420,Nikki Haley,PR,Mount Desert,92300303,Nikki,False,Haley,REP,Republican,80,P,Maine,2024-03-06T03:28:15.000Z,117,55,55.6,65
+8639,Donald Trump,PR,Mount Desert,92300303,Donald,False,Trump,REP,Republican,80,P,Maine,2024-03-06T03:28:15.000Z,117,44,43.6,51
+8639,Donald Trump,PR,Mount Vernon,92300304,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:09:25.000Z,168,73,72.6,122
+60420,Nikki Haley,PR,Mount Vernon,92300304,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:09:25.000Z,168,26,26.2,44
+8639,Donald Trump,PR,Naples,92300305,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:36:06.000Z,468,80,80.1,375
+60420,Nikki Haley,PR,Naples,92300305,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:36:06.000Z,468,19,18.6,87
+60420,Nikki Haley,PR,Nashville Plt.,92300306,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:09:31.000Z,8,50,50.0,4
+8639,Donald Trump,PR,Nashville Plt.,92300306,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:09:31.000Z,8,50,50.0,4
+8639,Donald Trump,PR,New Canada,92300308,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:52:10.000Z,37,78,78.4,29
+60420,Nikki Haley,PR,New Canada,92300308,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:52:10.000Z,37,22,21.6,8
+8639,Donald Trump,PR,New Gloucester,92300311,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:19:01.000Z,548,71,71.4,391
+60420,Nikki Haley,PR,New Gloucester,92300311,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:19:01.000Z,548,27,26.6,146
+8639,Donald Trump,PR,New Limerick,92300312,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:49:45.000Z,81,75,75.3,61
+60420,Nikki Haley,PR,New Limerick,92300312,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:49:45.000Z,81,25,24.7,20
+8639,Donald Trump,PR,New Portland,92300314,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-06T20:12:23.000Z,76,75,75.0,57
+60420,Nikki Haley,PR,New Portland,92300314,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-06T20:12:23.000Z,76,25,25.0,19
+8639,Donald Trump,PR,New Sharon,92300316,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:07:30.000Z,190,71,71.0,135
+60420,Nikki Haley,PR,New Sharon,92300316,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:07:30.000Z,190,27,27.4,52
+8639,Donald Trump,PR,New Sweden,92300317,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:05:28.000Z,55,84,83.6,46
+60420,Nikki Haley,PR,New Sweden,92300317,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:05:28.000Z,55,16,16.4,9
+8639,Donald Trump,PR,New Vineyard,92300318,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T18:14:41.000Z,89,83,83.1,74
+60420,Nikki Haley,PR,New Vineyard,92300318,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T18:14:41.000Z,89,15,14.6,13
+8639,Donald Trump,PR,Newburgh,92300307,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:25:01.000Z,172,79,79.1,136
+60420,Nikki Haley,PR,Newburgh,92300307,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:25:01.000Z,172,19,19.2,33
+8639,Donald Trump,PR,Newcastle,92300309,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:41:58.000Z,182,63,63.2,115
+60420,Nikki Haley,PR,Newcastle,92300309,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:41:58.000Z,182,35,34.6,63
+8639,Donald Trump,PR,Newfield,92300310,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T04:42:36.000Z,252,81,81.3,205
+60420,Nikki Haley,PR,Newfield,92300310,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T04:42:36.000Z,252,16,16.3,41
+8639,Donald Trump,PR,Newport,92300313,Donald,False,Trump,REP,Republican,89,P,Maine,2024-03-06T01:59:37.000Z,320,82,81.9,262
+60420,Nikki Haley,PR,Newport,92300313,Nikki,False,Haley,REP,Republican,89,P,Maine,2024-03-06T01:59:37.000Z,320,17,16.9,54
+8639,Donald Trump,PR,Newry,92300315,Donald,False,Trump,REP,Republican,77,P,Maine,2024-03-29T20:24:47.000Z,41,51,51.2,21
+60420,Nikki Haley,PR,Newry,92300315,Nikki,False,Haley,REP,Republican,77,P,Maine,2024-03-29T20:24:47.000Z,41,44,43.9,18
+8639,Donald Trump,PR,Nobleboro,92300319,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:24:33.000Z,220,73,72.7,160
+60420,Nikki Haley,PR,Nobleboro,92300319,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:24:33.000Z,220,27,26.8,59
+8639,Donald Trump,PR,Norridgewock,92300320,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:09:47.000Z,333,78,78.4,261
+60420,Nikki Haley,PR,Norridgewock,92300320,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:09:47.000Z,333,20,19.5,65
+8639,Donald Trump,PR,North Berwick,92300321,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:24:09.000Z,566,80,79.8,452
+60420,Nikki Haley,PR,North Berwick,92300321,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:24:09.000Z,566,19,18.9,107
+8639,Donald Trump,PR,North Haven,92300323,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:57:59.000Z,21,62,61.9,13
+60420,Nikki Haley,PR,North Haven,92300323,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:57:59.000Z,21,33,33.3,7
+8639,Donald Trump,PR,North Yarmouth,92300325,Donald,False,Trump,REP,Republican,97,P,Maine,2024-03-06T01:27:08.000Z,460,59,59.1,272
+60420,Nikki Haley,PR,North Yarmouth,92300325,Nikki,False,Haley,REP,Republican,97,P,Maine,2024-03-06T01:27:08.000Z,460,39,38.7,178
+8639,Donald Trump,PR,Northfield,92300322,Donald,False,Trump,REP,Republican,76,P,Maine,2024-03-06T03:08:17.000Z,19,63,63.2,12
+60420,Nikki Haley,PR,Northfield,92300322,Nikki,False,Haley,REP,Republican,76,P,Maine,2024-03-06T03:08:17.000Z,19,37,36.8,7
+8639,Donald Trump,PR,Northport,92300324,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:55:21.000Z,194,70,70.1,136
+60420,Nikki Haley,PR,Northport,92300324,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:55:21.000Z,194,29,29.4,57
+8639,Donald Trump,PR,Norway,92300326,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:35:07.000Z,376,71,70.7,266
+60420,Nikki Haley,PR,Norway,92300326,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:35:07.000Z,376,28,27.9,105
+8639,Donald Trump,PR,Oakfield,92300327,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:30:23.000Z,83,87,86.7,72
+60420,Nikki Haley,PR,Oakfield,92300327,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:30:23.000Z,83,13,13.3,11
+8639,Donald Trump,PR,Oakland,92300328,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:16:42.000Z,550,78,78.0,429
+60420,Nikki Haley,PR,Oakland,92300328,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:16:42.000Z,550,20,20.0,110
+8639,Donald Trump,PR,Ogunquit,92300329,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T06:14:52.000Z,130,65,64.6,84
+60420,Nikki Haley,PR,Ogunquit,92300329,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T06:14:52.000Z,130,33,33.1,43
+8639,Donald Trump,PR,Old Orchard Beach,92300330,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:23:55.000Z,672,67,67.4,453
+60420,Nikki Haley,PR,Old Orchard Beach,92300330,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:23:55.000Z,672,31,31.2,210
+8639,Donald Trump,PR,Old Town,92300331,Donald,False,Trump,REP,Republican,91,P,Maine,2024-03-29T20:23:45.000Z,328,73,72.9,239
+60420,Nikki Haley,PR,Old Town,92300331,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-03-29T20:23:45.000Z,328,24,24.1,79
+8639,Donald Trump,PR,Orient,92300332,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T04:06:51.000Z,20,95,95.0,19
+60420,Nikki Haley,PR,Orient,92300332,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T04:06:51.000Z,20,5,5.0,1
+8639,Donald Trump,PR,Orland,92300333,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:02:47.000Z,242,74,74.0,179
+60420,Nikki Haley,PR,Orland,92300333,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:02:47.000Z,242,24,24.4,59
+8639,Donald Trump,PR,Orono,92300335,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:05:39.000Z,248,52,52.4,130
+60420,Nikki Haley,PR,Orono,92300335,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:05:39.000Z,248,43,43.1,107
+8639,Donald Trump,PR,Orrington,92300336,Donald,False,Trump,REP,Republican,91,P,Maine,2024-03-06T02:00:55.000Z,378,82,82.0,310
+60420,Nikki Haley,PR,Orrington,92300336,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-03-06T02:00:55.000Z,378,17,16.9,64
+8639,Donald Trump,PR,Osborn,92300337,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:52:26.000Z,21,71,71.4,15
+60420,Nikki Haley,PR,Osborn,92300337,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:52:26.000Z,21,29,28.6,6
+8639,Donald Trump,PR,Otis,92300338,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-06T01:26:06.000Z,88,77,77.3,68
+60420,Nikki Haley,PR,Otis,92300338,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-06T01:26:06.000Z,88,23,22.7,20
+8639,Donald Trump,PR,Otisfield,92300339,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:41:58.000Z,213,75,75.1,160
+60420,Nikki Haley,PR,Otisfield,92300339,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:41:58.000Z,213,24,23.9,51
+8639,Donald Trump,PR,Owl's Head,92300340,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:22:41.000Z,199,69,68.8,137
+60420,Nikki Haley,PR,Owl's Head,92300340,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:22:41.000Z,199,28,28.1,56
+60420,Nikki Haley,PR,Oxbow Plt.,92300341,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-27T17:43:36.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Oxbow Plt.,92300341,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-27T17:43:36.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Oxford,92300342,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:02:48.000Z,436,83,83.0,362
+60420,Nikki Haley,PR,Oxford,92300342,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:02:48.000Z,436,15,14.9,65
+8639,Donald Trump,PR,Oxford Cty Townships,92300531,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:23:33.000Z,57,56,56.1,32
+60420,Nikki Haley,PR,Oxford Cty Townships,92300531,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:23:33.000Z,57,44,43.9,25
+8639,Donald Trump,PR,Palermo,92300343,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T03:32:54.000Z,249,73,73.1,182
+60420,Nikki Haley,PR,Palermo,92300343,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T03:32:54.000Z,249,23,23.3,58
+8639,Donald Trump,PR,Palmyra,92300344,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:43:55.000Z,208,85,85.1,177
+60420,Nikki Haley,PR,Palmyra,92300344,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:43:55.000Z,208,13,13.5,28
+8639,Donald Trump,PR,Paris,92300345,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:29:44.000Z,456,74,74.1,338
+60420,Nikki Haley,PR,Paris,92300345,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:29:44.000Z,456,24,24.3,111
+8639,Donald Trump,PR,Parkman,92300346,Donald,False,Trump,REP,Republican,94,P,Maine,2024-03-06T02:31:48.000Z,88,90,89.8,79
+60420,Nikki Haley,PR,Parkman,92300346,Nikki,False,Haley,REP,Republican,94,P,Maine,2024-03-06T02:31:48.000Z,88,9,9.1,8
+8639,Donald Trump,PR,Parsonsfield,92300347,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:23:30.000Z,161,77,77.0,124
+60420,Nikki Haley,PR,Parsonsfield,92300347,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:23:30.000Z,161,22,21.7,35
+8639,Donald Trump,PR,Passadumkeag,92300348,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:40:16.000Z,50,76,76.0,38
+60420,Nikki Haley,PR,Passadumkeag,92300348,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:40:16.000Z,50,22,22.0,11
+8639,Donald Trump,PR,Patten,92300349,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:50:19.000Z,138,86,85.5,118
+60420,Nikki Haley,PR,Patten,92300349,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:50:19.000Z,138,13,13.0,18
+8639,Donald Trump,PR,Pembroke,92300350,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:30:52.000Z,106,93,93.4,99
+60420,Nikki Haley,PR,Pembroke,92300350,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:30:52.000Z,106,7,6.6,7
+8639,Donald Trump,PR,Penobscot,92300351,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T04:41:25.000Z,149,68,68.4,102
+60420,Nikki Haley,PR,Penobscot,92300351,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T04:41:25.000Z,149,29,28.9,43
+8639,Donald Trump,PR,Penobscot Cty Townships,92300532,Donald,False,Trump,REP,Republican,49,P,Maine,2024-03-27T17:36:42.000Z,42,98,97.6,41
+60420,Nikki Haley,PR,Penobscot Cty Townships,92300532,Nikki,False,Haley,REP,Republican,49,P,Maine,2024-03-27T17:36:42.000Z,42,2,2.4,1
+8639,Donald Trump,PR,Penobscot Nation Vot Dst,92300212,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T22:06:41.000Z,7,71,71.4,5
+60420,Nikki Haley,PR,Penobscot Nation Vot Dst,92300212,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T22:06:41.000Z,7,29,28.6,2
+8639,Donald Trump,PR,Perham,92300352,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:09:03.000Z,42,76,76.2,32
+60420,Nikki Haley,PR,Perham,92300352,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:09:03.000Z,42,24,23.8,10
+8639,Donald Trump,PR,Perry,92300354,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:47.000Z,93,76,76.3,71
+60420,Nikki Haley,PR,Perry,92300354,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:47.000Z,93,22,21.5,20
+8639,Donald Trump,PR,Peru,92300355,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T14:46:27.000Z,146,83,83.6,122
+60420,Nikki Haley,PR,Peru,92300355,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T14:46:27.000Z,146,16,15.7,23
+8639,Donald Trump,PR,Phillips,92300356,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:31:00.000Z,143,82,81.8,117
+60420,Nikki Haley,PR,Phillips,92300356,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:31:00.000Z,143,17,16.8,24
+8639,Donald Trump,PR,Phippsburg,92300357,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T22:01:57.000Z,263,68,68.4,180
+60420,Nikki Haley,PR,Phippsburg,92300357,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T22:01:57.000Z,263,30,30.4,80
+60420,Nikki Haley,PR,Piscataquis Cty Townships,92300533,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:39.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Piscataquis Cty Townships,92300533,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:39.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Pittsfield,92300358,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-29T20:23:18.000Z,274,77,77.4,212
+60420,Nikki Haley,PR,Pittsfield,92300358,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-29T20:23:18.000Z,274,20,20.4,56
+8639,Donald Trump,PR,Pittston,92300359,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T22:16:27.000Z,318,78,78.6,250
+60420,Nikki Haley,PR,Pittston,92300359,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T22:16:27.000Z,318,20,19.8,63
+60420,Nikki Haley,PR,Pleasant Point Votng Dst,92300360,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:26:49.000Z,7,57,57.1,4
+8639,Donald Trump,PR,Pleasant Point Votng Dst,92300360,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:26:49.000Z,7,29,28.6,2
+8639,Donald Trump,PR,Pleasant Ridge Plt.,92300361,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:52:08.000Z,16,81,81.2,13
+60420,Nikki Haley,PR,Pleasant Ridge Plt.,92300361,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:52:08.000Z,16,19,18.7,3
+8639,Donald Trump,PR,Plymouth,92300362,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-26T18:26:46.000Z,150,80,80.0,120
+60420,Nikki Haley,PR,Plymouth,92300362,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-26T18:26:46.000Z,150,17,17.3,26
+8639,Donald Trump,PR,Poland,92300363,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:48:38.000Z,515,72,72.4,373
+60420,Nikki Haley,PR,Poland,92300363,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:48:38.000Z,515,26,25.6,132
+8639,Donald Trump,PR,Portage Lake,92300364,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:45:13.000Z,64,78,78.1,50
+60420,Nikki Haley,PR,Portage Lake,92300364,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:45:13.000Z,64,19,18.7,12
+8639,Donald Trump,PR,Porter,92300365,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:47.000Z,137,80,80.3,110
+60420,Nikki Haley,PR,Porter,92300365,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:47.000Z,137,19,19.0,26
+8639,Donald Trump,PR,Portland,92300366,Donald,False,Trump,REP,Republican,94,P,Maine,2024-06-15T22:23:06.000Z,1745,54,53.7,937
+60420,Nikki Haley,PR,Portland,92300366,Nikki,False,Haley,REP,Republican,94,P,Maine,2024-06-15T22:23:06.000Z,1745,44,44.5,777
+8639,Donald Trump,PR,Pownal,92300367,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,211,66,65.9,139
+60420,Nikki Haley,PR,Pownal,92300367,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,211,33,33.2,70
+8639,Donald Trump,PR,Presque Isle,92300368,Donald,False,Trump,REP,Republican,73,P,Maine,2024-03-29T20:23:03.000Z,429,77,77.4,332
+60420,Nikki Haley,PR,Presque Isle,92300368,Nikki,False,Haley,REP,Republican,73,P,Maine,2024-03-29T20:23:03.000Z,429,21,20.5,88
+8639,Donald Trump,PR,Princeton,92300369,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:32:16.000Z,111,88,88.3,98
+60420,Nikki Haley,PR,Princeton,92300369,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:32:16.000Z,111,11,10.8,12
+8639,Donald Trump,PR,Prospect,92300370,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-08T14:44:40.000Z,81,80,80.2,65
+60420,Nikki Haley,PR,Prospect,92300370,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-08T14:44:40.000Z,81,19,18.5,15
+8639,Donald Trump,PR,Randolph,92300371,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:24:17.000Z,134,80,79.9,107
+60420,Nikki Haley,PR,Randolph,92300371,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:24:17.000Z,134,19,19.4,26
+8639,Donald Trump,PR,Rangeley,92300372,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:29:25.000Z,182,69,69.2,126
+60420,Nikki Haley,PR,Rangeley,92300372,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:29:25.000Z,182,28,28.0,51
+8639,Donald Trump,PR,Rangeley Plt.,92300373,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:52:44.000Z,46,80,80.4,37
+60420,Nikki Haley,PR,Rangeley Plt.,92300373,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:52:44.000Z,46,20,19.6,9
+8639,Donald Trump,PR,Raymond,92300374,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:59:38.000Z,558,71,71.3,398
+60420,Nikki Haley,PR,Raymond,92300374,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:59:38.000Z,558,27,27.4,153
+8639,Donald Trump,PR,Readfield,92300375,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,271,68,68.6,186
+60420,Nikki Haley,PR,Readfield,92300375,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:46.000Z,271,29,28.8,78
+8639,Donald Trump,PR,Reed Plt.,92300376,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:41:11.000Z,35,91,91.4,32
+60420,Nikki Haley,PR,Reed Plt.,92300376,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:41:11.000Z,35,9,8.6,3
+8639,Donald Trump,PR,Richmond,92300377,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:22:47.000Z,314,77,77.1,242
+60420,Nikki Haley,PR,Richmond,92300377,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:22:47.000Z,314,19,19.4,61
+8639,Donald Trump,PR,Ripley,92300378,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:35:52.000Z,59,93,93.2,55
+60420,Nikki Haley,PR,Ripley,92300378,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:35:52.000Z,59,7,6.8,4
+8639,Donald Trump,PR,Robbinston,92300379,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-08T15:20:20.000Z,71,92,91.5,65
+60420,Nikki Haley,PR,Robbinston,92300379,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-08T15:20:20.000Z,71,8,8.5,6
+8639,Donald Trump,PR,Rockland,92300380,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:42:58.000Z,376,70,69.9,263
+60420,Nikki Haley,PR,Rockland,92300380,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:42:58.000Z,376,29,29.0,109
+8639,Donald Trump,PR,Rockport,92300381,Donald,False,Trump,REP,Republican,92,P,Maine,2024-03-29T20:22:35.000Z,273,58,57.5,157
+60420,Nikki Haley,PR,Rockport,92300381,Nikki,False,Haley,REP,Republican,92,P,Maine,2024-03-29T20:22:35.000Z,273,41,40.6,111
+8639,Donald Trump,PR,Rome,92300383,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:27:48.000Z,128,72,71.9,92
+60420,Nikki Haley,PR,Rome,92300383,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:27:48.000Z,128,25,25.0,32
+8639,Donald Trump,PR,Roque Bluffs,92300384,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:23:33.000Z,39,77,76.9,30
+60420,Nikki Haley,PR,Roque Bluffs,92300384,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:23:33.000Z,39,23,23.1,9
+8639,Donald Trump,PR,Roxbury,92300385,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:58:17.000Z,34,74,73.5,25
+60420,Nikki Haley,PR,Roxbury,92300385,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:58:17.000Z,34,23,23.5,8
+8639,Donald Trump,PR,Rumford,92300386,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T20:31:45.000Z,317,77,77.6,246
+60420,Nikki Haley,PR,Rumford,92300386,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T20:31:45.000Z,317,21,20.8,66
+8639,Donald Trump,PR,Sabattus,92300387,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:08:37.000Z,439,86,86.3,379
+60420,Nikki Haley,PR,Sabattus,92300387,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:08:37.000Z,439,13,12.8,56
+8639,Donald Trump,PR,Saco,92300388,Donald,False,Trump,REP,Republican,99,P,Maine,2024-06-15T22:23:39.000Z,1179,66,65.6,773
+60420,Nikki Haley,PR,Saco,92300388,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-06-15T22:23:39.000Z,1179,32,32.0,378
+60420,Nikki Haley,PR,Sandy River Plt.,92300394,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:40.000Z,30,63,63.3,19
+8639,Donald Trump,PR,Sandy River Plt.,92300394,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:40.000Z,30,37,36.7,11
+8639,Donald Trump,PR,Sanford,92300395,Donald,False,Trump,REP,Republican,99,P,Maine,2024-06-15T22:24:57.000Z,1306,77,77.4,1011
+60420,Nikki Haley,PR,Sanford,92300395,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-06-15T22:24:57.000Z,1306,21,21.1,276
+8639,Donald Trump,PR,Sangerville,92300396,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:22:08.000Z,161,85,85.1,137
+60420,Nikki Haley,PR,Sangerville,92300396,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:22:08.000Z,161,14,14.3,23
+8639,Donald Trump,PR,Scarborough,92300397,Donald,False,Trump,REP,Republican,81,P,Maine,2024-03-29T20:21:56.000Z,1642,56,56.3,925
+60420,Nikki Haley,PR,Scarborough,92300397,Nikki,False,Haley,REP,Republican,81,P,Maine,2024-03-29T20:21:56.000Z,1642,42,42.1,691
+8639,Donald Trump,PR,Searsmont,92300398,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:41.000Z,139,70,69.8,97
+60420,Nikki Haley,PR,Searsmont,92300398,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:41.000Z,139,29,29.5,41
+8639,Donald Trump,PR,Searsport,92300399,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:38:10.000Z,264,68,68.2,180
+60420,Nikki Haley,PR,Searsport,92300399,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:38:10.000Z,264,29,29.1,77
+8639,Donald Trump,PR,Sebago,92300400,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:42:31.000Z,209,76,76.1,159
+60420,Nikki Haley,PR,Sebago,92300400,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:42:31.000Z,209,22,21.5,45
+8639,Donald Trump,PR,Sebec,92300401,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:34:11.000Z,129,84,83.7,108
+60420,Nikki Haley,PR,Sebec,92300401,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:34:11.000Z,129,16,16.3,21
+8639,Donald Trump,PR,Seboeis Plt.,92300402,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:58:25.000Z,13,69,69.2,9
+60420,Nikki Haley,PR,Seboeis Plt.,92300402,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:58:25.000Z,13,31,30.8,4
+8639,Donald Trump,PR,Sedgwick,92300403,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:27:14.000Z,95,72,71.6,68
+60420,Nikki Haley,PR,Sedgwick,92300403,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:27:14.000Z,95,27,27.4,26
+8639,Donald Trump,PR,Shapleigh,92300404,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T06:23:51.000Z,386,82,81.6,315
+60420,Nikki Haley,PR,Shapleigh,92300404,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T06:23:51.000Z,386,17,17.3,67
+8639,Donald Trump,PR,Sherman,92300405,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:56:54.000Z,124,90,90.3,112
+60420,Nikki Haley,PR,Sherman,92300405,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:56:54.000Z,124,8,8.1,10
+8639,Donald Trump,PR,Shirley,92300406,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T04:07:48.000Z,38,84,84.2,32
+60420,Nikki Haley,PR,Shirley,92300406,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T04:07:48.000Z,38,16,15.8,6
+8639,Donald Trump,PR,Sidney,92300407,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:18:27.000Z,508,78,77.5,394
+60420,Nikki Haley,PR,Sidney,92300407,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:18:27.000Z,508,20,19.9,101
+8639,Donald Trump,PR,Skowhegan,92300409,Donald,False,Trump,REP,Republican,92,P,Maine,2024-03-06T14:34:30.000Z,529,79,79.0,418
+60420,Nikki Haley,PR,Skowhegan,92300409,Nikki,False,Haley,REP,Republican,92,P,Maine,2024-03-06T14:34:30.000Z,529,19,18.7,99
+8639,Donald Trump,PR,Smithfield,92300410,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:21:44.000Z,112,69,69.6,78
+60420,Nikki Haley,PR,Smithfield,92300410,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:21:44.000Z,112,28,27.7,31
+8639,Donald Trump,PR,Smyrna,92300411,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:29:53.000Z,29,100,100.0,29
+60420,Nikki Haley,PR,Smyrna,92300411,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:29:53.000Z,29,0,0.0,0
+8639,Donald Trump,PR,Solon,92300412,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:39.000Z,112,88,88.4,99
+60420,Nikki Haley,PR,Solon,92300412,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:39.000Z,112,12,11.6,13
+8639,Donald Trump,PR,Somerset Cty Townships,92300534,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:30:38.000Z,49,71,71.4,35
+60420,Nikki Haley,PR,Somerset Cty Townships,92300534,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:30:38.000Z,49,29,28.6,14
+8639,Donald Trump,PR,Somerville,92300413,Donald,False,Trump,REP,Republican,88,P,Maine,2024-03-06T02:22:21.000Z,66,83,83.3,55
+60420,Nikki Haley,PR,Somerville,92300413,Nikki,False,Haley,REP,Republican,88,P,Maine,2024-03-06T02:22:21.000Z,66,12,12.1,8
+8639,Donald Trump,PR,Sorrento,92300414,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:32:45.000Z,57,79,78.9,45
+60420,Nikki Haley,PR,Sorrento,92300414,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:32:45.000Z,57,21,21.1,12
+8639,Donald Trump,PR,South Berwick,92300415,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:13:55.000Z,519,71,71.3,370
+60420,Nikki Haley,PR,South Berwick,92300415,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:13:55.000Z,519,27,26.8,139
+8639,Donald Trump,PR,South Bristol,92300416,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:21:58.000Z,102,50,50.0,51
+60420,Nikki Haley,PR,South Bristol,92300416,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:21:58.000Z,102,47,47.0,48
+8639,Donald Trump,PR,South Portland,92300418,Donald,False,Trump,REP,Republican,91,P,Maine,2024-06-15T22:24:24.000Z,1054,59,58.8,620
+60420,Nikki Haley,PR,South Portland,92300418,Nikki,False,Haley,REP,Republican,91,P,Maine,2024-06-15T22:24:24.000Z,1054,39,39.5,416
+8639,Donald Trump,PR,South Thomaston,92300419,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:29:47.000Z,145,69,69.0,100
+60420,Nikki Haley,PR,South Thomaston,92300419,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:29:47.000Z,145,31,31.0,45
+60420,Nikki Haley,PR,Southport,92300417,Nikki,False,Haley,REP,Republican,87,P,Maine,2024-03-06T03:37:57.000Z,100,52,52.0,52
+8639,Donald Trump,PR,Southport,92300417,Donald,False,Trump,REP,Republican,87,P,Maine,2024-03-06T03:37:57.000Z,100,46,46.0,46
+8639,Donald Trump,PR,Southwest Harbor,92300420,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:45:54.000Z,157,60,60.5,95
+60420,Nikki Haley,PR,Southwest Harbor,92300420,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:45:54.000Z,157,36,36.3,57
+8639,Donald Trump,PR,Springfield,92300421,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-26T18:26:42.000Z,38,100,100.0,38
+60420,Nikki Haley,PR,Springfield,92300421,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-26T18:26:42.000Z,38,0,0.0,0
+8639,Donald Trump,PR,St. Agatha,92300389,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T18:10:53.000Z,62,94,93.5,58
+60420,Nikki Haley,PR,St. Agatha,92300389,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T18:10:53.000Z,62,6,6.5,4
+8639,Donald Trump,PR,St. Albans,92300390,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:18:12.000Z,223,84,83.9,187
+60420,Nikki Haley,PR,St. Albans,92300390,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:18:12.000Z,223,14,14.3,32
+8639,Donald Trump,PR,St. Francis,92300391,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:30:35.000Z,29,83,82.8,24
+60420,Nikki Haley,PR,St. Francis,92300391,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:30:35.000Z,29,14,13.8,4
+8639,Donald Trump,PR,St. George,92300392,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:39:21.000Z,232,66,65.5,152
+60420,Nikki Haley,PR,St. George,92300392,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:39:21.000Z,232,32,32.3,75
+8639,Donald Trump,PR,St. John Plt.,92300393,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:31:32.000Z,26,85,84.6,22
+60420,Nikki Haley,PR,St. John Plt.,92300393,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:31:32.000Z,26,11,11.5,3
+8639,Donald Trump,PR,Stacyville,92300422,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:18:01.000Z,96,95,94.8,91
+60420,Nikki Haley,PR,Stacyville,92300422,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:18:01.000Z,96,5,5.2,5
+8639,Donald Trump,PR,Standish,92300423,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:21:15.000Z,929,74,74.4,691
+60420,Nikki Haley,PR,Standish,92300423,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:21:15.000Z,929,25,24.8,230
+8639,Donald Trump,PR,Starks,92300424,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:48:27.000Z,61,93,93.4,57
+60420,Nikki Haley,PR,Starks,92300424,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:48:27.000Z,61,5,4.9,3
+8639,Donald Trump,PR,Stetson,92300425,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:26:53.000Z,139,88,88.5,123
+60420,Nikki Haley,PR,Stetson,92300425,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:26:53.000Z,139,11,10.8,15
+8639,Donald Trump,PR,Steuben,92300426,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:33:10.000Z,255,88,88.2,225
+60420,Nikki Haley,PR,Steuben,92300426,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:33:10.000Z,255,11,10.6,27
+8639,Donald Trump,PR,Stockholm,92300427,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:21:01.000Z,33,76,75.8,25
+60420,Nikki Haley,PR,Stockholm,92300427,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:21:01.000Z,33,9,9.1,3
+8639,Donald Trump,PR,Stockton Springs,92300428,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T19:04:00.000Z,217,71,71.4,155
+60420,Nikki Haley,PR,Stockton Springs,92300428,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T19:04:00.000Z,217,27,26.7,58
+8639,Donald Trump,PR,Stoneham,92300429,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:20:50.000Z,42,74,73.8,31
+60420,Nikki Haley,PR,Stoneham,92300429,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:20:50.000Z,42,26,26.2,11
+8639,Donald Trump,PR,Stonington,92300430,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T06:30:23.000Z,91,62,61.5,56
+60420,Nikki Haley,PR,Stonington,92300430,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T06:30:23.000Z,91,34,34.1,31
+8639,Donald Trump,PR,Stow,92300431,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T15:38:40.000Z,40,72,72.5,29
+60420,Nikki Haley,PR,Stow,92300431,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T15:38:40.000Z,40,27,27.5,11
+8639,Donald Trump,PR,Strong,92300432,Donald,False,Trump,REP,Republican,87,P,Maine,2024-03-29T20:20:37.000Z,142,71,71.1,101
+60420,Nikki Haley,PR,Strong,92300432,Nikki,False,Haley,REP,Republican,87,P,Maine,2024-03-29T20:20:37.000Z,142,27,26.8,38
+8639,Donald Trump,PR,Sullivan,92300433,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:20:52.000Z,109,82,81.7,89
+60420,Nikki Haley,PR,Sullivan,92300433,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:20:52.000Z,109,18,18.3,20
+8639,Donald Trump,PR,Sumner,92300434,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:46:51.000Z,103,82,81.6,84
+60420,Nikki Haley,PR,Sumner,92300434,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:46:51.000Z,103,18,18.4,19
+8639,Donald Trump,PR,Surry,92300435,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T15:00:47.000Z,177,69,69.5,123
+60420,Nikki Haley,PR,Surry,92300435,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T15:00:47.000Z,177,30,29.9,53
+8639,Donald Trump,PR,Swan's Island,92300436,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:00:19.000Z,75,84,84.0,63
+60420,Nikki Haley,PR,Swan's Island,92300436,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:00:19.000Z,75,16,16.0,12
+8639,Donald Trump,PR,Swanville,92300437,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:35:28.000Z,130,85,84.6,110
+60420,Nikki Haley,PR,Swanville,92300437,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:35:28.000Z,130,13,13.1,17
+8639,Donald Trump,PR,Sweden,92300438,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:43:51.000Z,38,58,57.9,22
+60420,Nikki Haley,PR,Sweden,92300438,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:43:51.000Z,38,39,39.5,15
+8639,Donald Trump,PR,Talmadge,92300441,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:17:09.000Z,15,73,73.3,11
+60420,Nikki Haley,PR,Talmadge,92300441,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:17:09.000Z,15,20,20.0,3
+8639,Donald Trump,PR,Temple,92300442,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:17:10.000Z,44,80,79.5,35
+60420,Nikki Haley,PR,Temple,92300442,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:17:10.000Z,44,18,18.2,8
+8639,Donald Trump,PR,The Forks Plt.,92300443,Donald,False,Trump,REP,Republican,64,P,Maine,2024-03-26T18:26:47.000Z,7,71,71.4,5
+60420,Nikki Haley,PR,The Forks Plt.,92300443,Nikki,False,Haley,REP,Republican,64,P,Maine,2024-03-26T18:26:47.000Z,7,29,28.6,2
+8639,Donald Trump,PR,Thomaston,92300444,Donald,False,Trump,REP,Republican,93,P,Maine,2024-03-06T03:47:53.000Z,197,72,71.6,141
+60420,Nikki Haley,PR,Thomaston,92300444,Nikki,False,Haley,REP,Republican,93,P,Maine,2024-03-06T03:47:53.000Z,197,25,24.9,49
+8639,Donald Trump,PR,Thorndike,92300445,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T16:57:58.000Z,68,85,85.3,58
+60420,Nikki Haley,PR,Thorndike,92300445,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T16:57:58.000Z,68,15,14.7,10
+8639,Donald Trump,PR,Topsfield,92300446,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T18:10:17.000Z,35,74,74.3,26
+60420,Nikki Haley,PR,Topsfield,92300446,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T18:10:17.000Z,35,23,22.9,8
+8639,Donald Trump,PR,Topsham,92300447,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:09:56.000Z,790,65,64.7,511
+60420,Nikki Haley,PR,Topsham,92300447,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:09:56.000Z,790,33,32.6,258
+8639,Donald Trump,PR,Tremont,92300450,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T03:09:18.000Z,130,72,71.5,93
+60420,Nikki Haley,PR,Tremont,92300450,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T03:09:18.000Z,130,25,25.4,33
+8639,Donald Trump,PR,Trenton,92300451,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:49:24.000Z,147,64,63.9,94
+60420,Nikki Haley,PR,Trenton,92300451,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:49:24.000Z,147,33,33.3,49
+8639,Donald Trump,PR,Troy,92300452,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T17:55:55.000Z,89,83,83.1,74
+60420,Nikki Haley,PR,Troy,92300452,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T17:55:55.000Z,89,16,15.7,14
+8639,Donald Trump,PR,Turner,92300453,Donald,False,Trump,REP,Republican,82,P,Maine,2024-03-06T02:39:23.000Z,561,79,78.6,441
+60420,Nikki Haley,PR,Turner,92300453,Nikki,False,Haley,REP,Republican,82,P,Maine,2024-03-06T02:39:23.000Z,561,20,19.8,111
+8639,Donald Trump,PR,Union,92300454,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T07:27:13.000Z,320,75,75.0,240
+60420,Nikki Haley,PR,Union,92300454,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T07:27:13.000Z,320,23,23.4,75
+8639,Donald Trump,PR,Unity,92300455,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T01:55:08.000Z,150,77,77.3,116
+60420,Nikki Haley,PR,Unity,92300455,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T01:55:08.000Z,150,21,20.7,31
+8639,Donald Trump,PR,Upton,92300456,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T21:30:04.000Z,23,74,73.9,17
+60420,Nikki Haley,PR,Upton,92300456,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T21:30:04.000Z,23,26,26.1,6
+8639,Donald Trump,PR,Van Buren,92300457,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T04:55:55.000Z,90,87,86.7,78
+60420,Nikki Haley,PR,Van Buren,92300457,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T04:55:55.000Z,90,10,10.0,9
+8639,Donald Trump,PR,Vanceboro,92300458,Donald,False,Trump,REP,Republican,86,P,Maine,2024-03-26T18:26:46.000Z,12,83,83.3,10
+60420,Nikki Haley,PR,Vanceboro,92300458,Nikki,False,Haley,REP,Republican,86,P,Maine,2024-03-26T18:26:46.000Z,12,17,16.7,2
+8639,Donald Trump,PR,Vassalboro,92300459,Donald,False,Trump,REP,Republican,86,P,Maine,2024-03-06T02:14:47.000Z,366,78,77.6,284
+60420,Nikki Haley,PR,Vassalboro,92300459,Nikki,False,Haley,REP,Republican,86,P,Maine,2024-03-06T02:14:47.000Z,366,22,21.9,80
+8639,Donald Trump,PR,Veazie,92300460,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:20:22.000Z,141,67,66.7,94
+60420,Nikki Haley,PR,Veazie,92300460,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:20:22.000Z,141,33,33.3,47
+8639,Donald Trump,PR,Verona,92300461,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:27:59.000Z,73,75,75.3,55
+60420,Nikki Haley,PR,Verona,92300461,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:27:59.000Z,73,22,21.9,16
+8639,Donald Trump,PR,Vienna,92300462,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:53:13.000Z,51,69,68.6,35
+60420,Nikki Haley,PR,Vienna,92300462,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:53:13.000Z,51,29,29.4,15
+8639,Donald Trump,PR,Vinalhaven,92300463,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:20:08.000Z,96,68,67.7,65
+60420,Nikki Haley,PR,Vinalhaven,92300463,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:20:08.000Z,96,29,29.2,28
+8639,Donald Trump,PR,Wade,92300464,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:50:48.000Z,24,83,83.3,20
+60420,Nikki Haley,PR,Wade,92300464,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:50:48.000Z,24,17,16.7,4
+8639,Donald Trump,PR,Waite,92300465,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:16:17.000Z,7,100,100.0,7
+60420,Nikki Haley,PR,Waite,92300465,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:16:17.000Z,7,0,0.0,0
+8639,Donald Trump,PR,Waldo,92300466,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:19:55.000Z,88,78,78.4,69
+60420,Nikki Haley,PR,Waldo,92300466,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:19:55.000Z,88,20,20.5,18
+8639,Donald Trump,PR,Waldoboro,92300467,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T03:01:49.000Z,532,80,79.9,425
+60420,Nikki Haley,PR,Waldoboro,92300467,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T03:01:49.000Z,532,19,19.0,101
+8639,Donald Trump,PR,Wales,92300468,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:43.000Z,172,85,85.5,147
+60420,Nikki Haley,PR,Wales,92300468,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:43.000Z,172,13,13.4,23
+8639,Donald Trump,PR,Wallagrass,92300469,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T06:40:53.000Z,35,86,85.7,30
+60420,Nikki Haley,PR,Wallagrass,92300469,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T06:40:53.000Z,35,14,14.3,5
+8639,Donald Trump,PR,Waltham,92300470,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:42.000Z,61,80,80.3,49
+60420,Nikki Haley,PR,Waltham,92300470,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:42.000Z,61,20,19.7,12
+8639,Donald Trump,PR,Warren,92300471,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:03:50.000Z,376,82,82.4,310
+60420,Nikki Haley,PR,Warren,92300471,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:03:50.000Z,376,16,16.0,60
+8639,Donald Trump,PR,Washburn,92300472,Donald,False,Trump,REP,Republican,80,P,Maine,2024-03-06T01:26:42.000Z,94,84,84.0,79
+60420,Nikki Haley,PR,Washburn,92300472,Nikki,False,Haley,REP,Republican,80,P,Maine,2024-03-06T01:26:42.000Z,94,15,14.9,14
+8639,Donald Trump,PR,Washington,92300473,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:05:37.000Z,164,76,75.6,124
+60420,Nikki Haley,PR,Washington,92300473,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:05:37.000Z,164,22,22.6,37
+60420,Nikki Haley,PR,Washington Cty Townships,92300535,Nikki,False,Haley,REP,Republican,0,P,Maine,2024-03-05T01:16:28.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Washington Cty Townships,92300535,Donald,False,Trump,REP,Republican,0,P,Maine,2024-03-05T01:16:28.000Z,0,0,0.0,0
+8639,Donald Trump,PR,Waterboro,92300474,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:23:15.000Z,690,76,75.7,522
+60420,Nikki Haley,PR,Waterboro,92300474,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:23:15.000Z,690,22,22.2,153
+8639,Donald Trump,PR,Waterford,92300475,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T21:38:47.000Z,161,81,81.4,131
+60420,Nikki Haley,PR,Waterford,92300475,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T21:38:47.000Z,161,19,18.6,30
+8639,Donald Trump,PR,Waterville,92300476,Donald,False,Trump,REP,Republican,65,P,Maine,2024-03-29T20:19:41.000Z,514,71,70.6,363
+60420,Nikki Haley,PR,Waterville,92300476,Nikki,False,Haley,REP,Republican,65,P,Maine,2024-03-29T20:19:41.000Z,514,24,24.5,126
+8639,Donald Trump,PR,Wayne,92300477,Donald,False,Trump,REP,Republican,85,P,Maine,2024-03-06T02:26:42.000Z,123,67,66.7,82
+60420,Nikki Haley,PR,Wayne,92300477,Nikki,False,Haley,REP,Republican,85,P,Maine,2024-03-06T02:26:42.000Z,123,30,30.1,37
+8639,Donald Trump,PR,Webster Plt.,92300478,Donald,False,Trump,REP,Republican,77,P,Maine,2024-03-26T18:26:44.000Z,10,90,90.0,9
+60420,Nikki Haley,PR,Webster Plt.,92300478,Nikki,False,Haley,REP,Republican,77,P,Maine,2024-03-26T18:26:44.000Z,10,0,0.0,0
+8639,Donald Trump,PR,Weld,92300479,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-27T17:05:15.000Z,106,68,67.9,72
+60420,Nikki Haley,PR,Weld,92300479,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-27T17:05:15.000Z,106,30,30.2,32
+8639,Donald Trump,PR,Wellington,92300480,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:30:29.000Z,22,100,100.0,22
+60420,Nikki Haley,PR,Wellington,92300480,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:30:29.000Z,22,0,0.0,0
+8639,Donald Trump,PR,Wells,92300481,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:19:28.000Z,1238,65,64.9,803
+60420,Nikki Haley,PR,Wells,92300481,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:19:28.000Z,1238,34,33.9,420
+8639,Donald Trump,PR,Wesley,92300482,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:05:29.000Z,26,88,88.5,23
+60420,Nikki Haley,PR,Wesley,92300482,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:05:29.000Z,26,8,7.7,2
+8639,Donald Trump,PR,West Bath,92300483,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:19:18.000Z,233,67,66.5,155
+60420,Nikki Haley,PR,West Bath,92300483,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:19:18.000Z,233,32,32.2,75
+8639,Donald Trump,PR,West Forks Plt.,92300486,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-08T14:54:16.000Z,16,81,81.2,13
+60420,Nikki Haley,PR,West Forks Plt.,92300486,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-08T14:54:16.000Z,16,12,12.5,2
+8639,Donald Trump,PR,West Gardiner,92300487,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:08:47.000Z,423,74,73.8,312
+60420,Nikki Haley,PR,West Gardiner,92300487,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:08:47.000Z,423,23,23.4,99
+8639,Donald Trump,PR,West Paris,92300490,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:47:53.000Z,143,78,77.6,111
+60420,Nikki Haley,PR,West Paris,92300490,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:47:53.000Z,143,20,20.3,29
+8639,Donald Trump,PR,Westbrook,92300484,Donald,False,Trump,REP,Republican,84,P,Maine,2024-06-15T22:24:02.000Z,817,67,67.4,551
+60420,Nikki Haley,PR,Westbrook,92300484,Nikki,False,Haley,REP,Republican,84,P,Maine,2024-06-15T22:24:02.000Z,817,30,30.1,246
+8639,Donald Trump,PR,Westfield,92300485,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T16:30:18.000Z,59,76,76.3,45
+60420,Nikki Haley,PR,Westfield,92300485,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T16:30:18.000Z,59,24,23.7,14
+8639,Donald Trump,PR,Westmanland,92300488,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:56:12.000Z,17,53,52.9,9
+60420,Nikki Haley,PR,Westmanland,92300488,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:56:12.000Z,17,47,47.1,8
+8639,Donald Trump,PR,Weston,92300489,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T01:51:17.000Z,50,90,90.0,45
+60420,Nikki Haley,PR,Weston,92300489,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T01:51:17.000Z,50,10,10.0,5
+8639,Donald Trump,PR,Westport,92300491,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T15:26:13.000Z,112,59,58.9,66
+60420,Nikki Haley,PR,Westport,92300491,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T15:26:13.000Z,112,39,39.3,44
+8639,Donald Trump,PR,Whitefield,92300492,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-29T20:15:03.000Z,227,77,77.1,175
+60420,Nikki Haley,PR,Whitefield,92300492,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-29T20:15:03.000Z,227,22,22.5,51
+8639,Donald Trump,PR,Whiting,92300493,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:47:43.000Z,76,80,80.3,61
+60420,Nikki Haley,PR,Whiting,92300493,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:47:43.000Z,76,18,18.4,14
+8639,Donald Trump,PR,Whitneyville,92300494,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-26T18:26:41.000Z,18,94,94.4,17
+60420,Nikki Haley,PR,Whitneyville,92300494,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-26T18:26:41.000Z,18,0,0.0,0
+8639,Donald Trump,PR,Willimantic,92300495,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T17:19:55.000Z,27,89,88.9,24
+60420,Nikki Haley,PR,Willimantic,92300495,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T17:19:55.000Z,27,11,11.1,3
+8639,Donald Trump,PR,Wilton,92300496,Donald,False,Trump,REP,Republican,83,P,Maine,2024-03-29T20:14:42.000Z,289,74,74.4,215
+60420,Nikki Haley,PR,Wilton,92300496,Nikki,False,Haley,REP,Republican,83,P,Maine,2024-03-29T20:14:42.000Z,289,24,23.9,69
+8639,Donald Trump,PR,Windham,92300497,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:30:32.000Z,1464,74,74.5,1091
+60420,Nikki Haley,PR,Windham,92300497,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:30:32.000Z,1464,24,23.8,349
+8639,Donald Trump,PR,Windsor,92300498,Donald,False,Trump,REP,Republican,88,P,Maine,2024-03-06T02:43:00.000Z,251,80,80.5,202
+60420,Nikki Haley,PR,Windsor,92300498,Nikki,False,Haley,REP,Republican,88,P,Maine,2024-03-06T02:43:00.000Z,251,18,18.3,46
+8639,Donald Trump,PR,Winn,92300499,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T18:20:15.000Z,53,85,84.9,45
+60420,Nikki Haley,PR,Winn,92300499,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T18:20:15.000Z,53,13,13.2,7
+8639,Donald Trump,PR,Winslow,92300500,Donald,False,Trump,REP,Republican,88,P,Maine,2024-03-29T20:14:20.000Z,610,75,75.2,459
+60420,Nikki Haley,PR,Winslow,92300500,Nikki,False,Haley,REP,Republican,88,P,Maine,2024-03-29T20:14:20.000Z,610,22,22.3,136
+8639,Donald Trump,PR,Winter Harbor,92300501,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:00:26.000Z,65,80,80.0,52
+60420,Nikki Haley,PR,Winter Harbor,92300501,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:00:26.000Z,65,20,20.0,13
+8639,Donald Trump,PR,Winterport,92300502,Donald,False,Trump,REP,Republican,79,P,Maine,2024-03-07T16:41:37.000Z,262,73,72.9,191
+60420,Nikki Haley,PR,Winterport,92300502,Nikki,False,Haley,REP,Republican,79,P,Maine,2024-03-07T16:41:37.000Z,262,17,17.2,45
+8639,Donald Trump,PR,Winterville Plt.,92300503,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T19:24:04.000Z,32,75,75.0,24
+60420,Nikki Haley,PR,Winterville Plt.,92300503,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T19:24:04.000Z,32,25,25.0,8
+8639,Donald Trump,PR,Winthrop,92300504,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T02:33:17.000Z,544,67,66.9,364
+60420,Nikki Haley,PR,Winthrop,92300504,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T02:33:17.000Z,544,31,31.4,171
+8639,Donald Trump,PR,Wiscasset,92300505,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T14:36:51.000Z,410,75,74.9,307
+60420,Nikki Haley,PR,Wiscasset,92300505,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T14:36:51.000Z,410,23,23.2,95
+8639,Donald Trump,PR,Woodland,92300506,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:39:47.000Z,105,84,83.8,88
+60420,Nikki Haley,PR,Woodland,92300506,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:39:47.000Z,105,16,16.2,17
+8639,Donald Trump,PR,Woodstock,92300507,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-06T17:23:37.000Z,135,77,77.0,104
+60420,Nikki Haley,PR,Woodstock,92300507,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-06T17:23:37.000Z,135,23,23.0,31
+8639,Donald Trump,PR,Woodville,92300508,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-07T19:25:51.000Z,35,88,88.6,31
+60420,Nikki Haley,PR,Woodville,92300508,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-07T19:25:51.000Z,35,6,5.7,2
+8639,Donald Trump,PR,Woolwich,92300509,Donald,False,Trump,REP,Republican,95,P,Maine,2024-03-29T20:14:01.000Z,371,71,70.9,263
+60420,Nikki Haley,PR,Woolwich,92300509,Nikki,False,Haley,REP,Republican,95,P,Maine,2024-03-29T20:14:01.000Z,371,27,27.0,100
+60420,Nikki Haley,PR,Yarmouth,92300510,Nikki,False,Haley,REP,Republican,70,P,Maine,2024-03-29T20:12:34.000Z,615,53,52.5,323
+8639,Donald Trump,PR,Yarmouth,92300510,Donald,False,Trump,REP,Republican,70,P,Maine,2024-03-29T20:12:34.000Z,615,45,45.0,277
+8639,Donald Trump,PR,York,92300511,Donald,False,Trump,REP,Republican,99,P,Maine,2024-03-06T02:42:14.000Z,1212,61,61.5,745
+60420,Nikki Haley,PR,York,92300511,Nikki,False,Haley,REP,Republican,99,P,Maine,2024-03-06T02:42:14.000Z,1212,37,37.2,451

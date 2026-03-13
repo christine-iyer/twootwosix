@@ -1,0 +1,495 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+8639,Donald Trump,PR,Addison,95000001,Donald,False,Trump,REP,Republican,51,P,Vermont,2024-03-08T18:40:54.000Z,328,48,48.5,159
+60420,Nikki Haley,PR,Addison,95000001,Nikki,False,Haley,REP,Republican,51,P,Vermont,2024-03-08T18:40:54.000Z,328,42,41.8,137
+8639,Donald Trump,PR,Albany,95000002,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-06T00:56:51.000Z,85,52,51.8,44
+60420,Nikki Haley,PR,Albany,95000002,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-06T00:56:51.000Z,85,45,44.7,38
+8639,Donald Trump,PR,Alburgh,95000003,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:47:27.000Z,335,58,58.2,195
+60420,Nikki Haley,PR,Alburgh,95000003,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:47:27.000Z,335,39,39.1,131
+8639,Donald Trump,PR,Andover,95000004,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:47:56.000Z,144,56,56.2,81
+60420,Nikki Haley,PR,Andover,95000004,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:47:56.000Z,144,40,39.6,57
+60420,Nikki Haley,PR,Arlington,95000005,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:48:29.000Z,351,48,48.4,170
+8639,Donald Trump,PR,Arlington,95000005,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:48:29.000Z,351,47,46.7,164
+8639,Donald Trump,PR,Athens,95000006,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:48:56.000Z,55,67,67.3,37
+60420,Nikki Haley,PR,Athens,95000006,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:48:56.000Z,55,29,29.1,16
+60420,Nikki Haley,PR,Bakersfield,95000007,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:49:22.000Z,140,55,55.0,77
+8639,Donald Trump,PR,Bakersfield,95000007,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:49:22.000Z,140,38,37.9,53
+8639,Donald Trump,PR,Baltimore,95000008,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:49:54.000Z,38,55,55.3,21
+60420,Nikki Haley,PR,Baltimore,95000008,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:49:54.000Z,38,37,36.8,14
+60420,Nikki Haley,PR,Barnard,95000009,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T18:50:19.000Z,150,57,56.7,85
+8639,Donald Trump,PR,Barnard,95000009,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T18:50:19.000Z,150,39,39.3,59
+8639,Donald Trump,PR,Barnet,95000010,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:01:55.000Z,174,57,57.5,100
+60420,Nikki Haley,PR,Barnet,95000010,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:01:55.000Z,174,39,38.5,67
+8639,Donald Trump,PR,Barre,95000011,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:02:39.000Z,681,54,53.6,365
+60420,Nikki Haley,PR,Barre,95000011,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:02:39.000Z,681,43,42.7,291
+8639,Donald Trump,PR,Barre Town,95000012,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:04:02.000Z,1247,54,54.2,676
+60420,Nikki Haley,PR,Barre Town,95000012,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:04:02.000Z,1247,41,40.6,506
+8639,Donald Trump,PR,Barton,95000013,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:04:44.000Z,167,59,59.3,99
+60420,Nikki Haley,PR,Barton,95000013,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:04:44.000Z,167,35,34.7,58
+60420,Nikki Haley,PR,Belvidere,95000014,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:05:08.000Z,41,51,51.2,21
+8639,Donald Trump,PR,Belvidere,95000014,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:05:08.000Z,41,41,41.5,17
+8639,Donald Trump,PR,Bennington,95000015,Donald,False,Trump,REP,Republican,82,P,Vermont,2024-04-09T18:18:22.000Z,1164,56,56.0,652
+60420,Nikki Haley,PR,Bennington,95000015,Nikki,False,Haley,REP,Republican,82,P,Vermont,2024-04-09T18:18:22.000Z,1164,38,38.1,443
+8639,Donald Trump,PR,Benson,95000016,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:05:57.000Z,217,64,64.1,139
+60420,Nikki Haley,PR,Benson,95000016,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:05:57.000Z,217,31,31.3,68
+8639,Donald Trump,PR,Berkshire,95000017,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:06:25.000Z,212,62,61.8,131
+60420,Nikki Haley,PR,Berkshire,95000017,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:06:25.000Z,212,36,35.8,76
+60420,Nikki Haley,PR,Berlin,95000018,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:07:35.000Z,342,48,48.2,165
+8639,Donald Trump,PR,Berlin,95000018,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:07:35.000Z,342,46,45.9,157
+60420,Nikki Haley,PR,Bethel,95000019,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:07:56.000Z,159,52,51.6,82
+8639,Donald Trump,PR,Bethel,95000019,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:07:56.000Z,159,40,40.2,64
+8639,Donald Trump,PR,Bloomfield,95000020,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:08:16.000Z,43,81,81.4,35
+60420,Nikki Haley,PR,Bloomfield,95000020,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:08:16.000Z,43,16,16.3,7
+60420,Nikki Haley,PR,Bolton,95000021,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:09:03.000Z,146,54,54.1,79
+8639,Donald Trump,PR,Bolton,95000021,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:09:03.000Z,146,42,42.5,62
+8639,Donald Trump,PR,Bradford,95000022,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:09:33.000Z,274,50,50.4,138
+60420,Nikki Haley,PR,Bradford,95000022,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:09:33.000Z,274,45,44.9,123
+60420,Nikki Haley,PR,Braintree,95000023,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:10:00.000Z,138,51,50.7,70
+8639,Donald Trump,PR,Braintree,95000023,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:10:00.000Z,138,45,45.7,63
+8639,Donald Trump,PR,Brandon,95000024,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:10:40.000Z,607,58,58.3,354
+60420,Nikki Haley,PR,Brandon,95000024,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:10:40.000Z,607,37,36.7,223
+60420,Nikki Haley,PR,Brattleboro,95000025,Nikki,False,Haley,REP,Republican,91,P,Vermont,2024-03-08T19:11:26.000Z,590,58,58.0,342
+8639,Donald Trump,PR,Brattleboro,95000025,Donald,False,Trump,REP,Republican,91,P,Vermont,2024-03-08T19:11:26.000Z,590,36,36.4,215
+8639,Donald Trump,PR,Bridgewater,95000026,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:11:49.000Z,205,56,56.1,115
+60420,Nikki Haley,PR,Bridgewater,95000026,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:11:49.000Z,205,40,40.5,83
+8639,Donald Trump,PR,Bridport,95000027,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:12:16.000Z,215,50,50.2,108
+60420,Nikki Haley,PR,Bridport,95000027,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:12:16.000Z,215,47,46.5,100
+8639,Donald Trump,PR,Brighton,95000028,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:13:38.000Z,214,70,70.1,150
+60420,Nikki Haley,PR,Brighton,95000028,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:13:38.000Z,214,27,27.1,58
+8639,Donald Trump,PR,Bristol,95000029,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:14:11.000Z,433,49,49.0,212
+60420,Nikki Haley,PR,Bristol,95000029,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:14:11.000Z,433,45,45.5,197
+8639,Donald Trump,PR,Brookfield,95000030,Donald,False,Trump,REP,Republican,66,P,Vermont,2024-03-08T19:14:39.000Z,180,51,50.6,91
+60420,Nikki Haley,PR,Brookfield,95000030,Nikki,False,Haley,REP,Republican,66,P,Vermont,2024-03-08T19:14:39.000Z,180,47,47.2,85
+8639,Donald Trump,PR,Brookline,95000031,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:15:01.000Z,52,52,51.9,27
+60420,Nikki Haley,PR,Brookline,95000031,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:15:01.000Z,52,40,40.4,21
+8639,Donald Trump,PR,Brownington,95000032,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:15:31.000Z,78,60,60.2,47
+60420,Nikki Haley,PR,Brownington,95000032,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:15:31.000Z,78,38,38.5,30
+8639,Donald Trump,PR,Brunswick,95000033,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:15:54.000Z,24,58,58.3,14
+60420,Nikki Haley,PR,Brunswick,95000033,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:15:54.000Z,24,42,41.7,10
+8639,Donald Trump,PR,Burke,95000034,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:16:27.000Z,221,56,55.7,123
+60420,Nikki Haley,PR,Burke,95000034,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:16:27.000Z,221,41,41.2,91
+60420,Nikki Haley,PR,Burlington,95000035,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:17:10.000Z,2185,69,69.4,1517
+8639,Donald Trump,PR,Burlington,95000035,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:17:10.000Z,2185,26,25.6,559
+8639,Donald Trump,PR,Cabot,95000036,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:17:42.000Z,272,51,51.1,139
+60420,Nikki Haley,PR,Cabot,95000036,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:17:42.000Z,272,40,40.1,109
+60420,Nikki Haley,PR,Calais,95000037,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:18:10.000Z,129,70,70.5,91
+8639,Donald Trump,PR,Calais,95000037,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:18:10.000Z,129,25,24.8,32
+60420,Nikki Haley,PR,Cambridge,95000038,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:18:45.000Z,372,60,59.7,222
+8639,Donald Trump,PR,Cambridge,95000038,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:18:45.000Z,372,36,36.3,135
+8639,Donald Trump,PR,Canaan,95000039,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:19:10.000Z,113,61,61.0,69
+60420,Nikki Haley,PR,Canaan,95000039,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:19:10.000Z,113,36,36.3,41
+8639,Donald Trump,PR,Castleton,95000040,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:19:43.000Z,631,61,60.9,384
+60420,Nikki Haley,PR,Castleton,95000040,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:19:43.000Z,631,35,35.5,224
+60420,Nikki Haley,PR,Cavendish,95000041,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:20:04.000Z,203,52,51.7,105
+8639,Donald Trump,PR,Cavendish,95000041,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:20:04.000Z,203,44,44.3,90
+8639,Donald Trump,PR,Charleston,95000042,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:20:29.000Z,91,65,64.8,59
+60420,Nikki Haley,PR,Charleston,95000042,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:20:29.000Z,91,32,31.9,29
+60420,Nikki Haley,PR,Charlotte,95000043,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:20:53.000Z,542,66,66.4,360
+8639,Donald Trump,PR,Charlotte,95000043,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:20:53.000Z,542,30,29.5,160
+8639,Donald Trump,PR,Chelsea,95000044,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:22:24.000Z,120,49,49.2,59
+60420,Nikki Haley,PR,Chelsea,95000044,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:22:24.000Z,120,45,45.0,54
+8639,Donald Trump,PR,Chester,95000045,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:23:21.000Z,416,50,50.0,208
+60420,Nikki Haley,PR,Chester,95000045,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:23:21.000Z,416,47,47.1,196
+60420,Nikki Haley,PR,Chittenden,95000046,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:23:41.000Z,295,49,49.5,146
+8639,Donald Trump,PR,Chittenden,95000046,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:23:41.000Z,295,48,47.8,141
+8639,Donald Trump,PR,Clarendon,95000047,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:24:02.000Z,427,68,67.9,290
+60420,Nikki Haley,PR,Clarendon,95000047,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:24:02.000Z,427,30,29.7,127
+60420,Nikki Haley,PR,Colchester,95000048,Nikki,False,Haley,REP,Republican,88,P,Vermont,2024-03-08T19:24:35.000Z,1801,54,54.0,972
+8639,Donald Trump,PR,Colchester,95000048,Donald,False,Trump,REP,Republican,88,P,Vermont,2024-03-08T19:24:35.000Z,1801,42,41.9,754
+8639,Donald Trump,PR,Concord,95000049,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:24:58.000Z,171,71,71.3,122
+60420,Nikki Haley,PR,Concord,95000049,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:24:58.000Z,171,25,25.1,43
+8639,Donald Trump,PR,Corinth,95000050,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:25:18.000Z,135,53,52.6,71
+60420,Nikki Haley,PR,Corinth,95000050,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:25:18.000Z,135,46,45.9,62
+60420,Nikki Haley,PR,Cornwall,95000051,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T19:25:46.000Z,156,65,64.7,101
+8639,Donald Trump,PR,Cornwall,95000051,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T19:25:46.000Z,156,28,27.6,43
+8639,Donald Trump,PR,Coventry,95000052,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:26:11.000Z,112,68,67.8,76
+60420,Nikki Haley,PR,Coventry,95000052,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:26:11.000Z,112,25,25.0,28
+8639,Donald Trump,PR,Craftsbury,95000053,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:26:37.000Z,103,48,48.5,50
+60420,Nikki Haley,PR,Craftsbury,95000053,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:26:37.000Z,103,47,46.6,48
+8639,Donald Trump,PR,Danby,95000054,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:27:06.000Z,168,66,66.1,111
+60420,Nikki Haley,PR,Danby,95000054,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:27:06.000Z,168,30,30.3,51
+60420,Nikki Haley,PR,Danville,95000055,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:27:32.000Z,285,55,55.1,157
+8639,Donald Trump,PR,Danville,95000055,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:27:32.000Z,285,42,42.1,120
+8639,Donald Trump,PR,Derby,95000056,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:27:56.000Z,574,59,58.9,338
+60420,Nikki Haley,PR,Derby,95000056,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:27:56.000Z,574,36,36.1,207
+60420,Nikki Haley,PR,Dorset,95000057,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:28:20.000Z,263,63,62.7,165
+8639,Donald Trump,PR,Dorset,95000057,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:28:20.000Z,263,34,33.8,89
+60420,Nikki Haley,PR,Dover,95000058,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:28:42.000Z,129,46,45.7,59
+8639,Donald Trump,PR,Dover,95000058,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:28:42.000Z,129,42,41.9,54
+60420,Nikki Haley,PR,Dummerston,95000059,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:29:39.000Z,193,58,57.5,111
+8639,Donald Trump,PR,Dummerston,95000059,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:29:39.000Z,193,40,40.4,78
+60420,Nikki Haley,PR,Duxbury,95000060,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:30:00.000Z,248,58,58.1,144
+8639,Donald Trump,PR,Duxbury,95000060,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:30:00.000Z,248,38,37.9,94
+8639,Donald Trump,PR,East Haven,95000061,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:30:20.000Z,50,56,56.0,28
+60420,Nikki Haley,PR,East Haven,95000061,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:30:20.000Z,50,40,40.0,20
+60420,Nikki Haley,PR,East Montpelier,95000062,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:30:49.000Z,231,67,66.7,154
+8639,Donald Trump,PR,East Montpelier,95000062,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:30:49.000Z,231,25,25.5,59
+8639,Donald Trump,PR,Eden,95000063,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:31:34.000Z,90,58,57.8,52
+60420,Nikki Haley,PR,Eden,95000063,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:31:34.000Z,90,34,34.4,31
+60420,Nikki Haley,PR,Elmore,95000064,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:32:08.000Z,80,55,55.0,44
+8639,Donald Trump,PR,Elmore,95000064,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:32:08.000Z,80,37,37.5,30
+8639,Donald Trump,PR,Enosburgh,95000065,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:32:33.000Z,227,54,53.7,122
+60420,Nikki Haley,PR,Enosburgh,95000065,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:32:33.000Z,227,43,42.7,97
+60420,Nikki Haley,PR,Essex,95000066,Nikki,False,Haley,REP,Republican,77,P,Vermont,2024-06-18T17:36:12.000Z,1242,61,60.8,755
+8639,Donald Trump,PR,Essex,95000066,Donald,False,Trump,REP,Republican,77,P,Vermont,2024-06-18T17:36:12.000Z,1242,36,35.5,441
+60420,Nikki Haley,PR,Essex Junction,95000247,Nikki,False,Haley,REP,Republican,75,P,Vermont,2024-06-18T17:37:09.000Z,808,64,64.1,518
+8639,Donald Trump,PR,Essex Junction,95000247,Donald,False,Trump,REP,Republican,75,P,Vermont,2024-06-18T17:37:09.000Z,808,33,33.4,270
+8639,Donald Trump,PR,Fair Haven,95000069,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:33:50.000Z,366,62,62.0,227
+60420,Nikki Haley,PR,Fair Haven,95000069,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:33:50.000Z,366,31,31.4,115
+8639,Donald Trump,PR,Fairfax,95000067,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-04-09T18:19:08.000Z,875,51,50.7,444
+60420,Nikki Haley,PR,Fairfax,95000067,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-04-09T18:19:08.000Z,875,44,44.1,386
+8639,Donald Trump,PR,Fairfield,95000068,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:34:47.000Z,222,54,53.6,119
+60420,Nikki Haley,PR,Fairfield,95000068,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:34:47.000Z,222,45,45.0,100
+60420,Nikki Haley,PR,Fairlee,95000070,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:35:16.000Z,95,65,65.3,62
+8639,Donald Trump,PR,Fairlee,95000070,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:35:16.000Z,95,31,30.5,29
+60420,Nikki Haley,PR,Fayston,95000071,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:36:28.000Z,167,69,68.9,115
+8639,Donald Trump,PR,Fayston,95000071,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:36:28.000Z,167,24,24.5,41
+60420,Nikki Haley,PR,Ferrisburg,95000072,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:37:05.000Z,479,54,53.9,258
+8639,Donald Trump,PR,Ferrisburg,95000072,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:37:05.000Z,479,42,41.5,199
+60420,Nikki Haley,PR,Fletcher,95000073,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:41:32.000Z,149,56,56.4,84
+8639,Donald Trump,PR,Fletcher,95000073,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:41:32.000Z,149,41,40.9,61
+8639,Donald Trump,PR,Franklin,95000074,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:41:57.000Z,178,57,56.7,101
+60420,Nikki Haley,PR,Franklin,95000074,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:41:57.000Z,178,38,37.6,67
+8639,Donald Trump,PR,Georgia,95000075,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:42:26.000Z,811,50,50.2,407
+60420,Nikki Haley,PR,Georgia,95000075,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:42:26.000Z,811,45,45.5,369
+60420,Nikki Haley,PR,Glover,95000076,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:42:50.000Z,79,62,62.0,49
+8639,Donald Trump,PR,Glover,95000076,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:42:50.000Z,79,34,34.2,27
+8639,Donald Trump,PR,Goshen,95000077,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:43:08.000Z,44,57,56.8,25
+60420,Nikki Haley,PR,Goshen,95000077,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:43:08.000Z,44,36,36.4,16
+8639,Donald Trump,PR,Grafton,95000078,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:43:30.000Z,105,51,51.4,54
+60420,Nikki Haley,PR,Grafton,95000078,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:43:30.000Z,105,46,45.7,48
+8639,Donald Trump,PR,Granby,95000079,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:43:55.000Z,20,60,60.0,12
+60420,Nikki Haley,PR,Granby,95000079,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:43:55.000Z,20,35,35.0,7
+60420,Nikki Haley,PR,Grand Isle,95000080,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:44:21.000Z,403,50,50.6,204
+8639,Donald Trump,PR,Grand Isle,95000080,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:44:21.000Z,403,46,45.7,184
+8639,Donald Trump,PR,Granville,95000081,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:44:42.000Z,22,50,50.0,11
+60420,Nikki Haley,PR,Granville,95000081,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:44:42.000Z,22,45,45.5,10
+60420,Nikki Haley,PR,Greensboro,95000082,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:45:03.000Z,84,70,70.2,59
+8639,Donald Trump,PR,Greensboro,95000082,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:45:03.000Z,84,26,26.2,22
+8639,Donald Trump,PR,Groton,95000083,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:45:24.000Z,129,56,55.8,72
+60420,Nikki Haley,PR,Groton,95000083,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:45:24.000Z,129,40,40.3,52
+8639,Donald Trump,PR,Guildhall,95000084,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:45:44.000Z,48,56,56.2,27
+60420,Nikki Haley,PR,Guildhall,95000084,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:45:44.000Z,48,44,43.7,21
+8639,Donald Trump,PR,Guilford,95000085,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:46:04.000Z,209,49,49.3,103
+60420,Nikki Haley,PR,Guilford,95000085,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:46:04.000Z,209,48,48.3,101
+8639,Donald Trump,PR,Halifax,95000086,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:46:35.000Z,121,69,68.6,83
+60420,Nikki Haley,PR,Halifax,95000086,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:46:35.000Z,121,30,30.6,37
+8639,Donald Trump,PR,Hancock,95000087,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:46:50.000Z,35,57,57.1,20
+60420,Nikki Haley,PR,Hancock,95000087,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:46:50.000Z,35,40,40.0,14
+8639,Donald Trump,PR,Hardwick,95000088,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:47:09.000Z,303,52,51.8,157
+60420,Nikki Haley,PR,Hardwick,95000088,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:47:09.000Z,303,43,42.9,130
+60420,Nikki Haley,PR,Hartford,95000089,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-04-09T18:19:37.000Z,997,55,55.1,549
+8639,Donald Trump,PR,Hartford,95000089,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-04-09T18:19:37.000Z,997,41,40.8,407
+60420,Nikki Haley,PR,Hartland,95000090,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:47:58.000Z,446,53,53.4,238
+8639,Donald Trump,PR,Hartland,95000090,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:47:58.000Z,446,44,44.4,198
+8639,Donald Trump,PR,Highgate,95000091,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:48:17.000Z,472,69,68.6,324
+60420,Nikki Haley,PR,Highgate,95000091,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:48:17.000Z,472,28,27.8,131
+60420,Nikki Haley,PR,Hinesburg,95000092,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T19:48:34.000Z,644,60,59.9,386
+8639,Donald Trump,PR,Hinesburg,95000092,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T19:48:34.000Z,644,36,35.6,229
+8639,Donald Trump,PR,Holland,95000093,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:48:50.000Z,68,62,61.8,42
+60420,Nikki Haley,PR,Holland,95000093,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:48:50.000Z,68,37,36.7,25
+8639,Donald Trump,PR,Hubbardton,95000094,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:49:09.000Z,108,53,52.8,57
+60420,Nikki Haley,PR,Hubbardton,95000094,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:49:09.000Z,108,42,42.6,46
+60420,Nikki Haley,PR,Huntington,95000095,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:49:27.000Z,223,61,61.4,137
+8639,Donald Trump,PR,Huntington,95000095,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:49:27.000Z,223,35,35.4,79
+8639,Donald Trump,PR,Hyde Park,95000096,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:49:50.000Z,324,51,50.6,164
+60420,Nikki Haley,PR,Hyde Park,95000096,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:49:50.000Z,324,47,46.6,151
+8639,Donald Trump,PR,Ira,95000097,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:50:08.000Z,86,60,60.5,52
+60420,Nikki Haley,PR,Ira,95000097,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:50:08.000Z,86,36,36.0,31
+8639,Donald Trump,PR,Irasburg,95000098,Donald,False,Trump,REP,Republican,77,P,Vermont,2024-03-08T19:50:48.000Z,137,69,68.6,94
+60420,Nikki Haley,PR,Irasburg,95000098,Nikki,False,Haley,REP,Republican,77,P,Vermont,2024-03-08T19:50:48.000Z,137,25,24.8,34
+8639,Donald Trump,PR,Isle La Motte,95000099,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T19:51:04.000Z,124,57,57.3,71
+60420,Nikki Haley,PR,Isle La Motte,95000099,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T19:51:04.000Z,124,39,38.7,48
+60420,Nikki Haley,PR,Jamaica,95000100,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:51:30.000Z,61,57,57.4,35
+8639,Donald Trump,PR,Jamaica,95000100,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:51:30.000Z,61,36,36.1,22
+8639,Donald Trump,PR,Jay,95000101,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:51:44.000Z,58,76,75.9,44
+60420,Nikki Haley,PR,Jay,95000101,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:51:44.000Z,58,22,22.4,13
+60420,Nikki Haley,PR,Jericho,95000102,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:52:00.000Z,649,60,60.1,390
+8639,Donald Trump,PR,Jericho,95000102,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:52:00.000Z,649,37,37.1,241
+60420,Nikki Haley,PR,Johnson,95000103,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:52:16.000Z,256,53,53.1,136
+8639,Donald Trump,PR,Johnson,95000103,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:52:16.000Z,256,42,41.8,107
+60420,Nikki Haley,PR,Killington,95000182,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-04-09T18:22:29.000Z,290,52,51.7,150
+8639,Donald Trump,PR,Killington,95000182,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-04-09T18:22:29.000Z,290,42,42.1,122
+60420,Nikki Haley,PR,Kirby,95000104,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:52:47.000Z,59,49,49.1,29
+8639,Donald Trump,PR,Kirby,95000104,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:52:47.000Z,59,49,49.1,29
+60420,Nikki Haley,PR,Landgrove,95000105,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:53:13.000Z,23,91,91.3,21
+8639,Donald Trump,PR,Landgrove,95000105,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:53:13.000Z,23,9,8.7,2
+60420,Nikki Haley,PR,Leicester,95000106,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:53:32.000Z,167,52,52.1,87
+8639,Donald Trump,PR,Leicester,95000106,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:53:32.000Z,167,45,45.5,76
+60420,Nikki Haley,PR,Lemington,95000107,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:53:58.000Z,18,67,66.7,12
+8639,Donald Trump,PR,Lemington,95000107,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:53:58.000Z,18,28,27.8,5
+60420,Nikki Haley,PR,Lincoln,95000108,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:54:19.000Z,213,61,61.0,130
+8639,Donald Trump,PR,Lincoln,95000108,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:54:19.000Z,213,36,35.7,76
+60420,Nikki Haley,PR,Londonderry,95000109,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:54:36.000Z,214,50,50.5,108
+8639,Donald Trump,PR,Londonderry,95000109,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:54:36.000Z,214,46,46.3,99
+8639,Donald Trump,PR,Lowell,95000110,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:54:58.000Z,117,75,75.2,88
+60420,Nikki Haley,PR,Lowell,95000110,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:54:58.000Z,117,20,19.7,23
+8639,Donald Trump,PR,Ludlow,95000111,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:55:18.000Z,336,48,47.6,160
+60420,Nikki Haley,PR,Ludlow,95000111,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:55:18.000Z,336,47,46.7,157
+8639,Donald Trump,PR,Lunenburg,95000112,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T19:55:42.000Z,201,60,60.2,121
+60420,Nikki Haley,PR,Lunenburg,95000112,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T19:55:42.000Z,201,36,35.8,72
+8639,Donald Trump,PR,Lyndon,95000113,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:56:13.000Z,503,56,56.1,282
+60420,Nikki Haley,PR,Lyndon,95000113,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:56:13.000Z,503,40,39.7,200
+60420,Nikki Haley,PR,Maidstone,95000114,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:56:38.000Z,61,59,59.0,36
+8639,Donald Trump,PR,Maidstone,95000114,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:56:38.000Z,61,38,37.7,23
+60420,Nikki Haley,PR,Manchester,95000115,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T19:57:09.000Z,521,56,55.7,290
+8639,Donald Trump,PR,Manchester,95000115,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T19:57:09.000Z,521,39,39.0,203
+60420,Nikki Haley,PR,Marlboro,95000116,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:57:29.000Z,66,64,63.6,42
+8639,Donald Trump,PR,Marlboro,95000116,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:57:29.000Z,66,29,28.8,19
+8639,Donald Trump,PR,Marshfield,95000117,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:57:58.000Z,208,50,50.5,105
+60420,Nikki Haley,PR,Marshfield,95000117,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:57:58.000Z,208,43,42.8,89
+60420,Nikki Haley,PR,Mendon,95000118,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:58:12.000Z,263,52,52.1,137
+8639,Donald Trump,PR,Mendon,95000118,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:58:12.000Z,263,45,44.9,118
+60420,Nikki Haley,PR,Middlebury,95000119,Nikki,False,Haley,REP,Republican,93,P,Vermont,2024-03-08T19:58:40.000Z,657,65,64.8,426
+8639,Donald Trump,PR,Middlebury,95000119,Donald,False,Trump,REP,Republican,93,P,Vermont,2024-03-08T19:58:40.000Z,657,29,29.4,193
+60420,Nikki Haley,PR,Middlesex,95000120,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:59:16.000Z,192,62,62.5,120
+8639,Donald Trump,PR,Middlesex,95000120,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:59:16.000Z,192,31,30.7,59
+8639,Donald Trump,PR,Middletown Springs,95000121,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T19:59:37.000Z,215,50,50.2,108
+60420,Nikki Haley,PR,Middletown Springs,95000121,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T19:59:37.000Z,215,42,42.3,91
+8639,Donald Trump,PR,Milton,95000122,Donald,False,Trump,REP,Republican,88,P,Vermont,2024-04-09T18:20:08.000Z,1842,56,55.7,1026
+60420,Nikki Haley,PR,Milton,95000122,Nikki,False,Haley,REP,Republican,88,P,Vermont,2024-04-09T18:20:08.000Z,1842,40,39.8,733
+8639,Donald Trump,PR,Monkton,95000123,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:01:38.000Z,312,45,44.9,140
+60420,Nikki Haley,PR,Monkton,95000123,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:01:38.000Z,312,44,44.5,139
+60420,Nikki Haley,PR,Montgomery,95000124,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:02:11.000Z,144,48,47.9,69
+8639,Donald Trump,PR,Montgomery,95000124,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:02:11.000Z,144,48,47.9,69
+60420,Nikki Haley,PR,Montpelier,95000125,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:02:29.000Z,698,76,75.8,529
+8639,Donald Trump,PR,Montpelier,95000125,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:02:29.000Z,698,19,18.6,130
+60420,Nikki Haley,PR,Moretown,95000126,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:02:47.000Z,250,66,65.6,164
+8639,Donald Trump,PR,Moretown,95000126,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:02:47.000Z,250,31,31.2,78
+8639,Donald Trump,PR,Morgan,95000127,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:03:00.000Z,106,55,54.7,58
+60420,Nikki Haley,PR,Morgan,95000127,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:03:00.000Z,106,45,45.3,48
+60420,Nikki Haley,PR,Morristown,95000128,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:03:18.000Z,460,60,60.2,277
+8639,Donald Trump,PR,Morristown,95000128,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:03:18.000Z,460,37,37.2,171
+8639,Donald Trump,PR,Mount Holly,95000129,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-04-09T18:20:33.000Z,313,65,65.2,204
+60420,Nikki Haley,PR,Mount Holly,95000129,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-04-09T18:20:33.000Z,313,30,29.7,93
+60420,Nikki Haley,PR,Mount Tabor,95000130,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:04:00.000Z,36,44,44.4,16
+8639,Donald Trump,PR,Mount Tabor,95000130,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:04:00.000Z,36,44,44.4,16
+60420,Nikki Haley,PR,New Haven,95000134,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:04:20.000Z,333,50,50.2,167
+8639,Donald Trump,PR,New Haven,95000134,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:04:20.000Z,333,45,44.7,149
+8639,Donald Trump,PR,Newark,95000131,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:04:42.000Z,83,63,62.7,52
+60420,Nikki Haley,PR,Newark,95000131,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:04:42.000Z,83,36,36.1,30
+8639,Donald Trump,PR,Newbury,95000132,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:05:07.000Z,212,55,54.7,116
+60420,Nikki Haley,PR,Newbury,95000132,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:05:07.000Z,212,41,40.6,86
+60420,Nikki Haley,PR,Newfane,95000133,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:05:22.000Z,146,49,49.3,72
+8639,Donald Trump,PR,Newfane,95000133,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:05:22.000Z,146,46,46.6,68
+8639,Donald Trump,PR,Newport,95000135,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:05:51.000Z,437,57,56.8,248
+60420,Nikki Haley,PR,Newport,95000135,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:05:51.000Z,437,36,35.7,156
+8639,Donald Trump,PR,Newport Town,95000136,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:06:05.000Z,157,59,58.6,92
+60420,Nikki Haley,PR,Newport Town,95000136,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:06:05.000Z,157,39,39.5,62
+60420,Nikki Haley,PR,North Hero,95000138,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:06:41.000Z,230,53,52.6,121
+8639,Donald Trump,PR,North Hero,95000138,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:06:41.000Z,230,43,43.0,99
+60420,Nikki Haley,PR,Northfield,95000137,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-04-09T18:21:00.000Z,556,48,48.4,269
+8639,Donald Trump,PR,Northfield,95000137,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-04-09T18:21:00.000Z,556,44,44.2,246
+8639,Donald Trump,PR,Norton,95000139,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:07:36.000Z,45,69,68.9,31
+60420,Nikki Haley,PR,Norton,95000139,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:07:36.000Z,45,29,28.9,13
+60420,Nikki Haley,PR,Norwich,95000140,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:07:55.000Z,305,78,77.7,237
+8639,Donald Trump,PR,Norwich,95000140,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:07:55.000Z,305,18,18.0,55
+8639,Donald Trump,PR,Orange,95000141,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:08:15.000Z,177,60,60.4,107
+60420,Nikki Haley,PR,Orange,95000141,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:08:15.000Z,177,34,33.9,60
+60420,Nikki Haley,PR,Orwell,95000142,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:08:36.000Z,256,48,47.6,122
+8639,Donald Trump,PR,Orwell,95000142,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:08:36.000Z,256,48,47.6,122
+60420,Nikki Haley,PR,Panton,95000143,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:08:52.000Z,111,49,49.5,55
+8639,Donald Trump,PR,Panton,95000143,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:08:52.000Z,111,40,40.5,45
+8639,Donald Trump,PR,Pawlet,95000144,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:09:12.000Z,220,54,54.1,119
+60420,Nikki Haley,PR,Pawlet,95000144,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:09:12.000Z,220,42,42.3,93
+60420,Nikki Haley,PR,Peacham,95000145,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:09:35.000Z,87,64,64.4,56
+8639,Donald Trump,PR,Peacham,95000145,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:09:35.000Z,87,32,32.2,28
+60420,Nikki Haley,PR,Peru,95000146,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:09:52.000Z,41,78,78.0,32
+8639,Donald Trump,PR,Peru,95000146,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:09:52.000Z,41,22,22.0,9
+60420,Nikki Haley,PR,Pittsfield,95000147,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:10:07.000Z,74,65,64.9,48
+8639,Donald Trump,PR,Pittsfield,95000147,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:10:07.000Z,74,34,33.8,25
+8639,Donald Trump,PR,Pittsford,95000148,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:10:31.000Z,471,58,58.4,275
+60420,Nikki Haley,PR,Pittsford,95000148,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:10:31.000Z,471,36,35.7,168
+60420,Nikki Haley,PR,Plainfield,95000149,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:10:48.000Z,142,57,57.0,81
+8639,Donald Trump,PR,Plainfield,95000149,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:10:48.000Z,142,36,35.9,51
+60420,Nikki Haley,PR,Plymouth,95000150,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:11:01.000Z,120,52,52.5,63
+8639,Donald Trump,PR,Plymouth,95000150,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:11:01.000Z,120,46,45.8,55
+60420,Nikki Haley,PR,Pomfret,95000151,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:11:34.000Z,177,59,58.7,104
+8639,Donald Trump,PR,Pomfret,95000151,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:11:34.000Z,177,34,33.9,60
+8639,Donald Trump,PR,Poultney,95000152,Donald,False,Trump,REP,Republican,71,P,Vermont,2024-03-08T20:11:54.000Z,421,58,57.7,243
+60420,Nikki Haley,PR,Poultney,95000152,Nikki,False,Haley,REP,Republican,71,P,Vermont,2024-03-08T20:11:54.000Z,421,37,36.8,155
+8639,Donald Trump,PR,Pownal,95000153,Donald,False,Trump,REP,Republican,50,P,Vermont,2024-03-08T20:12:15.000Z,326,67,67.2,219
+60420,Nikki Haley,PR,Pownal,95000153,Nikki,False,Haley,REP,Republican,50,P,Vermont,2024-03-08T20:12:15.000Z,326,26,26.1,85
+8639,Donald Trump,PR,Proctor,95000154,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:12:27.000Z,206,53,52.9,109
+60420,Nikki Haley,PR,Proctor,95000154,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:12:27.000Z,206,43,43.2,89
+60420,Nikki Haley,PR,Putney,95000155,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:12:43.000Z,159,53,52.8,84
+8639,Donald Trump,PR,Putney,95000155,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:12:43.000Z,159,42,42.1,67
+60420,Nikki Haley,PR,Randolph,95000156,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:13:12.000Z,485,51,50.9,247
+8639,Donald Trump,PR,Randolph,95000156,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:13:12.000Z,485,42,42.1,204
+60420,Nikki Haley,PR,Reading,95000157,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:13:45.000Z,136,60,60.3,82
+8639,Donald Trump,PR,Reading,95000157,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:13:45.000Z,136,35,34.5,47
+8639,Donald Trump,PR,Readsboro,95000158,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:14:24.000Z,97,40,40.2,39
+60420,Nikki Haley,PR,Readsboro,95000158,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:14:24.000Z,97,19,18.5,18
+8639,Donald Trump,PR,Richford,95000159,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:14:50.000Z,241,64,64.3,155
+60420,Nikki Haley,PR,Richford,95000159,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:14:50.000Z,241,30,30.3,73
+60420,Nikki Haley,PR,Richmond,95000160,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:15:18.000Z,633,68,67.6,428
+8639,Donald Trump,PR,Richmond,95000160,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:15:18.000Z,633,29,28.8,182
+60420,Nikki Haley,PR,Ripton,95000161,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:15:37.000Z,95,56,55.8,53
+8639,Donald Trump,PR,Ripton,95000161,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:15:37.000Z,95,43,43.2,41
+60420,Nikki Haley,PR,Rochester,95000162,Nikki,False,Haley,REP,Republican,79,P,Vermont,2024-03-08T20:16:05.000Z,116,61,61.2,71
+8639,Donald Trump,PR,Rochester,95000162,Donald,False,Trump,REP,Republican,79,P,Vermont,2024-03-08T20:16:05.000Z,116,35,35.3,41
+60420,Nikki Haley,PR,Rockingham,95000163,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:38:48.000Z,386,49,48.7,188
+8639,Donald Trump,PR,Rockingham,95000163,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:38:48.000Z,386,47,47.4,183
+8639,Donald Trump,PR,Roxbury,95000164,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:39:07.000Z,149,54,54.4,81
+60420,Nikki Haley,PR,Roxbury,95000164,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:39:07.000Z,149,42,41.6,62
+60420,Nikki Haley,PR,Royalton,95000165,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:39:27.000Z,231,52,51.5,119
+8639,Donald Trump,PR,Royalton,95000165,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:39:27.000Z,231,44,44.1,102
+8639,Donald Trump,PR,Rupert,95000166,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:39:47.000Z,121,49,48.8,59
+60420,Nikki Haley,PR,Rupert,95000166,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:39:47.000Z,121,47,47.1,57
+8639,Donald Trump,PR,Rutland,95000167,Donald,False,Trump,REP,Republican,89,P,Vermont,2024-04-09T18:21:38.000Z,1861,56,55.5,1033
+60420,Nikki Haley,PR,Rutland,95000167,Nikki,False,Haley,REP,Republican,89,P,Vermont,2024-04-09T18:21:38.000Z,1861,39,38.7,721
+8639,Donald Trump,PR,Rutland Town,95000168,Donald,False,Trump,REP,Republican,81,P,Vermont,2024-03-08T20:40:24.000Z,775,49,48.8,378
+60420,Nikki Haley,PR,Rutland Town,95000168,Nikki,False,Haley,REP,Republican,81,P,Vermont,2024-03-08T20:40:24.000Z,775,47,47.0,364
+8639,Donald Trump,PR,Ryegate,95000169,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:41:24.000Z,135,52,51.9,70
+60420,Nikki Haley,PR,Ryegate,95000169,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:41:24.000Z,135,44,44.4,60
+60420,Nikki Haley,PR,Salisbury,95000174,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:43:22.000Z,178,51,50.6,90
+8639,Donald Trump,PR,Salisbury,95000174,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:43:22.000Z,178,45,45.5,81
+60420,Nikki Haley,PR,Sandgate,95000175,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:43:37.000Z,60,45,45.0,27
+8639,Donald Trump,PR,Sandgate,95000175,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:43:37.000Z,60,45,45.0,27
+8639,Donald Trump,PR,Searsburg,95000176,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:43:52.000Z,20,85,85.0,17
+60420,Nikki Haley,PR,Searsburg,95000176,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:43:52.000Z,20,15,15.0,3
+8639,Donald Trump,PR,Shaftsbury,95000177,Donald,False,Trump,REP,Republican,92,P,Vermont,2024-03-08T20:44:06.000Z,520,51,51.2,266
+60420,Nikki Haley,PR,Shaftsbury,95000177,Nikki,False,Haley,REP,Republican,92,P,Vermont,2024-03-08T20:44:06.000Z,520,45,44.6,232
+60420,Nikki Haley,PR,Sharon,95000178,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-04-09T18:22:06.000Z,132,48,48.5,64
+8639,Donald Trump,PR,Sharon,95000178,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-04-09T18:22:06.000Z,132,47,47.0,62
+8639,Donald Trump,PR,Sheffield,95000179,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:44:47.000Z,79,66,65.8,52
+60420,Nikki Haley,PR,Sheffield,95000179,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:44:47.000Z,79,27,26.6,21
+60420,Nikki Haley,PR,Shelburne,95000180,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:45:03.000Z,1094,73,72.9,798
+8639,Donald Trump,PR,Shelburne,95000180,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:45:03.000Z,1094,22,22.2,243
+8639,Donald Trump,PR,Sheldon,95000181,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:45:18.000Z,215,58,58.1,125
+60420,Nikki Haley,PR,Sheldon,95000181,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:45:18.000Z,215,40,39.5,85
+60420,Nikki Haley,PR,Shoreham,95000183,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:45:39.000Z,159,53,52.8,84
+8639,Donald Trump,PR,Shoreham,95000183,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:45:39.000Z,159,41,41.5,66
+8639,Donald Trump,PR,Shrewsbury,95000184,Donald,False,Trump,REP,Republican,85,P,Vermont,2024-03-08T20:46:44.000Z,177,54,54.2,96
+60420,Nikki Haley,PR,Shrewsbury,95000184,Nikki,False,Haley,REP,Republican,85,P,Vermont,2024-03-08T20:46:44.000Z,177,42,41.8,74
+60420,Nikki Haley,PR,South Burlington,95000185,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:47:26.000Z,1972,69,69.5,1370
+8639,Donald Trump,PR,South Burlington,95000185,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:47:26.000Z,1972,26,26.2,516
+60420,Nikki Haley,PR,South Hero,95000186,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:47:45.000Z,398,59,59.0,235
+8639,Donald Trump,PR,South Hero,95000186,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:47:45.000Z,398,37,37.2,148
+8639,Donald Trump,PR,Springfield,95000187,Donald,False,Trump,REP,Republican,77,P,Vermont,2024-06-18T17:36:33.000Z,912,60,59.9,546
+60420,Nikki Haley,PR,Springfield,95000187,Nikki,False,Haley,REP,Republican,77,P,Vermont,2024-06-18T17:36:33.000Z,912,37,37.3,340
+60420,Nikki Haley,PR,St. Albans,95000170,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:41:43.000Z,502,51,50.6,254
+8639,Donald Trump,PR,St. Albans,95000170,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:41:43.000Z,502,45,45.2,227
+8639,Donald Trump,PR,St. Albans Town,95000171,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-06-18T17:36:23.000Z,959,49,49.2,472
+60420,Nikki Haley,PR,St. Albans Town,95000171,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-06-18T17:36:23.000Z,959,47,46.8,449
+60420,Nikki Haley,PR,St. George,95000172,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:42:43.000Z,85,52,51.7,44
+8639,Donald Trump,PR,St. George,95000172,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:42:43.000Z,85,46,45.9,39
+8639,Donald Trump,PR,St. Johnsbury,95000173,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:42:58.000Z,702,50,49.7,349
+60420,Nikki Haley,PR,St. Johnsbury,95000173,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:42:58.000Z,702,44,44.3,311
+8639,Donald Trump,PR,Stamford,95000188,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:48:17.000Z,257,69,69.6,179
+60420,Nikki Haley,PR,Stamford,95000188,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:48:17.000Z,257,22,21.8,56
+60420,Nikki Haley,PR,Stannard,95000189,Nikki,False,Haley,REP,Republican,88,P,Vermont,2024-03-08T20:54:08.000Z,15,87,86.7,13
+8639,Donald Trump,PR,Stannard,95000189,Donald,False,Trump,REP,Republican,88,P,Vermont,2024-03-08T20:54:08.000Z,15,13,13.3,2
+8639,Donald Trump,PR,Starksboro,95000190,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:54:34.000Z,215,51,51.2,110
+60420,Nikki Haley,PR,Starksboro,95000190,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:54:34.000Z,215,47,46.5,100
+60420,Nikki Haley,PR,Stockbridge,95000191,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:54:54.000Z,69,62,62.3,43
+8639,Donald Trump,PR,Stockbridge,95000191,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:54:54.000Z,69,20,20.3,14
+60420,Nikki Haley,PR,Stowe,95000192,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:55:18.000Z,598,71,70.7,423
+8639,Donald Trump,PR,Stowe,95000192,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:55:18.000Z,598,26,26.3,157
+60420,Nikki Haley,PR,Strafford,95000193,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:55:47.000Z,89,82,82.0,73
+8639,Donald Trump,PR,Strafford,95000193,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:55:47.000Z,89,18,18.0,16
+8639,Donald Trump,PR,Stratton,95000194,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:56:30.000Z,28,68,67.8,19
+60420,Nikki Haley,PR,Stratton,95000194,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:56:30.000Z,28,29,28.6,8
+60420,Nikki Haley,PR,Sudbury,95000195,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:56:56.000Z,109,48,48.6,53
+8639,Donald Trump,PR,Sudbury,95000195,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:56:56.000Z,109,41,41.3,45
+8639,Donald Trump,PR,Sunderland,95000196,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:57:28.000Z,161,53,52.8,85
+60420,Nikki Haley,PR,Sunderland,95000196,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:57:28.000Z,161,43,43.5,70
+8639,Donald Trump,PR,Sutton,95000197,Donald,False,Trump,REP,Republican,96,P,Vermont,2024-03-08T20:57:45.000Z,122,54,54.1,66
+60420,Nikki Haley,PR,Sutton,95000197,Nikki,False,Haley,REP,Republican,96,P,Vermont,2024-03-08T20:57:45.000Z,122,42,42.6,52
+8639,Donald Trump,PR,Swanton,95000198,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-04-09T18:23:06.000Z,998,64,63.7,636
+60420,Nikki Haley,PR,Swanton,95000198,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-04-09T18:23:06.000Z,998,33,33.0,329
+60420,Nikki Haley,PR,Thetford,95000199,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T20:58:22.000Z,324,67,67.0,217
+8639,Donald Trump,PR,Thetford,95000199,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T20:58:22.000Z,324,30,30.2,98
+8639,Donald Trump,PR,Tinmouth,95000200,Donald,False,Trump,REP,Republican,89,P,Vermont,2024-06-18T17:36:42.000Z,123,67,67.5,83
+60420,Nikki Haley,PR,Tinmouth,95000200,Nikki,False,Haley,REP,Republican,89,P,Vermont,2024-06-18T17:36:42.000Z,123,27,26.8,33
+8639,Donald Trump,PR,Topsham,95000201,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:58:51.000Z,143,65,65.0,93
+60420,Nikki Haley,PR,Topsham,95000201,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:58:51.000Z,143,34,33.6,48
+60420,Nikki Haley,PR,Townshend,95000202,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T20:59:04.000Z,83,53,53.0,44
+8639,Donald Trump,PR,Townshend,95000202,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T20:59:04.000Z,83,47,47.0,39
+8639,Donald Trump,PR,Troy,95000203,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-06-18T17:36:53.000Z,109,72,72.5,79
+60420,Nikki Haley,PR,Troy,95000203,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-06-18T17:36:53.000Z,109,24,23.9,26
+60420,Nikki Haley,PR,Tunbridge,95000204,Nikki,False,Haley,REP,Republican,72,P,Vermont,2024-03-14T21:05:39.000Z,136,57,57.4,78
+8639,Donald Trump,PR,Tunbridge,95000204,Donald,False,Trump,REP,Republican,72,P,Vermont,2024-03-14T21:05:39.000Z,136,38,38.2,52
+60420,Nikki Haley,PR,Underhill,95000205,Nikki,False,Haley,REP,Republican,89,P,Vermont,2024-03-08T20:59:52.000Z,469,65,65.5,307
+8639,Donald Trump,PR,Underhill,95000205,Donald,False,Trump,REP,Republican,89,P,Vermont,2024-03-08T20:59:52.000Z,469,31,31.1,146
+60420,Nikki Haley,PR,Vergennes,95000206,Nikki,False,Haley,REP,Republican,80,P,Vermont,2024-03-08T21:00:11.000Z,288,49,48.9,141
+8639,Donald Trump,PR,Vergennes,95000206,Donald,False,Trump,REP,Republican,80,P,Vermont,2024-03-08T21:00:11.000Z,288,46,46.2,133
+8639,Donald Trump,PR,Vernon,95000207,Donald,False,Trump,REP,Republican,78,P,Vermont,2024-03-08T21:00:28.000Z,286,52,52.1,149
+60420,Nikki Haley,PR,Vernon,95000207,Nikki,False,Haley,REP,Republican,78,P,Vermont,2024-03-08T21:00:28.000Z,286,43,43.0,123
+8639,Donald Trump,PR,Vershire,95000208,Donald,False,Trump,REP,Republican,84,P,Vermont,2024-03-08T21:00:44.000Z,68,66,66.2,45
+60420,Nikki Haley,PR,Vershire,95000208,Nikki,False,Haley,REP,Republican,84,P,Vermont,2024-03-08T21:00:44.000Z,68,29,29.4,20
+8639,Donald Trump,PR,Victory,95000209,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T21:01:01.000Z,40,75,75.0,30
+60420,Nikki Haley,PR,Victory,95000209,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T21:01:01.000Z,40,15,15.0,6
+60420,Nikki Haley,PR,Waitsfield,95000210,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:01:16.000Z,293,64,64.2,188
+8639,Donald Trump,PR,Waitsfield,95000210,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:01:16.000Z,293,30,30.4,89
+8639,Donald Trump,PR,Walden,95000211,Donald,False,Trump,REP,Republican,71,P,Vermont,2024-03-08T21:01:33.000Z,88,62,62.5,55
+60420,Nikki Haley,PR,Walden,95000211,Nikki,False,Haley,REP,Republican,71,P,Vermont,2024-03-08T21:01:33.000Z,88,34,34.1,30
+8639,Donald Trump,PR,Wallingford,95000212,Donald,False,Trump,REP,Republican,82,P,Vermont,2024-03-08T21:01:48.000Z,348,63,63.2,220
+60420,Nikki Haley,PR,Wallingford,95000212,Nikki,False,Haley,REP,Republican,82,P,Vermont,2024-03-08T21:01:48.000Z,348,34,33.6,117
+60420,Nikki Haley,PR,Waltham,95000213,Nikki,False,Haley,REP,Republican,73,P,Vermont,2024-03-08T21:02:03.000Z,70,60,60.0,42
+8639,Donald Trump,PR,Waltham,95000213,Donald,False,Trump,REP,Republican,73,P,Vermont,2024-03-08T21:02:03.000Z,70,37,37.1,26
+60420,Nikki Haley,PR,Wardsboro,95000214,Nikki,False,Haley,REP,Republican,85,P,Vermont,2024-03-08T21:02:29.000Z,71,52,52.1,37
+8639,Donald Trump,PR,Wardsboro,95000214,Donald,False,Trump,REP,Republican,85,P,Vermont,2024-03-08T21:02:29.000Z,71,44,43.7,31
+60420,Nikki Haley,PR,Warren,95000215,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:02:44.000Z,227,77,76.6,174
+8639,Donald Trump,PR,Warren,95000215,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:02:44.000Z,227,20,20.3,46
+8639,Donald Trump,PR,Washington,95000216,Donald,False,Trump,REP,Republican,73,P,Vermont,2024-03-08T21:03:00.000Z,169,57,56.8,96
+60420,Nikki Haley,PR,Washington,95000216,Nikki,False,Haley,REP,Republican,73,P,Vermont,2024-03-08T21:03:00.000Z,169,39,39.0,66
+60420,Nikki Haley,PR,Waterbury,95000217,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-14T21:06:17.000Z,632,66,65.7,415
+8639,Donald Trump,PR,Waterbury,95000217,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-14T21:06:17.000Z,632,28,28.0,177
+8639,Donald Trump,PR,Waterford,95000218,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T21:03:39.000Z,216,53,53.2,115
+60420,Nikki Haley,PR,Waterford,95000218,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T21:03:39.000Z,216,41,41.2,89
+8639,Donald Trump,PR,Waterville,95000219,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:03:54.000Z,96,60,60.4,58
+60420,Nikki Haley,PR,Waterville,95000219,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:03:54.000Z,96,37,37.5,36
+8639,Donald Trump,PR,Weathersfield,95000220,Donald,False,Trump,REP,Republican,77,P,Vermont,2024-03-08T21:04:11.000Z,412,54,54.4,224
+60420,Nikki Haley,PR,Weathersfield,95000220,Nikki,False,Haley,REP,Republican,77,P,Vermont,2024-03-08T21:04:11.000Z,412,41,41.0,169
+8639,Donald Trump,PR,Wells,95000221,Donald,False,Trump,REP,Republican,85,P,Vermont,2024-03-08T21:04:39.000Z,192,66,65.6,126
+60420,Nikki Haley,PR,Wells,95000221,Nikki,False,Haley,REP,Republican,85,P,Vermont,2024-03-08T21:04:39.000Z,192,28,27.6,53
+8639,Donald Trump,PR,West Fairlee,95000222,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:04:58.000Z,76,51,51.3,39
+60420,Nikki Haley,PR,West Fairlee,95000222,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:04:58.000Z,76,47,47.4,36
+8639,Donald Trump,PR,West Haven,95000225,Donald,False,Trump,REP,Republican,94,P,Vermont,2024-03-08T21:05:19.000Z,49,57,57.1,28
+60420,Nikki Haley,PR,West Haven,95000225,Nikki,False,Haley,REP,Republican,94,P,Vermont,2024-03-08T21:05:19.000Z,49,41,40.8,20
+8639,Donald Trump,PR,West Rutland,95000229,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T21:05:50.000Z,318,65,65.1,207
+60420,Nikki Haley,PR,West Rutland,95000229,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T21:05:50.000Z,318,29,29.2,93
+60420,Nikki Haley,PR,West Windsor,95000230,Nikki,False,Haley,REP,Republican,91,P,Vermont,2024-03-08T21:06:08.000Z,199,69,68.8,137
+8639,Donald Trump,PR,West Windsor,95000230,Donald,False,Trump,REP,Republican,91,P,Vermont,2024-03-08T21:06:08.000Z,199,29,28.6,57
+8639,Donald Trump,PR,Westfield,95000223,Donald,False,Trump,REP,Republican,83,P,Vermont,2024-03-08T21:06:29.000Z,63,52,52.4,33
+60420,Nikki Haley,PR,Westfield,95000223,Nikki,False,Haley,REP,Republican,83,P,Vermont,2024-03-08T21:06:29.000Z,63,46,46.0,29
+60420,Nikki Haley,PR,Westford,95000224,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:06:56.000Z,255,64,64.3,164
+8639,Donald Trump,PR,Westford,95000224,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:06:56.000Z,255,33,32.9,84
+8639,Donald Trump,PR,Westminster,95000226,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:07:39.000Z,224,50,50.4,113
+60420,Nikki Haley,PR,Westminster,95000226,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:07:39.000Z,224,42,42.0,94
+60420,Nikki Haley,PR,Westmore,95000227,Nikki,False,Haley,REP,Republican,92,P,Vermont,2024-03-08T21:08:03.000Z,47,49,48.9,23
+8639,Donald Trump,PR,Westmore,95000227,Donald,False,Trump,REP,Republican,92,P,Vermont,2024-03-08T21:08:03.000Z,47,47,46.8,22
+60420,Nikki Haley,PR,Weston,95000228,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:08:24.000Z,81,74,74.1,60
+8639,Donald Trump,PR,Weston,95000228,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:08:24.000Z,81,21,21.0,17
+60420,Nikki Haley,PR,Weybridge,95000231,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:09:15.000Z,103,72,71.8,74
+8639,Donald Trump,PR,Weybridge,95000231,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:09:15.000Z,103,23,23.3,24
+8639,Donald Trump,PR,Wheelock,95000232,Donald,False,Trump,REP,Republican,73,P,Vermont,2024-03-08T21:09:37.000Z,90,58,57.8,52
+60420,Nikki Haley,PR,Wheelock,95000232,Nikki,False,Haley,REP,Republican,73,P,Vermont,2024-03-08T21:09:37.000Z,90,36,35.6,32
+8639,Donald Trump,PR,Whiting,95000233,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T21:10:00.000Z,66,55,54.5,36
+60420,Nikki Haley,PR,Whiting,95000233,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T21:10:00.000Z,66,39,39.4,26
+8639,Donald Trump,PR,Whitingham,95000234,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-06-18T17:37:01.000Z,158,61,61.4,97
+60420,Nikki Haley,PR,Whitingham,95000234,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-06-18T17:37:01.000Z,158,34,34.2,54
+8639,Donald Trump,PR,Williamstown,95000235,Donald,False,Trump,REP,Republican,94,P,Vermont,2024-03-08T21:10:53.000Z,480,60,60.0,288
+60420,Nikki Haley,PR,Williamstown,95000235,Nikki,False,Haley,REP,Republican,94,P,Vermont,2024-03-08T21:10:53.000Z,480,36,35.6,171
+60420,Nikki Haley,PR,Williston,95000236,Nikki,False,Haley,REP,Republican,99,P,Vermont,2024-03-08T21:11:13.000Z,1503,65,64.5,970
+8639,Donald Trump,PR,Williston,95000236,Donald,False,Trump,REP,Republican,99,P,Vermont,2024-03-08T21:11:13.000Z,1503,30,30.3,456
+8639,Donald Trump,PR,Wilmington,95000237,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:11:30.000Z,234,47,46.6,109
+60420,Nikki Haley,PR,Wilmington,95000237,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:11:30.000Z,234,44,44.0,103
+60420,Nikki Haley,PR,Windham,95000238,Nikki,False,Haley,REP,Republican,93,P,Vermont,2024-03-08T21:11:48.000Z,64,55,54.7,35
+8639,Donald Trump,PR,Windham,95000238,Donald,False,Trump,REP,Republican,93,P,Vermont,2024-03-08T21:11:48.000Z,64,44,43.7,28
+60420,Nikki Haley,PR,Windsor,95000239,Nikki,False,Haley,REP,Republican,92,P,Vermont,2024-03-08T21:13:13.000Z,336,49,48.8,164
+8639,Donald Trump,PR,Windsor,95000239,Donald,False,Trump,REP,Republican,92,P,Vermont,2024-03-08T21:13:13.000Z,336,45,44.6,150
+60420,Nikki Haley,PR,Winhall,95000240,Nikki,False,Haley,REP,Republican,89,P,Vermont,2024-03-08T21:13:36.000Z,117,51,51.3,60
+8639,Donald Trump,PR,Winhall,95000240,Donald,False,Trump,REP,Republican,89,P,Vermont,2024-03-08T21:13:36.000Z,117,41,41.0,48
+60420,Nikki Haley,PR,Winooski,95000241,Nikki,False,Haley,REP,Republican,94,P,Vermont,2024-03-08T21:13:56.000Z,392,59,58.7,230
+8639,Donald Trump,PR,Winooski,95000241,Donald,False,Trump,REP,Republican,94,P,Vermont,2024-03-08T21:13:56.000Z,392,35,35.5,139
+8639,Donald Trump,PR,Wolcott,95000242,Donald,False,Trump,REP,Republican,91,P,Vermont,2024-03-08T21:14:14.000Z,135,54,54.1,73
+60420,Nikki Haley,PR,Wolcott,95000242,Nikki,False,Haley,REP,Republican,91,P,Vermont,2024-03-08T21:14:14.000Z,135,42,42.2,57
+8639,Donald Trump,PR,Woodbury,95000243,Donald,False,Trump,REP,Republican,68,P,Vermont,2024-03-08T21:14:31.000Z,109,50,50.5,55
+60420,Nikki Haley,PR,Woodbury,95000243,Nikki,False,Haley,REP,Republican,68,P,Vermont,2024-03-08T21:14:31.000Z,109,44,44.0,48
+8639,Donald Trump,PR,Woodford,95000244,Donald,False,Trump,REP,Republican,73,P,Vermont,2024-03-08T21:14:48.000Z,35,60,60.0,21
+60420,Nikki Haley,PR,Woodford,95000244,Nikki,False,Haley,REP,Republican,73,P,Vermont,2024-03-08T21:14:48.000Z,35,40,40.0,14
+60420,Nikki Haley,PR,Woodstock,95000245,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:15:07.000Z,497,65,65.0,323
+8639,Donald Trump,PR,Woodstock,95000245,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:15:07.000Z,497,30,30.2,150
+60420,Nikki Haley,PR,Worcester,95000246,Nikki,False,Haley,REP,Republican,95,P,Vermont,2024-03-08T21:15:22.000Z,95,65,65.3,62
+8639,Donald Trump,PR,Worcester,95000246,Donald,False,Trump,REP,Republican,95,P,Vermont,2024-03-08T21:15:22.000Z,95,32,31.6,30

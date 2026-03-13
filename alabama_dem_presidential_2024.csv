@@ -1,0 +1,202 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Autauga,01001,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:11.000Z,1485,88,88.6,1315
+20286,Dean Phillips,PD,Autauga,01001,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:11.000Z,1485,7,6.6,98
+100004,Uncommitted,PD,Autauga,01001,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:11.000Z,1485,5,4.8,72
+1036,Joe Biden,PD,Baldwin,01003,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:59.000Z,2950,88,87.6,2584
+100004,Uncommitted,PD,Baldwin,01003,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:59.000Z,2950,7,7.0,206
+20286,Dean Phillips,PD,Baldwin,01003,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:59.000Z,2950,5,5.4,160
+1036,Joe Biden,PD,Barbour,01005,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:32.000Z,1556,86,86.2,1342
+100004,Uncommitted,PD,Barbour,01005,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:32.000Z,1556,7,7.3,114
+20286,Dean Phillips,PD,Barbour,01005,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:32.000Z,1556,6,6.4,100
+1036,Joe Biden,PD,Bibb,01007,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:18:59.000Z,377,88,87.5,330
+20286,Dean Phillips,PD,Bibb,01007,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:18:59.000Z,377,7,7.4,28
+100004,Uncommitted,PD,Bibb,01007,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:18:59.000Z,377,5,5.0,19
+1036,Joe Biden,PD,Blount,01009,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,283,81,80.6,228
+100004,Uncommitted,PD,Blount,01009,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,283,12,12.0,34
+20286,Dean Phillips,PD,Blount,01009,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,283,7,7.4,21
+1036,Joe Biden,PD,Bullock,01011,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T03:31:29.000Z,1809,84,83.9,1517
+100004,Uncommitted,PD,Bullock,01011,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T03:31:29.000Z,1809,8,8.1,147
+20286,Dean Phillips,PD,Bullock,01011,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T03:31:29.000Z,1809,8,8.0,145
+1036,Joe Biden,PD,Butler,01013,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:17.000Z,1169,93,92.6,1082
+20286,Dean Phillips,PD,Butler,01013,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:17.000Z,1169,4,4.5,53
+100004,Uncommitted,PD,Butler,01013,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:17.000Z,1169,3,2.9,34
+1036,Joe Biden,PD,Calhoun,01015,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:19.000Z,2091,90,90.3,1889
+100004,Uncommitted,PD,Calhoun,01015,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:19.000Z,2091,5,5.2,108
+20286,Dean Phillips,PD,Calhoun,01015,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:19.000Z,2091,4,4.5,94
+1036,Joe Biden,PD,Chambers,01017,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:31.000Z,759,91,91.2,692
+100004,Uncommitted,PD,Chambers,01017,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:31.000Z,759,5,4.9,37
+20286,Dean Phillips,PD,Chambers,01017,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:31.000Z,759,4,3.9,30
+1036,Joe Biden,PD,Cherokee,01019,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T03:30:52.000Z,243,88,88.1,214
+100004,Uncommitted,PD,Cherokee,01019,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T03:30:52.000Z,243,7,7.0,17
+20286,Dean Phillips,PD,Cherokee,01019,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T03:30:52.000Z,243,5,4.9,12
+1036,Joe Biden,PD,Chilton,01021,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,508,87,86.6,440
+100004,Uncommitted,PD,Chilton,01021,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,508,8,8.1,41
+20286,Dean Phillips,PD,Chilton,01021,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,508,5,5.3,27
+1036,Joe Biden,PD,Choctaw,01023,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:41.000Z,852,95,95.0,809
+20286,Dean Phillips,PD,Choctaw,01023,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:41.000Z,852,3,3.4,29
+100004,Uncommitted,PD,Choctaw,01023,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:41.000Z,852,2,1.6,14
+1036,Joe Biden,PD,Clarke,01025,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:27.000Z,1984,93,93.1,1847
+20286,Dean Phillips,PD,Clarke,01025,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:27.000Z,1984,4,4.3,85
+100004,Uncommitted,PD,Clarke,01025,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:27.000Z,1984,3,2.6,52
+1036,Joe Biden,PD,Clay,01027,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:55:20.000Z,388,85,85.3,331
+20286,Dean Phillips,PD,Clay,01027,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:55:20.000Z,388,8,7.7,30
+100004,Uncommitted,PD,Clay,01027,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:55:20.000Z,388,7,7.0,27
+1036,Joe Biden,PD,Cleburne,01029,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:49.000Z,80,84,83.7,67
+100004,Uncommitted,PD,Cleburne,01029,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:49.000Z,80,10,10.0,8
+20286,Dean Phillips,PD,Cleburne,01029,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:49.000Z,80,6,6.2,5
+1036,Joe Biden,PD,Coffee,01031,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:58.000Z,747,90,90.2,674
+100004,Uncommitted,PD,Coffee,01031,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:58.000Z,747,5,5.4,40
+20286,Dean Phillips,PD,Coffee,01031,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:19:58.000Z,747,4,4.4,33
+1036,Joe Biden,PD,Colbert,01033,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:39.000Z,1286,92,92.1,1184
+100004,Uncommitted,PD,Colbert,01033,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:39.000Z,1286,4,4.3,55
+20286,Dean Phillips,PD,Colbert,01033,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:39.000Z,1286,4,3.6,47
+1036,Joe Biden,PD,Conecuh,01035,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:40.000Z,1459,87,86.6,1263
+20286,Dean Phillips,PD,Conecuh,01035,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:40.000Z,1459,7,7.4,108
+100004,Uncommitted,PD,Conecuh,01035,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:40.000Z,1459,6,6.0,88
+1036,Joe Biden,PD,Coosa,01037,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T03:30:53.000Z,457,89,88.6,405
+20286,Dean Phillips,PD,Coosa,01037,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T03:30:53.000Z,457,7,6.8,31
+100004,Uncommitted,PD,Coosa,01037,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T03:30:53.000Z,457,4,4.6,21
+1036,Joe Biden,PD,Covington,01039,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:38.000Z,411,89,88.6,364
+100004,Uncommitted,PD,Covington,01039,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:38.000Z,411,6,6.1,25
+20286,Dean Phillips,PD,Covington,01039,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:38.000Z,411,5,5.3,22
+1036,Joe Biden,PD,Crenshaw,01041,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:50.000Z,595,91,91.4,544
+20286,Dean Phillips,PD,Crenshaw,01041,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:50.000Z,595,4,4.4,26
+100004,Uncommitted,PD,Crenshaw,01041,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:22:50.000Z,595,4,4.2,25
+1036,Joe Biden,PD,Cullman,01043,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,478,80,80.3,384
+20286,Dean Phillips,PD,Cullman,01043,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,478,11,10.9,52
+100004,Uncommitted,PD,Cullman,01043,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,478,9,8.8,42
+1036,Joe Biden,PD,Dale,01045,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:11.000Z,630,90,89.8,566
+100004,Uncommitted,PD,Dale,01045,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:11.000Z,630,6,6.2,39
+20286,Dean Phillips,PD,Dale,01045,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:11.000Z,630,4,4.0,25
+1036,Joe Biden,PD,Dallas,01047,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:25.000Z,5324,88,88.3,4701
+100004,Uncommitted,PD,Dallas,01047,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:25.000Z,5324,7,6.8,363
+20286,Dean Phillips,PD,Dallas,01047,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:25.000Z,5324,5,4.9,260
+1036,Joe Biden,PD,DeKalb,01049,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:20.000Z,389,81,80.7,314
+100004,Uncommitted,PD,DeKalb,01049,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:20.000Z,389,12,12.6,49
+20286,Dean Phillips,PD,DeKalb,01049,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:20.000Z,389,7,6.7,26
+1036,Joe Biden,PD,Elmore,01051,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,1824,90,89.7,1636
+20286,Dean Phillips,PD,Elmore,01051,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,1824,6,6.0,109
+100004,Uncommitted,PD,Elmore,01051,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,1824,4,4.3,79
+1036,Joe Biden,PD,Escambia,01053,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:28.000Z,747,92,91.8,686
+20286,Dean Phillips,PD,Escambia,01053,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:28.000Z,747,5,5.1,38
+100004,Uncommitted,PD,Escambia,01053,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:28.000Z,747,3,3.1,23
+1036,Joe Biden,PD,Etowah,01055,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:21.000Z,1364,91,90.8,1239
+100004,Uncommitted,PD,Etowah,01055,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:21.000Z,1364,5,5.4,73
+20286,Dean Phillips,PD,Etowah,01055,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:21.000Z,1364,4,3.8,52
+1036,Joe Biden,PD,Fayette,01057,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:37.000Z,267,90,89.9,240
+20286,Dean Phillips,PD,Fayette,01057,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:37.000Z,267,5,5.2,14
+100004,Uncommitted,PD,Fayette,01057,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:37.000Z,267,5,4.9,13
+1036,Joe Biden,PD,Franklin,01059,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T05:20:44.000Z,215,87,86.5,186
+100004,Uncommitted,PD,Franklin,01059,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T05:20:44.000Z,215,8,8.4,18
+20286,Dean Phillips,PD,Franklin,01059,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T05:20:44.000Z,215,5,5.1,11
+1036,Joe Biden,PD,Geneva,01061,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:24:48.000Z,310,90,90.0,279
+100004,Uncommitted,PD,Geneva,01061,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:24:48.000Z,310,6,5.8,18
+20286,Dean Phillips,PD,Geneva,01061,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:24:48.000Z,310,4,4.2,13
+1036,Joe Biden,PD,Greene,01063,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:32.000Z,1680,87,87.0,1462
+100004,Uncommitted,PD,Greene,01063,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:32.000Z,1680,8,8.3,140
+20286,Dean Phillips,PD,Greene,01063,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:32.000Z,1680,5,4.6,78
+1036,Joe Biden,PD,Hale,01065,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:37.000Z,1476,80,80.2,1184
+100004,Uncommitted,PD,Hale,01065,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:37.000Z,1476,13,13.0,192
+20286,Dean Phillips,PD,Hale,01065,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:37.000Z,1476,7,6.8,100
+1036,Joe Biden,PD,Henry,01067,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:06.000Z,481,93,93.1,448
+20286,Dean Phillips,PD,Henry,01067,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:06.000Z,481,4,3.5,17
+100004,Uncommitted,PD,Henry,01067,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:06.000Z,481,3,3.3,16
+1036,Joe Biden,PD,Houston,01069,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:16.000Z,1594,92,92.0,1467
+100004,Uncommitted,PD,Houston,01069,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:16.000Z,1594,4,4.4,70
+20286,Dean Phillips,PD,Houston,01069,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:16.000Z,1594,4,3.6,57
+1036,Joe Biden,PD,Jackson,01071,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T03:43:42.000Z,421,87,86.9,366
+100004,Uncommitted,PD,Jackson,01071,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T03:43:42.000Z,421,8,8.3,35
+20286,Dean Phillips,PD,Jackson,01071,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T03:43:42.000Z,421,5,4.8,20
+1036,Joe Biden,PD,Jefferson,01073,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:25.000Z,43342,92,92.0,39854
+100004,Uncommitted,PD,Jefferson,01073,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:25.000Z,43342,5,5.0,2173
+20286,Dean Phillips,PD,Jefferson,01073,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:25.000Z,43342,3,3.0,1315
+1036,Joe Biden,PD,Lamar,01075,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T03:34:49.000Z,143,92,91.6,131
+20286,Dean Phillips,PD,Lamar,01075,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T03:34:49.000Z,143,4,4.2,6
+100004,Uncommitted,PD,Lamar,01075,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T03:34:49.000Z,143,4,4.2,6
+1036,Joe Biden,PD,Lauderdale,01077,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:48.000Z,1497,88,88.3,1322
+100004,Uncommitted,PD,Lauderdale,01077,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:48.000Z,1497,7,6.9,103
+20286,Dean Phillips,PD,Lauderdale,01077,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:48.000Z,1497,5,4.8,72
+1036,Joe Biden,PD,Lawrence,01079,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:39.000Z,586,92,92.1,540
+20286,Dean Phillips,PD,Lawrence,01079,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:39.000Z,586,4,4.3,25
+100004,Uncommitted,PD,Lawrence,01079,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:39.000Z,586,4,3.6,21
+1036,Joe Biden,PD,Lee,01081,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,3402,90,90.1,3066
+100004,Uncommitted,PD,Lee,01081,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,3402,5,5.4,184
+20286,Dean Phillips,PD,Lee,01081,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:58.000Z,3402,4,4.5,152
+1036,Joe Biden,PD,Limestone,01083,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:51.000Z,1799,89,89.0,1601
+100004,Uncommitted,PD,Limestone,01083,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:51.000Z,1799,7,7.1,128
+20286,Dean Phillips,PD,Limestone,01083,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:20:51.000Z,1799,4,3.9,70
+1036,Joe Biden,PD,Lowndes,01085,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:57:07.000Z,1758,87,87.3,1535
+100004,Uncommitted,PD,Lowndes,01085,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:57:07.000Z,1758,8,7.6,134
+20286,Dean Phillips,PD,Lowndes,01085,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:57:07.000Z,1758,5,5.1,89
+1036,Joe Biden,PD,Macon,01087,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:38.000Z,3364,88,88.5,2976
+100004,Uncommitted,PD,Macon,01087,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:38.000Z,3364,6,6.3,211
+20286,Dean Phillips,PD,Macon,01087,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:38.000Z,3364,5,5.2,177
+1036,Joe Biden,PD,Madison,01089,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:46.000Z,12016,89,89.3,10734
+100004,Uncommitted,PD,Madison,01089,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:46.000Z,12016,7,6.8,820
+20286,Dean Phillips,PD,Madison,01089,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:23:46.000Z,12016,4,3.8,462
+1036,Joe Biden,PD,Marengo,01091,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:45:31.000Z,3408,66,66.2,2255
+100004,Uncommitted,PD,Marengo,01091,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:45:31.000Z,3408,23,23.2,791
+20286,Dean Phillips,PD,Marengo,01091,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:45:31.000Z,3408,11,10.6,362
+1036,Joe Biden,PD,Marion,01093,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:04.000Z,156,78,78.2,122
+100004,Uncommitted,PD,Marion,01093,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:04.000Z,156,14,14.1,22
+20286,Dean Phillips,PD,Marion,01093,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:04.000Z,156,8,7.7,12
+1036,Joe Biden,PD,Marshall,01095,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:55.000Z,586,83,82.8,485
+100004,Uncommitted,PD,Marshall,01095,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:55.000Z,586,11,11.2,66
+20286,Dean Phillips,PD,Marshall,01095,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:55.000Z,586,6,6.0,35
+1036,Joe Biden,PD,Mobile,01097,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:03.000Z,21587,89,89.2,19252
+100004,Uncommitted,PD,Mobile,01097,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:03.000Z,21587,6,6.1,1318
+20286,Dean Phillips,PD,Mobile,01097,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:03.000Z,21587,5,4.7,1017
+1036,Joe Biden,PD,Monroe,01099,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:59.000Z,1623,92,91.8,1490
+20286,Dean Phillips,PD,Monroe,01099,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:59.000Z,1623,5,5.2,85
+100004,Uncommitted,PD,Monroe,01099,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:59.000Z,1623,3,3.0,48
+1036,Joe Biden,PD,Montgomery,01101,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:53:22.000Z,22736,90,90.3,20532
+100004,Uncommitted,PD,Montgomery,01101,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:53:22.000Z,22736,5,5.1,1170
+20286,Dean Phillips,PD,Montgomery,01101,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:53:22.000Z,22736,5,4.5,1034
+1036,Joe Biden,PD,Morgan,01103,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:20.000Z,1538,89,89.3,1374
+100004,Uncommitted,PD,Morgan,01103,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:20.000Z,1538,6,6.0,92
+20286,Dean Phillips,PD,Morgan,01103,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:20.000Z,1538,5,4.7,72
+1036,Joe Biden,PD,Perry,01105,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:43.000Z,2183,89,88.5,1933
+20286,Dean Phillips,PD,Perry,01105,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:43.000Z,2183,6,5.9,129
+100004,Uncommitted,PD,Perry,01105,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:43.000Z,2183,5,5.5,121
+1036,Joe Biden,PD,Pickens,01107,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:18.000Z,1566,91,90.7,1421
+20286,Dean Phillips,PD,Pickens,01107,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:18.000Z,1566,5,5.5,86
+100004,Uncommitted,PD,Pickens,01107,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:18.000Z,1566,4,3.8,59
+1036,Joe Biden,PD,Pike,01109,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:42:17.000Z,1705,89,89.3,1522
+20286,Dean Phillips,PD,Pike,01109,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:42:17.000Z,1705,6,6.1,104
+100004,Uncommitted,PD,Pike,01109,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:42:17.000Z,1705,5,4.6,79
+1036,Joe Biden,PD,Randolph,01111,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:29.000Z,282,88,87.9,248
+20286,Dean Phillips,PD,Randolph,01111,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:29.000Z,282,6,6.4,18
+100004,Uncommitted,PD,Randolph,01111,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:29.000Z,282,6,5.7,16
+1036,Joe Biden,PD,Russell,01113,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:41:56.000Z,2541,93,92.7,2356
+100004,Uncommitted,PD,Russell,01113,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:41:56.000Z,2541,4,3.9,98
+20286,Dean Phillips,PD,Russell,01113,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:41:56.000Z,2541,3,3.4,87
+1036,Joe Biden,PD,Shelby,01117,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:39.000Z,4682,89,89.0,4166
+100004,Uncommitted,PD,Shelby,01117,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:39.000Z,4682,6,6.4,299
+20286,Dean Phillips,PD,Shelby,01117,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:39.000Z,4682,5,4.6,217
+1036,Joe Biden,PD,St. Clair,01115,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:28.000Z,977,87,87.4,854
+100004,Uncommitted,PD,St. Clair,01115,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:28.000Z,977,8,7.8,76
+20286,Dean Phillips,PD,St. Clair,01115,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:25:28.000Z,977,5,4.8,47
+1036,Joe Biden,PD,Sumter,01119,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:49.000Z,1877,84,83.9,1575
+100004,Uncommitted,PD,Sumter,01119,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:49.000Z,1877,10,10.1,190
+20286,Dean Phillips,PD,Sumter,01119,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:49.000Z,1877,6,6.0,112
+1036,Joe Biden,PD,Talladega,01121,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:57.000Z,2242,93,93.5,2097
+20286,Dean Phillips,PD,Talladega,01121,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:57.000Z,2242,4,3.6,81
+100004,Uncommitted,PD,Talladega,01121,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-25T16:37:57.000Z,2242,3,2.9,64
+1036,Joe Biden,PD,Tallapoosa,01123,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:51.000Z,963,93,92.9,895
+20286,Dean Phillips,PD,Tallapoosa,01123,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:51.000Z,963,4,4.2,40
+100004,Uncommitted,PD,Tallapoosa,01123,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:21:51.000Z,963,3,2.9,28
+1036,Joe Biden,PD,Tuscaloosa,01125,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:24:01.000Z,6683,92,92.1,6157
+100004,Uncommitted,PD,Tuscaloosa,01125,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:24:01.000Z,6683,5,4.8,322
+20286,Dean Phillips,PD,Tuscaloosa,01125,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:24:01.000Z,6683,3,3.1,204
+1036,Joe Biden,PD,Walker,01127,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:39.000Z,579,85,85.3,494
+100004,Uncommitted,PD,Walker,01127,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:39.000Z,579,10,9.7,56
+20286,Dean Phillips,PD,Walker,01127,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:39.000Z,579,5,5.0,29
+1036,Joe Biden,PD,Washington,01129,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:47.000Z,743,91,90.8,675
+20286,Dean Phillips,PD,Washington,01129,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:47.000Z,743,5,4.7,35
+100004,Uncommitted,PD,Washington,01129,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:27:47.000Z,743,4,4.4,33
+1036,Joe Biden,PD,Wilcox,01131,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:54.000Z,2470,84,84.0,2074
+20286,Dean Phillips,PD,Wilcox,01131,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:54.000Z,2470,8,8.3,205
+100004,Uncommitted,PD,Wilcox,01131,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-06-10T04:26:54.000Z,2470,8,7.7,191
+1036,Joe Biden,PD,Winston,01133,Joe,True,Biden,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:42.000Z,82,79,79.3,65
+100004,Uncommitted,PD,Winston,01133,,False,Uncommitted,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:42.000Z,82,12,12.2,10
+20286,Dean Phillips,PD,Winston,01133,Dean,False,Phillips,DEM,Democratic,100,P,Alabama,2024-03-06T04:59:42.000Z,82,9,8.5,7

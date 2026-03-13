@@ -1,0 +1,400 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Accomack,51001,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:59:29.000Z,916,93,93.0,852
+20072905,Marianne Williamson,PD,Accomack,51001,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:59:29.000Z,916,4,4.5,41
+20286,Dean Phillips,PD,Accomack,51001,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:59:29.000Z,916,3,2.5,23
+1036,Joe Biden,PD,Albemarle,51003,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:38.000Z,7151,90,90.5,6470
+20072905,Marianne Williamson,PD,Albemarle,51003,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:38.000Z,7151,6,6.3,453
+20286,Dean Phillips,PD,Albemarle,51003,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:38.000Z,7151,3,3.2,228
+1036,Joe Biden,PD,Alexandria,51510,Joe,True,Biden,DEM,Democratic,91,P,Virginia,2024-05-23T20:30:21.000Z,11480,90,90.4,10380
+20072905,Marianne Williamson,PD,Alexandria,51510,Marianne,False,Williamson,DEM,Democratic,91,P,Virginia,2024-05-23T20:30:21.000Z,11480,6,6.2,710
+20286,Dean Phillips,PD,Alexandria,51510,Dean,False,Phillips,DEM,Democratic,91,P,Virginia,2024-05-23T20:30:21.000Z,11480,3,3.4,390
+1036,Joe Biden,PD,Alleghany,51005,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:49:18.000Z,235,86,86.4,203
+20072905,Marianne Williamson,PD,Alleghany,51005,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:49:18.000Z,235,8,7.7,18
+20286,Dean Phillips,PD,Alleghany,51005,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:49:18.000Z,235,6,5.9,14
+1036,Joe Biden,PD,Amelia,51007,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,348,93,92.8,323
+20072905,Marianne Williamson,PD,Amelia,51007,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,348,5,4.6,16
+20286,Dean Phillips,PD,Amelia,51007,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,348,2,2.6,9
+1036,Joe Biden,PD,Amherst,51009,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:59:58.000Z,705,90,89.9,634
+20072905,Marianne Williamson,PD,Amherst,51009,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:59:58.000Z,705,6,6.1,43
+20286,Dean Phillips,PD,Amherst,51009,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:59:58.000Z,705,4,4.0,28
+1036,Joe Biden,PD,Appomattox,51011,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:51:19.000Z,233,87,86.7,202
+20072905,Marianne Williamson,PD,Appomattox,51011,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:51:19.000Z,233,8,8.2,19
+20286,Dean Phillips,PD,Appomattox,51011,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:51:19.000Z,233,5,5.1,12
+1036,Joe Biden,PD,Arlington,51013,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:44:45.000Z,17099,89,88.9,15212
+20072905,Marianne Williamson,PD,Arlington,51013,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:44:45.000Z,17099,7,7.4,1260
+20286,Dean Phillips,PD,Arlington,51013,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:44:45.000Z,17099,4,3.7,627
+1036,Joe Biden,PD,Augusta,51015,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:50.000Z,1247,88,88.0,1098
+20072905,Marianne Williamson,PD,Augusta,51015,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:50.000Z,1247,7,7.0,87
+20286,Dean Phillips,PD,Augusta,51015,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:50.000Z,1247,5,5.0,62
+1036,Joe Biden,PD,Bath,51017,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:52:39.000Z,90,87,86.7,78
+20072905,Marianne Williamson,PD,Bath,51017,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:52:39.000Z,90,10,10.0,9
+20286,Dean Phillips,PD,Bath,51017,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:52:39.000Z,90,3,3.3,3
+1036,Joe Biden,PD,Bedford,51019,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:24.000Z,1423,90,89.9,1279
+20072905,Marianne Williamson,PD,Bedford,51019,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:24.000Z,1423,6,6.2,89
+20286,Dean Phillips,PD,Bedford,51019,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:45:24.000Z,1423,4,3.9,55
+1036,Joe Biden,PD,Bland,51021,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T18:00:35.000Z,92,84,83.7,77
+20286,Dean Phillips,PD,Bland,51021,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T18:00:35.000Z,92,9,8.7,8
+20072905,Marianne Williamson,PD,Bland,51021,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T18:00:35.000Z,92,7,7.6,7
+1036,Joe Biden,PD,Botetourt,51023,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:50:42.000Z,723,92,91.7,663
+20072905,Marianne Williamson,PD,Botetourt,51023,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:50:42.000Z,723,5,5.4,39
+20286,Dean Phillips,PD,Botetourt,51023,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:50:42.000Z,723,3,2.9,21
+1036,Joe Biden,PD,Bristol,51520,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T18:04:20.000Z,306,89,89.5,274
+20072905,Marianne Williamson,PD,Bristol,51520,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T18:04:20.000Z,306,7,6.9,21
+20286,Dean Phillips,PD,Bristol,51520,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T18:04:20.000Z,306,4,3.6,11
+1036,Joe Biden,PD,Brunswick,51025,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,776,95,94.7,735
+20072905,Marianne Williamson,PD,Brunswick,51025,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,776,3,3.5,27
+20286,Dean Phillips,PD,Brunswick,51025,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,776,2,1.8,14
+1036,Joe Biden,PD,Buchanan,51027,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:47:32.000Z,134,89,88.8,119
+20286,Dean Phillips,PD,Buchanan,51027,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:47:32.000Z,134,10,9.7,13
+20072905,Marianne Williamson,PD,Buchanan,51027,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:47:32.000Z,134,1,1.5,2
+1036,Joe Biden,PD,Buckingham,51029,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:50:51.000Z,357,89,89.1,318
+20072905,Marianne Williamson,PD,Buckingham,51029,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:50:51.000Z,357,8,7.8,28
+20286,Dean Phillips,PD,Buckingham,51029,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:50:51.000Z,357,3,3.1,11
+1036,Joe Biden,PD,Buena Vista,51530,Joe,True,Biden,DEM,Democratic,94,P,Virginia,2024-06-18T17:56:33.000Z,93,91,91.4,85
+20286,Dean Phillips,PD,Buena Vista,51530,Dean,False,Phillips,DEM,Democratic,94,P,Virginia,2024-06-18T17:56:33.000Z,93,4,4.3,4
+20072905,Marianne Williamson,PD,Buena Vista,51530,Marianne,False,Williamson,DEM,Democratic,94,P,Virginia,2024-06-18T17:56:33.000Z,93,4,4.3,4
+1036,Joe Biden,PD,Campbell,51031,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:48:14.000Z,805,90,90.2,726
+20072905,Marianne Williamson,PD,Campbell,51031,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:48:14.000Z,805,7,6.6,53
+20286,Dean Phillips,PD,Campbell,51031,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:48:14.000Z,805,3,3.2,26
+1036,Joe Biden,PD,Caroline,51033,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,1140,93,92.7,1057
+20072905,Marianne Williamson,PD,Caroline,51033,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,1140,5,4.6,53
+20286,Dean Phillips,PD,Caroline,51033,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,1140,2,2.6,30
+1036,Joe Biden,PD,Carroll,51035,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-06-18T17:47:41.000Z,361,89,89.2,322
+20072905,Marianne Williamson,PD,Carroll,51035,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-06-18T17:47:41.000Z,361,6,6.4,23
+20286,Dean Phillips,PD,Carroll,51035,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-06-18T17:47:41.000Z,361,4,4.4,16
+1036,Joe Biden,PD,Charles City,51036,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,549,93,93.3,512
+20286,Dean Phillips,PD,Charles City,51036,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,549,4,3.6,20
+20072905,Marianne Williamson,PD,Charles City,51036,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,549,3,3.1,17
+1036,Joe Biden,PD,Charlotte,51037,Joe,True,Biden,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,270,91,91.1,246
+20072905,Marianne Williamson,PD,Charlotte,51037,Marianne,False,Williamson,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,270,6,6.3,17
+20286,Dean Phillips,PD,Charlotte,51037,Dean,False,Phillips,DEM,Democratic,100,P,Virginia,2024-05-23T16:56:40.000Z,270,3,2.6,7
+1036,Joe Biden,PD,Charlottesville,51540,Joe,True,Biden,DEM,Democratic,73,P,Virginia,2024-06-18T17:51:59.000Z,3020,85,85.4,2578
+20072905,Marianne Williamson,PD,Charlottesville,51540,Marianne,False,Williamson,DEM,Democratic,73,P,Virginia,2024-06-18T17:51:59.000Z,3020,11,10.7,325
+20286,Dean Phillips,PD,Charlottesville,51540,Dean,False,Phillips,DEM,Democratic,73,P,Virginia,2024-06-18T17:51:59.000Z,3020,4,3.9,117
+1036,Joe Biden,PD,Chesapeake,51550,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:57:50.000Z,10341,92,92.3,9549
+20072905,Marianne Williamson,PD,Chesapeake,51550,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:57:50.000Z,10341,5,4.9,502
+20286,Dean Phillips,PD,Chesapeake,51550,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:57:50.000Z,10341,3,2.8,290
+1036,Joe Biden,PD,Chesterfield,51041,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,17601,89,89.4,15727
+20072905,Marianne Williamson,PD,Chesterfield,51041,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,17601,7,7.2,1275
+20286,Dean Phillips,PD,Chesterfield,51041,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,17601,3,3.4,599
+1036,Joe Biden,PD,Clarke,51043,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:52:51.000Z,602,90,89.9,541
+20072905,Marianne Williamson,PD,Clarke,51043,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:52:51.000Z,602,5,5.5,33
+20286,Dean Phillips,PD,Clarke,51043,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:52:51.000Z,602,5,4.6,28
+1036,Joe Biden,PD,Colonial Heights,51570,Joe,True,Biden,DEM,Democratic,93,P,Virginia,2024-06-18T17:55:07.000Z,312,87,86.5,270
+20072905,Marianne Williamson,PD,Colonial Heights,51570,Marianne,False,Williamson,DEM,Democratic,93,P,Virginia,2024-06-18T17:55:07.000Z,312,11,11.2,35
+20286,Dean Phillips,PD,Colonial Heights,51570,Dean,False,Phillips,DEM,Democratic,93,P,Virginia,2024-06-18T17:55:07.000Z,312,2,2.2,7
+1036,Joe Biden,PD,Covington,51580,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,109,90,89.9,98
+20072905,Marianne Williamson,PD,Covington,51580,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,109,7,7.3,8
+20286,Dean Phillips,PD,Covington,51580,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,109,3,2.8,3
+1036,Joe Biden,PD,Craig,51045,Joe,True,Biden,DEM,Democratic,65,P,Virginia,2024-06-18T17:52:09.000Z,60,83,83.3,50
+20072905,Marianne Williamson,PD,Craig,51045,Marianne,False,Williamson,DEM,Democratic,65,P,Virginia,2024-06-18T17:52:09.000Z,60,15,15.0,9
+20286,Dean Phillips,PD,Craig,51045,Dean,False,Phillips,DEM,Democratic,65,P,Virginia,2024-06-18T17:52:09.000Z,60,2,1.7,1
+1036,Joe Biden,PD,Culpeper,51047,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,1344,89,89.3,1201
+20072905,Marianne Williamson,PD,Culpeper,51047,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,1344,6,5.9,79
+20286,Dean Phillips,PD,Culpeper,51047,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,1344,5,4.8,64
+1036,Joe Biden,PD,Cumberland,51049,Joe,True,Biden,DEM,Democratic,82,P,Virginia,2024-06-18T17:54:15.000Z,213,90,89.7,191
+20072905,Marianne Williamson,PD,Cumberland,51049,Marianne,False,Williamson,DEM,Democratic,82,P,Virginia,2024-06-18T17:54:15.000Z,213,6,6.6,14
+20286,Dean Phillips,PD,Cumberland,51049,Dean,False,Phillips,DEM,Democratic,82,P,Virginia,2024-06-18T17:54:15.000Z,213,4,3.7,8
+1036,Joe Biden,PD,Danville,51590,Joe,True,Biden,DEM,Democratic,97,P,Virginia,2024-06-18T17:59:42.000Z,1576,91,91.4,1441
+20072905,Marianne Williamson,PD,Danville,51590,Marianne,False,Williamson,DEM,Democratic,97,P,Virginia,2024-06-18T17:59:42.000Z,1576,6,6.2,97
+20286,Dean Phillips,PD,Danville,51590,Dean,False,Phillips,DEM,Democratic,97,P,Virginia,2024-06-18T17:59:42.000Z,1576,2,2.4,38
+1036,Joe Biden,PD,Dickenson,51051,Joe,True,Biden,DEM,Democratic,92,P,Virginia,2024-06-18T17:51:00.000Z,134,86,85.8,115
+20072905,Marianne Williamson,PD,Dickenson,51051,Marianne,False,Williamson,DEM,Democratic,92,P,Virginia,2024-06-18T17:51:00.000Z,134,10,10.4,14
+20286,Dean Phillips,PD,Dickenson,51051,Dean,False,Phillips,DEM,Democratic,92,P,Virginia,2024-06-18T17:51:00.000Z,134,4,3.7,5
+1036,Joe Biden,PD,Dinwiddie,51053,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,1168,93,92.7,1083
+20072905,Marianne Williamson,PD,Dinwiddie,51053,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,1168,5,5.0,58
+20286,Dean Phillips,PD,Dinwiddie,51053,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:56:40.000Z,1168,2,2.3,27
+1036,Joe Biden,PD,Emporia,51595,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:00:53.000Z,228,93,93.4,213
+20286,Dean Phillips,PD,Emporia,51595,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:00:53.000Z,228,4,3.5,8
+20072905,Marianne Williamson,PD,Emporia,51595,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:00:53.000Z,228,3,3.1,7
+1036,Joe Biden,PD,Essex,51057,Joe,True,Biden,DEM,Democratic,89,P,Virginia,2024-06-18T17:55:25.000Z,278,94,94.6,263
+20072905,Marianne Williamson,PD,Essex,51057,Marianne,False,Williamson,DEM,Democratic,89,P,Virginia,2024-06-18T17:55:25.000Z,278,5,4.7,13
+20286,Dean Phillips,PD,Essex,51057,Dean,False,Phillips,DEM,Democratic,89,P,Virginia,2024-06-18T17:55:25.000Z,278,1,0.7,2
+1036,Joe Biden,PD,Fairfax City,51600,Joe,True,Biden,DEM,Democratic,89,P,Virginia,2024-06-18T17:53:55.000Z,1595,85,85.1,1358
+20072905,Marianne Williamson,PD,Fairfax City,51600,Marianne,False,Williamson,DEM,Democratic,89,P,Virginia,2024-06-18T17:53:55.000Z,1595,10,10.3,164
+20286,Dean Phillips,PD,Fairfax City,51600,Dean,False,Phillips,DEM,Democratic,89,P,Virginia,2024-06-18T17:53:55.000Z,1595,5,4.6,73
+1036,Joe Biden,PD,Fairfax County,51059,Joe,True,Biden,DEM,Democratic,85,P,Virginia,2024-06-18T17:43:56.000Z,63054,86,86.1,54278
+20072905,Marianne Williamson,PD,Fairfax County,51059,Marianne,False,Williamson,DEM,Democratic,85,P,Virginia,2024-06-18T17:43:56.000Z,63054,10,10.2,6407
+20286,Dean Phillips,PD,Fairfax County,51059,Dean,False,Phillips,DEM,Democratic,85,P,Virginia,2024-06-18T17:43:56.000Z,63054,4,3.7,2369
+1036,Joe Biden,PD,Falls Church,51610,Joe,True,Biden,DEM,Democratic,78,P,Virginia,2024-06-18T17:56:00.000Z,1151,91,91.1,1048
+20072905,Marianne Williamson,PD,Falls Church,51610,Marianne,False,Williamson,DEM,Democratic,78,P,Virginia,2024-06-18T17:56:00.000Z,1151,6,5.9,68
+20286,Dean Phillips,PD,Falls Church,51610,Dean,False,Phillips,DEM,Democratic,78,P,Virginia,2024-06-18T17:56:00.000Z,1151,3,3.0,35
+1036,Joe Biden,PD,Fauquier,51061,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:46:46.000Z,2318,89,88.9,2060
+20072905,Marianne Williamson,PD,Fauquier,51061,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:46:46.000Z,2318,7,7.0,163
+20286,Dean Phillips,PD,Fauquier,51061,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:46:46.000Z,2318,4,4.1,95
+1036,Joe Biden,PD,Floyd,51063,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,486,84,84.2,409
+20072905,Marianne Williamson,PD,Floyd,51063,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,486,13,12.5,61
+20286,Dean Phillips,PD,Floyd,51063,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,486,3,3.3,16
+1036,Joe Biden,PD,Fluvanna,51065,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:04.000Z,1156,90,90.4,1045
+20072905,Marianne Williamson,PD,Fluvanna,51065,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:04.000Z,1156,6,5.5,64
+20286,Dean Phillips,PD,Fluvanna,51065,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:04.000Z,1156,4,4.1,47
+1036,Joe Biden,PD,Franklin City,51620,Joe,True,Biden,DEM,Democratic,93,P,Virginia,2024-06-18T18:03:29.000Z,347,93,92.8,322
+20072905,Marianne Williamson,PD,Franklin City,51620,Marianne,False,Williamson,DEM,Democratic,93,P,Virginia,2024-06-18T18:03:29.000Z,347,4,4.3,15
+20286,Dean Phillips,PD,Franklin City,51620,Dean,False,Phillips,DEM,Democratic,93,P,Virginia,2024-06-18T18:03:29.000Z,347,3,2.9,10
+1036,Joe Biden,PD,Franklin County,51067,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:46:25.000Z,1114,90,90.3,1006
+20072905,Marianne Williamson,PD,Franklin County,51067,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:46:25.000Z,1114,5,5.2,58
+20286,Dean Phillips,PD,Franklin County,51067,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:46:25.000Z,1114,4,4.5,50
+1036,Joe Biden,PD,Frederick,51069,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:46:38.000Z,2346,87,87.4,2051
+20072905,Marianne Williamson,PD,Frederick,51069,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:46:38.000Z,2346,8,8.2,193
+20286,Dean Phillips,PD,Frederick,51069,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:46:38.000Z,2346,4,4.3,102
+1036,Joe Biden,PD,Fredericksburg,51630,Joe,True,Biden,DEM,Democratic,89,P,Virginia,2024-06-18T17:55:16.000Z,1250,87,87.3,1091
+20072905,Marianne Williamson,PD,Fredericksburg,51630,Marianne,False,Williamson,DEM,Democratic,89,P,Virginia,2024-06-18T17:55:16.000Z,1250,9,8.9,112
+20286,Dean Phillips,PD,Fredericksburg,51630,Dean,False,Phillips,DEM,Democratic,89,P,Virginia,2024-06-18T17:55:16.000Z,1250,4,3.8,47
+1036,Joe Biden,PD,Galax,51640,Joe,True,Biden,DEM,Democratic,85,P,Virginia,2024-06-18T17:56:10.000Z,72,92,91.7,66
+20072905,Marianne Williamson,PD,Galax,51640,Marianne,False,Williamson,DEM,Democratic,85,P,Virginia,2024-06-18T17:56:10.000Z,72,5,5.5,4
+20286,Dean Phillips,PD,Galax,51640,Dean,False,Phillips,DEM,Democratic,85,P,Virginia,2024-06-18T17:56:10.000Z,72,3,2.8,2
+1036,Joe Biden,PD,Giles,51071,Joe,True,Biden,DEM,Democratic,88,P,Virginia,2024-06-18T17:51:32.000Z,259,86,86.1,223
+20072905,Marianne Williamson,PD,Giles,51071,Marianne,False,Williamson,DEM,Democratic,88,P,Virginia,2024-06-18T17:51:32.000Z,259,10,9.7,25
+20286,Dean Phillips,PD,Giles,51071,Dean,False,Phillips,DEM,Democratic,88,P,Virginia,2024-06-18T17:51:32.000Z,259,4,4.2,11
+1036,Joe Biden,PD,Gloucester,51073,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:50:10.000Z,991,91,91.4,906
+20072905,Marianne Williamson,PD,Gloucester,51073,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:50:10.000Z,991,6,5.8,57
+20286,Dean Phillips,PD,Gloucester,51073,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:50:10.000Z,991,3,2.8,28
+1036,Joe Biden,PD,Goochland,51075,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1196,91,91.1,1089
+20072905,Marianne Williamson,PD,Goochland,51075,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1196,6,6.1,73
+20286,Dean Phillips,PD,Goochland,51075,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1196,3,2.8,34
+1036,Joe Biden,PD,Grayson,51077,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:48:36.000Z,211,87,86.7,183
+20072905,Marianne Williamson,PD,Grayson,51077,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:48:36.000Z,211,8,8.1,17
+20286,Dean Phillips,PD,Grayson,51077,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:48:36.000Z,211,5,5.2,11
+1036,Joe Biden,PD,Greene,51079,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,616,89,88.6,546
+20072905,Marianne Williamson,PD,Greene,51079,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,616,7,7.5,46
+20286,Dean Phillips,PD,Greene,51079,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,616,4,3.9,24
+1036,Joe Biden,PD,Greensville,51081,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:06.000Z,495,95,94.5,468
+20072905,Marianne Williamson,PD,Greensville,51081,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:06.000Z,495,4,4.2,21
+20286,Dean Phillips,PD,Greensville,51081,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:06.000Z,495,1,1.2,6
+1036,Joe Biden,PD,Halifax,51083,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1038,93,93.2,967
+20072905,Marianne Williamson,PD,Halifax,51083,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1038,4,4.1,43
+20286,Dean Phillips,PD,Halifax,51083,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1038,3,2.7,28
+1036,Joe Biden,PD,Hampton,51650,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:58:45.000Z,7843,92,92.5,7252
+20072905,Marianne Williamson,PD,Hampton,51650,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:58:45.000Z,7843,5,4.9,388
+20286,Dean Phillips,PD,Hampton,51650,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:58:45.000Z,7843,3,2.6,203
+1036,Joe Biden,PD,Hanover,51085,Joe,True,Biden,DEM,Democratic,79,P,Virginia,2024-06-18T17:44:59.000Z,3693,89,89.3,3299
+20072905,Marianne Williamson,PD,Hanover,51085,Marianne,False,Williamson,DEM,Democratic,79,P,Virginia,2024-06-18T17:44:59.000Z,3693,7,6.9,255
+20286,Dean Phillips,PD,Hanover,51085,Dean,False,Phillips,DEM,Democratic,79,P,Virginia,2024-06-18T17:44:59.000Z,3693,4,3.8,139
+1036,Joe Biden,PD,Harrisonburg,51660,Joe,True,Biden,DEM,Democratic,55,P,Virginia,2024-06-18T17:52:31.000Z,1077,72,71.8,773
+20072905,Marianne Williamson,PD,Harrisonburg,51660,Marianne,False,Williamson,DEM,Democratic,55,P,Virginia,2024-06-18T17:52:31.000Z,1077,24,23.8,256
+20286,Dean Phillips,PD,Harrisonburg,51660,Dean,False,Phillips,DEM,Democratic,55,P,Virginia,2024-06-18T17:52:31.000Z,1077,4,4.4,48
+1036,Joe Biden,PD,Henrico,51087,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:57:33.000Z,20276,89,89.1,18072
+20072905,Marianne Williamson,PD,Henrico,51087,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:57:33.000Z,20276,8,7.8,1581
+20286,Dean Phillips,PD,Henrico,51087,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:57:33.000Z,20276,3,3.1,623
+1036,Joe Biden,PD,Henry,51089,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1159,91,91.2,1057
+20072905,Marianne Williamson,PD,Henry,51089,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1159,5,5.1,59
+20286,Dean Phillips,PD,Henry,51089,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1159,4,3.7,43
+1036,Joe Biden,PD,Highland,51091,Joe,True,Biden,DEM,Democratic,86,P,Virginia,2024-06-18T17:53:18.000Z,57,93,93.0,53
+20286,Dean Phillips,PD,Highland,51091,Dean,False,Phillips,DEM,Democratic,86,P,Virginia,2024-06-18T17:53:18.000Z,57,5,5.3,3
+20072905,Marianne Williamson,PD,Highland,51091,Marianne,False,Williamson,DEM,Democratic,86,P,Virginia,2024-06-18T17:53:18.000Z,57,2,1.7,1
+1036,Joe Biden,PD,Hopewell,51670,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:01:21.000Z,833,89,89.4,745
+20072905,Marianne Williamson,PD,Hopewell,51670,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:01:21.000Z,833,7,7.1,59
+20286,Dean Phillips,PD,Hopewell,51670,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:01:21.000Z,833,3,3.5,29
+1036,Joe Biden,PD,Isle of Wight,51093,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:05.000Z,1544,93,93.4,1443
+20072905,Marianne Williamson,PD,Isle of Wight,51093,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:05.000Z,1544,4,4.3,66
+20286,Dean Phillips,PD,Isle of Wight,51093,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:05.000Z,1544,2,2.3,35
+1036,Joe Biden,PD,James City,51095,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,4784,92,91.7,4388
+20072905,Marianne Williamson,PD,James City,51095,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,4784,5,5.3,253
+20286,Dean Phillips,PD,James City,51095,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,4784,3,3.0,143
+1036,Joe Biden,PD,King and Queen,51097,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,278,94,93.5,260
+20072905,Marianne Williamson,PD,King and Queen,51097,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,278,4,4.3,12
+20286,Dean Phillips,PD,King and Queen,51097,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,278,2,2.2,6
+1036,Joe Biden,PD,King George,51099,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:54:39.000Z,709,87,87.3,619
+20072905,Marianne Williamson,PD,King George,51099,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:54:39.000Z,709,8,8.0,57
+20286,Dean Phillips,PD,King George,51099,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:54:39.000Z,709,5,4.7,33
+1036,Joe Biden,PD,King William,51101,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:53:35.000Z,460,89,89.1,410
+20072905,Marianne Williamson,PD,King William,51101,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:53:35.000Z,460,7,7.4,34
+20286,Dean Phillips,PD,King William,51101,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:53:35.000Z,460,3,3.5,16
+1036,Joe Biden,PD,Lancaster,51103,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:05.000Z,549,94,94.2,517
+20072905,Marianne Williamson,PD,Lancaster,51103,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:05.000Z,549,3,3.4,19
+20286,Dean Phillips,PD,Lancaster,51103,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:05.000Z,549,2,2.4,13
+1036,Joe Biden,PD,Lee,51105,Joe,True,Biden,DEM,Democratic,83,P,Virginia,2024-06-18T17:48:26.000Z,108,88,88.0,95
+20286,Dean Phillips,PD,Lee,51105,Dean,False,Phillips,DEM,Democratic,83,P,Virginia,2024-06-18T17:48:26.000Z,108,8,8.3,9
+20072905,Marianne Williamson,PD,Lee,51105,Marianne,False,Williamson,DEM,Democratic,83,P,Virginia,2024-06-18T17:48:26.000Z,108,4,3.7,4
+1036,Joe Biden,PD,Lexington,51678,Joe,True,Biden,DEM,Democratic,86,P,Virginia,2024-06-18T17:57:05.000Z,311,94,93.9,292
+20072905,Marianne Williamson,PD,Lexington,51678,Marianne,False,Williamson,DEM,Democratic,86,P,Virginia,2024-06-18T17:57:05.000Z,311,3,3.2,10
+20286,Dean Phillips,PD,Lexington,51678,Dean,False,Phillips,DEM,Democratic,86,P,Virginia,2024-06-18T17:57:05.000Z,311,3,2.9,9
+1036,Joe Biden,PD,Loudoun,51107,Joe,True,Biden,DEM,Democratic,75,P,Virginia,2024-06-18T17:44:20.000Z,16344,82,82.0,13396
+20072905,Marianne Williamson,PD,Loudoun,51107,Marianne,False,Williamson,DEM,Democratic,75,P,Virginia,2024-06-18T17:44:20.000Z,16344,14,13.6,2229
+20286,Dean Phillips,PD,Loudoun,51107,Dean,False,Phillips,DEM,Democratic,75,P,Virginia,2024-06-18T17:44:20.000Z,16344,4,4.4,719
+1036,Joe Biden,PD,Louisa,51109,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1270,90,90.4,1148
+20072905,Marianne Williamson,PD,Louisa,51109,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1270,6,6.0,76
+20286,Dean Phillips,PD,Louisa,51109,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1270,4,3.6,46
+1036,Joe Biden,PD,Lunenburg,51111,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,502,94,94.2,473
+20072905,Marianne Williamson,PD,Lunenburg,51111,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,502,3,3.2,16
+20286,Dean Phillips,PD,Lunenburg,51111,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,502,3,2.6,13
+1036,Joe Biden,PD,Lynchburg,51680,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:22.000Z,2175,90,89.7,1950
+20072905,Marianne Williamson,PD,Lynchburg,51680,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:22.000Z,2175,7,7.4,161
+20286,Dean Phillips,PD,Lynchburg,51680,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:22.000Z,2175,3,2.9,64
+1036,Joe Biden,PD,Madison,51113,Joe,True,Biden,DEM,Democratic,92,P,Virginia,2024-06-18T17:51:41.000Z,306,95,94.8,290
+20072905,Marianne Williamson,PD,Madison,51113,Marianne,False,Williamson,DEM,Democratic,92,P,Virginia,2024-06-18T17:51:41.000Z,306,4,4.2,13
+20286,Dean Phillips,PD,Madison,51113,Dean,False,Phillips,DEM,Democratic,92,P,Virginia,2024-06-18T17:51:41.000Z,306,1,1.0,3
+1036,Joe Biden,PD,Manassas,51683,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T18:03:39.000Z,1463,85,85.2,1246
+20072905,Marianne Williamson,PD,Manassas,51683,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T18:03:39.000Z,1463,10,10.0,146
+20286,Dean Phillips,PD,Manassas,51683,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T18:03:39.000Z,1463,5,4.8,71
+1036,Joe Biden,PD,Manassas Park,51685,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:32.000Z,501,82,82.4,413
+20072905,Marianne Williamson,PD,Manassas Park,51685,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:32.000Z,501,12,12.0,60
+20286,Dean Phillips,PD,Manassas Park,51685,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:32.000Z,501,6,5.6,28
+1036,Joe Biden,PD,Martinsville,51690,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:03:53.000Z,496,92,91.5,454
+20072905,Marianne Williamson,PD,Martinsville,51690,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:03:53.000Z,496,5,5.2,26
+20286,Dean Phillips,PD,Martinsville,51690,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:03:53.000Z,496,3,3.2,16
+1036,Joe Biden,PD,Mathews,51115,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,367,93,92.6,340
+20072905,Marianne Williamson,PD,Mathews,51115,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,367,4,4.4,16
+20286,Dean Phillips,PD,Mathews,51115,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,367,3,3.0,11
+1036,Joe Biden,PD,Mecklenburg,51117,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,1317,93,93.1,1226
+20072905,Marianne Williamson,PD,Mecklenburg,51117,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,1317,5,4.6,60
+20286,Dean Phillips,PD,Mecklenburg,51117,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,1317,2,2.3,31
+1036,Joe Biden,PD,Middlesex,51119,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:02.000Z,462,93,92.6,428
+20072905,Marianne Williamson,PD,Middlesex,51119,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:02.000Z,462,5,5.4,25
+20286,Dean Phillips,PD,Middlesex,51119,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:02.000Z,462,2,1.9,9
+1036,Joe Biden,PD,Montgomery,51121,Joe,True,Biden,DEM,Democratic,62,P,Virginia,2024-06-18T17:46:15.000Z,2683,87,86.9,2333
+20072905,Marianne Williamson,PD,Montgomery,51121,Marianne,False,Williamson,DEM,Democratic,62,P,Virginia,2024-06-18T17:46:15.000Z,2683,9,8.6,230
+20286,Dean Phillips,PD,Montgomery,51121,Dean,False,Phillips,DEM,Democratic,62,P,Virginia,2024-06-18T17:46:15.000Z,2683,4,4.5,120
+1036,Joe Biden,PD,Nelson,51125,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,738,93,93.2,688
+20286,Dean Phillips,PD,Nelson,51125,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,738,3,3.4,25
+20072905,Marianne Williamson,PD,Nelson,51125,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,738,3,3.4,25
+1036,Joe Biden,PD,New Kent,51127,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,817,91,91.1,744
+20072905,Marianne Williamson,PD,New Kent,51127,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,817,6,6.3,52
+20286,Dean Phillips,PD,New Kent,51127,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,817,3,2.6,21
+1036,Joe Biden,PD,Newport News,51700,Joe,True,Biden,DEM,Democratic,94,P,Virginia,2024-06-18T17:58:15.000Z,7259,91,91.0,6607
+20072905,Marianne Williamson,PD,Newport News,51700,Marianne,False,Williamson,DEM,Democratic,94,P,Virginia,2024-06-18T17:58:15.000Z,7259,6,5.8,424
+20286,Dean Phillips,PD,Newport News,51700,Dean,False,Phillips,DEM,Democratic,94,P,Virginia,2024-06-18T17:58:15.000Z,7259,3,3.1,228
+1036,Joe Biden,PD,Norfolk,51710,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:58:01.000Z,9729,90,90.4,8798
+20072905,Marianne Williamson,PD,Norfolk,51710,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:58:01.000Z,9729,7,6.7,654
+20286,Dean Phillips,PD,Norfolk,51710,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:58:01.000Z,9729,3,2.8,277
+1036,Joe Biden,PD,Northampton,51131,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:02.000Z,563,94,93.6,527
+20072905,Marianne Williamson,PD,Northampton,51131,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:02.000Z,563,4,3.9,22
+20286,Dean Phillips,PD,Northampton,51131,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:02.000Z,563,2,2.5,14
+1036,Joe Biden,PD,Northumberland,51133,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,494,94,93.7,463
+20072905,Marianne Williamson,PD,Northumberland,51133,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,494,4,4.0,20
+20286,Dean Phillips,PD,Northumberland,51133,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,494,2,2.2,11
+1036,Joe Biden,PD,Norton,51720,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,48,92,91.7,44
+20072905,Marianne Williamson,PD,Norton,51720,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,48,6,6.2,3
+20286,Dean Phillips,PD,Norton,51720,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,48,2,2.1,1
+1036,Joe Biden,PD,Nottoway,51135,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:51:50.000Z,352,92,92.3,325
+20072905,Marianne Williamson,PD,Nottoway,51135,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:51:50.000Z,352,5,5.4,19
+20286,Dean Phillips,PD,Nottoway,51135,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:51:50.000Z,352,2,2.3,8
+1036,Joe Biden,PD,Orange,51137,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,1177,90,90.1,1061
+20072905,Marianne Williamson,PD,Orange,51137,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,1177,6,6.2,73
+20286,Dean Phillips,PD,Orange,51137,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,1177,4,3.7,43
+1036,Joe Biden,PD,Page,51139,Joe,True,Biden,DEM,Democratic,77,P,Virginia,2024-06-18T17:54:50.000Z,262,82,82.1,215
+20072905,Marianne Williamson,PD,Page,51139,Marianne,False,Williamson,DEM,Democratic,77,P,Virginia,2024-06-18T17:54:50.000Z,262,10,9.9,26
+20286,Dean Phillips,PD,Page,51139,Dean,False,Phillips,DEM,Democratic,77,P,Virginia,2024-06-18T17:54:50.000Z,262,8,8.0,21
+1036,Joe Biden,PD,Patrick,51141,Joe,True,Biden,DEM,Democratic,94,P,Virginia,2024-06-18T17:49:07.000Z,262,90,90.5,237
+20072905,Marianne Williamson,PD,Patrick,51141,Marianne,False,Williamson,DEM,Democratic,94,P,Virginia,2024-06-18T17:49:07.000Z,262,6,5.7,15
+20286,Dean Phillips,PD,Patrick,51141,Dean,False,Phillips,DEM,Democratic,94,P,Virginia,2024-06-18T17:49:07.000Z,262,4,3.8,10
+1036,Joe Biden,PD,Petersburg,51730,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:03:17.000Z,2524,93,93.5,2361
+20072905,Marianne Williamson,PD,Petersburg,51730,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:03:17.000Z,2524,5,4.6,117
+20286,Dean Phillips,PD,Petersburg,51730,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:03:17.000Z,2524,2,1.8,46
+1036,Joe Biden,PD,Pittsylvania,51143,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:59:00.000Z,1441,91,91.0,1312
+20072905,Marianne Williamson,PD,Pittsylvania,51143,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:59:00.000Z,1441,6,6.2,89
+20286,Dean Phillips,PD,Pittsylvania,51143,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:59:00.000Z,1441,3,2.8,40
+1036,Joe Biden,PD,Poquoson,51735,Joe,True,Biden,DEM,Democratic,59,P,Virginia,2024-06-18T17:56:24.000Z,240,87,87.1,209
+20072905,Marianne Williamson,PD,Poquoson,51735,Marianne,False,Williamson,DEM,Democratic,59,P,Virginia,2024-06-18T17:56:24.000Z,240,7,7.1,17
+20286,Dean Phillips,PD,Poquoson,51735,Dean,False,Phillips,DEM,Democratic,59,P,Virginia,2024-06-18T17:56:24.000Z,240,6,5.8,14
+1036,Joe Biden,PD,Portsmouth,51740,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:58:29.000Z,5266,94,93.5,4924
+20072905,Marianne Williamson,PD,Portsmouth,51740,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:58:29.000Z,5266,4,4.3,227
+20286,Dean Phillips,PD,Portsmouth,51740,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:58:29.000Z,5266,2,2.2,115
+1036,Joe Biden,PD,Powhatan,51145,Joe,True,Biden,DEM,Democratic,98,P,Virginia,2024-06-18T17:49:30.000Z,734,90,90.3,663
+20072905,Marianne Williamson,PD,Powhatan,51145,Marianne,False,Williamson,DEM,Democratic,98,P,Virginia,2024-06-18T17:49:30.000Z,734,6,5.6,41
+20286,Dean Phillips,PD,Powhatan,51145,Dean,False,Phillips,DEM,Democratic,98,P,Virginia,2024-06-18T17:49:30.000Z,734,4,4.1,30
+1036,Joe Biden,PD,Prince Edward,51147,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:00:13.000Z,723,91,91.0,658
+20072905,Marianne Williamson,PD,Prince Edward,51147,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:00:13.000Z,723,6,6.1,44
+20286,Dean Phillips,PD,Prince Edward,51147,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:00:13.000Z,723,3,2.9,21
+1036,Joe Biden,PD,Prince George,51149,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1391,92,92.2,1283
+20072905,Marianne Williamson,PD,Prince George,51149,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1391,5,5.5,76
+20286,Dean Phillips,PD,Prince George,51149,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:01.000Z,1391,2,2.3,32
+1036,Joe Biden,PD,Prince William,51153,Joe,True,Biden,DEM,Democratic,92,P,Virginia,2024-06-18T17:57:24.000Z,19566,86,86.5,16928
+20072905,Marianne Williamson,PD,Prince William,51153,Marianne,False,Williamson,DEM,Democratic,92,P,Virginia,2024-06-18T17:57:24.000Z,19566,10,9.6,1871
+20286,Dean Phillips,PD,Prince William,51153,Dean,False,Phillips,DEM,Democratic,92,P,Virginia,2024-06-18T17:57:24.000Z,19566,4,3.9,767
+1036,Joe Biden,PD,Pulaski,51155,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:49:39.000Z,597,90,90.4,540
+20072905,Marianne Williamson,PD,Pulaski,51155,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:49:39.000Z,597,6,5.7,34
+20286,Dean Phillips,PD,Pulaski,51155,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:49:39.000Z,597,4,3.9,23
+1036,Joe Biden,PD,Radford,51750,Joe,True,Biden,DEM,Democratic,58,P,Virginia,2024-06-18T17:55:40.000Z,315,84,84.4,266
+20072905,Marianne Williamson,PD,Radford,51750,Marianne,False,Williamson,DEM,Democratic,58,P,Virginia,2024-06-18T17:55:40.000Z,315,11,11.4,36
+20286,Dean Phillips,PD,Radford,51750,Dean,False,Phillips,DEM,Democratic,58,P,Virginia,2024-06-18T17:55:40.000Z,315,4,4.1,13
+1036,Joe Biden,PD,Rappahannock,51157,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:53:47.000Z,359,89,89.1,320
+20072905,Marianne Williamson,PD,Rappahannock,51157,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:53:47.000Z,359,6,6.4,23
+20286,Dean Phillips,PD,Rappahannock,51157,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:53:47.000Z,359,4,4.5,16
+1036,Joe Biden,PD,Richmond City,51760,Joe,True,Biden,DEM,Democratic,82,P,Virginia,2024-06-18T17:44:32.000Z,13863,84,84.2,11674
+20072905,Marianne Williamson,PD,Richmond City,51760,Marianne,False,Williamson,DEM,Democratic,82,P,Virginia,2024-06-18T17:44:32.000Z,13863,13,12.6,1753
+20286,Dean Phillips,PD,Richmond City,51760,Dean,False,Phillips,DEM,Democratic,82,P,Virginia,2024-06-18T17:44:32.000Z,13863,3,3.1,436
+1036,Joe Biden,PD,Richmond County,51159,Joe,True,Biden,DEM,Democratic,54,P,Virginia,2024-06-18T17:54:59.000Z,88,94,94.3,83
+20072905,Marianne Williamson,PD,Richmond County,51159,Marianne,False,Williamson,DEM,Democratic,54,P,Virginia,2024-06-18T17:54:59.000Z,88,3,3.4,3
+20286,Dean Phillips,PD,Richmond County,51159,Dean,False,Phillips,DEM,Democratic,54,P,Virginia,2024-06-18T17:54:59.000Z,88,2,2.3,2
+1036,Joe Biden,PD,Roanoke City,51770,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:12.000Z,3489,88,88.4,3083
+20072905,Marianne Williamson,PD,Roanoke City,51770,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:12.000Z,3489,8,7.9,275
+20286,Dean Phillips,PD,Roanoke City,51770,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:12.000Z,3489,4,3.7,131
+1036,Joe Biden,PD,Roanoke County,51161,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:45:12.000Z,2804,89,88.5,2482
+20072905,Marianne Williamson,PD,Roanoke County,51161,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:45:12.000Z,2804,7,7.0,197
+20286,Dean Phillips,PD,Roanoke County,51161,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:45:12.000Z,2804,4,4.5,125
+1036,Joe Biden,PD,Rockbridge,51163,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:47:51.000Z,721,93,93.2,672
+20286,Dean Phillips,PD,Rockbridge,51163,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:47:51.000Z,721,4,3.6,26
+20072905,Marianne Williamson,PD,Rockbridge,51163,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:47:51.000Z,721,3,3.2,23
+1036,Joe Biden,PD,Rockingham,51165,Joe,True,Biden,DEM,Democratic,87,P,Virginia,2024-06-18T17:46:04.000Z,1426,87,87.4,1246
+20072905,Marianne Williamson,PD,Rockingham,51165,Marianne,False,Williamson,DEM,Democratic,87,P,Virginia,2024-06-18T17:46:04.000Z,1426,10,9.7,139
+20286,Dean Phillips,PD,Rockingham,51165,Dean,False,Phillips,DEM,Democratic,87,P,Virginia,2024-06-18T17:46:04.000Z,1426,3,2.9,41
+1036,Joe Biden,PD,Russell,51167,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-06-18T17:48:46.000Z,260,84,83.8,218
+20286,Dean Phillips,PD,Russell,51167,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-06-18T17:48:46.000Z,260,9,9.2,24
+20072905,Marianne Williamson,PD,Russell,51167,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-06-18T17:48:46.000Z,260,7,6.9,18
+1036,Joe Biden,PD,Salem,51775,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:51:11.000Z,587,91,90.6,532
+20072905,Marianne Williamson,PD,Salem,51775,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:51:11.000Z,587,6,6.0,35
+20286,Dean Phillips,PD,Salem,51775,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:51:11.000Z,587,3,3.4,20
+1036,Joe Biden,PD,Scott,51169,Joe,True,Biden,DEM,Democratic,91,P,Virginia,2024-06-18T17:48:00.000Z,148,88,88.5,131
+20072905,Marianne Williamson,PD,Scott,51169,Marianne,False,Williamson,DEM,Democratic,91,P,Virginia,2024-06-18T17:48:00.000Z,148,9,8.8,13
+20286,Dean Phillips,PD,Scott,51169,Dean,False,Phillips,DEM,Democratic,91,P,Virginia,2024-06-18T17:48:00.000Z,148,3,2.7,4
+1036,Joe Biden,PD,Shenandoah,51171,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:49:49.000Z,848,89,88.7,752
+20072905,Marianne Williamson,PD,Shenandoah,51171,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:49:49.000Z,848,7,6.8,58
+20286,Dean Phillips,PD,Shenandoah,51171,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:49:49.000Z,848,4,4.5,38
+1036,Joe Biden,PD,Smyth,51173,Joe,True,Biden,DEM,Democratic,82,P,Virginia,2024-06-18T17:48:54.000Z,248,85,85.1,211
+20072905,Marianne Williamson,PD,Smyth,51173,Marianne,False,Williamson,DEM,Democratic,82,P,Virginia,2024-06-18T17:48:54.000Z,248,8,8.1,20
+20286,Dean Phillips,PD,Smyth,51173,Dean,False,Phillips,DEM,Democratic,82,P,Virginia,2024-06-18T17:48:54.000Z,248,7,6.8,17
+1036,Joe Biden,PD,Southampton,51175,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,588,94,94.2,554
+20072905,Marianne Williamson,PD,Southampton,51175,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,588,4,4.1,24
+20286,Dean Phillips,PD,Southampton,51175,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:01.000Z,588,2,1.7,10
+1036,Joe Biden,PD,Spotsylvania,51177,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:06.000Z,4821,88,87.5,4219
+20072905,Marianne Williamson,PD,Spotsylvania,51177,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:06.000Z,4821,8,8.0,386
+20286,Dean Phillips,PD,Spotsylvania,51177,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T16:58:06.000Z,4821,4,4.5,216
+1036,Joe Biden,PD,Stafford,51179,Joe,True,Biden,DEM,Democratic,94,P,Virginia,2024-05-23T16:58:06.000Z,6039,88,87.8,5305
+20072905,Marianne Williamson,PD,Stafford,51179,Marianne,False,Williamson,DEM,Democratic,94,P,Virginia,2024-05-23T16:58:06.000Z,6039,8,7.9,480
+20286,Dean Phillips,PD,Stafford,51179,Dean,False,Phillips,DEM,Democratic,94,P,Virginia,2024-05-23T16:58:06.000Z,6039,4,4.2,254
+1036,Joe Biden,PD,Staunton,51790,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:47.000Z,1129,88,88.5,999
+20072905,Marianne Williamson,PD,Staunton,51790,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:47.000Z,1129,8,7.9,89
+20286,Dean Phillips,PD,Staunton,51790,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T18:04:47.000Z,1129,4,3.6,41
+1036,Joe Biden,PD,Suffolk,51800,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,5121,92,92.5,4738
+20072905,Marianne Williamson,PD,Suffolk,51800,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,5121,5,4.9,249
+20286,Dean Phillips,PD,Suffolk,51800,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T20:30:21.000Z,5121,3,2.6,134
+1036,Joe Biden,PD,Surry,51181,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,535,94,94.0,503
+20072905,Marianne Williamson,PD,Surry,51181,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,535,4,4.1,22
+20286,Dean Phillips,PD,Surry,51181,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-05-23T16:58:06.000Z,535,2,1.9,10
+1036,Joe Biden,PD,Sussex,51183,Joe,True,Biden,DEM,Democratic,99,P,Virginia,2024-05-23T20:30:21.000Z,489,93,93.0,455
+20072905,Marianne Williamson,PD,Sussex,51183,Marianne,False,Williamson,DEM,Democratic,99,P,Virginia,2024-05-23T20:30:21.000Z,489,5,4.7,23
+20286,Dean Phillips,PD,Sussex,51183,Dean,False,Phillips,DEM,Democratic,99,P,Virginia,2024-05-23T20:30:21.000Z,489,2,2.2,11
+1036,Joe Biden,PD,Tazewell,51185,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:00.000Z,379,91,90.5,343
+20286,Dean Phillips,PD,Tazewell,51185,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:00.000Z,379,6,6.3,24
+20072905,Marianne Williamson,PD,Tazewell,51185,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:47:00.000Z,379,3,3.2,12
+1036,Joe Biden,PD,Virginia Beach,51810,Joe,True,Biden,DEM,Democratic,94,P,Virginia,2024-05-23T20:30:21.000Z,17267,90,90.4,15612
+20072905,Marianne Williamson,PD,Virginia Beach,51810,Marianne,False,Williamson,DEM,Democratic,94,P,Virginia,2024-05-23T20:30:21.000Z,17267,6,6.2,1063
+20286,Dean Phillips,PD,Virginia Beach,51810,Dean,False,Phillips,DEM,Democratic,94,P,Virginia,2024-05-23T20:30:21.000Z,17267,3,3.4,592
+1036,Joe Biden,PD,Warren,51187,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:50:20.000Z,739,86,86.1,636
+20072905,Marianne Williamson,PD,Warren,51187,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:50:20.000Z,739,9,9.3,69
+20286,Dean Phillips,PD,Warren,51187,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:50:20.000Z,739,5,4.6,34
+1036,Joe Biden,PD,Washington,51191,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:59:17.000Z,940,89,88.7,834
+20072905,Marianne Williamson,PD,Washington,51191,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:59:17.000Z,940,7,6.7,63
+20286,Dean Phillips,PD,Washington,51191,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:59:17.000Z,940,4,4.6,43
+1036,Joe Biden,PD,Waynesboro,51820,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:55:50.000Z,614,86,85.7,526
+20072905,Marianne Williamson,PD,Waynesboro,51820,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:55:50.000Z,614,10,9.9,61
+20286,Dean Phillips,PD,Waynesboro,51820,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:55:50.000Z,614,4,4.4,27
+1036,Joe Biden,PD,Westmoreland,51193,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:52:21.000Z,543,94,93.9,510
+20072905,Marianne Williamson,PD,Westmoreland,51193,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:52:21.000Z,543,4,3.9,21
+20286,Dean Phillips,PD,Westmoreland,51193,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:52:21.000Z,543,2,2.2,12
+1036,Joe Biden,PD,Williamsburg,51830,Joe,True,Biden,DEM,Democratic,86,P,Virginia,2024-06-18T17:56:43.000Z,923,87,87.4,807
+20072905,Marianne Williamson,PD,Williamsburg,51830,Marianne,False,Williamson,DEM,Democratic,86,P,Virginia,2024-06-18T17:56:43.000Z,923,9,8.6,79
+20286,Dean Phillips,PD,Williamsburg,51830,Dean,False,Phillips,DEM,Democratic,86,P,Virginia,2024-06-18T17:56:43.000Z,923,4,4.0,37
+1036,Joe Biden,PD,Winchester,51840,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:54:05.000Z,832,87,87.3,726
+20072905,Marianne Williamson,PD,Winchester,51840,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:54:05.000Z,832,8,8.0,67
+20286,Dean Phillips,PD,Winchester,51840,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:54:05.000Z,832,5,4.7,39
+1036,Joe Biden,PD,Wise,51195,Joe,True,Biden,DEM,Democratic,78,P,Virginia,2024-06-18T17:49:57.000Z,252,85,84.5,213
+20286,Dean Phillips,PD,Wise,51195,Dean,False,Phillips,DEM,Democratic,78,P,Virginia,2024-06-18T17:49:57.000Z,252,8,8.3,21
+20072905,Marianne Williamson,PD,Wise,51195,Marianne,False,Williamson,DEM,Democratic,78,P,Virginia,2024-06-18T17:49:57.000Z,252,7,7.1,18
+1036,Joe Biden,PD,Wythe,51197,Joe,True,Biden,DEM,Democratic,95,P,Virginia,2024-06-18T17:50:33.000Z,354,83,83.0,294
+20072905,Marianne Williamson,PD,Wythe,51197,Marianne,False,Williamson,DEM,Democratic,95,P,Virginia,2024-06-18T17:50:33.000Z,354,13,13.3,47
+20286,Dean Phillips,PD,Wythe,51197,Dean,False,Phillips,DEM,Democratic,95,P,Virginia,2024-06-18T17:50:33.000Z,354,4,3.7,13
+1036,Joe Biden,PD,York,51199,Joe,True,Biden,DEM,Democratic,94,P,Virginia,2024-05-23T20:30:21.000Z,2829,89,89.3,2525
+20072905,Marianne Williamson,PD,York,51199,Marianne,False,Williamson,DEM,Democratic,94,P,Virginia,2024-05-23T20:30:21.000Z,2829,6,6.2,176
+20286,Dean Phillips,PD,York,51199,Dean,False,Phillips,DEM,Democratic,94,P,Virginia,2024-05-23T20:30:21.000Z,2829,5,4.5,128

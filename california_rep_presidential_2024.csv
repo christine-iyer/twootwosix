@@ -1,0 +1,117 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+8639,Donald Trump,PR,Alameda,06001,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:51:39.000Z,44333,70,70.1,31063
+60420,Nikki Haley,PR,Alameda,06001,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:51:39.000Z,44333,25,25.4,11258
+8639,Donald Trump,PR,Alpine,06003,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:50:10.000Z,113,65,65.5,74
+60420,Nikki Haley,PR,Alpine,06003,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:50:10.000Z,113,34,33.6,38
+8639,Donald Trump,PR,Amador,06005,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:50:54.000Z,8023,84,84.5,6776
+60420,Nikki Haley,PR,Amador,06005,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:50:54.000Z,8023,13,13.1,1049
+8639,Donald Trump,PR,Butte,06007,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:46:35.000Z,24982,83,82.9,20701
+60420,Nikki Haley,PR,Butte,06007,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:46:35.000Z,24982,15,14.6,3635
+8639,Donald Trump,PR,Calaveras,06009,Donald,False,Trump,REP,Republican,100,P,California,2024-03-23T00:20:59.000Z,9199,86,85.6,7879
+60420,Nikki Haley,PR,Calaveras,06009,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-23T00:20:59.000Z,9199,12,12.1,1111
+8639,Donald Trump,PR,Colusa,06011,Donald,False,Trump,REP,Republican,100,P,California,2024-03-20T17:41:27.000Z,2306,85,85.0,1960
+60420,Nikki Haley,PR,Colusa,06011,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-20T17:41:27.000Z,2306,12,12.2,283
+8639,Donald Trump,PR,Contra Costa,06013,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:46:49.000Z,61811,71,71.1,43941
+60420,Nikki Haley,PR,Contra Costa,06013,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:46:49.000Z,61811,25,24.7,15292
+8639,Donald Trump,PR,Del Norte,06015,Donald,False,Trump,REP,Republican,100,P,California,2024-04-15T14:03:16.000Z,3012,88,87.8,2644
+60420,Nikki Haley,PR,Del Norte,06015,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-15T14:03:16.000Z,3012,10,9.6,290
+8639,Donald Trump,PR,El Dorado,06017,Donald,False,Trump,REP,Republican,100,P,California,2024-03-21T23:41:22.000Z,32629,80,80.2,26179
+60420,Nikki Haley,PR,El Dorado,06017,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-21T23:41:22.000Z,32629,17,16.9,5530
+8639,Donald Trump,PR,Fresno,06019,Donald,False,Trump,REP,Republican,100,P,California,2024-03-30T02:40:52.000Z,73061,82,82.4,60179
+60420,Nikki Haley,PR,Fresno,06019,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-30T02:40:52.000Z,73061,14,14.5,10585
+8639,Donald Trump,PR,Glenn,06021,Donald,False,Trump,REP,Republican,100,P,California,2024-03-14T20:44:21.000Z,3804,87,86.9,3306
+60420,Nikki Haley,PR,Glenn,06021,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-14T20:44:21.000Z,3804,11,11.3,430
+8639,Donald Trump,PR,Humboldt,06023,Donald,False,Trump,REP,Republican,100,P,California,2024-04-03T02:44:15.000Z,10820,80,80.0,8654
+60420,Nikki Haley,PR,Humboldt,06023,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-03T02:44:15.000Z,10820,16,16.3,1763
+8639,Donald Trump,PR,Imperial,06025,Donald,False,Trump,REP,Republican,100,P,California,2024-03-20T20:41:05.000Z,6648,87,86.8,5771
+60420,Nikki Haley,PR,Imperial,06025,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-20T20:41:05.000Z,6648,10,9.7,646
+8639,Donald Trump,PR,Inyo,06027,Donald,False,Trump,REP,Republican,100,P,California,2024-03-26T23:41:02.000Z,2571,83,83.1,2137
+60420,Nikki Haley,PR,Inyo,06027,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-26T23:41:02.000Z,2571,14,13.7,353
+8639,Donald Trump,PR,Kern,06029,Donald,False,Trump,REP,Republican,100,P,California,2024-04-15T14:04:00.000Z,68352,87,86.6,59171
+60420,Nikki Haley,PR,Kern,06029,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-15T14:04:00.000Z,68352,11,10.8,7382
+8639,Donald Trump,PR,Kings,06031,Donald,False,Trump,REP,Republican,100,P,California,2024-03-28T17:40:55.000Z,10289,88,87.5,9004
+60420,Nikki Haley,PR,Kings,06031,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-28T17:40:55.000Z,10289,10,9.9,1020
+8639,Donald Trump,PR,Lake,06033,Donald,False,Trump,REP,Republican,100,P,California,2024-04-02T20:44:18.000Z,6030,85,84.8,5111
+60420,Nikki Haley,PR,Lake,06033,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-02T20:44:18.000Z,6030,12,12.0,726
+8639,Donald Trump,PR,Lassen,06035,Donald,False,Trump,REP,Republican,100,P,California,2024-03-16T02:42:04.000Z,4677,89,88.8,4154
+60420,Nikki Haley,PR,Lassen,06035,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-16T02:42:04.000Z,4677,9,8.8,413
+8639,Donald Trump,PR,Los Angeles,06037,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:49:00.000Z,390432,77,77.1,301131
+60420,Nikki Haley,PR,Los Angeles,06037,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:49:00.000Z,390432,19,18.7,72880
+8639,Donald Trump,PR,Madera,06039,Donald,False,Trump,REP,Republican,100,P,California,2024-03-22T20:40:53.000Z,15124,86,86.3,13053
+60420,Nikki Haley,PR,Madera,06039,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-22T20:40:53.000Z,15124,11,11.2,1694
+8639,Donald Trump,PR,Marin,06041,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:47:09.000Z,12475,61,61.3,7643
+60420,Nikki Haley,PR,Marin,06041,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:47:09.000Z,12475,34,34.0,4245
+8639,Donald Trump,PR,Mariposa,06043,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:51:03.000Z,3196,86,86.4,2762
+60420,Nikki Haley,PR,Mariposa,06043,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:51:03.000Z,3196,11,10.9,350
+8639,Donald Trump,PR,Mendocino,06045,Donald,False,Trump,REP,Republican,100,P,California,2024-03-27T23:41:52.000Z,5993,80,80.3,4814
+60420,Nikki Haley,PR,Mendocino,06045,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-27T23:41:52.000Z,5993,16,16.5,988
+8639,Donald Trump,PR,Merced,06047,Donald,False,Trump,REP,Republican,100,P,California,2024-03-28T21:22:42.000Z,16659,86,86.1,14345
+60420,Nikki Haley,PR,Merced,06047,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-28T21:22:42.000Z,16659,11,11.1,1847
+8639,Donald Trump,PR,Modoc,06049,Donald,False,Trump,REP,Republican,100,P,California,2024-04-02T23:43:56.000Z,1811,89,89.3,1617
+60420,Nikki Haley,PR,Modoc,06049,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-02T23:43:56.000Z,1811,9,8.9,161
+8639,Donald Trump,PR,Mono,06051,Donald,False,Trump,REP,Republican,100,P,California,2024-03-21T02:39:44.000Z,1253,78,77.8,975
+60420,Nikki Haley,PR,Mono,06051,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-21T02:39:44.000Z,1253,18,18.4,230
+8639,Donald Trump,PR,Monterey,06053,Donald,False,Trump,REP,Republican,100,P,California,2024-03-23T02:40:56.000Z,19433,75,75.4,14657
+60420,Nikki Haley,PR,Monterey,06053,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-23T02:40:56.000Z,19433,21,21.3,4136
+8639,Donald Trump,PR,Napa,06055,Donald,False,Trump,REP,Republican,100,P,California,2024-03-28T20:40:49.000Z,10046,72,72.2,7252
+60420,Nikki Haley,PR,Napa,06055,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-28T20:40:49.000Z,10046,23,23.2,2327
+8639,Donald Trump,PR,Nevada,06057,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:47:25.000Z,14994,80,79.6,11937
+60420,Nikki Haley,PR,Nevada,06057,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:47:25.000Z,14994,18,17.7,2656
+8639,Donald Trump,PR,Orange,06059,Donald,False,Trump,REP,Republican,100,P,California,2024-03-23T00:20:59.000Z,301339,78,78.5,236456
+60420,Nikki Haley,PR,Orange,06059,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-23T00:20:59.000Z,301339,18,18.4,55595
+8639,Donald Trump,PR,Placer,06061,Donald,False,Trump,REP,Republican,100,P,California,2024-04-02T00:10:31.000Z,63986,79,79.1,50602
+60420,Nikki Haley,PR,Placer,06061,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-02T00:10:31.000Z,63986,18,17.8,11420
+8639,Donald Trump,PR,Plumas,06063,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:50:26.000Z,3455,82,81.9,2828
+60420,Nikki Haley,PR,Plumas,06063,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:50:26.000Z,3455,15,15.5,535
+8639,Donald Trump,PR,Riverside,06065,Donald,False,Trump,REP,Republican,100,P,California,2024-04-04T23:44:29.000Z,178994,85,85.2,152486
+60420,Nikki Haley,PR,Riverside,06065,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-04T23:44:29.000Z,178994,12,12.1,21622
+8639,Donald Trump,PR,Sacramento,06067,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:51:26.000Z,108067,78,77.7,84000
+60420,Nikki Haley,PR,Sacramento,06067,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:51:26.000Z,108067,19,18.9,20422
+8639,Donald Trump,PR,San Benito,06069,Donald,False,Trump,REP,Republican,100,P,California,2024-03-29T02:40:44.000Z,4828,82,82.2,3967
+60420,Nikki Haley,PR,San Benito,06069,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-29T02:40:44.000Z,4828,15,15.4,743
+8639,Donald Trump,PR,San Bernardino,06071,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:52:32.000Z,134500,86,86.3,116115
+60420,Nikki Haley,PR,San Bernardino,06071,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:52:32.000Z,134500,11,11.0,14808
+8639,Donald Trump,PR,San Diego,06073,Donald,False,Trump,REP,Republican,100,P,California,2024-04-04T20:44:30.000Z,256102,79,78.8,201910
+60420,Nikki Haley,PR,San Diego,06073,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-04T20:44:30.000Z,256102,18,18.2,46687
+8639,Donald Trump,PR,San Francisco,06075,Donald,False,Trump,REP,Republican,100,P,California,2024-03-21T23:02:29.000Z,18359,63,62.6,11498
+60420,Nikki Haley,PR,San Francisco,06075,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-21T23:02:29.000Z,18359,32,31.5,5789
+8639,Donald Trump,PR,San Joaquin,06077,Donald,False,Trump,REP,Republican,100,P,California,2024-04-01T23:43:43.000Z,50587,84,83.6,42314
+60420,Nikki Haley,PR,San Joaquin,06077,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-01T23:43:43.000Z,50587,14,13.7,6931
+8639,Donald Trump,PR,San Luis Obispo,06079,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:51:53.000Z,36650,78,77.6,28451
+60420,Nikki Haley,PR,San Luis Obispo,06079,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:51:53.000Z,36650,19,19.3,7072
+8639,Donald Trump,PR,San Mateo,06081,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:47:41.000Z,30714,67,67.3,20681
+60420,Nikki Haley,PR,San Mateo,06081,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:47:41.000Z,30714,28,28.3,8694
+8639,Donald Trump,PR,Santa Barbara,06083,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:47:51.000Z,31787,76,75.9,24119
+60420,Nikki Haley,PR,Santa Barbara,06083,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:47:51.000Z,31787,21,20.8,6622
+8639,Donald Trump,PR,Santa Clara,06085,Donald,False,Trump,REP,Republican,100,P,California,2024-04-03T00:10:46.000Z,78949,69,69.1,54521
+60420,Nikki Haley,PR,Santa Clara,06085,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-03T00:10:46.000Z,78949,26,26.3,20744
+8639,Donald Trump,PR,Santa Cruz,06087,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:48:05.000Z,12504,69,69.1,8640
+60420,Nikki Haley,PR,Santa Cruz,06087,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:48:05.000Z,12504,27,26.7,3338
+8639,Donald Trump,PR,Shasta,06089,Donald,False,Trump,REP,Republican,100,P,California,2024-03-28T23:16:11.000Z,32468,85,85.0,27611
+60420,Nikki Haley,PR,Shasta,06089,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-28T23:16:11.000Z,32468,12,12.4,4031
+8639,Donald Trump,PR,Sierra,06091,Donald,False,Trump,REP,Republican,100,P,California,2024-03-25T23:40:59.000Z,653,86,85.9,561
+60420,Nikki Haley,PR,Sierra,06091,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-25T23:40:59.000Z,653,11,10.9,71
+8639,Donald Trump,PR,Siskiyou,06093,Donald,False,Trump,REP,Republican,100,P,California,2024-03-19T23:41:04.000Z,6624,85,84.9,5624
+60420,Nikki Haley,PR,Siskiyou,06093,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-19T23:41:04.000Z,6624,12,12.3,815
+8639,Donald Trump,PR,Solano,06095,Donald,False,Trump,REP,Republican,100,P,California,2024-03-28T19:11:03.000Z,27952,81,80.5,22507
+60420,Nikki Haley,PR,Solano,06095,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-28T19:11:03.000Z,27952,16,16.4,4596
+8639,Donald Trump,PR,Sonoma,06097,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:48:28.000Z,30746,71,71.3,21914
+60420,Nikki Haley,PR,Sonoma,06097,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:48:28.000Z,30746,24,24.1,7415
+8639,Donald Trump,PR,Stanislaus,06099,Donald,False,Trump,REP,Republican,100,P,California,2024-06-15T21:51:14.000Z,42156,85,85.3,35979
+60420,Nikki Haley,PR,Stanislaus,06099,Nikki,False,Haley,REP,Republican,100,P,California,2024-06-15T21:51:14.000Z,42156,12,12.1,5106
+8639,Donald Trump,PR,Sutter,06101,Donald,False,Trump,REP,Republican,100,P,California,2024-03-19T23:41:04.000Z,11596,85,85.0,9858
+60420,Nikki Haley,PR,Sutter,06101,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-19T23:41:04.000Z,11596,13,12.7,1478
+8639,Donald Trump,PR,Tehama,06103,Donald,False,Trump,REP,Republican,100,P,California,2024-03-29T23:40:54.000Z,9735,88,87.7,8536
+60420,Nikki Haley,PR,Tehama,06103,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-29T23:40:54.000Z,9735,10,10.1,980
+8639,Donald Trump,PR,Trinity,06105,Donald,False,Trump,REP,Republican,100,P,California,2024-03-21T17:41:07.000Z,1704,83,82.5,1406
+60420,Nikki Haley,PR,Trinity,06105,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-21T17:41:07.000Z,1704,14,14.0,239
+8639,Donald Trump,PR,Tulare,06107,Donald,False,Trump,REP,Republican,100,P,California,2024-03-27T02:40:41.000Z,34204,86,85.8,29341
+60420,Nikki Haley,PR,Tulare,06107,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-27T02:40:41.000Z,34204,11,11.3,3882
+8639,Donald Trump,PR,Tuolumne,06109,Donald,False,Trump,REP,Republican,100,P,California,2024-03-21T20:41:02.000Z,9284,86,86.4,8023
+60420,Nikki Haley,PR,Tuolumne,06109,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-21T20:41:02.000Z,9284,11,11.2,1041
+8639,Donald Trump,PR,Ventura,06111,Donald,False,Trump,REP,Republican,100,P,California,2024-04-02T17:44:44.000Z,74745,78,77.7,58041
+60420,Nikki Haley,PR,Ventura,06111,Nikki,False,Haley,REP,Republican,100,P,California,2024-04-02T17:44:44.000Z,74745,19,19.3,14436
+8639,Donald Trump,PR,Yolo,06113,Donald,False,Trump,REP,Republican,100,P,California,2024-03-22T02:40:42.000Z,12002,74,74.4,8928
+60420,Nikki Haley,PR,Yolo,06113,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-22T02:40:42.000Z,12002,22,22.0,2637
+8639,Donald Trump,PR,Yuba,06115,Donald,False,Trump,REP,Republican,100,P,California,2024-03-28T17:40:55.000Z,8132,87,87.3,7098
+60420,Nikki Haley,PR,Yuba,06115,Nikki,False,Haley,REP,Republican,100,P,California,2024-03-28T17:40:55.000Z,8132,10,9.9,809

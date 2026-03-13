@@ -1,0 +1,175 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Alameda,06001,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:51:39.000Z,208477,91,91.1,189961
+20072905,Marianne Williamson,PD,Alameda,06001,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:51:39.000Z,208477,4,4.0,8431
+20286,Dean Phillips,PD,Alameda,06001,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:51:39.000Z,208477,2,2.4,4944
+1036,Joe Biden,PD,Alpine,06003,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:50:10.000Z,225,95,95.1,214
+20072905,Marianne Williamson,PD,Alpine,06003,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:50:10.000Z,225,3,2.7,6
+20286,Dean Phillips,PD,Alpine,06003,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:50:10.000Z,225,1,1.3,3
+1036,Joe Biden,PD,Amador,06005,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:50:54.000Z,4186,91,91.0,3811
+20072905,Marianne Williamson,PD,Amador,06005,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:50:54.000Z,4186,3,3.3,139
+20286,Dean Phillips,PD,Amador,06005,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:50:54.000Z,4186,2,2.4,99
+1036,Joe Biden,PD,Butte,06007,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:46:35.000Z,19593,90,90.0,17642
+20072905,Marianne Williamson,PD,Butte,06007,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:46:35.000Z,19593,4,4.1,806
+20286,Dean Phillips,PD,Butte,06007,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:46:35.000Z,19593,3,2.9,566
+1036,Joe Biden,PD,Calaveras,06009,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-23T00:20:59.000Z,4685,92,91.9,4307
+20072905,Marianne Williamson,PD,Calaveras,06009,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-23T00:20:59.000Z,4685,3,3.0,141
+20286,Dean Phillips,PD,Calaveras,06009,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-23T00:20:59.000Z,4685,3,2.7,129
+1036,Joe Biden,PD,Colusa,06011,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-20T17:41:29.000Z,838,81,80.5,675
+20286,Dean Phillips,PD,Colusa,06011,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-20T17:41:29.000Z,838,6,5.8,49
+20072905,Marianne Williamson,PD,Colusa,06011,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-20T17:41:29.000Z,838,5,5.0,42
+1036,Joe Biden,PD,Contra Costa,06013,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:46:49.000Z,152565,92,92.3,140780
+20072905,Marianne Williamson,PD,Contra Costa,06013,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:46:49.000Z,152565,3,3.0,4581
+20286,Dean Phillips,PD,Contra Costa,06013,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:46:49.000Z,152565,3,2.6,3914
+1036,Joe Biden,PD,Del Norte,06015,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-15T22:59:11.000Z,2001,89,89.2,1784
+20072905,Marianne Williamson,PD,Del Norte,06015,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-15T22:59:11.000Z,2001,5,4.6,92
+20286,Dean Phillips,PD,Del Norte,06015,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-15T22:59:11.000Z,2001,3,3.3,66
+1036,Joe Biden,PD,El Dorado,06017,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-21T23:41:22.000Z,20889,92,92.4,19307
+20072905,Marianne Williamson,PD,El Dorado,06017,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-21T23:41:22.000Z,20889,3,3.2,673
+20286,Dean Phillips,PD,El Dorado,06017,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-21T23:41:22.000Z,20889,3,2.8,575
+1036,Joe Biden,PD,Fresno,06019,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-30T02:40:52.000Z,54352,88,88.3,48018
+20072905,Marianne Williamson,PD,Fresno,06019,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-30T02:40:52.000Z,54352,4,3.7,2013
+20286,Dean Phillips,PD,Fresno,06019,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-30T02:40:52.000Z,54352,3,3.0,1628
+1036,Joe Biden,PD,Glenn,06021,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-14T20:45:06.000Z,1159,81,81.4,944
+20072905,Marianne Williamson,PD,Glenn,06021,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-14T20:45:06.000Z,1159,5,5.0,58
+20286,Dean Phillips,PD,Glenn,06021,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-14T20:45:06.000Z,1159,5,4.8,56
+1036,Joe Biden,PD,Humboldt,06023,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-03T02:44:15.000Z,19635,88,87.8,17248
+20072905,Marianne Williamson,PD,Humboldt,06023,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-03T02:44:15.000Z,19635,6,6.0,1172
+20286,Dean Phillips,PD,Humboldt,06023,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-03T02:44:15.000Z,19635,3,2.9,579
+1036,Joe Biden,PD,Imperial,06025,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-20T20:41:07.000Z,8754,81,80.9,7079
+20072905,Marianne Williamson,PD,Imperial,06025,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-20T20:41:07.000Z,8754,5,5.2,455
+20286,Dean Phillips,PD,Imperial,06025,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-20T20:41:07.000Z,8754,3,2.9,258
+1036,Joe Biden,PD,Inyo,06027,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-26T23:41:03.000Z,2059,91,91.0,1874
+20072905,Marianne Williamson,PD,Inyo,06027,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-26T23:41:03.000Z,2059,4,4.2,86
+20286,Dean Phillips,PD,Inyo,06027,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-26T23:41:03.000Z,2059,2,2.2,46
+1036,Joe Biden,PD,Kern,06029,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T13:59:23.000Z,34039,85,85.1,28968
+20072905,Marianne Williamson,PD,Kern,06029,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T13:59:23.000Z,34039,4,4.2,1442
+20286,Dean Phillips,PD,Kern,06029,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T13:59:23.000Z,34039,3,3.4,1147
+1036,Joe Biden,PD,Kings,06031,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-28T17:40:55.000Z,4712,84,84.1,3964
+20072905,Marianne Williamson,PD,Kings,06031,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-28T17:40:55.000Z,4712,4,4.4,208
+20286,Dean Phillips,PD,Kings,06031,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-28T17:40:55.000Z,4712,4,3.7,174
+1036,Joe Biden,PD,Lake,06033,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-02T20:44:18.000Z,6152,91,91.1,5604
+20072905,Marianne Williamson,PD,Lake,06033,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-02T20:44:18.000Z,6152,4,3.8,232
+20286,Dean Phillips,PD,Lake,06033,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-02T20:44:18.000Z,6152,2,1.8,114
+1036,Joe Biden,PD,Lassen,06035,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-16T02:42:51.000Z,1060,86,85.7,908
+20072905,Marianne Williamson,PD,Lassen,06035,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-16T02:42:51.000Z,1060,5,5.2,55
+20286,Dean Phillips,PD,Lassen,06035,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-16T02:42:51.000Z,1060,3,3.5,37
+1036,Joe Biden,PD,Los Angeles,06037,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:49:00.000Z,864701,85,85.0,735246
+20072905,Marianne Williamson,PD,Los Angeles,06037,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:49:00.000Z,864701,5,5.3,45566
+20286,Dean Phillips,PD,Los Angeles,06037,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:49:00.000Z,864701,3,2.9,25284
+1036,Joe Biden,PD,Madera,06039,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-22T20:40:52.000Z,7724,88,88.0,6796
+20072905,Marianne Williamson,PD,Madera,06039,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-22T20:40:52.000Z,7724,3,3.7,284
+20286,Dean Phillips,PD,Madera,06039,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-22T20:40:52.000Z,7724,3,2.7,207
+1036,Joe Biden,PD,Marin,06041,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:47:10.000Z,61020,94,93.7,57191
+20072905,Marianne Williamson,PD,Marin,06041,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:47:10.000Z,61020,2,2.3,1393
+20286,Dean Phillips,PD,Marin,06041,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:47:10.000Z,61020,2,2.2,1345
+1036,Joe Biden,PD,Mariposa,06043,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:51:03.000Z,1848,92,92.1,1702
+20072905,Marianne Williamson,PD,Mariposa,06043,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:51:03.000Z,1848,4,3.6,66
+20286,Dean Phillips,PD,Mariposa,06043,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:51:03.000Z,1848,2,2.2,41
+1036,Joe Biden,PD,Mendocino,06045,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-27T23:41:49.000Z,12166,91,90.9,11055
+20072905,Marianne Williamson,PD,Mendocino,06045,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-27T23:41:49.000Z,12166,4,4.0,493
+20286,Dean Phillips,PD,Mendocino,06045,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-27T23:41:49.000Z,12166,2,2.3,277
+1036,Joe Biden,PD,Merced,06047,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-28T21:22:44.000Z,13537,84,84.2,11404
+20072905,Marianne Williamson,PD,Merced,06047,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-28T21:22:44.000Z,13537,4,4.2,574
+20286,Dean Phillips,PD,Merced,06047,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-28T21:22:44.000Z,13537,3,3.1,418
+1036,Joe Biden,PD,Modoc,06049,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:00:22.000Z,465,87,87.1,405
+20072905,Marianne Williamson,PD,Modoc,06049,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:00:22.000Z,465,5,4.5,21
+20286,Dean Phillips,PD,Modoc,06049,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:00:22.000Z,465,3,2.8,13
+1036,Joe Biden,PD,Mono,06051,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-21T02:39:44.000Z,1432,90,89.7,1284
+20072905,Marianne Williamson,PD,Mono,06051,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-21T02:39:44.000Z,1432,4,4.1,59
+20286,Dean Phillips,PD,Mono,06051,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-21T02:39:44.000Z,1432,4,3.7,53
+1036,Joe Biden,PD,Monterey,06053,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:00:37.000Z,37418,91,90.5,33878
+20072905,Marianne Williamson,PD,Monterey,06053,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:00:37.000Z,37418,4,3.7,1386
+20286,Dean Phillips,PD,Monterey,06053,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:00:37.000Z,37418,3,2.8,1033
+1036,Joe Biden,PD,Napa,06055,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-28T20:40:50.000Z,20542,92,92.4,18979
+20072905,Marianne Williamson,PD,Napa,06055,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-28T20:40:50.000Z,20542,3,2.9,605
+20286,Dean Phillips,PD,Napa,06055,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-28T20:40:50.000Z,20542,2,2.3,464
+1036,Joe Biden,PD,Nevada,06057,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:47:26.000Z,16389,92,92.2,15114
+20072905,Marianne Williamson,PD,Nevada,06057,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:47:26.000Z,16389,4,3.8,616
+20286,Dean Phillips,PD,Nevada,06057,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:47:26.000Z,16389,2,2.1,342
+1036,Joe Biden,PD,Orange,06059,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-23T00:20:59.000Z,241919,90,90.1,217883
+20072905,Marianne Williamson,PD,Orange,06059,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-23T00:20:59.000Z,241919,4,3.7,8998
+20286,Dean Phillips,PD,Orange,06059,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-23T00:20:59.000Z,241919,3,2.9,7086
+1036,Joe Biden,PD,Placer,06061,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-02T00:10:32.000Z,45075,92,92.3,41624
+20072905,Marianne Williamson,PD,Placer,06061,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-02T00:10:32.000Z,45075,3,3.4,1533
+20286,Dean Phillips,PD,Placer,06061,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-02T00:10:32.000Z,45075,3,2.7,1233
+1036,Joe Biden,PD,Plumas,06063,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:50:26.000Z,2083,91,90.7,1890
+20072905,Marianne Williamson,PD,Plumas,06063,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:50:26.000Z,2083,3,3.3,68
+20286,Dean Phillips,PD,Plumas,06063,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:50:26.000Z,2083,3,3.1,64
+1036,Joe Biden,PD,Riverside,06065,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-04T23:44:29.000Z,157074,89,89.4,140440
+20072905,Marianne Williamson,PD,Riverside,06065,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-04T23:44:29.000Z,157074,4,3.5,5511
+20286,Dean Phillips,PD,Riverside,06065,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-04T23:44:29.000Z,157074,3,2.8,4452
+1036,Joe Biden,PD,Sacramento,06067,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:51:26.000Z,161371,90,90.2,145579
+20072905,Marianne Williamson,PD,Sacramento,06067,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:51:26.000Z,161371,4,4.0,6452
+20286,Dean Phillips,PD,Sacramento,06067,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:51:26.000Z,161371,3,2.8,4450
+1036,Joe Biden,PD,San Benito,06069,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-29T02:40:45.000Z,6041,90,89.8,5426
+20072905,Marianne Williamson,PD,San Benito,06069,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-29T02:40:45.000Z,6041,4,4.3,258
+20286,Dean Phillips,PD,San Benito,06069,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-29T02:40:45.000Z,6041,3,2.6,157
+1036,Joe Biden,PD,San Bernardino,06071,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:52:32.000Z,113596,88,88.5,100548
+20072905,Marianne Williamson,PD,San Bernardino,06071,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:52:32.000Z,113596,4,4.1,4646
+20286,Dean Phillips,PD,San Bernardino,06071,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:52:32.000Z,113596,3,2.8,3142
+1036,Joe Biden,PD,San Diego,06073,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:00:59.000Z,297861,91,90.7,270110
+20072905,Marianne Williamson,PD,San Diego,06073,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:00:59.000Z,297861,4,3.7,11162
+20286,Dean Phillips,PD,San Diego,06073,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:00:59.000Z,297861,3,2.7,7926
+1036,Joe Biden,PD,San Francisco,06075,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:01:15.000Z,158594,90,90.0,142680
+20072905,Marianne Williamson,PD,San Francisco,06075,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:01:15.000Z,158594,4,4.0,6287
+20286,Dean Phillips,PD,San Francisco,06075,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:01:15.000Z,158594,4,3.6,5686
+1036,Joe Biden,PD,San Joaquin,06077,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-01T23:43:44.000Z,49175,88,87.9,43201
+20072905,Marianne Williamson,PD,San Joaquin,06077,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-01T23:43:44.000Z,49175,4,4.3,2138
+20286,Dean Phillips,PD,San Joaquin,06077,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-01T23:43:44.000Z,49175,3,2.9,1444
+1036,Joe Biden,PD,San Luis Obispo,06079,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:51:53.000Z,37800,93,93.0,35164
+20072905,Marianne Williamson,PD,San Luis Obispo,06079,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:51:53.000Z,37800,3,3.4,1299
+20286,Dean Phillips,PD,San Luis Obispo,06079,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:51:53.000Z,37800,2,2.2,848
+1036,Joe Biden,PD,San Mateo,06081,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:47:41.000Z,106134,93,92.9,98596
+20072905,Marianne Williamson,PD,San Mateo,06081,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:47:41.000Z,106134,3,2.7,2892
+20286,Dean Phillips,PD,San Mateo,06081,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:47:41.000Z,106134,3,2.7,2833
+1036,Joe Biden,PD,Santa Barbara,06083,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:47:51.000Z,48771,92,91.8,44793
+20072905,Marianne Williamson,PD,Santa Barbara,06083,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:47:51.000Z,48771,4,3.7,1791
+20286,Dean Phillips,PD,Santa Barbara,06083,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:47:51.000Z,48771,2,2.6,1250
+1036,Joe Biden,PD,Santa Clara,06085,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:01:41.000Z,205436,90,90.0,184885
+20072905,Marianne Williamson,PD,Santa Clara,06085,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:01:41.000Z,205436,4,3.8,7755
+20286,Dean Phillips,PD,Santa Clara,06085,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:01:41.000Z,205436,3,3.2,6591
+1036,Joe Biden,PD,Santa Cruz,06087,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:48:05.000Z,49146,92,91.9,45157
+20072905,Marianne Williamson,PD,Santa Cruz,06087,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:48:05.000Z,49146,4,3.8,1882
+20286,Dean Phillips,PD,Santa Cruz,06087,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:48:05.000Z,49146,2,1.9,929
+1036,Joe Biden,PD,Shasta,06089,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:01:57.000Z,12576,90,89.6,11265
+20072905,Marianne Williamson,PD,Shasta,06089,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:01:57.000Z,12576,4,4.0,507
+20286,Dean Phillips,PD,Shasta,06089,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:01:57.000Z,12576,3,2.8,356
+1036,Joe Biden,PD,Sierra,06091,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-11T23:20:13.000Z,346,90,90.4,313
+20072905,Marianne Williamson,PD,Sierra,06091,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-11T23:20:13.000Z,346,3,3.5,12
+20286,Dean Phillips,PD,Sierra,06091,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-11T23:20:13.000Z,346,2,2.0,7
+1036,Joe Biden,PD,Siskiyou,06093,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-19T23:41:07.000Z,3931,90,90.4,3553
+20072905,Marianne Williamson,PD,Siskiyou,06093,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-19T23:41:07.000Z,3931,4,4.1,160
+20286,Dean Phillips,PD,Siskiyou,06093,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-19T23:41:07.000Z,3931,2,2.4,96
+1036,Joe Biden,PD,Solano,06095,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:02:04.000Z,46736,92,91.8,42895
+20072905,Marianne Williamson,PD,Solano,06095,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:02:04.000Z,46736,3,3.0,1395
+20286,Dean Phillips,PD,Solano,06095,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:02:04.000Z,46736,2,2.0,956
+1036,Joe Biden,PD,Sonoma,06097,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:48:29.000Z,92202,92,92.0,84790
+20072905,Marianne Williamson,PD,Sonoma,06097,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:48:29.000Z,92202,3,3.3,3012
+20286,Dean Phillips,PD,Sonoma,06097,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:48:29.000Z,92202,2,2.2,2013
+1036,Joe Biden,PD,Stanislaus,06099,Joe,True,Biden,DEM,Democratic,100,P,California,2024-06-15T21:51:14.000Z,30045,88,87.8,26385
+20072905,Marianne Williamson,PD,Stanislaus,06099,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-06-15T21:51:14.000Z,30045,4,4.4,1319
+20286,Dean Phillips,PD,Stanislaus,06099,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-06-15T21:51:14.000Z,30045,3,2.9,866
+1036,Joe Biden,PD,Sutter,06101,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-19T23:41:04.000Z,4923,84,83.6,4115
+20286,Dean Phillips,PD,Sutter,06101,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-19T23:41:04.000Z,4923,4,4.3,213
+20072905,Marianne Williamson,PD,Sutter,06101,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-19T23:41:04.000Z,4923,4,4.2,207
+1036,Joe Biden,PD,Tehama,06103,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-29T23:40:54.000Z,3055,88,87.7,2679
+20072905,Marianne Williamson,PD,Tehama,06103,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-29T23:40:54.000Z,3055,5,4.9,150
+20286,Dean Phillips,PD,Tehama,06103,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-29T23:40:54.000Z,3055,3,2.9,90
+1036,Joe Biden,PD,Trinity,06105,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-21T17:41:08.000Z,1256,89,89.3,1122
+20072905,Marianne Williamson,PD,Trinity,06105,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-21T17:41:08.000Z,1256,5,5.3,67
+20286,Dean Phillips,PD,Trinity,06105,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-21T17:41:08.000Z,1256,3,2.8,35
+1036,Joe Biden,PD,Tulare,06107,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-27T02:40:41.000Z,16725,83,83.2,13917
+20072905,Marianne Williamson,PD,Tulare,06107,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-27T02:40:41.000Z,16725,5,4.9,815
+20286,Dean Phillips,PD,Tulare,06107,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-27T02:40:41.000Z,16725,3,3.2,530
+1036,Joe Biden,PD,Tuolumne,06109,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-21T20:41:02.000Z,5531,93,92.6,5123
+20072905,Marianne Williamson,PD,Tuolumne,06109,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-21T20:41:02.000Z,5531,3,3.0,164
+20286,Dean Phillips,PD,Tuolumne,06109,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-21T20:41:02.000Z,5531,2,2.3,126
+1036,Joe Biden,PD,Ventura,06111,Joe,True,Biden,DEM,Democratic,100,P,California,2024-04-15T14:02:13.000Z,86299,91,91.2,78724
+20072905,Marianne Williamson,PD,Ventura,06111,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-04-15T14:02:13.000Z,86299,4,3.5,3026
+20286,Dean Phillips,PD,Ventura,06111,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-04-15T14:02:13.000Z,86299,3,2.5,2182
+1036,Joe Biden,PD,Yolo,06113,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-22T02:40:42.000Z,27868,91,90.8,25301
+20072905,Marianne Williamson,PD,Yolo,06113,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-22T02:40:42.000Z,27868,4,3.5,982
+20286,Dean Phillips,PD,Yolo,06113,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-22T02:40:42.000Z,27868,2,2.5,703
+1036,Joe Biden,PD,Yuba,06115,Joe,True,Biden,DEM,Democratic,100,P,California,2024-03-28T17:40:55.000Z,3934,86,86.1,3387
+20072905,Marianne Williamson,PD,Yuba,06115,Marianne,False,Williamson,DEM,Democratic,100,P,California,2024-03-28T17:40:55.000Z,3934,4,4.4,173
+20286,Dean Phillips,PD,Yuba,06115,Dean,False,Phillips,DEM,Democratic,100,P,California,2024-03-28T17:40:55.000Z,3934,4,4.0,159

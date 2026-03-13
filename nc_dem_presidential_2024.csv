@@ -1,0 +1,201 @@
+candidate_id,candidate_name,contest_type,county,fips,first_name,incumbent,last_name,party,party_name,pct_reporting,race_type,state,timestamp,total_votes,vote_pct,vote_pct_str,votes
+1036,Joe Biden,PD,Alamance,37001,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:13:50.000Z,8912,88,88.3,7872
+100005,No Preference,PD,Alamance,37001,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:13:50.000Z,8912,12,11.7,1040
+1036,Joe Biden,PD,Alexander,37003,Joe,True,Biden,DEM,Democratic,74,P,North Carolina,2024-06-16T16:21:53.000Z,895,78,77.9,697
+100005,No Preference,PD,Alexander,37003,,False,No Preference,DEM,Democratic,74,P,North Carolina,2024-06-16T16:21:53.000Z,895,22,22.1,198
+1036,Joe Biden,PD,Alleghany,37005,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:24:20.000Z,538,73,73.4,395
+100005,No Preference,PD,Alleghany,37005,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:24:20.000Z,538,27,26.6,143
+1036,Joe Biden,PD,Anson,37007,Joe,True,Biden,DEM,Democratic,78,P,North Carolina,2024-06-16T16:22:20.000Z,1365,84,84.0,1147
+100005,No Preference,PD,Anson,37007,,False,No Preference,DEM,Democratic,78,P,North Carolina,2024-06-16T16:22:20.000Z,1365,16,16.0,218
+1036,Joe Biden,PD,Ashe,37009,Joe,True,Biden,DEM,Democratic,88,P,North Carolina,2024-06-16T16:18:24.000Z,1117,84,83.7,935
+100005,No Preference,PD,Ashe,37009,,False,No Preference,DEM,Democratic,88,P,North Carolina,2024-06-16T16:18:24.000Z,1117,16,16.3,182
+1036,Joe Biden,PD,Avery,37011,Joe,True,Biden,DEM,Democratic,87,P,North Carolina,2024-06-16T16:17:34.000Z,474,89,88.8,421
+100005,No Preference,PD,Avery,37011,,False,No Preference,DEM,Democratic,87,P,North Carolina,2024-06-16T16:17:34.000Z,474,11,11.2,53
+1036,Joe Biden,PD,Beaufort,37013,Joe,True,Biden,DEM,Democratic,91,P,North Carolina,2024-06-16T16:16:55.000Z,2526,86,85.6,2163
+100005,No Preference,PD,Beaufort,37013,,False,No Preference,DEM,Democratic,91,P,North Carolina,2024-06-16T16:16:55.000Z,2526,14,14.4,363
+1036,Joe Biden,PD,Bertie,37015,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-17T11:16:43.000Z,1939,88,87.7,1700
+100005,No Preference,PD,Bertie,37015,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-17T11:16:43.000Z,1939,12,12.3,239
+1036,Joe Biden,PD,Bladen,37017,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:18:34.000Z,2268,88,88.2,2001
+100005,No Preference,PD,Bladen,37017,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:18:34.000Z,2268,12,11.8,267
+1036,Joe Biden,PD,Brunswick,37019,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-16T16:15:38.000Z,9438,92,92.5,8728
+100005,No Preference,PD,Brunswick,37019,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-16T16:15:38.000Z,9438,8,7.5,710
+1036,Joe Biden,PD,Buncombe,37021,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:11:56.000Z,34088,85,84.6,28829
+100005,No Preference,PD,Buncombe,37021,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:11:56.000Z,34088,15,15.4,5259
+1036,Joe Biden,PD,Burke,37023,Joe,True,Biden,DEM,Democratic,87,P,North Carolina,2024-06-16T16:14:12.000Z,3139,86,85.8,2692
+100005,No Preference,PD,Burke,37023,,False,No Preference,DEM,Democratic,87,P,North Carolina,2024-06-16T16:14:12.000Z,3139,14,14.2,447
+1036,Joe Biden,PD,Cabarrus,37025,Joe,True,Biden,DEM,Democratic,75,P,North Carolina,2024-06-16T16:13:31.000Z,8395,89,88.7,7449
+100005,No Preference,PD,Cabarrus,37025,,False,No Preference,DEM,Democratic,75,P,North Carolina,2024-06-16T16:13:31.000Z,8395,11,11.3,946
+1036,Joe Biden,PD,Caldwell,37027,Joe,True,Biden,DEM,Democratic,75,P,North Carolina,2024-06-16T16:17:13.000Z,1743,84,83.7,1459
+100005,No Preference,PD,Caldwell,37027,,False,No Preference,DEM,Democratic,75,P,North Carolina,2024-06-16T16:17:13.000Z,1743,16,16.3,284
+1036,Joe Biden,PD,Camden,37029,Joe,True,Biden,DEM,Democratic,79,P,North Carolina,2024-06-16T16:24:39.000Z,328,91,91.5,300
+100005,No Preference,PD,Camden,37029,,False,No Preference,DEM,Democratic,79,P,North Carolina,2024-06-16T16:24:39.000Z,328,9,8.5,28
+1036,Joe Biden,PD,Carteret,37031,Joe,True,Biden,DEM,Democratic,93,P,North Carolina,2024-06-16T16:15:13.000Z,3340,88,88.2,2946
+100005,No Preference,PD,Carteret,37031,,False,No Preference,DEM,Democratic,93,P,North Carolina,2024-06-16T16:15:13.000Z,3340,12,11.8,394
+1036,Joe Biden,PD,Caswell,37033,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-17T11:17:16.000Z,1917,84,83.8,1607
+100005,No Preference,PD,Caswell,37033,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-17T11:17:16.000Z,1917,16,16.2,310
+1036,Joe Biden,PD,Catawba,37035,Joe,True,Biden,DEM,Democratic,75,P,North Carolina,2024-06-16T16:13:11.000Z,4446,88,88.2,3923
+100005,No Preference,PD,Catawba,37035,,False,No Preference,DEM,Democratic,75,P,North Carolina,2024-06-16T16:13:11.000Z,4446,12,11.8,523
+1036,Joe Biden,PD,Chatham,37037,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:36.000Z,10148,91,91.4,9273
+100005,No Preference,PD,Chatham,37037,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:36.000Z,10148,9,8.6,875
+1036,Joe Biden,PD,Cherokee,37039,Joe,True,Biden,DEM,Democratic,78,P,North Carolina,2024-06-16T16:19:00.000Z,792,85,85.0,673
+100005,No Preference,PD,Cherokee,37039,,False,No Preference,DEM,Democratic,78,P,North Carolina,2024-06-16T16:19:00.000Z,792,15,15.0,119
+1036,Joe Biden,PD,Chowan,37041,Joe,True,Biden,DEM,Democratic,94,P,North Carolina,2024-06-16T16:23:49.000Z,757,92,91.8,695
+100005,No Preference,PD,Chowan,37041,,False,No Preference,DEM,Democratic,94,P,North Carolina,2024-06-16T16:23:49.000Z,757,8,8.2,62
+1036,Joe Biden,PD,Clay,37043,Joe,True,Biden,DEM,Democratic,91,P,North Carolina,2024-06-16T16:22:33.000Z,465,90,89.9,418
+100005,No Preference,PD,Clay,37043,,False,No Preference,DEM,Democratic,91,P,North Carolina,2024-06-16T16:22:33.000Z,465,10,10.1,47
+1036,Joe Biden,PD,Cleveland,37045,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:17:05.000Z,4064,85,84.9,3451
+100005,No Preference,PD,Cleveland,37045,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:17:05.000Z,4064,15,15.1,613
+1036,Joe Biden,PD,Columbus,37047,Joe,True,Biden,DEM,Democratic,93,P,North Carolina,2024-06-16T16:15:24.000Z,2304,84,84.3,1943
+100005,No Preference,PD,Columbus,37047,,False,No Preference,DEM,Democratic,93,P,North Carolina,2024-06-16T16:15:24.000Z,2304,16,15.7,361
+1036,Joe Biden,PD,Craven,37049,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:04.000Z,5993,90,89.9,5390
+100005,No Preference,PD,Craven,37049,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:04.000Z,5993,10,10.1,603
+1036,Joe Biden,PD,Cumberland,37051,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:13:30.000Z,19763,91,90.5,17892
+100005,No Preference,PD,Cumberland,37051,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:13:30.000Z,19763,9,9.5,1871
+1036,Joe Biden,PD,Currituck,37053,Joe,True,Biden,DEM,Democratic,81,P,North Carolina,2024-06-16T16:21:20.000Z,861,82,82.0,706
+100005,No Preference,PD,Currituck,37053,,False,No Preference,DEM,Democratic,81,P,North Carolina,2024-06-16T16:21:20.000Z,861,18,18.0,155
+1036,Joe Biden,PD,Dare,37055,Joe,True,Biden,DEM,Democratic,81,P,North Carolina,2024-06-16T16:19:09.000Z,2281,88,87.8,2002
+100005,No Preference,PD,Dare,37055,,False,No Preference,DEM,Democratic,81,P,North Carolina,2024-06-16T16:19:09.000Z,2281,12,12.2,279
+1036,Joe Biden,PD,Davidson,37057,Joe,True,Biden,DEM,Democratic,87,P,North Carolina,2024-06-16T16:12:31.000Z,4532,86,86.4,3917
+100005,No Preference,PD,Davidson,37057,,False,No Preference,DEM,Democratic,87,P,North Carolina,2024-06-16T16:12:31.000Z,4532,14,13.6,615
+1036,Joe Biden,PD,Davie,37059,Joe,True,Biden,DEM,Democratic,78,P,North Carolina,2024-06-16T16:20:02.000Z,1296,87,87.3,1131
+100005,No Preference,PD,Davie,37059,,False,No Preference,DEM,Democratic,78,P,North Carolina,2024-06-16T16:20:02.000Z,1296,13,12.7,165
+1036,Joe Biden,PD,Duplin,37061,Joe,True,Biden,DEM,Democratic,87,P,North Carolina,2024-06-16T16:17:43.000Z,2052,86,85.9,1763
+100005,No Preference,PD,Duplin,37061,,False,No Preference,DEM,Democratic,87,P,North Carolina,2024-06-16T16:17:43.000Z,2052,14,14.1,289
+1036,Joe Biden,PD,Durham,37063,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-17T11:13:45.000Z,50513,86,86.0,43435
+100005,No Preference,PD,Durham,37063,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-17T11:13:45.000Z,50513,14,14.0,7078
+1036,Joe Biden,PD,Edgecombe,37065,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:13.000Z,4837,88,88.4,4274
+100005,No Preference,PD,Edgecombe,37065,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:13.000Z,4837,12,11.6,563
+1036,Joe Biden,PD,Forsyth,37067,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-16T16:11:47.000Z,30091,89,89.3,26886
+100005,No Preference,PD,Forsyth,37067,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-16T16:11:47.000Z,30091,11,10.7,3205
+1036,Joe Biden,PD,Franklin,37069,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:46.000Z,5390,89,88.8,4784
+100005,No Preference,PD,Franklin,37069,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:46.000Z,5390,11,11.2,606
+1036,Joe Biden,PD,Gaston,37071,Joe,True,Biden,DEM,Democratic,88,P,North Carolina,2024-06-16T16:12:19.000Z,7777,88,87.9,6838
+100005,No Preference,PD,Gaston,37071,,False,No Preference,DEM,Democratic,88,P,North Carolina,2024-06-16T16:12:19.000Z,7777,12,12.1,939
+1036,Joe Biden,PD,Gates,37073,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-04-30T16:25:21.000Z,1047,78,77.9,816
+100005,No Preference,PD,Gates,37073,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-04-30T16:25:21.000Z,1047,22,22.1,231
+1036,Joe Biden,PD,Graham,37075,Joe,True,Biden,DEM,Democratic,77,P,North Carolina,2024-06-16T16:24:28.000Z,233,76,75.5,176
+100005,No Preference,PD,Graham,37075,,False,No Preference,DEM,Democratic,77,P,North Carolina,2024-06-16T16:24:28.000Z,233,24,24.5,57
+1036,Joe Biden,PD,Granville,37077,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:00.000Z,4444,87,86.8,3859
+100005,No Preference,PD,Granville,37077,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:00.000Z,4444,13,13.2,585
+1036,Joe Biden,PD,Greene,37079,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-16T16:22:02.000Z,1195,86,86.0,1028
+100005,No Preference,PD,Greene,37079,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-16T16:22:02.000Z,1195,14,14.0,167
+1036,Joe Biden,PD,Guilford,37081,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:11:36.000Z,44471,90,89.8,39932
+100005,No Preference,PD,Guilford,37081,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:11:36.000Z,44471,10,10.2,4539
+1036,Joe Biden,PD,Halifax,37083,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:25.000Z,5730,83,82.6,4734
+100005,No Preference,PD,Halifax,37083,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:15:25.000Z,5730,17,17.4,996
+1036,Joe Biden,PD,Harnett,37085,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:22.000Z,5208,86,85.5,4455
+100005,No Preference,PD,Harnett,37085,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:22.000Z,5208,14,14.5,753
+1036,Joe Biden,PD,Haywood,37087,Joe,True,Biden,DEM,Democratic,87,P,North Carolina,2024-06-16T16:14:21.000Z,3917,85,85.2,3336
+100005,No Preference,PD,Haywood,37087,,False,No Preference,DEM,Democratic,87,P,North Carolina,2024-06-16T16:14:21.000Z,3917,15,14.8,581
+1036,Joe Biden,PD,Henderson,37089,Joe,True,Biden,DEM,Democratic,85,P,North Carolina,2024-06-16T16:14:02.000Z,6688,92,91.7,6136
+100005,No Preference,PD,Henderson,37089,,False,No Preference,DEM,Democratic,85,P,North Carolina,2024-06-16T16:14:02.000Z,6688,8,8.3,552
+1036,Joe Biden,PD,Hertford,37091,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:20:22.000Z,2210,86,86.0,1901
+100005,No Preference,PD,Hertford,37091,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:20:22.000Z,2210,14,14.0,309
+1036,Joe Biden,PD,Hoke,37093,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-17T11:16:10.000Z,3233,86,86.4,2794
+100005,No Preference,PD,Hoke,37093,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-17T11:16:10.000Z,3233,14,13.6,439
+1036,Joe Biden,PD,Hyde,37095,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:17:28.000Z,478,75,74.9,358
+100005,No Preference,PD,Hyde,37095,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:17:28.000Z,478,25,25.1,120
+1036,Joe Biden,PD,Iredell,37097,Joe,True,Biden,DEM,Democratic,76,P,North Carolina,2024-06-16T16:14:31.000Z,6058,87,87.4,5294
+100005,No Preference,PD,Iredell,37097,,False,No Preference,DEM,Democratic,76,P,North Carolina,2024-06-16T16:14:31.000Z,6058,13,12.6,764
+1036,Joe Biden,PD,Jackson,37099,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-16T16:20:34.000Z,3207,80,80.5,2581
+100005,No Preference,PD,Jackson,37099,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-16T16:20:34.000Z,3207,20,19.5,626
+1036,Joe Biden,PD,Johnston,37101,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:14:00.000Z,10959,86,86.4,9471
+100005,No Preference,PD,Johnston,37101,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:14:00.000Z,10959,14,13.6,1488
+1036,Joe Biden,PD,Jones,37103,Joe,True,Biden,DEM,Democratic,91,P,North Carolina,2024-06-16T16:23:05.000Z,637,88,87.8,559
+100005,No Preference,PD,Jones,37103,,False,No Preference,DEM,Democratic,91,P,North Carolina,2024-06-16T16:23:05.000Z,637,12,12.2,78
+1036,Joe Biden,PD,Lee,37105,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-17T11:17:06.000Z,3352,83,83.3,2792
+100005,No Preference,PD,Lee,37105,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-17T11:17:06.000Z,3352,17,16.7,560
+1036,Joe Biden,PD,Lenoir,37107,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:16:27.000Z,3504,88,88.1,3087
+100005,No Preference,PD,Lenoir,37107,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:16:27.000Z,3504,12,11.9,417
+1036,Joe Biden,PD,Lincoln,37109,Joe,True,Biden,DEM,Democratic,88,P,North Carolina,2024-06-16T16:16:18.000Z,2865,86,86.0,2463
+100005,No Preference,PD,Lincoln,37109,,False,No Preference,DEM,Democratic,88,P,North Carolina,2024-06-16T16:16:18.000Z,2865,14,14.0,402
+1036,Joe Biden,PD,Macon,37113,Joe,True,Biden,DEM,Democratic,80,P,North Carolina,2024-06-16T16:19:30.000Z,1522,88,88.2,1342
+100005,No Preference,PD,Macon,37113,,False,No Preference,DEM,Democratic,80,P,North Carolina,2024-06-16T16:19:30.000Z,1522,12,11.8,180
+1036,Joe Biden,PD,Madison,37115,Joe,True,Biden,DEM,Democratic,82,P,North Carolina,2024-06-16T16:20:53.000Z,1679,80,80.0,1344
+100005,No Preference,PD,Madison,37115,,False,No Preference,DEM,Democratic,82,P,North Carolina,2024-06-16T16:20:53.000Z,1679,20,20.0,335
+1036,Joe Biden,PD,Martin,37117,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:20:42.000Z,2003,73,73.0,1463
+100005,No Preference,PD,Martin,37117,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:20:42.000Z,2003,27,27.0,540
+1036,Joe Biden,PD,McDowell,37111,Joe,True,Biden,DEM,Democratic,78,P,North Carolina,2024-06-16T16:18:43.000Z,1393,80,79.7,1110
+100005,No Preference,PD,McDowell,37111,,False,No Preference,DEM,Democratic,78,P,North Carolina,2024-06-16T16:18:43.000Z,1393,20,20.3,283
+1036,Joe Biden,PD,Mecklenburg,37119,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:11:13.000Z,81704,90,90.3,73819
+100005,No Preference,PD,Mecklenburg,37119,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:11:13.000Z,81704,10,9.7,7885
+1036,Joe Biden,PD,Mitchell,37121,Joe,True,Biden,DEM,Democratic,89,P,North Carolina,2024-06-16T16:22:45.000Z,424,86,86.1,365
+100005,No Preference,PD,Mitchell,37121,,False,No Preference,DEM,Democratic,89,P,North Carolina,2024-06-16T16:22:45.000Z,424,14,13.9,59
+1036,Joe Biden,PD,Montgomery,37123,Joe,True,Biden,DEM,Democratic,72,P,North Carolina,2024-06-16T16:20:11.000Z,987,82,82.4,813
+100005,No Preference,PD,Montgomery,37123,,False,No Preference,DEM,Democratic,72,P,North Carolina,2024-06-16T16:20:11.000Z,987,18,17.6,174
+1036,Joe Biden,PD,Moore,37125,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:14:16.000Z,5787,91,91.0,5267
+100005,No Preference,PD,Moore,37125,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:14:16.000Z,5787,9,9.0,520
+1036,Joe Biden,PD,Nash,37127,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-17T11:14:27.000Z,7815,88,88.3,6898
+100005,No Preference,PD,Nash,37127,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-17T11:14:27.000Z,7815,12,11.7,917
+1036,Joe Biden,PD,New Hanover,37129,Joe,True,Biden,DEM,Democratic,91,P,North Carolina,2024-06-16T16:12:42.000Z,16136,89,89.4,14427
+100005,No Preference,PD,New Hanover,37129,,False,No Preference,DEM,Democratic,91,P,North Carolina,2024-06-16T16:12:42.000Z,16136,11,10.6,1709
+1036,Joe Biden,PD,Northampton,37131,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:32.000Z,3021,79,78.6,2374
+100005,No Preference,PD,Northampton,37131,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:32.000Z,3021,21,21.4,647
+1036,Joe Biden,PD,Onslow,37133,Joe,True,Biden,DEM,Democratic,94,P,North Carolina,2024-06-16T16:15:49.000Z,4676,89,88.7,4148
+100005,No Preference,PD,Onslow,37133,,False,No Preference,DEM,Democratic,94,P,North Carolina,2024-06-16T16:15:49.000Z,4676,11,11.3,528
+1036,Joe Biden,PD,Orange,37135,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:12:52.000Z,23714,84,83.9,19903
+100005,No Preference,PD,Orange,37135,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:12:52.000Z,23714,16,16.1,3811
+1036,Joe Biden,PD,Pamlico,37137,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:22:11.000Z,980,89,88.7,869
+100005,No Preference,PD,Pamlico,37137,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:22:11.000Z,980,11,11.3,111
+1036,Joe Biden,PD,Pasquotank,37139,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:22:55.000Z,2361,91,91.0,2149
+100005,No Preference,PD,Pasquotank,37139,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:22:55.000Z,2361,9,9.0,212
+1036,Joe Biden,PD,Pender,37141,Joe,True,Biden,DEM,Democratic,83,P,North Carolina,2024-06-16T16:17:59.000Z,2389,90,89.5,2139
+100005,No Preference,PD,Pender,37141,,False,No Preference,DEM,Democratic,83,P,North Carolina,2024-06-16T16:17:59.000Z,2389,10,10.5,250
+1036,Joe Biden,PD,Perquimans,37143,Joe,True,Biden,DEM,Democratic,83,P,North Carolina,2024-06-16T16:23:16.000Z,573,83,82.9,475
+100005,No Preference,PD,Perquimans,37143,,False,No Preference,DEM,Democratic,83,P,North Carolina,2024-06-16T16:23:16.000Z,573,17,17.1,98
+1036,Joe Biden,PD,Person,37145,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:21:31.000Z,2430,86,86.3,2097
+100005,No Preference,PD,Person,37145,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:21:31.000Z,2430,14,13.7,333
+1036,Joe Biden,PD,Pitt,37147,Joe,True,Biden,DEM,Democratic,91,P,North Carolina,2024-06-16T16:13:21.000Z,10249,89,88.6,9076
+100005,No Preference,PD,Pitt,37147,,False,No Preference,DEM,Democratic,91,P,North Carolina,2024-06-16T16:13:21.000Z,10249,11,11.4,1173
+1036,Joe Biden,PD,Polk,37149,Joe,True,Biden,DEM,Democratic,99,P,North Carolina,2024-06-16T16:23:37.000Z,1363,90,89.9,1226
+100005,No Preference,PD,Polk,37149,,False,No Preference,DEM,Democratic,99,P,North Carolina,2024-06-16T16:23:37.000Z,1363,10,10.1,137
+1036,Joe Biden,PD,Randolph,37151,Joe,True,Biden,DEM,Democratic,81,P,North Carolina,2024-06-16T16:16:38.000Z,2901,84,84.3,2445
+100005,No Preference,PD,Randolph,37151,,False,No Preference,DEM,Democratic,81,P,North Carolina,2024-06-16T16:16:38.000Z,2901,16,15.7,456
+1036,Joe Biden,PD,Richmond,37153,Joe,True,Biden,DEM,Democratic,79,P,North Carolina,2024-06-16T16:19:19.000Z,2057,82,82.4,1694
+100005,No Preference,PD,Richmond,37153,,False,No Preference,DEM,Democratic,79,P,North Carolina,2024-06-16T16:19:19.000Z,2057,18,17.6,363
+1036,Joe Biden,PD,Robeson,37155,Joe,True,Biden,DEM,Democratic,85,P,North Carolina,2024-06-16T16:13:41.000Z,6489,63,62.7,4068
+100005,No Preference,PD,Robeson,37155,,False,No Preference,DEM,Democratic,85,P,North Carolina,2024-06-16T16:13:41.000Z,6489,37,37.3,2421
+1036,Joe Biden,PD,Rockingham,37157,Joe,True,Biden,DEM,Democratic,98,P,North Carolina,2024-06-16T16:19:42.000Z,3991,84,84.2,3359
+100005,No Preference,PD,Rockingham,37157,,False,No Preference,DEM,Democratic,98,P,North Carolina,2024-06-16T16:19:42.000Z,3991,16,15.8,632
+1036,Joe Biden,PD,Rowan,37159,Joe,True,Biden,DEM,Democratic,78,P,North Carolina,2024-06-16T16:13:01.000Z,4240,88,87.8,3724
+100005,No Preference,PD,Rowan,37159,,False,No Preference,DEM,Democratic,78,P,North Carolina,2024-06-16T16:13:01.000Z,4240,12,12.2,516
+1036,Joe Biden,PD,Rutherford,37161,Joe,True,Biden,DEM,Democratic,75,P,North Carolina,2024-06-16T16:18:52.000Z,1812,83,82.6,1497
+100005,No Preference,PD,Rutherford,37161,,False,No Preference,DEM,Democratic,75,P,North Carolina,2024-06-16T16:18:52.000Z,1812,17,17.4,315
+1036,Joe Biden,PD,Sampson,37163,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:14:41.000Z,2890,86,86.5,2499
+100005,No Preference,PD,Sampson,37163,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:14:41.000Z,2890,14,13.5,391
+1036,Joe Biden,PD,Scotland,37165,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-18T18:07:25.000Z,2145,85,84.7,1817
+100005,No Preference,PD,Scotland,37165,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-18T18:07:25.000Z,2145,15,15.3,328
+1036,Joe Biden,PD,Stanly,37167,Joe,True,Biden,DEM,Democratic,81,P,North Carolina,2024-06-16T16:16:47.000Z,1584,83,83.3,1319
+100005,No Preference,PD,Stanly,37167,,False,No Preference,DEM,Democratic,81,P,North Carolina,2024-06-16T16:16:47.000Z,1584,17,16.7,265
+1036,Joe Biden,PD,Stokes,37169,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:18:14.000Z,1523,79,79.3,1208
+100005,No Preference,PD,Stokes,37169,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:18:14.000Z,1523,21,20.7,315
+1036,Joe Biden,PD,Surry,37171,Joe,True,Biden,DEM,Democratic,88,P,North Carolina,2024-06-16T16:16:00.000Z,2158,81,81.4,1756
+100005,No Preference,PD,Surry,37171,,False,No Preference,DEM,Democratic,88,P,North Carolina,2024-06-16T16:16:00.000Z,2158,19,18.6,402
+1036,Joe Biden,PD,Swain,37173,Joe,True,Biden,DEM,Democratic,78,P,North Carolina,2024-06-16T16:24:10.000Z,652,81,81.1,529
+100005,No Preference,PD,Swain,37173,,False,No Preference,DEM,Democratic,78,P,North Carolina,2024-06-16T16:24:10.000Z,652,19,18.9,123
+1036,Joe Biden,PD,Transylvania,37175,Joe,True,Biden,DEM,Democratic,97,P,North Carolina,2024-06-16T16:19:52.000Z,2687,90,90.0,2417
+100005,No Preference,PD,Transylvania,37175,,False,No Preference,DEM,Democratic,97,P,North Carolina,2024-06-16T16:19:52.000Z,2687,10,10.0,270
+1036,Joe Biden,PD,Tyrrell,37177,Joe,True,Biden,DEM,Democratic,87,P,North Carolina,2024-06-16T16:23:59.000Z,257,71,71.2,183
+100005,No Preference,PD,Tyrrell,37177,,False,No Preference,DEM,Democratic,87,P,North Carolina,2024-06-16T16:23:59.000Z,257,29,28.8,74
+1036,Joe Biden,PD,Union,37179,Joe,True,Biden,DEM,Democratic,81,P,North Carolina,2024-06-16T16:12:08.000Z,8716,88,87.8,7654
+100005,No Preference,PD,Union,37179,,False,No Preference,DEM,Democratic,81,P,North Carolina,2024-06-16T16:12:08.000Z,8716,12,12.2,1062
+1036,Joe Biden,PD,Vance,37181,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:55.000Z,3217,86,85.5,2751
+100005,No Preference,PD,Vance,37181,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:16:55.000Z,3217,14,14.5,466
+1036,Joe Biden,PD,Wake,37183,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:13:12.000Z,106810,87,87.2,93136
+100005,No Preference,PD,Wake,37183,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:13:12.000Z,106810,13,12.8,13674
+1036,Joe Biden,PD,Warren,37185,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-04-30T16:25:21.000Z,2496,87,87.1,2173
+100005,No Preference,PD,Warren,37185,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-04-30T16:25:21.000Z,2496,13,12.9,323
+1036,Joe Biden,PD,Washington,37187,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-17T11:17:45.000Z,1266,82,81.8,1035
+100005,No Preference,PD,Washington,37187,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-17T11:17:45.000Z,1266,18,18.2,231
+1036,Joe Biden,PD,Watauga,37189,Joe,True,Biden,DEM,Democratic,83,P,North Carolina,2024-06-16T16:17:22.000Z,4334,85,84.6,3665
+100005,No Preference,PD,Watauga,37189,,False,No Preference,DEM,Democratic,83,P,North Carolina,2024-06-16T16:17:22.000Z,4334,15,15.4,669
+1036,Joe Biden,PD,Wayne,37191,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:14:41.000Z,5979,88,87.8,5249
+100005,No Preference,PD,Wayne,37191,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:14:41.000Z,5979,12,12.2,730
+1036,Joe Biden,PD,Wilkes,37193,Joe,True,Biden,DEM,Democratic,85,P,North Carolina,2024-06-16T16:14:52.000Z,1765,82,81.6,1441
+100005,No Preference,PD,Wilkes,37193,,False,No Preference,DEM,Democratic,85,P,North Carolina,2024-06-16T16:14:52.000Z,1765,18,18.4,324
+1036,Joe Biden,PD,Wilson,37195,Joe,True,Biden,DEM,Democratic,95,P,North Carolina,2024-06-16T16:16:09.000Z,5293,88,88.0,4657
+100005,No Preference,PD,Wilson,37195,,False,No Preference,DEM,Democratic,95,P,North Carolina,2024-06-16T16:16:09.000Z,5293,12,12.0,636
+1036,Joe Biden,PD,Yadkin,37197,Joe,True,Biden,DEM,Democratic,84,P,North Carolina,2024-06-16T16:21:03.000Z,832,82,82.1,683
+100005,No Preference,PD,Yadkin,37197,,False,No Preference,DEM,Democratic,84,P,North Carolina,2024-06-16T16:21:03.000Z,832,18,17.9,149
+1036,Joe Biden,PD,Yancey,37199,Joe,True,Biden,DEM,Democratic,83,P,North Carolina,2024-06-16T16:21:42.000Z,1060,86,85.8,910
+100005,No Preference,PD,Yancey,37199,,False,No Preference,DEM,Democratic,83,P,North Carolina,2024-06-16T16:21:42.000Z,1060,14,14.2,150
