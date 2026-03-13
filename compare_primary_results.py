@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Compare 2024 and 2026 Mississippi Senate primary results.
+Compare 2024 and 2026 Texas Senate primary results.
 """
 
 import pandas as pd
@@ -9,7 +9,7 @@ import sys
 def load_and_summarize(year, party):
     """Load and summarize election data."""
     party_abbr = party.lower()[:3]
-    filename = f"election-results/senate/mississippi_{party_abbr}_senate_{year}.csv"
+    filename = f"election-results/senate/texas{party_abbr}_senate_{year}.csv"
     
     try:
         df = pd.read_csv(filename)
@@ -39,7 +39,7 @@ def load_and_summarize(year, party):
     
     total_votes_cast = sum(totals.values())
     
-    print(f"\n{year} Mississippi {party} Senate Primary")
+    print(f"\n{year} Texas {party} Senate Primary")
     print("=" * 60)
     print(f"Total votes cast: {total_votes_cast:,}")
     print(f"Counties/Precincts: {len(df)}")
@@ -62,7 +62,7 @@ def load_and_summarize(year, party):
 
 def main():
     print("\n" + "=" * 60)
-    print("Mississippi SENATE PRIMARY COMPARISON: 2024 vs 2026")
+    print("Texas SENATE PRIMARY COMPARISON: 2024 vs 2026")
     print("=" * 60)
     
     # Democratic comparisons
