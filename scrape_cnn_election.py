@@ -215,9 +215,9 @@ def main():
         sys.exit(1)
     
     # Save raw JSON for inspection
-    with open('cnn_data_raw.json', 'w') as f:
+    with open('raw-data/cnn_data_raw.json', 'w') as f:
         json.dump(data, f, indent=2)
-    print(f"\nSaved raw data to cnn_data_raw.json for inspection")
+    print(f"\nSaved raw data to raw-data/cnn_data_raw.json for inspection")
     
     # Extract county results
     county_data = extract_county_results(data)
@@ -225,7 +225,7 @@ def main():
     if county_data:
         save_to_csv(county_data, output_file)
     else:
-        print("\nCould not extract county data. Check cnn_data_raw.json to see the structure.")
+        print("\nCould not extract county data. Check raw-data/cnn_data_raw.json to see the structure.")
         print("You may need to modify the extract_county_results() function.")
 
 if __name__ == '__main__':

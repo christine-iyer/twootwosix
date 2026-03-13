@@ -126,9 +126,9 @@ def extract_to_csv(all_data, output_file):
     Extract election results to CSV format.
     """
     # Save all captured data for manual inspection
-    with open('cnn_captured_data.json', 'w') as f:
+    with open('raw-data/cnn_captured_data.json', 'w') as f:
         json.dump(all_data, f, indent=2)
-    print(f"\nSaved all captured data to cnn_captured_data.json")
+    print(f"\nSaved all captured data to raw-data/cnn_captured_data.json")
     
     # Try to find county data
     possible_county_data = find_county_data(all_data)
@@ -161,7 +161,7 @@ def extract_to_csv(all_data, output_file):
                     return True
     
     print("\nCould not automatically extract county data.")
-    print("Please inspect cnn_captured_data.json to find the data structure.")
+    print("Please inspect raw-data/cnn_captured_data.json to find the data structure.")
     return False
 
 def save_results_to_csv(data, output_file):
@@ -235,7 +235,7 @@ async def main():
         
         if not success:
             print("\nNext steps:")
-            print("1. Open cnn_captured_data.json")
+            print("1. Open raw-data/cnn_captured_data.json")
             print("2. Find the actual county data structure")
             print("3. Modify this script's find_county_data() function to extract it")
     

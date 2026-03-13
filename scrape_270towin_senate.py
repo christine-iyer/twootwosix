@@ -138,11 +138,11 @@ def main():
         
         # Save to CSV
         party_lower = party.lower()
-        filename = f"texas_{party_lower[:3]}_senate_2024.csv"
+        filename = f"election-results/senate/texas_{party_lower[:3]}_senate_2024.csv"
         save_to_csv(results, candidates, party, filename)
         
         # Also save raw JSON for reference
-        json_filename = f"texas_{party_lower[:3]}_senate_2024_raw.json"
+        json_filename = f"raw-data/texas_{party_lower[:3]}_senate_2024_raw.json"
         with open(json_filename, 'w') as f:
             json.dump(race_data, f, indent=2)
         print(f"Saved raw data to {json_filename}")

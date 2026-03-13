@@ -49,9 +49,9 @@ def extract_county_results(data, state_abbr):
     results = []
     
     # Save raw data for inspection
-    with open(f'cnn_api_{state_abbr}_raw.json', 'w') as f:
+    with open(f'raw-data/cnn_api_{state_abbr}_raw.json', 'w') as f:
         json.dump(data, f, indent=2)
-    print(f"Saved raw API response to cnn_api_{state_abbr}_raw.json")
+    print(f"Saved raw API response to raw-data/cnn_api_{state_abbr}_raw.json")
     
     # CNN API returns an array of county objects at the top level
     if isinstance(data, list):
@@ -168,7 +168,7 @@ def main():
     
     if not results:
         print("\nNo results extracted. The data structure might be different than expected.")
-        print(f"Please check cnn_api_{state}_raw.json to see the actual structure.")
+        print(f"Please check raw-data/cnn_api_{state}_raw.json to see the actual structure.")
         sys.exit(1)
     
     # Save to CSV

@@ -9,7 +9,7 @@ import sys
 def load_and_summarize(year, party):
     """Load and summarize election data."""
     party_abbr = party.lower()[:3]
-    filename = f"texas_{party_abbr}_senate_{year}.csv"
+    filename = f"election-results/senate/texas_{party_abbr}_senate_{year}.csv"
     
     try:
         df = pd.read_csv(filename)

@@ -162,7 +162,7 @@ async def main():
         # Default to Texas 2024 primary
         url = "https://www.270towin.com/2024-election-results-live/state/texas/primary"
     
-    output_file = "270towin_2024_texas_primary_raw.json"
+    output_file = "raw-data/270towin_2024_texas_primary_raw.json"
     
     print(f"Scraping: {url}")
     print(f"Output: {output_file}\n")
